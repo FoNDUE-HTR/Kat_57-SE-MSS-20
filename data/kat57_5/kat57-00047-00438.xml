@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00438.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2319 1471 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="200 185 696 185" 
+                    HPOS="199"
+                    VPOS="143"
+                    WIDTH="496"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="199 184 199 203 476 203 478 204 485 210 487 210 488 210 489 210 521 204 532 203 542 206 563 210 564 210 565 210 695 206 695 184 695 154 663 144 662 144 661 144 660 144 635 154 568 147 566 147 565 147 564 147 556 154 514 154 503 154 490 144 489 144 488 144 464 143 463 143 410 150 403 144 403 143 402 143 401 143 399 143 398 143 363 153 337 143 336 143 268 143 267 143 266 143 265 143 256 149 233 143 231 143 230 143 229 143 228 143 215 154 214 154 199 154 199 184"/></Shape>
+	    <String CONTENT="ANDREASEN, Hardy"
+                    HPOS="199"
+                    VPOS="143"
+                    WIDTH="496"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2134 72 2231 72" 
+                    HPOS="2133"
+                    VPOS="15"
+                    WIDTH="97"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="2133 71 2133 109 2178 101 2180 101 2181 101 2181 100 2191 92 2229 98 2230 71 2230 35 2204 35 2203 33 2185 17 2185 15 2183 15 2182 15 2181 15 2180 15 2161 23 2148 18 2147 18 2145 18 2144 18 2143 18 2133 25 2133 71"/></Shape>
+	    <String CONTENT="Jur."
+                    HPOS="2133"
+                    VPOS="15"
+                    WIDTH="97"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2067 150 2292 150" 
+                    HPOS="2066"
+                    VPOS="126"
+                    WIDTH="225"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="2066 149 2066 169 2134 169 2147 174 2166 181 2167 181 2169 181 2189 176 2205 172 2212 177 2223 187 2223 188 2224 188 2225 188 2226 188 2291 182 2291 149 2291 127 2066 126 2066 149"/></Shape>
+	    <String CONTENT="Imm.eg."
+                    HPOS="2066"
+                    VPOS="126"
+                    WIDTH="225"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2088 217 2238 214" 
+                    HPOS="2085"
+                    VPOS="175"
+                    WIDTH="152"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="2086 215 2086 239 2237 234 2237 213 2235 195 2216 195 2216 193 2197 176 2197 175 2196 175 2194 175 2193 175 2144 176 2143 176 2142 176 2122 191 2117 195 2085 191 2086 215"/></Shape>
+	    <String CONTENT="Allm."
+                    HPOS="2085"
+                    VPOS="175"
+                    WIDTH="152"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="200 284 2285 295" 
+                    HPOS="198"
+                    VPOS="170"
+                    WIDTH="2086"
+                    HEIGHT="152">
+            <Shape><Polygon POINTS="199 283 198 305 332 312 333 312 684 310 846 309 2281 322 2284 294 2281 269 2213 258 2212 258 2175 263 2122 272 2059 261 2058 261 1900 272 1820 258 1819 258 1716 264 1663 258 1662 258 1597 269 1515 255 1513 255 1436 262 1299 251 1298 251 1024 258 911 234 801 198 723 174 722 174 199 170 199 283"/></Shape>
+	    <String CONTENT="Varemaerkeretten i konkurrenceretlig Belysning. En retssammenlignende"
+                    HPOS="198"
+                    VPOS="170"
+                    WIDTH="2086"
+                    HEIGHT="152"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="192 384 2298 399" 
+                    HPOS="190"
+                    VPOS="350"
+                    WIDTH="2107"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="191 383 190 409 894 421 895 421 896 421 920 415 959 415 1066 415 1067 415 1085 421 1087 421 1245 424 1246 424 1327 418 1473 425 1474 425 1906 421 1948 429 1949 429 2120 423 2150 430 2151 430 2153 431 2247 431 2247 430 2296 423 2297 398 2295 372 2144 363 2143 363 2005 370 1993 370 1989 370 1944 360 1943 360 1772 368 1688 359 1686 359 1685 359 1653 368 1651 368 1640 368 1537 360 1536 360 1442 366 1428 366 1424 366 1391 356 1390 356 1388 356 1289 365 1280 365 1277 365 1242 355 1241 355 1240 355 1181 361 1052 356 1051 356 1050 356 1028 363 1026 363 1025 363 954 354 953 354 858 359 839 353 837 353 836 353 614 360 596 360 590 360 511 350 510 350 457 359 453 359 440 359 240 350 239 350 191 356 191 383"/></Shape>
+	    <String CONTENT="Analyse af Varemaerkerettens Grundbegreber og en Fremstilling af Ejen-"
+                    HPOS="190"
+                    VPOS="350"
+                    WIDTH="2107"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="192 487 1020 493" 
+                    HPOS="190"
+                    VPOS="453"
+                    WIDTH="829"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="191 486 190 506 233 517 234 517 341 510 357 509 366 510 401 516 402 516 440 511 452 510 458 511 479 518 480 518 482 518 483 518 500 512 507 510 528 512 560 517 561 517 563 517 577 513 592 510 597 513 603 520 604 520 606 520 607 520 608 520 622 515 625 513 645 515 701 520 702 520 704 520 705 520 710 516 717 511 760 511 770 517 772 520 774 520 775 520 776 520 806 517 845 515 851 518 855 521 856 521 857 521 858 522 1018 522 1019 491 1018 467 920 466 902 457 901 457 900 457 866 466 862 466 860 466 813 456 812 456 721 464 718 464 717 464 706 456 705 456 704 456 606 455 550 455 549 455 548 455 532 463 528 463 398 453 397 453 396 453 369 462 331 453 330 453 328 453 310 462 278 462 245 462 233 453 231 453 230 453 229 453 191 461 191 486"/></Shape>
+	    <String CONTENT="domsretten til Varemaerker."
+                    HPOS="190"
+                    VPOS="453"
+                    WIDTH="829"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="204 697 865 697" 
+                    HPOS="203"
+                    VPOS="651"
+                    WIDTH="661"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="203 696 203 734 327 737 328 737 330 737 333 736 360 721 431 721 464 736 467 737 468 737 469 738 511 738 511 737 512 737 514 737 514 736 532 721 563 729 564 729 565 729 647 721 678 736 679 736 685 737 707 737 709 737 717 737 736 734 737 734 738 734 758 721 792 729 793 729 795 729 796 729 824 721 862 737 864 696 864 651 845 651 844 651 842 651 841 651 841 652 825 667 759 657 733 657 732 657 731 657 729 657 715 667 645 659 644 659 642 659 628 664 593 652 592 652 591 652 564 653 563 653 561 653 561 655 547 668 505 668 494 659 493 659 491 659 490 659 489 659 471 664 437 655 436 655 435 655 434 655 433 655 422 662 402 657 401 657 399 657 321 667 287 651 285 651 203 651 203 696"/></Shape>
+	    <String CONTENT="[Även Diss. Khvn Jur.]"
+                    HPOS="203"
+                    VPOS="651"
+                    WIDTH="661"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1448 597 2035 601" 
+                    HPOS="1446"
+                    VPOS="558"
+                    WIDTH="588"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1447 596 1446 619 1493 620 1501 629 1501 630 1502 630 1504 630 1505 630 1567 623 1576 621 1578 623 1592 630 1593 630 1594 630 1630 624 1636 623 1637 624 1648 631 1650 631 1651 631 1652 632 1695 632 1695 631 1696 631 1697 631 1706 625 1710 623 1716 625 1727 630 1728 630 1729 630 1731 630 1747 626 1759 623 1767 626 1780 631 1781 631 1782 631 1783 631 1785 631 1789 626 1794 623 1836 623 1855 628 1864 631 1866 631 1867 631 1868 631 1875 629 1886 624 1910 629 1926 632 1927 634 1958 634 1958 632 1959 632 1960 632 1962 630 1972 624 2031 631 2034 599 2032 563 1668 570 1659 566 1646 558 1645 558 1643 558 1580 558 1578 558 1577 558 1576 558 1566 565 1550 559 1549 559 1548 559 1506 567 1501 569 1499 567 1473 558 1472 558 1471 558 1469 558 1447 567 1447 596"/></Shape>
+	    <String CONTENT="8:o København 1948."
+                    HPOS="1446"
+                    VPOS="558"
+                    WIDTH="588"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="1993 1444 2186 1441" 
+                    HPOS="1991"
+                    VPOS="1404"
+                    WIDTH="194"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1992 1443 1992 1458 2010 1463 2012 1463 2013 1463 2014 1463 2021 1457 2028 1452 2056 1452 2067 1456 2090 1463 2091 1463 2093 1463 2160 1462 2161 1462 2185 1449 2185 1440 2182 1405 1991 1404 1992 1443"/></Shape>
+	    <String CONTENT="3.3.48"
+                    HPOS="1991"
+                    VPOS="1404"
+                    WIDTH="194"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

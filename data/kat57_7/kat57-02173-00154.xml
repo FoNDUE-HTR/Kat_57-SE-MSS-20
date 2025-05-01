@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-02173-00154.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1488"
+          PHYSICAL_IMG_NR="11"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1488">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_0040f918"
+                    
+                    BASELINE="158 233 578 230" 
+                    HPOS="156"
+                    VPOS="173"
+                    WIDTH="420"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="157 231 157 241 186 255 187 255 188 256 292 256 292 255 293 255 306 249 325 255 326 255 327 255 328 255 329 255 344 244 359 255 360 255 362 255 363 255 364 255 387 246 424 254 425 254 426 254 455 240 507 240 521 252 521 254 522 254 523 254 524 254 525 254 576 238 576 229 570 177 568 179 565 177 561 174 561 173 560 173 559 173 527 173 525 173 524 173 523 173 517 179 496 197 461 197 450 188 449 188 447 188 446 188 413 195 391 186 370 176 369 176 287 176 286 176 285 176 262 187 224 174 223 174 222 174 220 174 219 174 194 195 192 198 156 198 157 231"/></Shape>
+	    <String CONTENT="Ostberg H."
+                    HPOS="156"
+                    VPOS="173"
+                    WIDTH="420"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_61bef8c9"
+                    
+                    BASELINE="160 362 649 362" 
+                    HPOS="158"
+                    VPOS="314"
+                    WIDTH="490"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="158 360 158 376 179 388 181 388 182 389 222 389 222 388 223 388 224 388 239 376 240 376 241 376 363 388 364 388 508 381 612 388 614 388 648 380 648 360 648 332 635 326 633 326 632 326 631 326 630 326 620 333 615 337 543 337 539 334 532 329 530 329 529 329 528 329 527 329 516 334 512 336 509 334 483 314 482 314 481 314 427 314 426 314 425 314 393 333 372 314 370 314 369 314 327 314 326 314 325 314 323 314 323 316 300 336 300 337 253 337 246 337 227 318 227 317 225 317 224 317 193 314 192 314 191 314 189 314 158 334 158 360"/></Shape>
+	    <String CONTENT="Se. Riddarne"
+                    HPOS="158"
+                    VPOS="314"
+                    WIDTH="490"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_10a71ec8"
+                    
+                    BASELINE="1878 368 2213 373" 
+                    HPOS="1875"
+                    VPOS="328"
+                    WIDTH="336"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1876 367 1875 386 1984 389 1987 391 1997 400 1998 400 1999 400 2000 400 2002 400 2022 393 2024 391 2029 393 2056 404 2057 404 2059 404 2060 404 2088 395 2090 395 2126 405 2127 405 2128 405 2210 399 2211 372 2209 338 2133 349 2064 349 2026 332 2023 331 2022 331 2020 331 2019 331 2018 331 2017 332 2004 343 1972 347 1928 329 1927 329 1876 328 1876 367"/></Shape>
+	    <String CONTENT="Undervisn."
+                    HPOS="1875"
+                    VPOS="328"
+                    WIDTH="336"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4a74289a"
+                    
+                    BASELINE="1878 427 2114 427" 
+                    HPOS="1876"
+                    VPOS="394"
+                    WIDTH="237"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="1876 426 1876 465 1926 458 1942 460 1972 463 1973 463 1974 463 1995 456 2020 447 2040 452 2064 458 2065 458 2066 458 2067 458 2085 448 2090 447 2113 447 2113 426 2113 409 2085 394 2084 394 2082 394 2081 394 2050 410 1997 410 1987 400 1987 399 1986 399 1984 399 1983 399 1982 399 1981 399 1971 406 1948 394 1947 394 1911 394 1910 394 1909 394 1907 394 1889 410 1876 410 1876 426"/></Shape>
+	    <String CONTENT="Barnb."
+                    HPOS="1876"
+                    VPOS="394"
+                    WIDTH="237"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a3a95689"
+                    
+                    BASELINE="169 493 1865 493" 
+                    HPOS="168"
+                    VPOS="431"
+                    WIDTH="1696"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="168 492 168 530 251 530 254 531 312 556 313 556 315 558 357 558 357 556 358 556 388 545 426 551 427 551 496 544 497 544 517 535 529 530 718 530 739 539 770 551 771 551 813 556 815 556 914 555 915 555 951 543 984 530 1045 530 1085 544 1117 556 1118 556 1120 556 1182 555 1183 555 1213 546 1267 530 1359 540 1360 540 1384 536 1426 550 1446 556 1447 556 1448 556 1477 550 1524 541 1622 551 1623 551 1625 551 1663 540 1704 540 1741 555 1745 556 1746 556 1747 558 1864 558 1864 492 1864 452 1796 446 1755 431 1754 431 1694 431 1693 431 1692 431 1636 447 1555 435 1554 435 1553 435 1518 447 1411 450 1323 431 1322 431 1269 434 1267 434 1215 450 1211 452 1044 452 1039 450 988 431 987 431 986 431 984 431 958 437 940 432 939 432 937 432 936 432 899 445 818 445 771 431 770 431 524 431 523 431 522 431 457 448 446 452 261 452 248 448 204 438 203 438 202 438 168 447 168 492"/></Shape>
+	    <String CONTENT="De sju. Öfversättning från engelskan af H. Östberg."
+                    HPOS="168"
+                    VPOS="431"
+                    WIDTH="1696"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00152.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="16"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2323 1477 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="163 212 668 212" 
+                    HPOS="162"
+                    VPOS="168"
+                    WIDTH="505"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="162 229 216 238 218 238 425 231 469 237 470 237 503 230 522 238 523 238 524 240 575 240 575 238 667 229 667 211 667 173 629 168 628 168 601 172 577 176 572 172 569 168 568 168 566 168 565 168 564 168 555 172 548 174 537 172 523 168 522 168 521 168 487 172 444 176 426 171 416 168 415 168 414 168 412 168 406 171 394 176 361 171 351 169 349 169 332 171 260 176 234 169 232 169 231 169 230 169 226 169 184 176 163 169 162 211 162 229"/></Shape>
+	    <String CONTENT="ANDRAKAMMARVALET"
+                    HPOS="162"
+                    VPOS="168"
+                    WIDTH="505"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="160 312 774 315" 
+                    HPOS="157"
+                    VPOS="270"
+                    WIDTH="616"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="158 311 157 331 174 341 176 341 177 341 230 332 251 343 252 343 253 343 287 337 346 343 347 343 348 343 349 343 349 342 358 335 359 332 364 335 380 342 381 342 383 342 384 342 385 342 393 335 396 333 420 336 458 339 459 339 460 339 470 337 484 333 489 337 492 341 494 341 495 341 572 344 574 344 575 344 585 339 597 333 622 333 634 341 639 344 640 344 641 344 643 344 662 341 686 337 709 342 718 344 719 344 720 344 722 344 723 344 725 343 739 335 747 343 749 343 749 344 750 344 751 344 752 344 772 343 773 314 773 288 747 288 747 286 731 273 731 272 730 272 729 272 728 272 653 278 634 272 633 272 632 272 630 272 629 272 629 273 614 286 614 288 600 288 598 286 579 272 577 272 576 272 516 272 515 272 513 272 512 272 512 273 499 286 497 288 471 288 467 286 393 270 391 270 327 285 326 285 325 285 298 275 296 275 295 275 294 275 277 284 261 274 260 274 258 274 257 274 256 274 229 285 226 285 224 285 195 279 194 279 158 284 158 311"/></Shape>
+	    <String CONTENT="i Malmöhus län 1948."
+                    HPOS="157"
+                    VPOS="270"
+                    WIDTH="616"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="165 515 953 511" 
+                    HPOS="162"
+                    VPOS="460"
+                    WIDTH="790"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="163 514 163 561 268 562 269 562 271 562 272 562 277 559 282 554 290 557 300 562 301 562 303 562 304 562 305 562 312 557 336 544 369 555 370 555 372 555 373 555 389 546 418 551 420 551 421 551 422 551 431 545 453 554 458 555 459 555 460 555 462 555 463 555 463 554 465 553 475 543 494 551 495 551 496 551 497 551 499 551 510 543 539 543 556 550 577 560 579 560 580 561 643 561 643 560 644 560 698 546 717 541 756 544 805 548 807 548 808 548 819 543 836 551 837 551 839 551 840 551 866 541 868 540 869 540 894 550 895 550 897 550 898 550 899 550 899 549 910 539 952 538 952 509 948 460 826 463 825 463 824 463 810 474 756 465 755 465 754 465 752 465 752 466 743 476 719 466 718 466 717 466 675 472 661 466 651 461 650 461 609 461 608 461 607 461 593 468 575 477 526 477 517 471 516 471 515 471 513 471 512 471 496 479 357 479 301 474 184 464 183 464 182 464 181 464 162 474 163 514"/></Shape>
+	    <String CONTENT="[Omslags- och rubriktitel.]"
+                    HPOS="162"
+                    VPOS="460"
+                    WIDTH="790"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1992 64 2280 53" 
+                    HPOS="1990"
+                    VPOS="13"
+                    WIDTH="289"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1992 104 2081 103 2082 103 2083 103 2096 96 2099 93 2112 93 2128 94 2129 94 2130 94 2131 94 2135 91 2153 77 2279 76 2279 52 2275 20 2236 28 2224 22 2208 13 2206 13 2205 13 2173 19 2134 13 2133 13 2131 13 2110 24 2094 33 2047 33 2036 27 2018 18 2017 18 2015 18 2014 18 2013 18 2013 19 2003 27 1999 32 1990 28 1991 62 1992 104"/></Shape>
+	    <String CONTENT="Br.) Statist."
+                    HPOS="1990"
+                    VPOS="13"
+                    WIDTH="289"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1588 401 2056 401" 
+                    HPOS="1587"
+                    VPOS="354"
+                    WIDTH="468"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1587 400 1587 433 1617 436 1619 436 1620 436 1621 436 1622 434 1638 424 1677 431 1678 431 1731 424 1752 433 1753 433 1754 433 1844 426 1856 433 1858 433 1859 433 1860 433 1861 433 1863 433 1876 424 1909 437 1912 437 1913 437 1914 437 1919 437 1965 427 1977 437 1978 437 1980 437 1981 438 2055 438 2055 400 2055 365 2007 365 1987 354 1986 354 1985 354 1983 354 1958 364 1923 364 1914 357 1914 355 1913 355 1912 355 1911 355 1909 355 1884 364 1874 355 1873 355 1871 355 1870 355 1869 355 1840 364 1831 355 1831 354 1829 354 1828 354 1827 354 1699 363 1629 354 1627 354 1626 354 1625 354 1610 365 1587 365 1587 400"/></Shape>
+	    <String CONTENT="8:o Ystad 1949."
+                    HPOS="1587"
+                    VPOS="354"
+                    WIDTH="468"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2123 117 2216 120" 
+                    HPOS="2120"
+                    VPOS="72"
+                    WIDTH="95"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="2121 115 2120 135 2151 149 2152 149 2211 155 2215 119 2215 87 2197 87 2197 86 2183 73 2183 72 2182 72 2181 72 2179 72 2121 82 2121 115"/></Shape>
+	    <String CONTENT="Sv."
+                    HPOS="2120"
+                    VPOS="72"
+                    WIDTH="95"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

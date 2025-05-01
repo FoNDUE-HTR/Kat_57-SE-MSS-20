@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00434.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2311 1479 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="148 266 632 266" 
+                    HPOS="146"
+                    VPOS="205"
+                    WIDTH="485"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="146 265 146 294 156 302 157 302 159 302 160 303 424 303 424 302 425 302 458 289 462 288 504 288 505 288 510 293 510 294 511 294 513 294 514 294 515 294 526 288 529 288 631 288 631 265 631 226 611 226 597 213 595 213 594 213 578 212 577 212 576 212 574 212 555 225 498 212 497 212 495 212 494 212 479 223 439 217 437 217 436 217 409 225 387 205 386 205 384 205 339 205 338 205 336 205 335 205 318 217 305 208 304 208 303 208 247 205 246 205 245 205 227 215 206 214 204 214 203 214 202 214 188 226 146 226 146 265"/></Shape>
+	    <String CONTENT="ANDREASEN, Erik"
+                    HPOS="146"
+                    VPOS="205"
+                    WIDTH="485"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1042 298 1247 295" 
+                    HPOS="1040"
+                    VPOS="208"
+                    WIDTH="206"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="1041 297 1041 307 1064 318 1065 318 1067 318 1068 318 1090 310 1095 308 1096 310 1107 319 1107 320 1109 320 1110 320 1111 321 1135 321 1135 320 1136 320 1151 313 1164 307 1197 307 1210 316 1212 319 1213 319 1215 319 1216 319 1246 318 1246 294 1242 208 1212 209 1211 209 1193 219 1164 234 1153 228 1131 214 1130 214 1128 214 1127 214 1126 214 1125 214 1090 242 1075 255 1040 255 1041 297"/></Shape>
+	    <String CONTENT="Acta"
+                    HPOS="1040"
+                    VPOS="208"
+                    WIDTH="206"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="148 367 1250 359" 
+                    HPOS="145"
+                    VPOS="316"
+                    WIDTH="1104"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="146 366 146 382 178 393 180 393 181 393 268 382 275 382 277 382 314 397 315 397 317 397 318 397 349 387 368 400 370 400 371 400 372 400 373 400 412 384 442 402 444 402 445 402 525 388 539 394 540 394 541 394 582 387 653 400 655 400 758 398 759 398 761 398 771 390 789 399 790 399 792 400 882 400 882 399 1000 392 1001 392 1027 382 1040 376 1236 376 1244 382 1249 358 1247 336 1159 335 1123 316 1122 316 1088 316 1086 316 1085 316 1044 337 878 339 854 339 815 319 814 319 698 319 697 319 614 320 613 320 565 339 493 326 492 326 491 326 445 340 387 330 386 330 384 330 363 339 331 333 330 333 329 333 328 333 320 339 307 329 305 329 304 329 303 329 209 339 182 328 181 328 180 328 178 328 145 341 146 366"/></Shape>
+	    <String CONTENT="Se: Biologiske Meddelelser. {Dan"
+                    HPOS="145"
+                    VPOS="316"
+                    WIDTH="1104"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1056 415 1378 419" 
+                    HPOS="1053"
+                    VPOS="366"
+                    WIDTH="323"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1054 414 1053 423 1079 435 1080 435 1081 435 1083 435 1084 435 1084 434 1095 425 1105 434 1105 435 1106 435 1107 435 1109 435 1168 427 1206 435 1207 435 1209 435 1210 435 1221 427 1238 436 1239 436 1241 436 1242 436 1267 425 1306 436 1307 436 1308 436 1375 425 1376 418 1376 398 1325 390 1323 390 1322 390 1317 392 1297 397 1290 390 1289 390 1288 390 1286 390 1285 390 1270 397 1260 389 1259 389 1258 389 1257 389 1212 395 1186 378 1172 368 1170 368 1169 368 1054 366 1054 414"/></Shape>
+	    <String CONTENT="[Khvn."
+                    HPOS="1053"
+                    VPOS="366"
+                    WIDTH="323"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="271 466 2237 463" 
+                    HPOS="268"
+                    VPOS="423"
+                    WIDTH="1968"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="270 464 270 492 339 500 340 500 341 500 370 493 499 493 583 514 584 514 586 514 587 514 661 493 863 510 864 510 959 500 1077 511 1078 511 1079 511 1130 494 1286 503 1288 503 1289 503 1322 492 1323 492 1362 492 1364 492 1437 504 1438 505 1522 505 1560 516 1561 516 1563 516 1603 510 1640 518 1642 519 2041 519 2041 518 2043 518 2107 498 2161 505 2162 505 2234 490 2236 462 2234 434 2093 423 2092 423 1997 432 1987 434 1848 434 1840 431 1802 423 1801 423 1722 431 1703 432 1693 431 1658 423 1458 423 1457 423 1426 430 1411 434 1300 434 1283 429 1260 424 1259 424 1258 424 1241 429 1227 432 1210 429 1193 425 1191 425 1165 429 1126 434 863 427 858 427 857 427 856 427 837 435 724 435 687 426 684 426 683 426 679 426 629 432 589 426 576 424 461 424 460 424 451 425 418 432 268 425 270 464"/></Shape>
+	    <String CONTENT="Bd 19:12. The Hemolymph nodes of the rat. By Erik Andreasen and Ole"
+                    HPOS="268"
+                    VPOS="423"
+                    WIDTH="1968"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="538 565 1007 568" 
+                    HPOS="536"
+                    VPOS="529"
+                    WIDTH="470"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="537 564 536 631 550 638 551 638 552 640 626 640 626 638 627 638 657 629 684 638 685 638 687 638 688 638 724 622 739 636 739 637 740 637 741 637 790 640 792 640 793 640 794 640 820 616 842 622 843 622 845 622 846 622 847 622 859 614 866 609 880 612 914 620 915 620 916 620 917 620 917 619 927 610 931 606 1005 606 1006 567 1005 542 988 542 988 541 977 531 977 530 975 530 974 530 925 530 924 530 922 530 921 530 911 537 863 530 862 530 861 530 859 530 845 541 843 542 794 542 793 541 772 531 771 531 769 531 734 540 724 532 724 531 722 531 721 531 720 531 719 531 718 531 710 536 690 529 689 529 688 529 647 535 634 529 632 529 631 529 630 529 629 529 629 530 618 540 616 540 576 530 574 530 537 538 537 564"/></Shape>
+	    <String CONTENT="Gottlieb. 1946."
+                    HPOS="536"
+                    VPOS="529"
+                    WIDTH="470"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

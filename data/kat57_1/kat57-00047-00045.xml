@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00045.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="14"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2323 1471 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="182 171 1022 174" 
+                    HPOS="180"
+                    VPOS="121"
+                    WIDTH="840"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="181 170 180 197 191 206 192 206 193 206 219 207 220 208 450 208 450 207 451 207 468 198 485 191 514 199 527 203 528 203 530 203 552 199 587 195 645 201 646 201 647 201 676 192 714 193 726 203 731 207 732 207 733 207 734 207 736 207 744 203 765 192 836 192 856 204 857 204 858 204 860 204 861 204 885 192 947 192 968 207 969 208 970 208 971 208 973 208 974 208 979 207 997 201 1017 207 1020 172 1019 123 1000 122 998 122 997 122 996 122 995 123 975 141 882 141 861 126 860 125 858 125 857 125 856 125 855 125 854 125 852 126 844 132 835 126 833 123 831 123 830 123 829 123 828 123 827 123 823 126 798 141 770 141 742 127 737 126 736 126 734 126 714 128 629 139 592 131 569 125 568 125 566 125 565 125 564 125 555 131 553 133 550 131 534 121 533 121 532 121 531 121 530 121 505 132 490 139 449 139 440 133 430 126 429 126 428 126 427 126 392 128 384 121 382 121 381 121 265 121 263 121 262 121 229 137 225 138 181 138 181 170"/></Shape>
+	    <String CONTENT="ANDERSON, W[illiam] H[enry]"
+                    HPOS="180"
+                    VPOS="121"
+                    WIDTH="840"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="177 271 1408 271" 
+                    HPOS="176"
+                    VPOS="236"
+                    WIDTH="1231"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="176 269 176 290 240 300 241 300 309 299 310 299 311 299 321 293 323 291 330 293 365 300 366 300 438 294 469 291 484 294 530 305 531 305 532 305 549 298 609 300 611 300 612 300 627 296 645 291 668 296 695 302 696 302 720 298 732 295 752 298 787 302 788 302 790 302 804 299 825 293 890 298 892 298 893 298 910 291 1025 291 1051 301 1061 305 1062 305 1063 306 1407 306 1407 269 1407 246 1326 236 1230 236 1229 236 1228 236 1211 245 1176 236 1175 236 1174 236 1114 237 1112 237 1111 237 1099 245 1098 246 986 246 985 245 969 239 968 239 966 239 939 245 936 245 928 245 844 236 842 236 780 245 773 245 765 244 732 239 731 239 730 239 712 244 701 236 700 236 699 236 698 236 696 236 672 244 667 245 593 244 557 244 546 236 544 236 543 236 542 236 495 244 484 246 424 246 418 244 392 236 391 236 358 236 357 236 355 236 342 244 338 245 331 244 299 236 298 236 176 242 176 269"/></Shape>
+	    <String CONTENT="Se: Smithsonian miscellaneous collections."
+                    HPOS="176"
+                    VPOS="236"
+                    WIDTH="1231"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1488 187 1611 187" 
+                    HPOS="1487"
+                    VPOS="130"
+                    WIDTH="122"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1487 186 1487 201 1608 206 1609 186 1609 144 1539 130 1538 130 1537 130 1536 130 1511 149 1509 152 1487 152 1487 186"/></Shape>
+	    <String CONTENT="Acta"
+                    HPOS="1487"
+                    VPOS="130"
+                    WIDTH="122"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1499 241 1671 244" 
+                    HPOS="1496"
+                    VPOS="197"
+                    WIDTH="173"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1498 240 1496 256 1500 260 1500 261 1501 261 1503 261 1504 261 1579 256 1593 263 1595 263 1596 263 1668 255 1669 242 1669 212 1617 210 1585 197 1584 197 1582 197 1581 197 1557 206 1548 198 1548 197 1547 197 1546 197 1523 197 1522 197 1521 197 1498 207 1498 240"/></Shape>
+	    <String CONTENT="A. Amer"
+                    HPOS="1496"
+                    VPOS="197"
+                    WIDTH="173"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1453 295 2018 298" 
+                    HPOS="1451"
+                    VPOS="245"
+                    WIDTH="566"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="1452 294 1451 314 1465 322 1466 322 1467 322 1468 322 1523 315 1553 322 1554 322 1555 323 1717 323 1717 322 1719 322 1746 310 1748 309 1838 309 1840 309 1867 320 1868 320 1869 320 1871 320 1895 310 1908 315 1909 315 1910 315 1911 315 1928 309 1942 318 1943 318 1944 318 1946 318 1947 318 1969 311 1981 318 1982 318 1984 318 1985 318 1986 318 1987 318 1987 317 1997 309 2016 309 2017 296 2017 267 1952 267 1949 266 1923 246 1922 246 1921 246 1819 246 1818 246 1817 246 1782 262 1775 266 1728 266 1725 261 1714 251 1714 250 1712 250 1711 250 1710 250 1709 250 1689 260 1595 252 1593 252 1592 252 1569 258 1566 260 1565 258 1552 246 1552 245 1550 245 1549 245 1548 245 1452 256 1452 294"/></Shape>
+	    <String CONTENT="[Washington, Smithson."
+                    HPOS="1451"
+                    VPOS="245"
+                    WIDTH="566"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="273 372 2313 365" 
+                    HPOS="271"
+                    VPOS="332"
+                    WIDTH="2041"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="272 371 272 399 505 406 506 406 536 401 543 399 550 401 593 407 595 407 642 401 669 397 748 401 866 406 867 406 906 401 934 397 1038 401 1148 404 1149 404 1150 404 1165 401 1184 394 1308 394 1326 401 1327 401 1328 401 1330 401 1331 401 1332 401 1350 394 1604 394 1651 401 1662 402 1663 402 1673 401 1715 394 1775 401 1789 402 1790 402 1798 401 1846 393 1868 401 1872 402 1873 402 1874 403 1930 403 1930 402 1931 402 1933 401 1957 392 2047 392 2109 401 2110 402 2310 402 2312 364 2309 341 2158 341 2152 341 2110 333 2109 333 2043 341 2035 341 2029 341 1974 332 1973 332 1908 333 1906 333 1885 341 1881 342 1860 341 1784 334 1782 334 1627 341 1563 343 1531 341 1450 334 1449 334 1390 341 1369 343 1358 341 1325 334 1323 334 1257 342 1225 344 1196 342 1144 336 1143 336 1061 342 1018 344 982 342 926 337 925 337 888 342 857 345 744 342 630 338 629 338 271 342 272 371"/></Shape>
+	    <String CONTENT="Vol. 95:13. A comparative study of the labium of coleopterous larvae."
+                    HPOS="271"
+                    VPOS="332"
+                    WIDTH="2041"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="604 450 760 453" 
+                    HPOS="602"
+                    VPOS="410"
+                    WIDTH="157"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="603 448 602 469 655 479 656 479 657 479 658 479 669 471 690 469 705 469 707 469 730 479 731 479 732 479 733 479 758 469 759 452 758 421 709 410 707 410 603 417 603 448"/></Shape>
+	    <String CONTENT="1936."
+                    HPOS="602"
+                    VPOS="410"
+                    WIDTH="157"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

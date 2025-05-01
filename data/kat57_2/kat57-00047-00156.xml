@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00156.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2292"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="17"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2292"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2290"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2291 1471 2291 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="227 191 853 195" 
+                    HPOS="225"
+                    VPOS="139"
+                    WIDTH="627"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="226 190 225 206 379 215 380 215 381 215 411 208 435 219 436 219 438 220 499 220 499 219 500 219 526 209 553 219 554 219 555 219 557 219 575 213 609 219 611 219 612 219 631 209 642 219 644 219 645 219 646 219 647 219 680 210 690 218 692 218 693 218 694 218 728 212 749 220 750 220 752 220 785 214 823 220 824 220 825 220 851 209 852 193 850 142 826 148 815 142 814 142 813 142 812 142 811 142 809 142 809 143 776 164 728 164 711 145 710 145 710 144 709 144 707 144 706 144 676 147 674 147 673 147 673 148 658 161 631 148 617 141 615 141 571 141 570 141 569 141 568 141 557 150 547 159 528 159 515 152 510 148 509 148 507 148 506 148 505 148 504 148 499 152 488 160 456 161 441 153 420 139 419 139 418 139 396 139 395 139 393 139 392 139 373 155 370 158 348 160 343 157 326 141 326 139 325 139 323 139 295 139 294 139 293 139 292 139 292 141 271 158 268 160 226 160 226 190"/></Shape>
+	    <String CONTENT="Andral, G[abriel]"
+                    HPOS="225"
+                    VPOS="139"
+                    WIDTH="627"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="230 281 1588 276" 
+                    HPOS="228"
+                    VPOS="228"
+                    WIDTH="1359"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="229 280 229 307 359 307 382 318 384 318 493 323 494 323 573 310 608 316 609 316 611 316 636 307 662 316 663 316 665 316 710 306 799 338 801 338 802 339 907 339 907 338 958 327 977 337 979 337 980 338 1050 338 1050 337 1051 337 1117 305 1158 305 1245 334 1246 334 1380 336 1381 336 1426 327 1428 327 1480 302 1587 301 1587 276 1585 249 1533 241 1532 241 1531 241 1517 247 1511 252 1375 252 1365 247 1320 228 1319 228 1317 228 1192 229 1191 229 1146 247 1131 252 1101 247 1089 245 1088 245 1078 246 1052 253 933 253 919 246 883 231 882 231 880 231 879 231 858 239 838 230 836 230 781 230 780 230 779 230 736 246 732 247 727 246 688 231 687 231 630 230 629 230 628 230 609 237 591 230 590 230 588 230 543 231 542 231 507 245 484 256 387 256 358 245 319 231 317 231 272 231 271 231 269 231 228 244 229 280"/></Shape>
+	    <String CONTENT="Essai d&#x27;hématologie pathologique."
+                    HPOS="228"
+                    VPOS="228"
+                    WIDTH="1359"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1563 349 2053 359" 
+                    HPOS="1560"
+                    VPOS="294"
+                    WIDTH="492"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="1561 348 1560 366 1620 370 1639 380 1640 380 1641 381 1673 381 1673 380 1674 380 1694 370 1745 382 1747 382 1802 375 1826 383 1828 383 1829 383 1830 383 1865 375 1880 383 1882 383 1883 383 1884 383 1905 377 1916 382 1917 382 1918 382 1920 382 1944 375 1997 386 1998 386 2051 375 2052 358 2051 301 2018 311 1984 307 1982 307 1981 307 1936 327 1849 326 1819 310 1795 296 1793 296 1748 295 1747 295 1745 295 1714 302 1662 294 1661 294 1660 294 1612 317 1561 318 1561 348"/></Shape>
+	    <String CONTENT="8º Paris 1843."
+                    HPOS="1560"
+                    VPOS="294"
+                    WIDTH="492"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2058 70 2236 67" 
+                    HPOS="2056"
+                    VPOS="22"
+                    WIDTH="179"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="2057 69 2057 88 2235 84 2235 66 2234 38 2202 22 2201 22 2199 22 2198 22 2157 36 2116 23 2115 23 2114 23 2112 23 2111 23 2084 40 2083 41 2056 41 2057 69"/></Shape>
+	    <String CONTENT="Med."
+                    HPOS="2056"
+                    VPOS="22"
+                    WIDTH="179"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2063 128 2246 131" 
+                    HPOS="2061"
+                    VPOS="93"
+                    WIDTH="184"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="2062 127 2061 138 2099 152 2100 152 2101 152 2103 152 2118 143 2120 142 2121 143 2126 148 2127 148 2128 148 2130 148 2131 148 2138 144 2142 142 2144 145 2150 149 2150 150 2152 150 2153 150 2242 152 2245 130 2244 95 2207 94 2206 94 2204 94 2203 94 2199 98 2186 110 2165 110 2152 101 2144 95 2143 95 2142 95 2107 93 2106 93 2105 93 2104 93 2104 94 2093 105 2089 107 2062 107 2062 127"/></Shape>
+	    <String CONTENT="Anat."
+                    HPOS="2061"
+                    VPOS="93"
+                    WIDTH="184"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2090 190 2259 195" 
+                    HPOS="2088"
+                    VPOS="143"
+                    WIDTH="170"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="2089 188 2088 209 2132 220 2133 220 2134 220 2155 215 2161 214 2256 223 2258 193 2258 160 2175 159 2159 144 2158 144 2157 144 2133 143 2132 143 2131 143 2089 158 2089 188"/></Shape>
+	    <String CONTENT="Patol."
+                    HPOS="2088"
+                    VPOS="143"
+                    WIDTH="170"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

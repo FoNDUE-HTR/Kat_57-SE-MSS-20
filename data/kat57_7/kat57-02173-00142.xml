@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-02173-00142.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1472">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_3cad0aa8"
+                    
+                    BASELINE="166 223 638 227" 
+                    HPOS="164"
+                    VPOS="168"
+                    WIDTH="473"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="165 222 164 250 187 264 188 264 190 264 191 264 307 260 368 266 369 266 370 266 385 258 414 264 415 264 417 264 418 264 441 246 444 245 472 245 476 246 494 256 495 256 496 257 496 256 498 256 516 246 517 245 520 246 530 252 531 252 532 252 533 252 534 252 547 246 548 246 636 246 637 226 637 175 585 171 583 171 582 171 581 171 577 174 574 176 570 174 568 171 566 171 565 171 564 171 563 171 561 171 558 174 539 187 525 187 512 174 509 171 509 170 507 170 506 170 483 170 482 170 480 170 479 170 474 174 461 184 445 174 444 172 442 172 441 172 440 172 439 172 437 172 437 174 436 174 424 185 380 179 379 179 321 184 311 174 306 170 306 169 305 169 304 169 282 168 280 168 279 168 267 174 249 184 223 184 199 174 185 168 184 168 182 168 181 168 165 172 165 222"/></Shape>
+	    <String CONTENT="ÖSTBERG, Erik"
+                    HPOS="164"
+                    VPOS="168"
+                    WIDTH="473"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d75de198"
+                    
+                    BASELINE="192 319 2242 303" 
+                    HPOS="190"
+                    VPOS="264"
+                    WIDTH="2051"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="191 318 191 345 279 355 280 355 745 352 747 352 770 345 820 352 821 352 896 350 898 350 937 341 1096 343 1098 343 1134 336 1136 336 1165 341 1166 341 1284 333 1299 333 1302 333 1329 338 1331 338 1377 332 1404 329 1419 332 1445 337 1446 337 1447 337 1467 332 1480 328 1499 331 1540 338 1542 338 1592 329 1614 327 1722 327 1728 328 1745 334 1747 334 1748 334 1794 328 1812 326 1829 327 1862 331 1863 331 2037 325 2099 323 2117 325 2194 329 2196 329 2240 322 2241 302 2237 269 2116 273 2105 271 2086 264 2085 264 2084 264 1958 266 1905 272 1873 276 1857 272 1831 267 1830 267 1772 273 1738 277 1709 274 1655 268 1653 268 1504 276 1430 279 1353 277 1169 272 1167 272 1039 280 1010 282 1004 280 977 273 976 273 975 273 939 282 931 283 884 282 731 277 729 277 673 284 657 285 640 284 566 277 565 277 505 285 493 287 464 285 314 279 312 279 311 279 287 288 284 289 190 289 191 318"/></Shape>
+	    <String CONTENT="Se: Observations séismographiques faites à l&#x27;observatoire météorolo-"
+                    HPOS="190"
+                    VPOS="264"
+                    WIDTH="2051"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6f7cfe4a"
+                    
+                    BASELINE="294 426 1096 415" 
+                    HPOS="291"
+                    VPOS="377"
+                    WIDTH="804"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="293 425 293 469 311 477 312 477 314 477 469 475 471 475 472 475 483 468 518 447 545 451 547 451 548 451 549 451 563 441 593 455 595 455 634 457 635 457 673 456 674 456 676 456 676 455 689 444 705 456 706 456 707 456 709 456 710 456 711 456 738 439 749 444 750 444 752 444 826 437 860 447 861 447 862 447 920 437 982 460 983 460 985 460 986 460 1051 442 1093 464 1095 414 1091 390 1062 392 1058 390 1044 380 1042 380 1041 380 1040 380 1015 385 1007 377 1006 377 1004 377 1003 377 929 379 928 379 927 379 927 380 914 392 910 396 824 397 772 397 769 394 741 381 739 381 738 381 737 381 694 394 676 387 674 387 673 387 672 387 658 393 630 383 629 383 559 383 558 383 510 385 509 385 507 385 487 398 464 390 463 390 462 390 368 402 360 402 359 402 336 387 334 387 333 387 332 387 331 387 291 402 293 425"/></Shape>
+	    <String CONTENT="giques d&#x27;Uppsala ... 1945 -"
+                    HPOS="291"
+                    VPOS="377"
+                    WIDTH="804"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0c51e481"
+                    
+                    BASELINE="1352 410 1618 404" 
+                    HPOS="1349"
+                    VPOS="342"
+                    WIDTH="268"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="1350 409 1352 474 1383 471 1385 471 1386 471 1419 445 1453 462 1469 469 1471 469 1472 469 1473 469 1493 462 1502 472 1502 473 1504 473 1505 473 1506 473 1534 472 1536 472 1537 472 1537 471 1560 446 1564 442 1569 445 1570 446 1571 446 1572 446 1574 446 1617 437 1617 403 1614 372 1561 372 1542 354 1542 353 1540 353 1539 353 1538 353 1537 353 1489 365 1464 361 1445 343 1445 342 1444 342 1442 342 1402 342 1401 342 1399 342 1398 342 1349 372 1350 409"/></Shape>
+	    <String CONTENT="Geofys."
+                    HPOS="1349"
+                    VPOS="342"
+                    WIDTH="268"
+                    HEIGHT="132"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_64a9e871"
+                    
+                    BASELINE="1384 525 1583 517" 
+                    HPOS="1382"
+                    VPOS="462"
+                    WIDTH="200"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="1383 523 1383 537 1407 549 1408 549 1409 549 1410 549 1412 549 1412 548 1423 538 1444 549 1445 549 1446 549 1483 548 1539 540 1540 540 1542 540 1542 539 1543 539 1550 529 1581 529 1582 516 1577 462 1529 468 1528 468 1527 468 1522 472 1509 483 1475 482 1463 482 1462 482 1461 482 1459 482 1455 485 1440 496 1434 490 1432 490 1432 489 1431 489 1430 489 1429 489 1428 489 1426 489 1426 490 1424 491 1415 500 1382 500 1383 523"/></Shape>
+	    <String CONTENT="Inst"
+                    HPOS="1382"
+                    VPOS="462"
+                    WIDTH="200"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2a0cdfbd"
+                    
+                    BASELINE="1373 635 2303 625" 
+                    HPOS="1371"
+                    VPOS="558"
+                    WIDTH="931"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="1372 634 1372 663 1388 673 1390 673 1391 673 1392 673 1428 667 1472 678 1473 678 1474 678 1548 677 1549 677 1572 667 1615 675 1617 675 1662 666 1726 672 1727 672 1728 672 1763 661 1770 658 1778 661 1803 667 1804 667 1805 667 1872 661 1907 657 1915 661 1937 672 1938 672 1939 672 1940 672 1978 661 1993 656 2003 661 2013 664 2014 664 2015 664 2039 661 2070 655 2143 655 2153 661 2169 670 2170 670 2171 670 2172 670 2293 669 2294 669 2295 669 2302 662 2302 624 2299 585 2247 585 2246 585 2202 558 2200 558 2199 558 2198 558 2175 559 2174 559 2172 559 2147 578 2115 586 2113 586 2112 586 2041 567 2040 567 2039 567 2037 567 2036 567 2013 587 2012 587 2009 587 1923 576 1902 561 1901 561 1900 561 1836 561 1835 561 1794 564 1793 564 1792 564 1770 578 1739 566 1738 566 1737 566 1693 574 1674 564 1673 564 1672 564 1670 564 1602 591 1599 593 1536 593 1534 592 1491 566 1490 566 1489 566 1429 566 1428 566 1426 566 1425 566 1387 593 1387 594 1371 594 1372 634"/></Shape>
+	    <String CONTENT="Uppsala, Mete"
+                    HPOS="1371"
+                    VPOS="558"
+                    WIDTH="931"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

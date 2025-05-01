@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00017.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="35"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2311 1479 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="309 64 712 68" 
+                    HPOS="307"
+                    VPOS="3"
+                    WIDTH="404"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="308 62 307 80 333 93 334 93 335 93 423 82 430 82 433 83 460 94 461 94 462 94 463 94 487 87 571 94 572 94 573 94 574 94 582 88 589 83 626 83 632 90 639 96 639 97 640 97 641 97 642 97 710 92 711 67 711 23 688 7 687 7 685 7 656 7 655 7 653 7 652 7 652 8 632 27 623 35 547 35 539 28 511 4 510 4 509 4 476 4 474 4 473 4 472 4 472 6 450 28 442 29 425 33 420 29 392 4 392 3 391 3 389 3 357 3 356 3 355 3 354 3 354 4 325 30 324 32 308 32 308 62"/></Shape>
+	    <String CONTENT="Virchow, R."
+                    HPOS="307"
+                    VPOS="3"
+                    WIDTH="404"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="234 226 640 223" 
+                    HPOS="231"
+                    VPOS="173"
+                    WIDTH="408"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="233 225 233 239 257 247 259 247 260 247 261 247 278 239 280 239 324 239 338 250 338 251 339 251 340 251 341 251 488 250 534 240 597 247 598 247 599 247 600 247 600 246 613 236 637 236 639 222 635 173 567 175 566 175 565 175 565 176 561 178 537 202 500 209 420 207 404 196 403 196 402 196 400 196 399 196 398 196 386 204 373 193 361 182 361 181 360 181 359 181 344 178 342 178 341 178 340 178 315 197 301 209 287 209 276 201 271 196 270 196 268 196 267 196 231 203 233 225"/></Shape>
+	    <String CONTENT="Bericht"
+                    HPOS="231"
+                    VPOS="173"
+                    WIDTH="408"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1845 71 2194 68" 
+                    HPOS="1843"
+                    VPOS="23"
+                    WIDTH="350"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1844 70 1844 97 1882 93 1888 97 1898 104 1899 104 1901 104 1902 106 1971 106 1971 104 1972 104 1997 93 2018 85 2035 85 2044 92 2051 98 2052 98 2054 98 2055 98 2056 98 2071 91 2083 85 2110 85 2117 90 2133 102 2134 102 2135 102 2136 102 2138 102 2139 102 2139 101 2154 88 2156 86 2191 86 2193 67 2191 44 2128 40 2112 24 2112 23 2110 23 2109 23 2045 23 2044 23 2043 23 2041 23 2013 44 2012 44 1950 34 1949 34 1925 39 1902 24 1901 24 1899 24 1898 24 1897 24 1843 44 1844 70"/></Shape>
+	    <String CONTENT="Br) Biogr."
+                    HPOS="1843"
+                    VPOS="23"
+                    WIDTH="350"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2071 146 2136 149" 
+                    HPOS="2067"
+                    VPOS="115"
+                    WIDTH="68"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="2070 145 2067 185 2101 194 2102 194 2103 194 2104 194 2133 186 2135 148 2133 115 2102 127 2092 122 2092 120 2091 120 2089 120 2088 120 2070 124 2070 145"/></Shape>
+	    <String CONTENT="Ty"
+                    HPOS="2067"
+                    VPOS="115"
+                    WIDTH="68"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="616 316 2274 327" 
+                    HPOS="614"
+                    VPOS="245"
+                    WIDTH="1659"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="615 315 614 329 652 342 653 342 655 342 725 333 776 341 777 341 861 333 936 341 937 341 991 335 1035 342 1036 342 1037 342 1053 336 1152 337 1246 351 1247 351 1344 335 1387 352 1389 352 1390 352 1391 352 1432 336 1469 336 1721 355 1722 356 1766 356 1766 355 1767 355 1802 341 1856 353 1857 353 1859 353 1901 341 1927 351 1928 351 1929 351 2025 345 2088 357 2089 357 2192 355 2272 340 2273 326 2273 288 2176 275 2123 254 2122 254 2120 254 1997 261 1976 252 1975 252 1903 251 1902 251 1820 259 1779 255 1777 255 1776 255 1712 275 1671 267 1670 267 1629 275 1526 249 1524 249 1461 249 1460 249 1459 249 1355 282 1352 282 1058 281 1057 279 970 245 969 245 906 245 905 245 904 245 850 267 729 255 727 255 726 255 651 277 647 277 615 277 615 315"/></Shape>
+	    <String CONTENT="über die Feier von Rudolf Virchow&#x27;s"
+                    HPOS="614"
+                    VPOS="245"
+                    WIDTH="1659"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="232 408 1860 408" 
+                    HPOS="231"
+                    VPOS="357"
+                    WIDTH="1628"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="231 407 231 426 365 431 402 446 403 446 404 447 440 447 440 446 441 446 507 427 509 427 513 427 532 434 534 434 535 434 606 429 623 427 626 429 668 446 669 446 671 446 813 431 863 446 864 446 866 447 1049 447 1049 446 1115 437 1174 444 1175 444 1176 444 1217 431 1228 427 1255 431 1290 435 1291 435 1341 431 1387 427 1411 431 1439 436 1440 436 1479 431 1512 427 1524 431 1540 437 1542 437 1543 437 1544 437 1565 432 1582 427 1598 432 1608 435 1610 435 1611 435 1658 432 1700 430 1707 432 1739 445 1740 445 1742 445 1743 445 1781 432 1798 427 1857 432 1859 407 1859 381 1737 372 1735 372 1734 372 1703 381 1700 381 1697 381 1616 358 1614 358 1613 358 1612 358 1569 371 1497 357 1496 357 1434 371 1337 370 1336 370 1285 381 1281 382 1061 382 1059 381 1005 357 1004 357 1003 357 905 358 820 374 774 357 773 357 748 357 747 357 746 357 653 381 587 357 586 357 492 357 491 357 429 367 405 357 404 357 356 357 355 357 354 357 297 381 231 381 231 407"/></Shape>
+	    <String CONTENT="achtzigstem Geburtstag am 13. Oktober 1901."
+                    HPOS="231"
+                    VPOS="357"
+                    WIDTH="1628"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1559 482 2021 485" 
+                    HPOS="1556"
+                    VPOS="446"
+                    WIDTH="464"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1556 500 1591 511 1592 511 1593 511 1669 505 1681 511 1682 511 1684 511 1724 506 1774 513 1775 513 1837 505 1841 505 1848 505 1903 514 1904 514 1906 514 1923 506 1928 505 2018 508 2020 484 2020 466 1849 466 1846 463 1832 450 1830 450 1829 450 1795 447 1793 447 1792 447 1791 447 1791 448 1775 462 1772 466 1750 466 1745 462 1713 446 1712 446 1655 446 1654 446 1653 446 1651 446 1651 447 1643 453 1637 447 1635 447 1634 447 1589 446 1587 446 1586 446 1585 446 1585 447 1570 461 1568 463 1559 461 1558 481 1556 500"/></Shape>
+	    <String CONTENT="8ᵒ Berlin. u. å."
+                    HPOS="1556"
+                    VPOS="446"
+                    WIDTH="464"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

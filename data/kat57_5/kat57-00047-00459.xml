@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00459.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="13"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2319 1471 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="212 187 988 182" 
+                    HPOS="209"
+                    VPOS="133"
+                    WIDTH="778"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="211 186 211 210 548 214 549 214 550 214 552 214 552 213 556 209 565 201 661 201 672 208 673 208 674 208 676 208 739 201 749 208 754 213 755 213 756 213 758 214 782 214 782 213 783 213 799 208 829 199 985 207 987 181 985 133 963 133 961 133 960 133 959 133 959 134 944 147 906 138 905 138 904 138 902 138 902 139 894 148 842 148 817 137 807 133 806 133 804 133 691 136 690 136 689 136 689 137 684 141 677 148 653 148 641 142 630 134 629 134 628 134 598 134 597 134 596 134 595 134 585 143 576 149 527 144 442 136 441 136 440 136 419 147 415 149 409 147 380 137 379 137 377 137 376 137 345 148 332 143 331 143 330 143 328 143 316 149 314 150 310 149 277 141 276 141 274 141 209 152 211 186"/></Shape>
+	    <String CONTENT="ANDREASSON, Alex [pseud.]"
+                    HPOS="209"
+                    VPOS="133"
+                    WIDTH="778"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="216 282 1374 274" 
+                    HPOS="214"
+                    VPOS="240"
+                    WIDTH="1158"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="215 280 215 301 301 305 331 320 332 320 406 321 407 321 568 318 569 318 622 301 628 300 695 300 705 301 765 312 766 312 833 304 878 315 879 315 880 315 882 315 905 302 931 301 986 298 1036 301 1093 305 1094 305 1095 305 1110 301 1118 299 1131 301 1170 309 1171 309 1172 309 1187 302 1202 309 1203 309 1204 309 1206 309 1221 301 1226 299 1240 301 1288 309 1289 309 1372 300 1372 273 1370 251 1322 251 1299 241 1298 241 1296 241 1295 241 1266 251 1214 251 1196 241 1194 241 1149 240 1148 240 1147 240 1117 251 1058 245 1057 245 1056 245 1034 252 848 252 824 241 823 241 821 241 820 241 785 253 785 255 756 255 752 255 732 244 731 244 729 244 655 250 642 242 641 242 640 242 601 242 599 242 518 253 494 244 493 244 491 244 357 245 311 255 233 245 231 245 230 245 229 245 214 253 215 280"/></Shape>
+	    <String CONTENT="Se: ESSER, Alex Andreasson von Habacher"
+                    HPOS="214"
+                    VPOS="240"
+                    WIDTH="1158"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

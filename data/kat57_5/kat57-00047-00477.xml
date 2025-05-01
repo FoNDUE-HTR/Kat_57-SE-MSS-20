@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00477.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="24"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2311 1471 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="152 241 626 238" 
+                    HPOS="149"
+                    VPOS="191"
+                    WIDTH="476"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="150 240 150 264 170 274 171 274 385 276 386 276 467 274 468 274 470 274 489 262 490 262 624 262 625 237 622 207 576 207 575 207 560 192 560 191 559 191 558 191 511 191 510 191 509 191 508 191 490 206 477 196 476 196 474 196 473 196 443 199 436 195 436 193 435 193 434 193 433 193 431 193 407 207 382 196 381 196 380 196 379 196 365 203 353 197 352 197 350 197 349 197 348 197 336 207 296 196 295 196 294 196 251 204 215 192 214 192 213 192 212 192 211 192 197 202 188 196 188 195 187 195 186 195 185 195 184 195 182 195 182 196 168 208 168 209 149 209 150 240"/></Shape>
+	    <String CONTENT="ANDREASSON, Stig"
+                    HPOS="149"
+                    VPOS="191"
+                    WIDTH="476"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="147 335 768 338" 
+                    HPOS="144"
+                    VPOS="304"
+                    WIDTH="622"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="146 334 144 370 174 371 175 371 176 371 179 371 207 360 220 371 222 371 223 371 224 371 225 371 227 371 246 360 274 371 276 371 277 371 278 371 279 371 281 371 281 370 294 358 418 365 419 365 420 365 422 365 429 359 441 369 441 370 443 370 444 370 445 370 446 370 447 370 466 359 505 365 506 365 508 365 509 365 515 360 520 365 521 365 522 365 524 365 576 359 593 372 595 372 596 372 597 374 638 374 638 372 639 372 640 372 656 360 670 359 682 368 683 368 684 368 685 368 687 368 710 359 730 372 731 372 732 372 733 374 765 374 766 337 765 316 692 305 690 305 607 314 601 306 600 306 600 305 598 305 597 305 596 305 509 311 471 305 470 305 468 305 467 305 455 315 450 315 407 306 406 306 344 314 343 314 325 306 323 306 322 306 250 312 175 304 174 304 173 304 146 312 146 334"/></Shape>
+	    <String CONTENT="Kampen om Frankrike."
+                    HPOS="144"
+                    VPOS="304"
+                    WIDTH="622"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1878 56 2274 61" 
+                    HPOS="1876"
+                    VPOS="6"
+                    WIDTH="397"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="1877 55 1876 95 1887 107 1887 109 1888 109 1889 109 1891 110 1956 110 1956 109 1957 109 1958 109 1978 93 1992 80 2022 80 2034 93 2039 96 2039 98 2040 98 2042 98 2065 100 2066 100 2067 100 2093 93 2132 83 2169 94 2194 101 2195 101 2196 101 2197 101 2199 101 2210 94 2226 84 2271 94 2273 60 2270 19 2260 23 2254 19 2244 11 2243 11 2242 11 2240 11 2204 14 2202 14 2195 18 2174 28 2131 28 2120 17 2113 9 2113 8 2111 8 2110 8 2109 8 2108 8 2092 15 2072 26 2054 26 2042 15 2032 7 2030 7 2029 7 2002 7 2001 7 2000 7 1999 7 1990 14 1978 25 1951 25 1940 13 1932 7 1932 6 1931 6 1930 6 1929 6 1877 12 1877 55"/></Shape>
+	    <String CONTENT="Kyrkohist."
+                    HPOS="1876"
+                    VPOS="6"
+                    WIDTH="397"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1432 432 1906 437" 
+                    HPOS="1429"
+                    VPOS="391"
+                    WIDTH="476"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1430 431 1429 453 1457 464 1459 464 1460 464 1461 464 1500 455 1524 464 1525 464 1526 464 1527 464 1548 455 1578 466 1579 466 1580 466 1619 460 1667 467 1668 468 1721 468 1721 467 1722 467 1742 457 1795 468 1796 468 1837 461 1889 468 1891 468 1892 468 1893 468 1904 458 1905 436 1905 408 1843 394 1841 394 1810 401 1791 394 1790 394 1789 394 1787 394 1786 394 1779 402 1751 393 1749 393 1748 393 1747 393 1746 393 1730 406 1729 407 1686 407 1683 406 1655 393 1654 393 1653 393 1651 393 1632 399 1581 392 1580 392 1579 392 1578 392 1559 404 1558 404 1557 404 1529 391 1527 391 1526 391 1525 391 1481 403 1479 403 1466 391 1465 391 1464 391 1462 391 1461 391 1460 391 1444 403 1443 403 1430 403 1430 431"/></Shape>
+	    <String CONTENT="8:o Kumla 1955."
+                    HPOS="1429"
+                    VPOS="391"
+                    WIDTH="476"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2008 158 2108 153" 
+                    HPOS="2003"
+                    VPOS="87"
+                    WIDTH="104"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="2007 157 2008 202 2043 208 2044 208 2045 208 2046 208 2046 207 2060 196 2070 187 2107 188 2107 152 2102 94 2053 87 2051 87 2003 96 2007 157"/></Shape>
+	    <String CONTENT="Fr."
+                    HPOS="2003"
+                    VPOS="87"
+                    WIDTH="104"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

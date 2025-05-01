@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00279.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="18"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2311 1471 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="251 188 806 182" 
+                    HPOS="249"
+                    VPOS="122"
+                    WIDTH="556"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="250 187 250 218 278 225 279 225 530 224 531 224 532 224 532 223 547 209 549 206 566 206 571 208 591 223 592 223 593 223 595 224 630 224 630 223 631 223 633 223 633 222 651 206 654 203 746 203 762 210 763 210 764 210 805 201 805 181 801 147 757 147 754 145 742 134 742 133 741 133 739 133 738 133 683 144 660 123 660 122 658 122 657 122 656 122 581 125 580 125 579 125 552 143 541 150 470 150 457 142 435 125 434 125 433 125 431 125 386 132 385 132 384 132 371 141 364 145 348 141 342 138 341 138 339 138 338 138 331 139 322 142 320 139 300 126 299 126 298 126 262 126 261 126 260 126 258 126 249 133 250 187"/></Shape>
+	    <String CONTENT="André, É[mile]"
+                    HPOS="249"
+                    VPOS="122"
+                    WIDTH="556"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2087 51 2258 54" 
+                    HPOS="2086"
+                    VPOS="14"
+                    WIDTH="170"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="2086 50 2086 67 2102 63 2125 69 2142 74 2143 74 2145 74 2159 71 2186 65 2199 73 2200 74 2201 74 2202 74 2254 76 2256 53 2256 19 2210 14 2208 14 2207 14 2206 14 2199 20 2192 26 2180 22 2172 18 2170 18 2169 18 2168 18 2161 22 2153 26 2148 23 2137 14 2136 14 2135 14 2134 14 2132 14 2111 24 2108 25 2086 25 2086 50"/></Shape>
+	    <String CONTENT="Zool"
+                    HPOS="2086"
+                    VPOS="14"
+                    WIDTH="170"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2087 131 2233 134" 
+                    HPOS="2084"
+                    VPOS="84"
+                    WIDTH="148"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="2086 130 2084 153 2115 163 2116 163 2118 163 2148 159 2159 158 2163 160 2168 164 2169 164 2170 164 2172 164 2173 164 2174 164 2177 161 2184 157 2229 165 2232 133 2232 88 2210 88 2208 88 2207 88 2181 103 2140 103 2125 89 2125 88 2124 88 2123 88 2086 84 2086 130"/></Shape>
+	    <String CONTENT="Mask"
+                    HPOS="2084"
+                    VPOS="84"
+                    WIDTH="148"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="236 252 2225 255" 
+                    HPOS="234"
+                    VPOS="208"
+                    WIDTH="1990"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="235 251 234 269 354 283 355 283 406 277 467 283 468 283 590 277 636 283 638 283 773 277 802 283 803 283 883 277 1214 283 1216 283 1308 276 1437 283 1438 283 1439 283 1457 277 1626 279 1627 279 1628 279 1654 273 2223 273 2224 253 2223 228 2157 212 1689 210 1688 210 1687 210 1651 222 1641 224 1616 222 1567 215 1565 215 1564 215 1547 220 1503 235 1371 235 1293 218 1278 215 1277 215 1261 218 1168 234 1073 228 1072 228 1071 228 1052 235 536 235 487 234 455 222 454 222 452 222 451 222 419 229 370 226 325 212 323 212 322 212 281 217 235 208 235 251"/></Shape>
+	    <String CONTENT="Hirudinées avec un appendice sur les branchiobdelles"
+                    HPOS="234"
+                    VPOS="208"
+                    WIDTH="1990"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="239 325 991 322" 
+                    HPOS="236"
+                    VPOS="288"
+                    WIDTH="754"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="238 323 238 341 310 352 311 352 312 352 314 352 330 341 332 341 373 350 374 350 375 350 397 344 438 350 439 350 440 350 476 341 495 358 497 358 498 358 499 359 528 359 528 358 530 358 553 344 571 358 573 358 574 358 575 358 576 358 578 358 590 350 611 358 612 358 613 358 640 356 641 356 676 339 677 339 737 339 790 339 807 355 808 355 809 355 811 355 812 355 829 347 839 355 839 356 840 356 841 356 843 358 897 358 897 356 898 356 899 356 913 348 925 352 926 352 927 352 928 352 930 352 930 350 942 341 964 345 965 345 967 345 990 338 990 321 987 304 971 304 954 288 953 288 952 288 951 288 900 295 850 288 849 288 847 288 846 288 828 302 771 288 770 288 685 288 684 288 683 288 682 288 682 289 666 304 613 304 597 290 597 289 596 289 595 289 580 289 579 289 578 289 576 289 552 305 385 305 370 290 370 289 369 289 368 289 350 289 349 289 348 289 347 289 347 290 335 302 323 298 322 298 321 298 236 305 238 323"/></Shape>
+	    <String CONTENT="et les polychètes. [Ill.]"
+                    HPOS="236"
+                    VPOS="288"
+                    WIDTH="754"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1227 404 1827 400" 
+                    HPOS="1224"
+                    VPOS="370"
+                    WIDTH="602"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1225 403 1225 419 1314 430 1315 430 1316 430 1317 430 1335 419 1336 419 1368 419 1380 429 1381 429 1383 429 1423 431 1424 431 1425 431 1439 425 1572 430 1573 430 1612 421 1633 429 1634 429 1635 429 1637 429 1638 429 1638 428 1649 417 1650 417 1670 417 1671 417 1683 426 1684 426 1686 426 1714 429 1715 429 1716 429 1718 429 1727 421 1758 429 1759 429 1760 429 1762 429 1763 429 1763 428 1773 418 1824 415 1826 399 1823 372 1743 370 1742 370 1741 370 1729 374 1721 376 1708 375 1676 370 1675 370 1673 370 1660 376 1644 382 1589 377 1572 376 1570 376 1556 379 1521 383 1516 379 1514 377 1514 376 1513 376 1511 376 1510 376 1509 376 1508 376 1503 380 1494 385 1429 385 1424 381 1410 374 1408 374 1375 372 1374 372 1373 372 1371 372 1371 374 1360 382 1359 385 1354 382 1331 374 1330 374 1329 374 1327 374 1326 374 1326 375 1315 383 1314 386 1278 386 1277 385 1250 372 1249 372 1248 372 1246 372 1224 383 1225 403"/></Shape>
+	    <String CONTENT="8:o Genève 1925."
+                    HPOS="1224"
+                    VPOS="370"
+                    WIDTH="602"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="222 480 2162 477" 
+                    HPOS="219"
+                    VPOS="439"
+                    WIDTH="1942"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="220 479 222 515 292 505 352 515 363 516 364 517 839 517 839 516 888 511 982 502 1013 511 1014 511 1016 511 1017 511 1028 511 1138 502 1207 510 1235 512 1236 512 1260 510 1304 504 1356 509 1381 511 1383 511 1396 509 1434 500 1531 499 1840 499 1859 505 1860 505 1861 505 1937 499 1962 505 1974 509 1975 509 1976 509 2005 505 2054 499 2094 505 2115 507 2116 507 2161 504 2161 475 2158 451 2126 444 2125 444 2033 451 1994 453 1967 451 1913 445 1911 445 1910 445 1887 451 1876 455 1687 455 1680 451 1645 439 1644 439 1515 439 1514 439 1461 451 1446 456 1244 456 1234 452 1216 446 1214 446 1213 446 1187 452 1185 452 1182 452 1151 440 1149 440 1148 440 1038 452 1009 456 846 456 838 452 812 444 811 444 809 444 808 444 775 452 764 456 655 456 636 452 587 442 586 442 585 442 557 450 510 441 374 441 373 441 371 441 327 452 254 441 252 441 251 441 219 451 220 479"/></Shape>
+	    <String CONTENT="Se: Catalogue des invertébrés de la Suisse. Fasc. 16."
+                    HPOS="219"
+                    VPOS="439"
+                    WIDTH="1942"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1958 563 2148 560" 
+                    HPOS="1956"
+                    VPOS="509"
+                    WIDTH="191"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="1957 561 1957 587 2023 587 2024 587 2027 587 2053 578 2080 585 2086 586 2087 586 2147 582 2147 559 2146 525 2130 511 2129 511 2127 511 2126 511 2125 511 2124 511 2109 522 2100 529 2042 529 2027 515 2021 510 2021 509 2019 509 2018 509 1956 509 1957 561"/></Shape>
+	    <String CONTENT="(Zool."
+                    HPOS="1956"
+                    VPOS="509"
+                    WIDTH="191"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1976 627 2183 624" 
+                    HPOS="1973"
+                    VPOS="585"
+                    WIDTH="208"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="1975 626 1978 648 1992 639 2067 646 2069 647 2078 656 2078 657 2080 657 2081 657 2082 657 2120 656 2121 656 2137 647 2142 645 2179 646 2181 623 2180 593 2148 585 2147 585 2146 585 2145 585 2127 591 2125 592 2116 591 2087 586 2086 586 2067 590 2042 594 2022 588 2015 586 2013 586 2012 586 1973 586 1975 626"/></Shape>
+	    <String CONTENT="Geogr"
+                    HPOS="1973"
+                    VPOS="585"
+                    WIDTH="208"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="1941 672 2129 672" 
+                    HPOS="1940"
+                    VPOS="630"
+                    WIDTH="187"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="1940 670 1940 697 1961 697 1961 696 1962 696 1963 696 1963 695 1973 686 2126 696 2127 670 2127 639 2116 630 2115 630 2114 630 2093 630 2092 630 2091 630 2089 630 2089 631 2078 641 2030 632 2029 632 2028 632 2027 632 2017 641 1996 630 1995 630 1994 630 1992 630 1991 630 1974 646 1973 647 1940 647 1940 670"/></Shape>
+	    <String CONTENT="Schw"
+                    HPOS="1940"
+                    VPOS="630"
+                    WIDTH="187"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

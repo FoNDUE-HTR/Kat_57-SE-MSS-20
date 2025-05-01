@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00300.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="30"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2327 1471 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="196 81 476 77" 
+                    HPOS="193"
+                    VPOS="31"
+                    WIDTH="281"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="195 80 196 107 227 95 261 103 262 103 263 103 265 103 276 94 305 101 306 101 308 101 422 92 433 101 433 103 434 103 435 103 436 104 473 104 474 76 471 52 352 56 346 52 321 31 320 31 319 31 317 31 316 31 288 39 263 31 262 31 261 31 218 33 217 33 215 33 193 47 195 80"/></Shape>
+	    <String CONTENT="[Columbus]"
+                    HPOS="193"
+                    VPOS="31"
+                    WIDTH="281"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="198 177 658 174" 
+                    HPOS="196"
+                    VPOS="127"
+                    WIDTH="461"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="197 176 197 206 209 212 211 212 212 212 365 210 366 210 368 210 368 209 377 201 389 190 473 190 488 198 494 201 495 201 497 201 498 201 499 201 503 197 506 195 519 197 539 201 541 201 542 201 552 196 559 193 656 193 657 172 654 150 547 150 544 149 510 127 509 127 508 127 506 127 468 128 467 128 414 149 408 153 364 153 360 149 333 130 332 130 331 130 330 130 328 130 287 141 272 130 271 130 269 130 218 130 217 130 215 130 214 130 196 144 197 176"/></Shape>
+	    <String CONTENT="André Marius"
+                    HPOS="196"
+                    VPOS="127"
+                    WIDTH="461"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="172 263 1974 260" 
+                    HPOS="170"
+                    VPOS="215"
+                    WIDTH="1803"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="171 262 171 284 200 290 201 290 229 284 236 283 240 284 285 302 287 302 288 304 412 304 412 302 413 302 456 287 504 282 525 280 538 282 563 285 564 285 589 282 623 276 655 280 768 302 769 302 798 301 800 301 861 279 877 274 942 274 954 279 974 287 975 287 976 287 1050 279 1125 291 1126 291 1127 291 1156 283 1191 288 1192 288 1194 288 1223 277 1232 274 1264 274 1272 277 1306 288 1308 288 1309 288 1340 282 1392 285 1394 285 1395 285 1434 276 1435 276 1508 300 1509 300 1510 301 1664 301 1664 300 1665 300 1730 276 1855 284 1856 284 1907 272 1973 271 1973 258 1969 226 1713 234 1692 228 1654 215 1653 215 1613 215 1612 215 1464 229 1449 230 1443 229 1374 215 1373 215 1324 217 1322 217 1283 230 1270 236 1214 236 1203 231 1168 218 1167 218 1165 218 1097 225 1071 217 1070 217 982 217 981 217 980 217 932 233 925 235 915 233 845 217 779 217 778 217 776 217 751 224 668 218 667 218 575 235 568 237 350 237 316 237 249 218 247 218 246 218 245 218 198 237 170 237 171 262"/></Shape>
+	    <String CONTENT="Sanningen om Kristoffer Columbus. Hans verkliga äventyr."
+                    HPOS="170"
+                    VPOS="215"
+                    WIDTH="1803"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1553 349 2086 345" 
+                    HPOS="1551"
+                    VPOS="305"
+                    WIDTH="534"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1552 348 1552 375 1575 374 1576 374 1578 374 1592 363 1653 363 1672 372 1673 372 1675 372 1676 372 1699 366 1708 372 1709 372 1710 372 1711 372 1768 371 1769 371 1796 361 1832 370 1840 372 1842 372 1843 374 1897 374 1897 372 1898 372 1899 372 1904 369 1918 360 1974 360 1981 368 1985 370 1985 371 1986 371 1988 371 1989 371 1990 371 2002 368 2012 364 2021 366 2032 371 2033 371 2034 371 2083 365 2085 344 2080 309 2065 317 2055 310 2054 310 2053 310 2051 310 2050 310 2033 318 2002 318 1994 311 1992 311 1991 311 1990 311 1989 311 1988 311 1965 321 1910 321 1903 314 1894 306 1894 305 1893 305 1892 305 1891 305 1889 305 1864 315 1855 306 1855 305 1854 305 1853 305 1801 305 1800 305 1799 305 1797 305 1783 317 1779 321 1762 321 1758 318 1745 306 1745 305 1743 305 1742 305 1729 305 1727 305 1726 305 1680 321 1673 322 1667 321 1630 307 1629 307 1628 307 1551 323 1552 348"/></Shape>
+	    <String CONTENT="8º Stockholm 1931."
+                    HPOS="1551"
+                    VPOS="305"
+                    WIDTH="534"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="195 436 1958 424" 
+                    HPOS="192"
+                    VPOS="382"
+                    WIDTH="1765"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="193 435 193 488 319 488 320 488 322 486 395 458 451 452 647 452 693 466 694 466 695 467 789 467 808 474 809 474 811 474 812 474 828 469 855 477 882 484 883 484 884 484 967 483 968 483 990 474 1046 451 1125 451 1190 466 1191 466 1260 452 1300 466 1302 466 1303 467 1341 467 1341 466 1417 451 1461 464 1507 479 1508 479 1509 480 1568 480 1568 479 1569 479 1633 462 1650 457 1667 461 1691 466 1692 466 1726 460 1783 450 1855 450 1896 456 1924 461 1925 461 1957 455 1957 423 1953 396 1923 397 1916 394 1892 386 1891 386 1889 386 1888 386 1862 394 1856 397 1851 394 1815 382 1813 382 1812 382 1699 393 1634 383 1633 383 1543 394 1514 398 1495 394 1446 385 1445 385 1444 385 1417 394 1401 401 1352 394 1337 393 1336 393 1335 393 1331 394 1315 402 1211 402 1189 396 1187 396 1186 396 1071 404 960 404 940 394 927 390 926 390 925 390 879 394 823 401 805 394 791 390 790 390 746 390 744 390 743 390 732 394 715 402 690 394 683 392 682 392 552 391 551 391 527 394 500 398 438 394 402 392 401 392 400 392 392 394 359 404 338 399 337 399 336 399 293 407 256 394 254 393 252 393 251 393 192 393 193 435"/></Shape>
+	    <String CONTENT="[Originalets titel: La véridique aventure de Christophe Colomb.]"
+                    HPOS="192"
+                    VPOS="382"
+                    WIDTH="1765"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2148 48 2290 45" 
+                    HPOS="2145"
+                    VPOS="2"
+                    WIDTH="144"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="2147 47 2147 72 2194 74 2195 74 2196 74 2207 72 2242 62 2262 71 2269 73 2270 73 2271 73 2289 69 2289 44 2287 20 2242 20 2227 13 2205 2 2204 2 2202 2 2201 2 2188 8 2186 8 2145 3 2147 47"/></Shape>
+	    <String CONTENT="Biogr."
+                    HPOS="2145"
+                    VPOS="2"
+                    WIDTH="144"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="2158 108 2230 108" 
+                    HPOS="2157"
+                    VPOS="61"
+                    WIDTH="72"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="2157 107 2157 157 2229 144 2229 107 2227 61 2193 74 2157 73 2157 107"/></Shape>
+	    <String CONTENT="It."
+                    HPOS="2157"
+                    VPOS="61"
+                    WIDTH="72"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

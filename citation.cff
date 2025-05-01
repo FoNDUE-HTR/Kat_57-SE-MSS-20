@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Kat_57-SE-MSS-20"
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - family-names: Hedberg
+    given-names: Maria
+    email: maria.hedberg@rektor.lu.se
+    affiliation: Lund University
+repository-code: 'https://github.com/FoNDUE-HTR/Kat_57-SE-MSS-20'
+keywords:
+  - HTR
+  - Swedish
+  - modern
+  - manuscripts
+version: 1.0
+date-released: 2025-05-01

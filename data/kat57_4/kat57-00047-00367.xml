@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00367.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="16"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2311 1471 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="136 183 958 187" 
+                    HPOS="133"
+                    VPOS="110"
+                    WIDTH="824"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="134 182 133 195 240 196 250 203 251 203 252 203 254 203 360 197 370 197 371 197 377 203 379 203 380 203 495 210 497 210 498 210 530 198 531 198 548 213 549 213 551 213 578 218 579 218 580 218 609 209 671 218 672 218 673 218 704 204 720 219 721 219 722 219 724 220 797 220 797 219 798 219 829 206 845 219 846 219 847 219 849 219 850 219 884 206 906 219 908 219 909 219 910 219 911 219 955 202 957 186 957 152 933 144 932 144 931 144 930 144 903 153 897 154 893 153 878 144 877 144 876 144 874 144 873 144 867 150 835 122 835 121 834 121 833 121 787 112 786 112 785 112 784 112 736 152 732 155 685 155 682 152 630 115 629 115 628 115 609 111 608 111 607 111 606 111 563 147 499 144 498 144 497 144 482 152 478 154 436 154 434 152 384 115 382 115 381 115 380 115 379 115 360 121 347 110 346 110 344 110 235 110 234 110 233 110 231 110 182 152 181 152 134 152 134 182"/></Shape>
+	    <String CONTENT="Andreæ, Per] Alfr[id]."
+                    HPOS="133"
+                    VPOS="110"
+                    WIDTH="824"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2000 59 2218 56" 
+                    HPOS="1997"
+                    VPOS="3"
+                    WIDTH="220"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="1999 58 1999 98 2066 98 2067 98 2069 98 2069 96 2073 93 2092 76 2164 76 2178 82 2184 85 2185 85 2186 85 2216 78 2217 55 2215 9 2146 3 2145 3 2143 3 2118 14 2098 23 2057 18 2040 17 2039 17 2038 17 2029 20 2018 24 2013 20 2003 14 2002 14 2001 14 2000 14 1999 14 1997 14 1999 58"/></Shape>
+	    <String CONTENT="(Br) Teol"
+                    HPOS="1997"
+                    VPOS="3"
+                    WIDTH="220"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2078 115 2201 118" 
+                    HPOS="2075"
+                    VPOS="72"
+                    WIDTH="125"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="2077 114 2075 161 2094 163 2096 163 2097 163 2098 163 2099 161 2114 152 2157 152 2169 161 2174 165 2175 165 2177 165 2178 165 2197 160 2200 117 2200 76 2195 72 2194 72 2192 72 2191 72 2190 72 2175 77 2161 83 2142 83 2135 76 2132 73 2132 72 2131 72 2130 72 2129 72 2077 72 2077 114"/></Shape>
+	    <String CONTENT="Uppby"
+                    HPOS="2075"
+                    VPOS="72"
+                    WIDTH="125"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="164 279 2131 274" 
+                    HPOS="161"
+                    VPOS="228"
+                    WIDTH="1969"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="163 278 163 301 362 318 396 331 397 331 398 332 631 332 631 331 633 331 694 310 778 310 779 310 780 310 801 302 808 301 854 304 968 309 969 309 1039 304 1073 301 1087 304 1122 311 1124 311 1196 304 1201 304 1205 304 1320 328 1321 329 1475 329 1475 328 1476 328 1564 305 1583 299 1644 299 1665 305 1719 321 1720 321 1721 321 1835 305 1882 299 1962 299 1992 305 2042 316 2043 316 2130 305 2130 273 2127 250 1968 234 1967 234 1965 234 1916 246 1819 233 1818 233 1738 242 1707 233 1705 233 1704 233 1703 233 1657 245 1635 251 1256 251 1229 240 1224 239 1223 239 1222 239 1221 239 1217 240 1206 244 1189 240 1160 234 1159 234 1158 234 1142 239 1110 252 1036 252 969 237 919 228 817 228 816 228 814 228 784 236 753 244 715 235 682 228 681 228 679 228 660 235 635 242 602 234 581 229 580 229 579 229 546 234 499 240 476 233 463 229 462 229 461 229 443 233 400 241 353 231 338 229 337 229 161 229 163 278"/></Shape>
+	    <String CONTENT="Baltaks kyrka. Tankar vid dess invigning d 9 december 1917."
+                    HPOS="161"
+                    VPOS="228"
+                    WIDTH="1969"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1542 369 2041 369" 
+                    HPOS="1541"
+                    VPOS="322"
+                    WIDTH="499"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="1541 368 1541 390 1671 390 1675 391 1702 404 1703 404 1704 404 1705 404 1720 396 1730 404 1731 404 1732 404 1734 404 1756 403 1787 430 1789 430 1790 430 1791 431 1924 431 1924 430 1925 430 1961 415 1978 428 1979 428 1980 428 1981 428 1983 428 1984 428 1984 426 2013 398 2040 396 2040 368 2038 341 2010 349 1968 342 1967 342 1965 342 1964 342 1963 342 1953 350 1859 350 1846 343 1834 338 1833 338 1832 338 1830 338 1829 338 1829 339 1824 344 1818 350 1801 350 1795 344 1773 323 1773 322 1772 322 1770 322 1681 322 1680 322 1678 322 1677 322 1651 338 1626 322 1624 322 1623 322 1600 322 1599 322 1597 322 1596 322 1567 348 1564 349 1541 349 1541 368"/></Shape>
+	    <String CONTENT="8º Falkoping 1917."
+                    HPOS="1541"
+                    VPOS="322"
+                    WIDTH="499"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2209 137 2265 136" 
+                    HPOS="2206"
+                    VPOS="71"
+                    WIDTH="58"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="2208 136 2208 168 2227 172 2228 172 2229 172 2264 159 2264 134 2261 72 2206 71 2208 136"/></Shape>
+	    <String CONTENT="gg"
+                    HPOS="2206"
+                    VPOS="71"
+                    WIDTH="58"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

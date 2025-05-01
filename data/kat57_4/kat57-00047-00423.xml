@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00423.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="43"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2311 1471 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="131 239 536 234" 
+                    HPOS="128"
+                    VPOS="192"
+                    WIDTH="407"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="130 237 130 267 149 274 150 274 152 274 331 273 332 273 376 261 379 260 423 260 482 260 516 269 517 269 519 269 520 269 521 269 535 258 535 233 532 197 443 192 441 192 440 192 439 192 428 199 423 202 418 199 400 192 398 192 397 192 396 192 395 192 385 201 380 204 359 201 347 199 346 199 344 199 335 202 319 206 306 202 284 196 283 196 282 196 241 204 234 206 233 204 218 195 217 195 215 195 214 195 170 203 159 195 158 195 157 195 155 195 154 195 153 195 153 196 141 207 141 208 128 208 130 237"/></Shape>
+	    <String CONTENT="ANDREAS, Willy"
+                    HPOS="128"
+                    VPOS="192"
+                    WIDTH="407"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="128 340 1187 340" 
+                    HPOS="127"
+                    VPOS="302"
+                    WIDTH="1059"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="127 339 127 355 166 364 168 364 284 356 296 356 299 356 323 365 325 365 326 365 380 358 389 356 391 358 407 366 408 366 409 366 450 360 477 366 478 366 479 366 481 366 501 358 504 358 511 358 584 366 585 366 586 366 608 359 619 355 679 359 754 364 755 364 757 364 769 359 781 355 797 360 816 365 817 365 818 365 819 365 829 360 838 355 984 355 995 361 1003 366 1005 366 1006 366 1007 366 1186 361 1186 339 1186 314 1120 306 1119 306 981 312 942 302 941 302 940 302 938 302 937 302 921 312 877 302 876 302 809 312 774 302 773 302 771 302 770 302 746 312 730 304 728 304 727 304 688 310 670 302 668 302 667 302 604 312 571 304 570 304 569 304 516 312 495 302 494 302 301 302 300 302 222 312 165 302 164 302 163 302 127 312 127 339"/></Shape>
+	    <String CONTENT="Se: Heidelberger Universitätsreden."
+                    HPOS="127"
+                    VPOS="302"
+                    WIDTH="1059"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="8 394 131 397" 
+                    HPOS="6"
+                    VPOS="348"
+                    WIDTH="124"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="7 393 6 414 128 414 130 396 128 363 41 363 28 350 28 349 26 349 25 349 7 348 7 393"/></Shape>
+	    <String CONTENT="Acta"
+                    HPOS="6"
+                    VPOS="348"
+                    WIDTH="124"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="37 436 136 439" 
+                    HPOS="35"
+                    VPOS="403"
+                    WIDTH="99"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="36 435 35 445 85 456 87 456 133 447 134 437 134 415 36 403 36 435"/></Shape>
+	    <String CONTENT="Ty."
+                    HPOS="35"
+                    VPOS="403"
+                    WIDTH="99"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="238 436 2247 442" 
+                    HPOS="235"
+                    VPOS="392"
+                    WIDTH="2011"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="236 435 235 458 325 458 326 458 371 467 373 467 374 467 406 458 407 458 408 458 449 467 450 467 514 462 640 468 641 469 856 469 856 468 926 460 928 460 931 460 982 468 984 468 1191 461 1234 468 1235 468 1406 463 1466 471 1467 471 1522 463 1567 471 1568 471 1748 462 1822 468 1823 468 1936 463 1962 469 1963 469 1964 469 2005 463 2245 463 2246 441 2243 403 2110 414 2078 404 2077 404 2076 404 2075 404 2029 418 1973 418 1870 408 1868 408 1843 413 1811 404 1810 404 1808 404 1747 414 1686 406 1684 406 1585 415 1556 406 1554 406 1553 406 1500 414 1476 406 1475 406 1473 406 1472 406 1446 414 1414 404 1413 404 1412 404 1411 404 1375 414 1299 397 1289 396 1288 396 1278 397 1195 413 1156 407 1154 407 1088 415 1002 407 1001 407 930 414 754 398 753 398 752 398 699 414 650 414 582 410 541 397 539 397 538 397 471 413 355 393 236 392 236 435"/></Shape>
+	    <String CONTENT="}10. Die Räumung der besetzten Gebiete. Rede bei der Feier am 1.Juli"
+                    HPOS="235"
+                    VPOS="392"
+                    WIDTH="2011"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="11 490 263 493" 
+                    HPOS="8"
+                    VPOS="445"
+                    WIDTH="254"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="9 489 8 513 63 509 105 511 161 515 163 515 261 504 262 491 262 463 240 456 239 456 238 456 236 456 235 456 230 461 228 463 175 463 169 456 168 456 168 455 166 455 165 455 164 455 153 455 134 456 132 453 125 447 125 446 123 446 122 446 121 446 83 447 82 447 80 447 78 450 66 457 9 445 9 489"/></Shape>
+	    <String CONTENT="[Heidelberg."
+                    HPOS="8"
+                    VPOS="445"
+                    WIDTH="254"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="29 538 316 538" 
+                    HPOS="28"
+                    VPOS="502"
+                    WIDTH="287"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="28 537 28 560 117 558 120 559 153 574 154 574 155 575 214 575 214 574 215 574 217 574 242 556 245 555 261 555 262 555 273 565 274 565 276 565 277 565 278 565 315 554 315 537 315 518 277 518 252 502 251 502 250 502 249 502 247 502 217 511 208 504 208 502 207 502 206 502 168 502 166 502 165 502 143 513 138 509 138 507 137 507 136 507 134 507 133 507 132 507 116 518 95 518 82 506 82 505 80 505 79 505 53 502 52 502 51 502 50 502 28 516 28 537"/></Shape>
+	    <String CONTENT="Univ.]"
+                    HPOS="28"
+                    VPOS="502"
+                    WIDTH="287"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="358 538 1368 542" 
+                    HPOS="355"
+                    VPOS="504"
+                    WIDTH="1012"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="357 537 355 556 389 571 390 571 391 572 454 572 454 571 455 571 500 558 546 571 547 571 548 571 549 571 586 558 587 558 628 558 630 558 647 566 649 566 650 566 651 566 652 566 661 560 716 567 717 567 760 561 784 572 785 572 786 574 870 574 870 572 871 572 910 561 919 559 924 561 944 572 946 572 947 572 992 570 994 570 995 570 1007 563 1013 559 1061 563 1151 570 1152 570 1153 570 1170 564 1181 560 1241 560 1249 565 1261 574 1262 574 1263 574 1265 574 1365 565 1367 540 1367 518 1331 506 1330 506 1228 506 1227 506 1225 506 1224 506 1213 513 1185 506 1184 506 1182 506 1181 506 1180 506 1168 513 1103 509 1102 509 1100 509 1099 509 1088 517 1086 517 1045 506 1044 506 1043 506 1041 506 1021 516 994 506 992 506 991 506 990 506 978 512 906 506 905 506 904 506 903 506 889 516 888 517 849 517 846 516 819 506 818 506 817 506 816 506 814 506 802 515 800 517 706 517 699 515 668 507 667 507 631 515 628 515 624 515 595 506 593 506 592 506 520 513 508 515 505 513 489 504 488 504 487 504 401 504 400 504 357 512 357 537"/></Shape>
+	    <String CONTENT="1930 gehalten im Schlosshof. 1930."
+                    HPOS="355"
+                    VPOS="504"
+                    WIDTH="1012"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

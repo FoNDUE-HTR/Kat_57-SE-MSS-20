@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-02173-00280.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="17"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1472">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_3c5c34ca"
+                    
+                    BASELINE="185 281 787 281" 
+                    HPOS="185"
+                    VPOS="1"
+                    WIDTH="602"
+                    HEIGHT="321">
+            <Shape><Polygon POINTS="185 281 185 308 208 321 209 321 211 322 472 322 472 321 474 321 476 321 501 305 504 303 616 303 666 303 685 317 686 317 688 317 690 317 691 317 693 317 709 306 787 302 787 281 787 1 185 1 185 281"/></Shape>
+	    <String CONTENT="ØSTENSTAD, Thorleif"
+                    HPOS="185"
+                    VPOS="1"
+                    WIDTH="602"
+                    HEIGHT="321"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7f129feb"
+                    
+                    BASELINE="1547 348 1748 345" 
+                    HPOS="1545"
+                    VPOS="273"
+                    WIDTH="203"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1547 348 1547 362 1559 372 1561 372 1562 372 1564 372 1566 372 1593 362 1642 372 1644 372 1645 372 1647 372 1647 370 1649 370 1657 361 1720 370 1722 370 1724 370 1748 357 1748 345 1743 273 1703 276 1701 276 1700 276 1671 294 1629 294 1609 286 1588 276 1586 276 1585 276 1583 276 1545 289 1547 348"/></Shape>
+	    <String CONTENT="Teol."
+                    HPOS="1545"
+                    VPOS="273"
+                    WIDTH="203"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4fba161a"
+                    
+                    BASELINE="185 383 1381 375" 
+                    HPOS="184"
+                    VPOS="322"
+                    WIDTH="1197"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="185 383 185 415 302 415 327 431 329 431 330 431 332 432 421 432 421 431 423 431 466 415 547 429 549 429 659 412 664 412 782 412 785 412 806 426 808 426 809 426 811 426 812 426 848 413 954 420 956 420 958 420 959 420 970 410 999 426 1001 426 1002 426 1004 426 1042 416 1291 424 1293 424 1294 424 1296 424 1323 408 1325 408 1379 408 1381 375 1374 322 1315 340 1199 340 1159 327 1144 322 1143 322 1141 322 950 324 948 324 946 324 937 330 927 338 873 340 860 333 849 325 848 325 846 325 774 325 772 325 771 325 752 335 742 340 705 337 693 335 691 335 690 335 685 337 661 343 589 338 535 335 533 335 532 335 514 340 503 343 496 340 480 333 479 333 477 333 410 341 388 345 380 343 343 330 342 330 340 330 338 330 337 330 316 345 314 346 184 346 185 383"/></Shape>
+	    <String CONTENT="Se: Storby og småkirke...[Red. ]... 1933"
+                    HPOS="184"
+                    VPOS="322"
+                    WIDTH="1197"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8ce71c55"
+                    
+                    BASELINE="1523 412 1832 413" 
+                    HPOS="1521"
+                    VPOS="362"
+                    WIDTH="311"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="1523 412 1521 426 1548 428 1561 440 1561 442 1562 442 1564 442 1566 442 1567 442 1591 431 1633 431 1645 440 1645 442 1647 442 1649 442 1650 442 1831 429 1832 413 1832 380 1759 362 1719 362 1717 362 1716 362 1714 362 1695 378 1695 380 1665 380 1665 378 1647 364 1647 362 1645 362 1644 362 1580 362 1578 362 1577 362 1575 362 1554 378 1551 378 1523 378 1523 412"/></Shape>
+	    <String CONTENT="Kyrkov."
+                    HPOS="1521"
+                    VPOS="362"
+                    WIDTH="311"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5329a47f"
+                    
+                    BASELINE="1531 496 1861 496" 
+                    HPOS="1531"
+                    VPOS="437"
+                    WIDTH="330"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="1531 496 1531 544 1628 531 1642 539 1663 554 1665 554 1666 554 1668 554 1669 554 1671 554 1682 546 1695 557 1695 558 1697 558 1698 558 1700 560 1762 560 1762 558 1764 558 1827 531 1831 531 1861 531 1861 496 1861 466 1823 455 1821 455 1819 455 1818 455 1794 461 1783 466 1684 466 1655 450 1631 437 1629 437 1628 437 1531 439 1531 496"/></Shape>
+	    <String CONTENT="[Bergen"
+                    HPOS="1531"
+                    VPOS="437"
+                    WIDTH="330"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

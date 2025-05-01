@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00312.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2296"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="35"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2296"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2294"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2295 1471 2295 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="141 188 946 185" 
+                    HPOS="138"
+                    VPOS="121"
+                    WIDTH="806"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="139 187 139 208 155 208 157 209 185 226 186 226 187 226 188 226 231 218 281 228 282 228 283 228 309 222 332 228 333 228 335 228 434 224 435 224 436 224 454 212 462 207 558 213 560 213 562 213 564 213 655 208 665 214 683 228 684 228 685 228 687 229 747 229 747 228 748 228 749 228 763 215 773 208 818 214 819 214 820 214 843 207 855 217 868 228 870 228 871 228 872 229 920 229 920 228 921 228 922 228 922 226 933 218 936 215 939 218 944 184 939 121 862 161 790 161 752 138 751 138 749 138 748 138 747 138 746 138 720 158 687 150 685 150 684 150 665 161 651 149 650 149 649 149 647 149 646 149 635 153 616 138 593 122 592 122 591 122 563 122 562 122 560 122 559 122 523 143 493 161 469 148 468 148 467 148 466 148 465 148 443 163 407 163 387 150 346 123 344 123 343 123 215 123 214 123 213 123 212 123 170 158 138 164 139 187"/></Shape>
+	    <String CONTENT="Andrea, Silvia [pseud.]"
+                    HPOS="138"
+                    VPOS="121"
+                    WIDTH="806"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="54 282 148 282" 
+                    HPOS="53"
+                    VPOS="223"
+                    WIDTH="94"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="53 280 53 305 147 300 147 280 147 223 122 223 121 223 120 223 119 223 95 239 74 253 53 253 53 280"/></Shape>
+	    <String CONTENT="Se:"
+                    HPOS="53"
+                    VPOS="223"
+                    WIDTH="94"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="179 384 1178 380" 
+                    HPOS="176"
+                    VPOS="326"
+                    WIDTH="1000"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="177 383 177 412 331 425 332 425 401 419 469 445 471 445 472 445 557 441 558 441 559 441 589 419 604 407 747 407 774 421 813 444 814 444 816 445 887 445 887 444 888 444 889 444 916 424 924 418 974 406 1018 410 1041 425 1066 442 1067 442 1068 442 1070 444 1144 444 1144 442 1146 442 1176 428 1176 379 1174 350 1121 337 1120 337 1119 337 1083 350 1082 350 1033 326 1032 326 1030 326 1029 326 1028 326 990 349 959 336 958 336 957 336 955 336 920 352 919 353 736 353 685 353 651 328 650 328 649 328 647 328 646 328 631 334 596 328 595 328 593 328 552 347 528 347 505 332 504 332 503 332 429 331 428 331 427 331 395 348 362 329 360 329 229 329 228 329 227 329 176 353 177 383"/></Shape>
+	    <String CONTENT="Garbald, Johanna, geb. Gredig."
+                    HPOS="176"
+                    VPOS="326"
+                    WIDTH="1000"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00005.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="28"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2319 1471 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2049 61 2226 65" 
+                    HPOS="2047"
+                    VPOS="11"
+                    WIDTH="178"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="2048 60 2047 78 2075 87 2077 87 2078 87 2079 87 2080 87 2088 80 2089 80 2223 87 2225 63 2225 40 2169 39 2165 35 2142 14 2140 14 2139 14 2105 11 2078 11 2077 11 2075 11 2074 11 2074 12 2057 28 2048 28 2048 60"/></Shape>
+	    <String CONTENT="Ekon"
+                    HPOS="2047"
+                    VPOS="11"
+                    WIDTH="178"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2060 123 2261 126" 
+                    HPOS="2058"
+                    VPOS="71"
+                    WIDTH="201"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="2059 122 2058 149 2106 152 2107 152 2108 152 2129 145 2150 141 2175 143 2223 149 2224 149 2225 149 2226 149 2237 139 2239 139 2258 139 2259 125 2258 71 2159 89 2059 71 2059 122"/></Shape>
+	    <String CONTENT="Inst."
+                    HPOS="2058"
+                    VPOS="71"
+                    WIDTH="201"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="243 257 452 254" 
+                    HPOS="241"
+                    VPOS="214"
+                    WIDTH="210"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="242 256 242 288 451 288 451 253 449 215 241 214 242 256"/></Shape>
+	    <String CONTENT="BERICHT"
+                    HPOS="241"
+                    VPOS="214"
+                    WIDTH="210"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="233 351 2215 346" 
+                    HPOS="230"
+                    VPOS="311"
+                    WIDTH="1984"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="231 350 231 372 296 380 298 380 370 374 677 380 678 380 1017 372 1139 379 1140 379 1261 371 1356 377 1358 377 1500 371 1668 377 1669 377 1732 370 2183 375 2185 375 2214 368 2214 345 2212 318 2139 311 2138 311 2086 317 2085 317 2083 317 1934 311 1933 311 1905 317 1904 318 1715 320 1489 320 1483 317 1469 312 1468 312 1467 312 1445 317 1435 320 1280 320 1274 317 1262 312 1261 312 1259 312 1014 314 1013 314 1004 316 994 320 230 316 231 350"/></Shape>
+	    <String CONTENT="über die Arbeitstagung ... der &quot;Arbeitsgemeinschaft der Saatzucht-"
+                    HPOS="230"
+                    VPOS="311"
+                    WIDTH="1984"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="238 456 2269 448" 
+                    HPOS="235"
+                    VPOS="414"
+                    WIDTH="2033"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="236 455 236 491 574 482 753 488 754 488 933 480 965 488 966 488 967 488 1085 480 1143 489 1170 493 1171 493 1310 491 1311 491 1325 488 1344 483 1397 488 1428 490 1429 490 1447 488 1489 480 1513 486 1528 491 1529 491 1531 491 1785 489 1801 485 1836 478 1885 484 1886 484 1929 477 1960 485 1962 485 1964 485 1965 485 1971 485 2023 477 2105 484 2160 489 2161 489 2267 483 2268 447 2263 415 2237 421 2122 415 2083 414 2081 414 2080 414 2072 415 2048 423 1894 423 1704 418 1592 415 1591 415 1543 419 1473 424 1231 420 1040 418 1039 418 1037 418 1021 421 1006 425 966 421 918 418 917 418 896 423 877 426 836 423 810 420 809 420 725 423 661 425 653 424 639 419 637 419 580 419 579 419 577 419 563 424 552 428 531 424 505 420 504 420 235 425 236 455"/></Shape>
+	    <String CONTENT="leiter&quot; im Rahmen der &quot;Vereiningung österreichischer Saatgutzüchter&#x27;"
+                    HPOS="235"
+                    VPOS="414"
+                    WIDTH="2033"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="243 657 493 657" 
+                    HPOS="242"
+                    VPOS="614"
+                    WIDTH="249"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="242 656 242 679 277 678 282 682 290 689 291 689 293 689 294 690 315 690 315 689 316 689 328 683 338 679 348 684 357 688 358 688 359 688 360 688 361 688 361 686 364 684 371 678 413 678 429 688 431 689 433 689 434 689 435 690 491 690 491 656 491 629 439 614 437 614 436 614 435 614 434 614 420 625 414 630 368 630 352 620 348 619 347 619 345 619 344 619 341 620 331 623 323 619 321 617 320 617 318 617 317 617 316 617 315 617 314 618 307 623 300 618 299 617 299 615 298 615 296 615 242 614 242 656"/></Shape>
+	    <String CONTENT="1954 -57."
+                    HPOS="242"
+                    VPOS="614"
+                    WIDTH="249"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="1425 654 2016 657" 
+                    HPOS="1424"
+                    VPOS="615"
+                    WIDTH="591"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="1424 653 1424 693 1444 685 1450 691 1450 693 1451 693 1452 693 1453 693 1504 688 1521 694 1527 696 1528 696 1529 696 1540 695 1555 691 1560 695 1569 702 1569 704 1570 704 1571 704 1572 705 1672 705 1672 704 1673 704 1693 696 1705 691 1770 690 1788 699 1791 699 1792 699 1793 699 1794 699 1797 699 1845 686 1917 699 1918 699 1920 699 1944 686 1977 686 2012 701 2015 656 2015 628 1976 617 1975 617 1974 617 1895 624 1877 617 1875 617 1874 617 1873 617 1872 617 1863 624 1855 617 1853 617 1852 617 1766 617 1765 617 1764 617 1751 623 1749 624 1744 623 1723 617 1722 617 1721 617 1720 617 1718 617 1712 621 1706 628 1623 628 1596 619 1580 615 1578 615 1577 615 1576 615 1575 615 1575 617 1571 619 1563 628 1488 628 1469 617 1466 615 1464 615 1463 615 1424 615 1424 653"/></Shape>
+	    <String CONTENT="8:o Admont...1954 -57."
+                    HPOS="1424"
+                    VPOS="615"
+                    WIDTH="591"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="247 806 758 803" 
+                    HPOS="245"
+                    VPOS="764"
+                    WIDTH="511"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="246 805 246 825 261 825 262 825 278 839 279 839 280 839 282 839 283 839 306 826 310 825 375 825 381 829 392 835 393 835 395 835 396 835 408 830 424 824 472 824 484 832 499 845 500 845 501 845 503 846 586 846 586 845 587 845 603 836 631 823 658 835 660 835 661 835 662 835 679 830 694 840 700 843 701 843 702 843 704 843 756 841 756 802 754 767 687 764 685 764 647 770 629 772 619 770 593 764 592 764 591 764 543 772 541 772 538 772 460 765 458 765 457 765 456 765 456 766 446 775 444 778 360 778 357 777 336 766 334 766 333 766 332 766 331 766 316 778 278 769 277 769 276 769 274 769 245 778 246 805"/></Shape>
+	    <String CONTENT="Forts. se Kat. 1958-"
+                    HPOS="245"
+                    VPOS="764"
+                    WIDTH="511"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

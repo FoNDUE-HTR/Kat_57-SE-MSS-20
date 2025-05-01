@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00013.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1470"
+          PHYSICAL_IMG_NR="33"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1470">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1468"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1469 2323 1469 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="130 213 344 210" 
+                    HPOS="128"
+                    VPOS="171"
+                    WIDTH="215"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="129 211 129 229 343 227 343 209 339 171 128 175 129 211"/></Shape>
+	    <String CONTENT="BERICHT"
+                    HPOS="128"
+                    VPOS="171"
+                    WIDTH="215"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="114 307 1298 312" 
+                    HPOS="112"
+                    VPOS="267"
+                    WIDTH="1185"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="113 306 112 325 137 334 138 334 139 335 238 335 238 334 240 334 253 328 349 334 350 334 384 329 390 328 393 329 409 335 410 335 411 336 556 336 556 335 557 335 575 330 584 329 600 330 635 335 637 335 638 335 648 331 655 329 673 331 705 336 706 336 844 334 983 330 992 335 995 336 997 336 998 336 1059 335 1269 331 1293 338 1297 311 1297 285 1154 284 1098 271 1097 271 1096 271 1063 280 1047 270 1046 270 1045 270 999 268 853 268 852 268 851 268 820 280 787 268 786 268 785 268 721 274 679 267 608 267 607 267 606 267 578 278 491 270 490 270 400 279 301 271 300 271 252 279 198 270 197 270 196 270 194 270 180 280 113 280 113 306"/></Shape>
+	    <String CONTENT="über die deutsche Ärzte-Studienreise..."
+                    HPOS="112"
+                    VPOS="267"
+                    WIDTH="1185"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2035 50 2218 55" 
+                    HPOS="2033"
+                    VPOS="1"
+                    WIDTH="184"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="2114 1 2113 1 2108 1 2096 1 2083 1 2082 1 2066 13 2063 15 2034 15 2034 49 2033 67 2054 75 2055 75 2056 75 2058 75 2075 71 2078 69 2081 71 2094 80 2096 80 2097 80 2137 82 2139 82 2140 82 2141 82 2141 80 2146 75 2150 72 2159 77 2173 83 2174 83 2175 83 2216 80 2217 53 2217 8 2191 2 2190 2 2154 11 2132 15 2126 12 2115 1 2114 1"/></Shape>
+	    <String CONTENT="Med."
+                    HPOS="2033"
+                    VPOS="1"
+                    WIDTH="184"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1866 113 2295 121" 
+                    HPOS="1864"
+                    VPOS="63"
+                    WIDTH="430"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="1865 112 1864 147 1960 155 1961 155 1962 155 1963 155 1973 147 1989 150 1990 150 1991 150 1993 150 2014 143 2033 137 2039 143 2044 147 2045 147 2047 147 2048 147 2074 142 2093 138 2145 138 2148 139 2157 145 2158 145 2159 145 2161 145 2162 145 2180 139 2199 147 2200 147 2201 147 2202 147 2203 147 2212 139 2255 144 2256 144 2293 135 2294 120 2294 84 2273 71 2272 71 2271 71 2270 71 2268 71 2239 83 2225 88 2207 80 2196 77 2195 77 2194 77 2192 77 2185 79 2165 89 2042 88 2017 71 2011 66 2010 66 2009 66 2007 66 2006 66 1996 69 1983 74 1958 68 1951 66 1950 66 1865 63 1865 112"/></Shape>
+	    <String CONTENT="Sjukv.- anst."
+                    HPOS="1864"
+                    VPOS="63"
+                    WIDTH="430"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2001 183 2221 186" 
+                    HPOS="1999"
+                    VPOS="139"
+                    WIDTH="220"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="2000 182 1999 204 2218 199 2219 184 2219 165 2188 165 2188 164 2179 156 2179 155 2178 155 2176 155 2175 155 2174 155 2147 164 2146 164 2112 139 2110 139 2109 139 2055 139 2054 139 2053 139 2052 139 2052 140 2031 160 2000 161 2000 182"/></Shape>
+	    <String CONTENT="Allm."
+                    HPOS="1999"
+                    VPOS="139"
+                    WIDTH="220"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1614 406 2119 403" 
+                    HPOS="1612"
+                    VPOS="352"
+                    WIDTH="506"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1613 405 1613 422 1629 422 1642 433 1642 434 1644 434 1645 434 1646 434 1647 434 1648 434 1657 427 1675 434 1677 434 1678 434 1679 434 1680 434 1693 423 1711 429 1712 429 1713 429 1715 429 1740 422 1751 432 1751 433 1753 433 1754 433 1856 436 1857 436 1858 436 1859 436 1868 429 1875 436 1876 436 1878 436 1879 437 1933 437 1933 436 1934 436 1935 436 1955 421 1984 434 1985 434 1987 436 2021 436 2021 434 2022 434 2053 420 2083 425 2085 425 2118 417 2118 401 2115 358 2012 352 2011 352 2010 352 1993 357 1977 362 1962 357 1954 355 1952 355 1951 355 1950 355 1949 355 1945 357 1920 374 1863 374 1838 357 1833 354 1832 354 1831 354 1830 354 1829 354 1819 357 1777 373 1761 368 1760 368 1759 368 1691 374 1684 368 1684 367 1683 367 1682 367 1612 357 1613 405"/></Shape>
+	    <String CONTENT="8:o Berlin 1908."
+                    HPOS="1612"
+                    VPOS="352"
+                    WIDTH="506"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="113 497 2290 513" 
+                    HPOS="111"
+                    VPOS="454"
+                    WIDTH="2178"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="112 496 111 521 187 516 263 523 264 523 265 523 290 516 327 525 329 525 330 525 333 525 395 516 518 516 577 525 578 525 627 519 648 525 649 525 650 525 896 523 951 529 953 529 1024 520 1101 530 1102 530 1163 525 1236 531 1237 531 1301 523 1383 535 1388 535 1389 535 1392 535 1433 527 1577 531 1579 531 1623 525 1720 536 1721 536 1767 526 2287 542 2289 512 2288 470 2120 469 2119 469 2028 481 1895 480 1857 467 1856 467 1787 466 1786 466 1597 476 1554 470 1553 470 1552 470 1524 477 1463 471 1462 471 1340 476 1304 467 1303 467 1302 467 1070 474 1040 465 1038 465 1037 465 954 474 784 474 726 466 725 466 562 470 528 459 526 459 525 459 481 467 366 456 365 456 253 464 226 455 225 455 112 454 112 496"/></Shape>
+	    <String CONTENT="[Reisebericht des Komitees zur Veranstaltung ärztlicher Studienreisen.Bd 7."
+                    HPOS="111"
+                    VPOS="454"
+                    WIDTH="2178"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="130 591 2231 609" 
+                    HPOS="128"
+                    VPOS="547"
+                    WIDTH="2102"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="129 590 128 639 189 640 191 640 192 640 194 640 243 623 284 630 285 630 548 619 656 619 703 629 704 629 705 629 732 622 889 629 890 629 1026 624 1183 643 1218 646 1220 646 1221 646 1232 643 1237 641 1243 643 1264 650 1265 650 1521 651 1522 651 1568 644 1653 629 1787 644 1880 655 2098 657 2099 657 2229 645 2230 608 2228 569 2172 581 2103 581 2060 567 2045 563 2044 563 1935 562 1934 562 1911 565 1881 572 1789 565 1724 561 1723 561 1722 561 1710 564 1671 578 1532 578 1417 564 1416 564 1396 568 1370 562 1352 557 1351 557 1350 557 1303 558 1302 558 1292 561 1250 574 1182 574 1128 559 1106 554 1105 554 915 557 913 557 910 558 873 572 831 572 755 559 754 559 753 559 722 569 657 569 607 556 599 553 597 553 596 553 586 556 536 567 483 554 471 552 470 552 469 552 460 554 449 557 423 553 398 551 396 551 395 551 387 553 365 561 282 553 222 547 221 547 129 551 129 590"/></Shape>
+	    <String CONTENT="7. (Ostseebäder, Schweden und Dänemark). Hrzg ...von A. Oliven, P. Meissner"
+                    HPOS="128"
+                    VPOS="547"
+                    WIDTH="2102"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="193 676 730 676" 
+                    HPOS="192"
+                    VPOS="628"
+                    WIDTH="536"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="192 674 193 721 227 708 306 708 332 717 377 736 378 736 379 737 454 737 454 736 455 736 471 728 479 736 480 736 481 736 482 737 551 737 551 736 552 736 553 736 553 735 561 727 577 733 578 733 579 733 580 733 581 733 610 715 627 721 628 721 629 721 630 721 644 715 651 722 651 723 652 723 654 723 655 723 656 723 686 708 688 708 728 708 728 674 727 634 701 639 694 634 686 628 684 628 683 628 635 628 634 628 633 628 632 628 623 635 601 652 463 652 434 640 433 640 432 640 381 649 352 646 346 639 335 629 335 628 334 628 333 628 316 628 314 628 313 628 312 628 312 629 300 640 292 645 285 640 268 628 267 628 265 628 216 628 215 628 214 628 192 639 192 674"/></Shape>
+	    <String CONTENT="R. Bassenge. 1908"
+                    HPOS="192"
+                    VPOS="628"
+                    WIDTH="536"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

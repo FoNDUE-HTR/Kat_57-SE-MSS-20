@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00108.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2308"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="45"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2308"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2306"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2307 1471 2307 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="109 161 749 158" 
+                    HPOS="106"
+                    VPOS="105"
+                    WIDTH="642"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="107 160 107 179 137 198 138 198 139 198 141 199 314 199 314 198 392 197 393 197 395 197 426 176 476 176 490 188 492 188 493 188 494 188 495 188 538 175 581 184 582 184 638 177 646 184 647 184 649 184 650 184 651 184 674 175 717 182 719 182 720 182 748 172 748 157 742 122 731 132 714 122 690 110 689 110 688 110 687 110 685 110 671 123 660 133 638 133 628 125 612 111 611 111 609 111 533 105 532 105 507 106 506 106 505 106 480 127 473 134 418 134 413 130 411 127 411 126 409 126 408 126 407 126 406 126 404 126 400 130 395 132 387 130 355 120 354 120 353 120 352 120 344 123 327 112 326 112 325 112 323 112 322 112 321 112 321 114 311 122 288 121 268 107 267 107 266 107 207 107 206 107 204 107 203 107 203 109 174 134 174 136 106 136 107 160"/></Shape>
+	    <String CONTENT="Andler, Charles"
+                    HPOS="106"
+                    VPOS="105"
+                    WIDTH="642"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="48 239 157 242" 
+                    HPOS="46"
+                    VPOS="196"
+                    WIDTH="109"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="47 237 46 256 105 273 106 273 153 274 155 241 154 206 139 208 136 207 106 196 105 196 104 196 103 196 101 196 77 213 72 217 47 217 47 237"/></Shape>
+	    <String CONTENT="Se:"
+                    HPOS="46"
+                    VPOS="196"
+                    WIDTH="109"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="141 332 1625 322" 
+                    HPOS="138"
+                    VPOS="267"
+                    WIDTH="1486"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="139 331 139 349 455 349 456 349 478 359 479 359 480 360 527 360 527 359 528 359 564 349 569 348 573 349 602 356 603 356 604 356 695 355 696 355 716 348 717 348 722 348 779 355 780 355 818 350 844 361 845 361 846 363 882 363 882 361 1067 360 1068 360 1109 347 1169 347 1201 355 1202 355 1203 355 1204 355 1227 345 1228 345 1238 345 1436 358 1438 358 1473 356 1474 356 1505 344 1512 342 1533 344 1575 349 1576 349 1623 343 1624 321 1622 279 1548 267 1547 267 1516 268 1515 268 1492 279 1479 285 1218 287 1191 279 1170 273 1169 273 1168 273 1121 279 1065 287 1038 279 1009 271 1008 271 1007 271 734 272 733 272 710 279 684 289 565 290 531 279 511 273 510 273 509 273 507 273 492 279 472 289 385 291 312 291 287 279 276 276 274 276 273 276 138 279 139 331"/></Shape>
+	    <String CONTENT="Lavisse, Ernest &amp; Andler, Charles. (Br.) Hist."
+                    HPOS="138"
+                    VPOS="267"
+                    WIDTH="1486"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="150 416 1410 416" 
+                    HPOS="149"
+                    VPOS="377"
+                    WIDTH="1260"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="149 415 149 473 315 461 316 461 317 461 342 446 414 467 434 473 435 473 436 474 492 474 492 473 536 464 563 460 581 463 622 473 623 474 768 474 768 473 769 473 802 458 806 457 817 458 840 461 841 461 842 461 857 457 906 445 984 445 1001 453 1003 455 1004 455 1044 456 1045 456 1063 452 1077 450 1103 451 1147 455 1148 455 1149 455 1166 450 1186 445 1235 448 1276 451 1277 451 1278 451 1287 447 1293 445 1409 445 1409 415 1409 396 1280 396 1231 377 1230 377 1147 377 1146 377 1144 377 1079 394 1003 377 923 377 922 377 921 377 884 394 820 377 819 377 818 377 817 377 782 396 619 396 553 377 552 377 550 377 549 377 516 396 468 396 431 377 430 377 429 377 371 385 325 377 323 377 322 377 274 391 228 377 226 377 225 377 224 377 223 377 197 393 149 394 149 415"/></Shape>
+	    <String CONTENT="Tysk krigföring, praktik och teori ..."
+                    HPOS="149"
+                    VPOS="377"
+                    WIDTH="1260"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1469 370 1759 377" 
+                    HPOS="1467"
+                    VPOS="331"
+                    WIDTH="291"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1468 369 1467 383 1494 393 1495 393 1496 393 1498 393 1517 388 1553 398 1554 398 1555 399 1555 398 1557 398 1580 392 1612 401 1613 401 1614 401 1654 397 1707 391 1725 402 1726 403 1727 403 1728 403 1730 404 1757 404 1758 376 1757 345 1707 344 1707 343 1701 336 1700 336 1700 334 1699 334 1698 334 1696 334 1620 339 1602 341 1600 339 1596 336 1596 334 1595 334 1593 334 1592 334 1591 334 1582 338 1576 341 1568 338 1547 331 1546 331 1544 331 1468 333 1468 369"/></Shape>
+	    <String CONTENT="världskr."
+                    HPOS="1467"
+                    VPOS="331"
+                    WIDTH="291"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1288 506 1687 501" 
+                    HPOS="1285"
+                    VPOS="448"
+                    WIDTH="400"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1287 505 1287 526 1382 522 1473 528 1474 528 1538 521 1553 532 1557 536 1558 536 1559 536 1560 536 1685 533 1685 500 1683 466 1587 466 1586 466 1585 466 1576 468 1557 474 1543 469 1526 463 1525 463 1523 463 1522 463 1521 463 1516 467 1489 448 1488 448 1487 448 1485 448 1425 450 1424 450 1423 450 1395 471 1347 451 1346 451 1344 451 1343 451 1342 451 1311 477 1310 478 1285 478 1287 505"/></Shape>
+	    <String CONTENT="8º Paris 1915."
+                    HPOS="1285"
+                    VPOS="448"
+                    WIDTH="400"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

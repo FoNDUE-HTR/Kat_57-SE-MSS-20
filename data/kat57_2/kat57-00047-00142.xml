@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00142.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2332"
+          HEIGHT="1476"
+          PHYSICAL_IMG_NR="9"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2332"
+                  HEIGHT="1476">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2330"
+                   HEIGHT="1474"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1475 2331 1475 2331 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="198 209 1339 212" 
+                    HPOS="195"
+                    VPOS="163"
+                    WIDTH="1143"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="196 207 195 239 418 241 419 241 420 241 447 227 477 227 525 241 526 241 527 241 529 241 574 227 623 236 625 236 679 230 698 239 700 239 701 239 702 239 703 239 723 228 745 228 788 241 790 241 791 241 855 228 872 236 873 236 874 236 924 228 995 236 996 236 998 236 1017 230 1133 230 1218 241 1219 241 1220 241 1242 232 1265 241 1266 241 1267 241 1268 241 1269 241 1284 231 1336 243 1338 211 1336 170 1046 175 1023 170 1000 166 999 166 972 170 957 173 938 170 892 164 890 164 889 164 865 170 851 174 831 170 793 164 792 164 760 172 744 174 718 172 662 164 660 164 611 172 591 174 586 172 574 163 573 163 572 163 571 163 447 172 425 173 420 172 395 163 393 163 241 163 239 163 238 163 237 163 222 172 220 173 196 173 196 207"/></Shape>
+	    <String CONTENT="ANDRADE, E[dward] N[eville] da C[osta]"
+                    HPOS="195"
+                    VPOS="163"
+                    WIDTH="1143"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="191 306 869 311" 
+                    HPOS="189"
+                    VPOS="271"
+                    WIDTH="679"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="190 305 189 327 206 335 207 335 209 335 210 335 236 328 273 335 274 335 344 328 356 337 358 337 359 337 360 338 423 338 423 337 424 337 425 337 435 329 482 335 483 335 484 335 498 329 527 338 529 338 530 338 657 330 698 339 700 340 750 340 750 339 751 339 753 339 753 338 759 332 774 338 775 338 776 338 828 332 854 339 855 339 856 339 857 339 858 339 867 330 868 309 868 275 841 274 840 274 839 274 836 275 817 284 797 275 793 274 792 274 698 273 697 273 696 273 695 273 691 276 682 282 657 276 655 276 654 276 650 276 589 282 567 276 552 273 551 273 550 273 548 273 547 273 542 276 537 280 532 277 524 273 523 273 521 273 520 273 519 273 519 274 514 277 509 282 470 282 462 277 455 273 454 273 452 273 451 273 450 273 449 273 441 277 436 281 420 277 401 274 399 274 398 274 381 277 367 281 287 281 286 279 280 274 280 273 279 273 278 273 276 273 275 273 260 277 228 271 227 271 190 279 190 305"/></Shape>
+	    <String CONTENT="Den nya kemien. [Ill.]"
+                    HPOS="189"
+                    VPOS="271"
+                    WIDTH="679"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="198 511 1374 515" 
+                    HPOS="196"
+                    VPOS="469"
+                    WIDTH="1177"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="196 510 196 541 547 535 590 542 601 543 602 543 614 542 649 536 668 542 669 542 670 542 671 542 673 542 674 542 686 536 791 536 814 542 819 543 820 543 822 543 831 542 867 536 940 536 969 542 982 544 983 544 1002 542 1042 537 1098 542 1113 543 1114 543 1122 542 1149 537 1158 542 1160 544 1161 544 1162 544 1164 544 1372 542 1373 514 1373 482 1273 472 1272 472 1233 480 1224 482 1213 480 1162 472 1161 472 1129 479 1118 482 1108 479 1075 472 1074 472 1073 472 1053 479 1044 482 854 482 847 478 831 471 830 471 829 471 796 478 781 480 765 477 733 471 630 471 628 471 627 471 610 477 596 480 556 476 518 472 516 472 515 472 507 476 503 477 500 476 486 469 484 469 449 469 447 469 446 469 433 476 423 480 381 480 369 474 354 469 353 469 351 469 326 474 301 479 267 474 232 469 231 469 196 473 196 510"/></Shape>
+	    <String CONTENT="[Originalets titel: The new chemistry.]"
+                    HPOS="196"
+                    VPOS="469"
+                    WIDTH="1177"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1949 76 2144 76" 
+                    HPOS="1948"
+                    VPOS="29"
+                    WIDTH="195"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="1948 75 1948 94 2142 100 2143 75 2142 45 2052 45 2034 36 2016 29 2015 29 2014 29 1948 30 1948 75"/></Shape>
+	    <String CONTENT="Kemi"
+                    HPOS="1948"
+                    VPOS="29"
+                    WIDTH="195"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1957 153 2202 153" 
+                    HPOS="1956"
+                    VPOS="102"
+                    WIDTH="245"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="1956 152 1959 198 1972 188 1982 195 1984 198 1984 199 1986 199 1987 199 1988 200 2042 200 2042 199 2044 199 2045 199 2045 198 2052 191 2064 178 2084 186 2085 186 2087 186 2088 186 2122 175 2200 180 2201 152 2201 124 2175 113 2174 113 2173 113 2172 113 2170 113 2159 123 2157 124 2132 120 2104 116 2103 116 2101 116 2096 118 2080 124 2063 115 2034 102 2032 102 2031 102 1956 108 1956 152"/></Shape>
+	    <String CONTENT="Fysikal."
+                    HPOS="1956"
+                    VPOS="102"
+                    WIDTH="245"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1472 408 2063 413" 
+                    HPOS="1470"
+                    VPOS="369"
+                    WIDTH="592"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1471 407 1470 447 1534 436 1603 441 1610 447 1617 451 1618 451 1619 451 1620 452 1720 452 1720 451 1721 451 1722 451 1732 445 1743 437 1774 444 1812 452 1813 453 1844 453 1844 452 1845 452 1847 452 1863 442 1864 441 1866 442 1879 451 1880 451 1881 451 1882 451 1884 451 1885 451 1896 442 1897 442 1981 447 1982 447 1983 447 1984 447 1984 446 1989 442 1997 447 1998 447 1999 447 2000 447 2061 439 2062 412 2058 371 2048 378 2039 371 2037 371 2036 371 1996 371 1994 371 1993 371 1991 372 1978 378 1936 373 1909 370 1908 370 1907 370 1900 373 1882 383 1860 375 1859 375 1858 375 1856 375 1855 375 1845 382 1828 375 1816 370 1815 370 1813 370 1812 370 1799 375 1780 383 1773 376 1765 370 1765 369 1764 369 1763 369 1737 369 1736 369 1735 369 1733 369 1721 376 1711 383 1663 383 1647 377 1624 370 1623 370 1621 370 1620 370 1619 370 1619 371 1610 378 1607 382 1543 382 1539 380 1528 370 1527 370 1525 370 1524 370 1523 370 1500 380 1496 381 1471 381 1471 407"/></Shape>
+	    <String CONTENT="8:o Stockholm 1939."
+                    HPOS="1470"
+                    VPOS="369"
+                    WIDTH="592"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

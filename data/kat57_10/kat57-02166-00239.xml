@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-02166-00239.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="26"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1472">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_57f50fb5"
+                    
+                    BASELINE="169 211 343 207" 
+                    HPOS="166"
+                    VPOS="164"
+                    WIDTH="176"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="168 210 168 225 215 226 251 240 252 240 253 240 342 223 342 206 339 169 295 164 294 164 166 172 168 210"/></Shape>
+	    <String CONTENT="ÄMNEN"
+                    HPOS="166"
+                    VPOS="164"
+                    WIDTH="176"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58860f07"
+                    
+                    BASELINE="165 308 2280 297" 
+                    HPOS="163"
+                    VPOS="257"
+                    WIDTH="2116"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="164 307 164 336 617 336 618 336 629 333 659 325 859 331 880 331 881 331 885 331 917 323 1057 323 1079 328 1100 333 1101 333 1137 328 1175 321 1344 321 1562 321 1578 323 1611 329 1613 329 1691 322 1724 320 1748 322 1806 328 1808 328 1929 322 1965 328 1966 328 2161 327 2162 327 2192 317 2277 316 2279 296 2276 266 2026 260 2025 260 1956 267 1952 267 1950 267 1914 257 1913 257 1808 257 1806 257 1668 268 1667 268 1665 268 1575 258 1573 258 1513 267 1437 260 1436 260 1371 269 1313 261 1312 261 1218 267 1119 261 1118 261 969 268 869 263 868 263 734 274 574 274 499 266 498 266 496 266 467 276 163 277 164 307"/></Shape>
+	    <String CONTENT="Blandade, hvaribland finnes något litet om konungens högsta domstol ..."
+                    HPOS="163"
+                    VPOS="257"
+                    WIDTH="2116"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6402682d"
+                    
+                    BASELINE="173 410 335 405" 
+                    HPOS="171"
+                    VPOS="364"
+                    WIDTH="163"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="172 409 172 436 333 425 334 404 331 381 300 381 298 380 280 365 280 364 279 364 278 364 277 364 171 377 172 409"/></Shape>
+	    <String CONTENT="1821."
+                    HPOS="171"
+                    VPOS="364"
+                    WIDTH="163"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9ca95a51"
+                    
+                    BASELINE="169 509 910 503" 
+                    HPOS="166"
+                    VPOS="468"
+                    WIDTH="742"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="168 507 168 531 206 539 207 539 253 536 269 547 271 547 272 547 273 548 353 548 353 547 418 540 576 544 577 544 579 544 580 544 607 528 608 528 700 528 707 534 707 536 709 536 710 536 711 536 712 536 713 536 721 529 736 536 737 536 738 536 739 536 740 536 740 534 748 527 749 527 814 527 815 527 839 537 840 537 841 537 842 537 843 537 856 528 907 526 908 502 905 478 859 479 857 478 853 474 853 473 852 473 851 473 850 473 848 473 839 478 836 479 834 478 812 468 810 468 809 468 808 468 788 478 786 479 785 478 764 468 763 468 761 468 760 468 759 468 759 469 748 479 747 480 651 480 650 479 639 471 639 469 637 469 636 469 586 469 585 469 583 469 582 469 582 471 572 480 571 482 542 482 540 480 531 472 531 471 529 471 528 471 477 471 475 471 474 471 460 478 442 471 441 471 440 471 439 471 437 471 421 482 420 483 401 483 398 482 352 471 350 471 261 482 209 472 208 472 207 472 206 472 187 483 186 484 166 484 168 507"/></Shape>
+	    <String CONTENT="Se: Theorell, Johan Peter"
+                    HPOS="166"
+                    VPOS="468"
+                    WIDTH="742"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

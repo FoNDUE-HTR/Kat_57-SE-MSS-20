@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-02173-00201.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="38"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1478">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_1a3bb432"
+                    
+                    BASELINE="203 225 779 230" 
+                    HPOS="200"
+                    VPOS="168"
+                    WIDTH="578"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="200 237 230 250 231 250 232 250 234 250 275 238 298 252 299 252 300 252 301 252 303 252 322 247 346 253 347 253 348 253 349 253 351 253 364 243 374 252 374 253 375 253 376 253 513 254 514 254 516 254 517 254 517 253 525 245 530 241 593 241 607 247 622 254 623 254 624 254 625 254 640 248 654 242 661 250 666 253 667 253 668 253 743 254 745 254 746 254 752 252 762 246 774 252 778 229 778 205 715 176 714 176 713 176 678 183 654 178 652 178 651 178 607 200 601 203 588 199 571 194 570 194 569 194 567 194 566 194 561 198 555 203 448 203 439 194 431 187 431 185 429 185 428 185 427 185 426 185 424 185 424 187 420 190 410 182 408 182 407 182 406 182 355 187 328 168 327 168 326 168 250 168 248 168 247 168 246 168 222 185 218 189 203 185 202 224 200 237"/></Shape>
+	    <String CONTENT="Ostberg, Otto"
+                    HPOS="200"
+                    VPOS="168"
+                    WIDTH="578"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8c018896"
+                    
+                    BASELINE="265 332 331 332" 
+                    HPOS="264"
+                    VPOS="270"
+                    WIDTH="66"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="264 331 264 352 273 359 274 359 275 359 277 360 301 360 301 359 303 359 330 346 330 331 327 270 264 293 264 331"/></Shape>
+	    <String CONTENT="Se."
+                    HPOS="264"
+                    VPOS="270"
+                    WIDTH="66"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_99d24bca"
+                    
+                    BASELINE="218 425 1625 419" 
+                    HPOS="215"
+                    VPOS="369"
+                    WIDTH="1409"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="216 424 216 463 306 479 307 479 365 469 401 482 402 482 404 482 644 481 645 481 693 460 759 468 761 468 762 468 799 455 817 461 819 461 820 461 867 453 910 444 976 444 994 450 1017 459 1018 459 1019 459 1060 449 1062 449 1065 449 1127 458 1128 458 1203 448 1313 454 1373 475 1374 475 1375 475 1377 475 1450 443 1454 442 1478 442 1590 447 1591 447 1624 439 1624 418 1620 369 1464 370 1463 370 1462 370 1386 395 1338 395 1285 373 1284 373 1283 373 1282 373 1281 373 1219 390 1149 374 1139 373 1012 373 1011 373 1010 373 1002 376 961 397 792 397 752 379 740 374 739 374 692 374 691 374 689 374 676 380 639 399 484 399 433 383 407 375 406 375 405 375 404 375 380 384 363 390 348 384 327 375 326 375 325 375 250 376 248 376 215 385 216 424"/></Shape>
+	    <String CONTENT="Ostberg, [Einar Vilhelm] Otto"
+                    HPOS="215"
+                    VPOS="369"
+                    WIDTH="1409"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

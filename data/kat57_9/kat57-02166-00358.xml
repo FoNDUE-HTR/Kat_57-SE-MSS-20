@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-02166-00358.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="45"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1472">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_e3e2e078"
+                    
+                    BASELINE="1841 77 1949 72" 
+                    HPOS="1837"
+                    VPOS="20"
+                    WIDTH="112"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="1840 76 1840 101 1865 101 1873 106 1902 128 1903 128 1905 128 1906 128 1907 128 1949 116 1947 71 1944 41 1914 44 1908 40 1880 20 1879 20 1878 20 1876 20 1854 22 1853 22 1852 22 1852 23 1837 35 1840 76"/></Shape>
+	    <String CONTENT="(Br.)"
+                    HPOS="1837"
+                    VPOS="20"
+                    WIDTH="112"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1b02642f"
+                    
+                    BASELINE="2059 70 2198 70" 
+                    HPOS="2058"
+                    VPOS="17"
+                    WIDTH="139"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="2058 69 2058 77 2085 87 2086 87 2087 88 2118 88 2118 87 2119 87 2120 87 2120 85 2128 79 2171 87 2172 87 2173 87 2197 77 2197 69 2194 17 2167 24 2156 23 2135 22 2134 22 2133 22 2131 22 2131 23 2124 29 2118 36 2109 33 2103 29 2102 29 2101 29 2100 29 2098 29 2091 35 2082 42 2058 42 2058 69"/></Shape>
+	    <String CONTENT="Teol"
+                    HPOS="2058"
+                    VPOS="17"
+                    WIDTH="139"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ce39de21"
+                    
+                    BASELINE="2075 134 2206 134" 
+                    HPOS="2074"
+                    VPOS="77"
+                    WIDTH="131"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="2074 133 2074 152 2187 157 2188 157 2189 157 2205 149 2205 133 2203 82 2173 90 2158 87 2120 77 2119 77 2118 77 2117 77 2116 77 2116 78 2097 94 2095 98 2074 98 2074 133"/></Shape>
+	    <String CONTENT="Sekt"
+                    HPOS="2074"
+                    VPOS="77"
+                    WIDTH="131"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_011ae4e0"
+                    
+                    BASELINE="2063 196 2272 201" 
+                    HPOS="2060"
+                    VPOS="145"
+                    WIDTH="211"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="2062 195 2060 223 2165 215 2269 229 2271 199 2271 163 2252 150 2250 150 2249 150 2225 148 2223 148 2222 148 2188 164 2187 165 2185 164 2163 147 2162 147 2161 147 2139 145 2138 145 2114 147 2113 147 2112 147 2091 163 2090 163 2062 163 2062 195"/></Shape>
+	    <String CONTENT="Advent."
+                    HPOS="2060"
+                    VPOS="145"
+                    WIDTH="211"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_596597cb"
+                    
+                    BASELINE="243 255 321 263" 
+                    HPOS="239"
+                    VPOS="210"
+                    WIDTH="83"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="242 253 239 278 261 289 262 289 263 289 316 288 320 262 322 215 246 210 242 253"/></Shape>
+	    <String CONTENT="ÄR"
+                    HPOS="239"
+                    VPOS="210"
+                    WIDTH="83"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3079a0ff"
+                    
+                    BASELINE="230 349 2101 349" 
+                    HPOS="229"
+                    VPOS="304"
+                    WIDTH="1871"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="229 348 229 368 258 375 260 376 605 376 605 375 607 375 626 369 628 369 629 369 667 375 668 375 669 375 688 369 693 368 696 369 716 375 717 375 718 375 771 369 786 368 805 369 875 375 877 375 912 369 923 368 935 369 976 375 977 375 1257 370 1316 369 1321 370 1335 374 1337 374 1338 374 1359 370 1370 368 1399 370 1465 375 1467 375 1490 370 1501 368 1705 368 1718 370 1743 375 1744 375 1790 370 1817 368 1829 370 1844 375 1846 375 1847 375 1868 370 1881 368 2098 370 2100 348 2100 304 1790 304 1789 304 1782 305 1716 318 1683 309 1681 309 1680 309 1622 320 1595 310 1594 310 1593 310 1485 320 1449 306 1442 304 1441 304 1235 304 1234 304 1193 307 1088 320 961 314 960 314 848 320 805 311 804 311 764 321 618 321 594 312 593 312 592 312 558 320 229 314 229 348"/></Shape>
+	    <String CONTENT="det som sker i världen förspel till världens undergång? [Ill.]"
+                    HPOS="229"
+                    VPOS="304"
+                    WIDTH="1871"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d9020b06"
+                    
+                    BASELINE="1158 448 1919 448" 
+                    HPOS="1158"
+                    VPOS="406"
+                    WIDTH="760"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="1158 447 1158 462 1184 471 1186 471 1187 471 1232 463 1241 471 1241 472 1242 472 1243 472 1245 472 1246 472 1273 463 1289 472 1290 472 1291 473 1365 473 1365 472 1366 472 1367 472 1382 463 1407 463 1415 471 1415 472 1416 472 1418 472 1419 472 1470 464 1519 472 1521 472 1562 463 1686 472 1687 472 1768 463 1779 471 1781 471 1782 471 1837 472 1838 472 1890 463 1902 471 1903 471 1905 471 1906 471 1907 471 1908 471 1918 462 1918 447 1917 421 1838 406 1837 406 1836 406 1805 417 1784 407 1783 407 1782 407 1781 407 1752 417 1740 406 1739 406 1738 406 1717 406 1716 406 1714 406 1713 406 1697 418 1694 420 1689 418 1664 406 1663 406 1662 406 1660 406 1642 415 1609 410 1608 410 1606 410 1605 410 1597 415 1588 421 1560 421 1554 415 1551 413 1551 412 1550 412 1549 412 1548 412 1546 412 1545 412 1541 415 1532 421 1481 421 1472 414 1462 406 1460 406 1459 406 1421 406 1420 406 1419 406 1418 406 1409 413 1400 420 1384 413 1372 407 1371 407 1370 407 1368 407 1367 407 1360 412 1350 418 1326 412 1302 406 1301 406 1300 406 1299 406 1288 410 1269 421 1245 421 1232 412 1231 412 1230 412 1229 412 1227 412 1216 417 1207 409 1202 406 1200 406 1199 406 1198 406 1158 408 1158 447"/></Shape>
+	    <String CONTENT="8:o Åva [tr. i Sala] 1944."
+                    HPOS="1158"
+                    VPOS="406"
+                    WIDTH="760"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31b74282"
+                    
+                    BASELINE="243 554 2195 544" 
+                    HPOS="241"
+                    VPOS="505"
+                    WIDTH="1953"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="242 553 242 617 485 617 486 617 501 612 625 571 738 585 739 585 794 572 881 585 883 585 934 574 1032 572 1034 572 1061 564 1164 575 1165 575 1230 566 1275 575 1276 575 1326 565 1447 576 1448 576 1533 563 1663 575 1664 575 1775 564 1862 572 1863 572 1998 563 2065 572 2076 574 2078 574 2194 569 2194 543 2190 505 2103 513 1977 506 1976 506 1911 515 1813 506 1805 506 1804 506 1797 506 1702 517 1652 517 1627 507 1626 507 1625 507 1620 507 1522 515 1486 510 1485 510 1484 510 1452 518 1362 518 1339 509 1338 509 1337 509 1335 509 1333 509 1296 517 1227 509 1219 509 1218 509 1216 509 1214 510 1192 517 1134 511 1133 511 1132 511 1101 520 961 520 787 511 770 511 769 511 767 511 765 511 743 518 655 512 650 512 648 512 646 512 599 522 483 522 241 515 242 553"/></Shape>
+	    <String CONTENT="[Utgiven av: Sjundedags-adventistsamfundet Reformationsrörelsen.]"
+                    HPOS="241"
+                    VPOS="505"
+                    WIDTH="1953"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

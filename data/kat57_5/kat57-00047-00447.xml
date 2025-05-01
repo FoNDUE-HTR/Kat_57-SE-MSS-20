@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00447.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2311 1479 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="156 149 968 149 1423 162" 
+                    HPOS="154"
+                    VPOS="81"
+                    WIDTH="1268"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="154 159 212 172 213 172 270 161 271 161 293 172 294 172 296 172 297 172 325 165 389 173 391 173 513 166 705 172 706 172 708 172 720 168 748 160 841 166 842 166 901 160 921 167 922 167 924 167 925 167 945 161 1048 167 1049 167 1051 167 1064 161 1083 170 1084 170 1085 170 1218 162 1246 177 1250 180 1252 180 1253 181 1421 181 1422 161 1421 127 1305 127 1297 122 1283 114 1281 114 1280 114 1279 114 1255 120 1238 125 1172 125 1120 117 1117 115 1061 87 1059 87 982 87 980 87 979 87 978 87 941 109 925 118 866 106 831 99 830 99 829 99 814 104 768 119 736 104 735 104 734 104 732 104 695 122 653 122 600 97 573 85 572 85 483 83 482 83 481 83 460 92 420 108 379 88 366 82 365 82 310 82 309 82 308 82 301 86 243 115 156 81 155 148 154 159"/></Shape>
+	    <String CONTENT="Andreas-Salomé, Lou"
+                    HPOS="154"
+                    VPOS="81"
+                    WIDTH="1268"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1978 72 2261 76" 
+                    HPOS="1976"
+                    VPOS="7"
+                    WIDTH="284"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="1977 71 1976 99 2145 94 2166 104 2168 104 2170 104 2171 104 2172 104 2173 104 2184 97 2257 104 2260 75 2258 24 2240 28 2209 20 2205 20 2204 20 2203 20 2202 20 2196 27 2175 18 2172 18 2171 18 2170 18 2168 18 2167 18 2147 30 2102 30 2084 28 2070 12 2066 9 2066 8 2065 8 2064 8 1977 7 1977 71"/></Shape>
+	    <String CONTENT="Litt.hist."
+                    HPOS="1976"
+                    VPOS="7"
+                    WIDTH="284"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2069 122 2165 125" 
+                    HPOS="2067"
+                    VPOS="82"
+                    WIDTH="96"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="2068 120 2067 144 2097 144 2104 148 2128 162 2129 162 2130 162 2131 162 2133 162 2162 154 2163 124 2162 101 2151 101 2151 99 2135 85 2135 83 2134 83 2133 83 2131 83 2130 83 2118 90 2102 82 2101 82 2099 82 2098 82 2068 94 2068 120"/></Shape>
+	    <String CONTENT="Ny"
+                    HPOS="2067"
+                    VPOS="82"
+                    WIDTH="96"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2002 181 2200 189" 
+                    HPOS="1999"
+                    VPOS="133"
+                    WIDTH="200"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="2001 180 1999 192 2025 203 2027 203 2028 203 2029 203 2049 194 2060 205 2060 207 2061 207 2062 207 2064 207 2102 201 2133 209 2134 209 2135 209 2136 209 2151 202 2170 212 2171 212 2172 212 2173 212 2198 199 2199 188 2199 165 2133 162 2129 159 2108 138 2108 136 2107 136 2105 136 2104 136 2103 136 2081 148 2059 134 2057 134 2056 134 2020 133 2019 133 2018 133 2017 133 2002 143 2001 180"/></Shape>
+	    <String CONTENT="Ibsen"
+                    HPOS="1999"
+                    VPOS="133"
+                    WIDTH="200"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="200 290 2140 298" 
+                    HPOS="199"
+                    VPOS="202"
+                    WIDTH="1940"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="199 289 199 312 231 316 233 316 252 313 278 307 329 313 361 316 362 318 486 318 486 316 487 316 497 314 521 307 555 314 572 318 573 319 673 319 673 318 722 315 845 308 931 308 952 316 959 319 961 319 962 319 980 316 1028 309 1063 316 1068 318 1194 320 1195 320 1215 318 1271 310 1325 319 1337 320 1338 321 1434 321 1434 320 1436 320 1440 319 1470 312 1611 320 1638 321 1639 321 1640 321 1644 320 1669 312 1712 312 1737 320 1738 320 2136 323 2139 297 2138 261 2098 256 2097 256 2096 256 2087 259 2055 272 1994 272 1933 254 1899 245 1898 245 1897 245 1896 245 1876 252 1825 271 1727 271 1654 246 1540 208 1539 208 1517 208 1516 208 1515 208 1444 233 1373 209 1371 209 1370 209 1369 209 1297 235 1201 268 899 268 846 247 845 247 843 247 809 252 695 225 694 225 660 233 613 218 611 218 610 218 565 228 486 210 454 203 199 202 199 289"/></Shape>
+	    <String CONTENT="Henrik Ibsen&#x27;s Frauen-Gestalten nach seinen"
+                    HPOS="199"
+                    VPOS="202"
+                    WIDTH="1940"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="220 383 2274 386" 
+                    HPOS="219"
+                    VPOS="328"
+                    WIDTH="2054"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="219 382 219 413 265 397 452 397 492 407 493 407 494 407 599 405 629 410 641 413 642 413 667 410 793 397 999 409 1038 410 1040 410 1041 410 1048 408 1070 400 1175 397 1247 404 1248 404 1285 399 1311 407 1355 420 1357 420 1358 421 1502 421 1502 420 1503 420 1561 405 1587 399 1616 405 1627 407 1628 407 1695 404 1717 404 1721 404 1788 420 1790 421 2012 421 2012 420 2013 420 2071 403 2272 400 2273 384 2273 351 2208 329 2207 329 2205 329 2141 330 2140 330 2065 351 2045 356 2027 351 1945 329 1944 329 1906 329 1904 329 1903 329 1832 351 1823 355 1759 356 1745 351 1698 335 1697 335 1645 329 1644 329 1547 351 1459 329 1458 329 1371 329 1370 329 1369 329 1302 352 1291 357 1248 357 943 356 937 353 863 328 862 328 814 328 813 328 811 328 727 349 611 328 519 328 518 328 516 328 454 345 362 328 361 328 360 328 288 350 219 353 219 382"/></Shape>
+	    <String CONTENT="sechs Familien-Dramen. Ein Puppenheim.-Gespeuster.-"
+                    HPOS="219"
+                    VPOS="328"
+                    WIDTH="2054"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="213 458 2252 476" 
+                    HPOS="212"
+                    VPOS="409"
+                    WIDTH="2039"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="212 457 212 482 305 481 338 483 398 489 399 489 435 484 460 481 477 484 504 490 651 492 652 492 687 485 706 483 771 483 784 487 803 492 804 492 805 492 845 487 869 484 894 488 941 494 942 494 1101 489 1176 487 1211 489 1283 497 1284 497 1345 490 1375 488 1395 490 1422 495 1423 495 1473 492 1492 490 1519 492 1621 499 1622 499 1862 494 1959 493 1996 495 2105 504 2107 504 2250 497 2251 474 2249 453 2109 452 2105 450 2030 424 2029 424 2028 424 1903 447 1885 451 1818 451 1640 448 1608 441 1491 419 1490 419 1489 419 1434 439 1412 447 1379 447 1342 446 1307 436 1231 416 1230 416 1127 416 1126 416 1125 416 1078 432 1048 444 972 444 932 430 884 414 883 414 846 414 845 414 843 414 801 427 763 441 695 441 656 425 642 420 641 420 640 420 594 420 565 411 563 411 562 411 329 415 257 409 256 409 212 416 212 457"/></Shape>
+	    <String CONTENT="Die Wildente.- Rosmersholm.- Die Frau von Meere. -"
+                    HPOS="212"
+                    VPOS="409"
+                    WIDTH="2039"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="237 540 764 548" 
+                    HPOS="235"
+                    VPOS="490"
+                    WIDTH="528"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="236 538 235 566 320 572 344 595 344 596 345 596 346 596 347 596 349 596 381 580 400 593 402 593 403 593 404 593 428 589 450 599 451 599 452 599 454 599 455 599 462 594 477 603 478 603 537 604 539 605 562 605 562 604 563 604 631 574 652 574 673 589 674 589 676 589 677 589 762 574 763 547 763 522 730 520 700 497 699 497 698 497 697 497 666 498 664 498 663 498 663 499 646 515 640 521 626 521 619 513 602 495 602 494 600 494 599 494 572 494 571 494 569 494 568 494 551 509 537 519 466 519 447 503 442 498 441 498 440 498 439 498 437 498 436 498 431 501 416 511 387 499 386 499 384 499 383 499 382 499 362 514 338 497 331 490 330 490 329 490 236 490 236 538"/></Shape>
+	    <String CONTENT="Hedda Gabler."
+                    HPOS="235"
+                    VPOS="490"
+                    WIDTH="528"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1354 626 1951 634" 
+                    HPOS="1352"
+                    VPOS="567"
+                    WIDTH="598"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="1353 625 1352 648 1379 654 1380 654 1381 654 1392 649 1411 642 1428 651 1432 652 1433 652 1434 652 1436 652 1440 651 1465 643 1481 649 1482 649 1484 649 1485 649 1486 649 1496 642 1592 645 1607 654 1626 668 1627 668 1628 668 1629 668 1630 668 1632 668 1650 656 1666 645 1684 657 1685 657 1686 657 1687 657 1692 657 1755 646 1771 658 1776 663 1777 663 1806 670 1807 670 1904 672 1906 672 1907 672 1908 672 1920 662 1925 658 1948 662 1950 633 1950 593 1932 587 1930 587 1929 587 1928 587 1901 594 1875 601 1853 595 1846 593 1845 593 1844 593 1843 593 1841 593 1839 595 1819 606 1700 606 1688 596 1670 579 1669 579 1667 579 1666 579 1665 579 1664 579 1637 596 1627 604 1619 596 1586 569 1585 569 1584 569 1508 568 1507 568 1506 568 1470 583 1457 569 1457 568 1455 568 1454 568 1402 567 1401 567 1400 567 1399 567 1399 568 1365 599 1364 600 1353 600 1353 625"/></Shape>
+	    <String CONTENT="8º Berlin 1892"
+                    HPOS="1352"
+                    VPOS="567"
+                    WIDTH="598"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-02173-00001.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2332"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="41"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2332"
+                  HEIGHT="1472">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_f3a1df94"
+                    
+                    BASELINE="1054 423 1256 423" 
+                    HPOS="1053"
+                    VPOS="360"
+                    WIDTH="201"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1053 421 1053 437 1079 447 1080 447 1081 447 1143 439 1156 447 1158 447 1159 447 1160 447 1161 447 1162 447 1171 440 1182 447 1183 447 1185 447 1186 448 1241 448 1241 447 1242 447 1243 447 1254 439 1254 421 1254 368 1070 360 1069 360 1068 360 1053 366 1053 421"/></Shape>
+	    <String CONTENT="ÖRTEN"
+                    HPOS="1053"
+                    VPOS="360"
+                    WIDTH="201"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a92d4047"
+                    
+                    BASELINE="950 597 1395 600" 
+                    HPOS="948"
+                    VPOS="534"
+                    WIDTH="446"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="949 596 948 615 1010 626 1012 626 1013 626 1042 619 1075 628 1077 628 1078 628 1079 628 1097 620 1124 629 1126 629 1127 630 1215 630 1215 629 1216 629 1218 629 1218 628 1227 619 1257 630 1258 630 1259 631 1310 631 1310 630 1311 630 1312 630 1312 629 1322 620 1351 620 1365 630 1366 630 1367 630 1369 630 1370 630 1393 619 1394 599 1394 550 1380 542 1378 542 1377 542 1376 542 1375 542 1373 542 1373 543 1362 553 1356 560 1288 560 1283 554 1272 544 1272 543 1270 543 1269 543 1268 543 1267 543 1252 548 1237 538 1236 538 1235 538 1234 538 1138 548 1121 536 1119 536 1118 536 1117 536 1056 542 1043 534 1042 534 1041 534 1040 534 1039 534 1007 548 991 537 989 537 988 537 987 537 971 539 970 539 969 539 949 553 949 596"/></Shape>
+	    <String CONTENT="ÖSTERBERG, J"
+                    HPOS="948"
+                    VPOS="534"
+                    WIDTH="446"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

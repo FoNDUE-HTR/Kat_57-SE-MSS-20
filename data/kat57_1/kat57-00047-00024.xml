@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00024.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2315 1471 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="190 215 982 212" 
+                    HPOS="187"
+                    VPOS="159"
+                    WIDTH="794"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="188 214 188 251 447 253 448 253 450 253 451 253 456 250 480 233 561 239 563 239 610 233 720 237 721 237 722 237 723 237 732 231 755 247 759 250 760 250 761 250 763 250 764 250 769 247 794 233 858 237 859 237 861 237 874 231 978 245 981 210 978 159 916 159 915 159 913 159 912 159 888 176 863 176 846 168 845 168 843 168 842 168 841 168 826 177 786 177 771 165 770 165 769 165 749 165 748 165 747 165 745 165 736 174 712 166 711 166 710 166 709 166 707 166 707 168 697 176 632 177 613 164 609 160 608 160 607 160 605 160 604 160 592 164 571 170 534 165 533 165 532 165 531 165 523 171 513 165 512 164 511 164 510 164 509 164 507 164 506 164 505 165 493 175 473 175 461 165 455 160 453 160 452 160 451 160 450 160 435 166 402 180 365 180 352 169 350 169 349 169 348 169 312 176 296 168 283 161 282 161 280 161 234 165 233 165 231 165 231 166 228 169 219 176 187 170 188 214"/></Shape>
+	    <String CONTENT="Anderson, Walter H[ouston]"
+                    HPOS="187"
+                    VPOS="159"
+                    WIDTH="794"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2166 57 2268 54" 
+                    HPOS="2162"
+                    VPOS="12"
+                    WIDTH="104"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="2165 56 2165 95 2185 95 2185 94 2187 94 2188 94 2192 92 2217 71 2265 80 2266 53 2263 23 2203 23 2190 14 2188 12 2187 12 2185 12 2162 12 2165 56"/></Shape>
+	    <String CONTENT="Jur."
+                    HPOS="2162"
+                    VPOS="12"
+                    WIDTH="104"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2149 147 2281 150" 
+                    HPOS="2146"
+                    VPOS="87"
+                    WIDTH="134"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="2147 145 2146 171 2220 174 2221 174 2222 174 2223 174 2236 168 2277 174 2280 149 2280 114 2254 109 2230 88 2228 88 2227 88 2192 87 2190 87 2189 87 2188 87 2188 88 2163 110 2162 110 2147 110 2147 145"/></Shape>
+	    <String CONTENT="Allm."
+                    HPOS="2146"
+                    VPOS="87"
+                    WIDTH="134"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="192 322 2315 308" 
+                    HPOS="190"
+                    VPOS="266"
+                    WIDTH="2124"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="191 321 191 347 956 348 958 348 959 348 982 342 989 341 1009 342 1080 347 1081 347 1137 341 1164 338 1207 341 1300 345 1301 345 1384 339 1416 337 1432 338 1474 344 1475 344 1532 338 1556 336 1618 337 1714 341 1716 341 1717 341 1729 337 1737 334 1752 337 1792 342 1793 342 2119 341 2120 341 2138 333 2144 332 2312 332 2314 307 2311 278 1966 282 1957 280 1902 268 1788 266 1787 266 1786 266 1729 282 1721 284 1689 283 1600 277 1599 277 1544 284 1527 285 1512 284 1399 268 1398 268 1232 280 1177 267 1176 267 1175 267 962 268 818 277 761 290 758 290 748 290 620 280 619 280 494 288 440 279 439 279 380 293 379 293 376 293 284 285 283 285 190 294 191 321"/></Shape>
+	    <String CONTENT="Actions for declaratory judments. A treatise on the pleading, practice"
+                    HPOS="190"
+                    VPOS="266"
+                    WIDTH="2124"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="192 421 2275 410" 
+                    HPOS="190"
+                    VPOS="377"
+                    WIDTH="2084"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="191 420 191 444 409 450 410 450 563 444 639 451 640 451 641 451 663 442 664 442 693 442 973 448 975 448 1091 441 1117 440 1154 441 1334 447 1335 447 1490 440 1495 440 1497 440 1561 446 1562 446 1694 445 1695 445 1716 439 1722 437 1740 439 1808 445 1809 445 1921 444 1922 444 1943 437 1951 436 1965 437 2006 444 2008 444 2065 437 2092 435 2109 437 2134 441 2135 441 2173 437 2197 435 2204 437 2220 442 2221 442 2222 442 2274 436 2274 409 2271 381 2043 377 2042 377 2005 382 1979 386 1913 383 1810 379 1809 379 1721 385 1679 387 1668 385 1643 380 1642 380 1599 386 1576 388 1554 386 1514 381 1513 381 1512 381 1497 386 1490 390 1278 391 1203 391 1198 388 1180 382 1178 382 1177 382 1072 390 1063 390 1052 390 886 383 885 383 884 383 862 391 858 392 850 391 810 386 809 386 621 393 602 393 598 393 550 386 549 386 548 386 521 393 453 388 452 388 419 394 417 394 410 394 283 387 282 387 190 396 191 420"/></Shape>
+	    <String CONTENT="and trial of an action for declaratory judgment, from its inception"
+                    HPOS="190"
+                    VPOS="377"
+                    WIDTH="2084"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="203 525 2177 515" 
+                    HPOS="201"
+                    VPOS="485"
+                    WIDTH="1975"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="202 523 202 556 258 559 260 559 276 556 338 547 409 556 423 558 424 558 452 556 518 552 534 555 560 564 561 564 563 564 744 563 745 563 764 556 808 563 809 563 810 563 839 555 875 544 962 552 964 552 1024 542 1275 542 1345 553 1349 553 1350 553 1368 553 1413 550 1414 550 1438 540 1638 540 1681 552 1706 558 1707 558 1708 559 1925 559 1925 558 1927 558 1945 550 1956 545 2109 538 2174 549 2176 513 2172 485 201 493 202 523"/></Shape>
+	    <String CONTENT="to its conclusion, with forms. Assisted by Gus Carr Anderson. 2 ed."
+                    HPOS="201"
+                    VPOS="485"
+                    WIDTH="1975"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="203 627 422 627" 
+                    HPOS="202"
+                    VPOS="585"
+                    WIDTH="219"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="202 626 202 666 269 678 271 678 272 678 288 674 317 667 337 669 347 679 353 684 353 685 354 685 355 685 356 686 421 686 421 626 421 593 337 585 336 585 291 593 290 593 289 593 250 585 249 585 202 593 202 626"/></Shape>
+	    <String CONTENT="Vol. 1-3"
+                    HPOS="202"
+                    VPOS="585"
+                    WIDTH="219"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1264 621 2059 621" 
+                    HPOS="1263"
+                    VPOS="583"
+                    WIDTH="795"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1263 620 1263 648 1300 664 1301 664 1302 666 1377 666 1377 664 1378 664 1420 652 1430 650 1557 650 1583 656 1618 663 1619 663 1620 663 1635 656 1648 650 1663 657 1669 659 1670 659 1671 659 1673 659 1680 657 1692 653 1697 657 1703 663 1703 664 1705 664 1706 664 1707 664 1735 658 1762 652 1775 659 1782 664 1783 664 1784 664 1786 664 1830 661 1914 652 2057 664 2058 620 2058 594 2031 583 2030 583 1919 583 1918 583 1917 583 1916 583 1916 585 1903 596 1857 596 1842 583 1841 583 1840 583 1810 583 1809 583 1808 583 1783 594 1763 586 1762 586 1761 586 1724 594 1685 583 1684 583 1683 583 1681 583 1660 594 1537 592 1528 585 1527 585 1526 585 1524 585 1523 585 1489 594 1473 583 1472 583 1470 583 1469 583 1468 583 1467 583 1467 585 1459 591 1416 586 1415 586 1414 586 1413 586 1399 596 1319 596 1297 583 1296 583 1295 583 1294 583 1292 583 1279 596 1263 596 1263 620"/></Shape>
+	    <String CONTENT="8:o Atlanta, Georgia 1951."
+                    HPOS="1263"
+                    VPOS="583"
+                    WIDTH="795"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

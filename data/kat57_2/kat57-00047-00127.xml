@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00127.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2315 1471 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="163 145 725 153" 
+                    HPOS="160"
+                    VPOS="100"
+                    WIDTH="564"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="161 144 160 182 370 186 371 186 372 186 374 186 383 180 401 168 420 174 421 174 423 174 484 169 490 174 490 175 491 175 493 175 494 175 566 170 575 176 583 184 585 184 586 184 587 184 588 184 590 184 599 176 609 170 686 171 690 175 702 182 704 182 705 182 706 182 707 182 723 174 724 152 723 107 702 106 701 106 700 106 699 106 697 107 674 125 657 125 636 109 632 105 631 105 630 105 581 105 580 105 579 105 561 110 520 121 488 111 477 107 475 107 474 107 473 107 472 107 468 111 466 114 457 111 441 107 440 107 439 107 437 107 436 107 431 112 419 121 374 121 366 114 364 111 364 110 363 110 361 110 360 110 359 110 344 114 338 115 337 114 328 107 327 107 326 107 223 100 222 100 220 100 187 116 185 117 161 117 161 144"/></Shape>
+	    <String CONTENT="ANDOLF, Nils [Åke]"
+                    HPOS="160"
+                    VPOS="100"
+                    WIDTH="564"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2029 67 2221 64" 
+                    HPOS="2027"
+                    VPOS="11"
+                    WIDTH="193"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="2028 66 2030 89 2054 79 2066 87 2069 89 2070 89 2071 89 2112 90 2113 90 2114 90 2130 83 2188 84 2189 84 2190 84 2220 76 2220 63 2219 28 2184 11 2183 11 2182 11 2181 11 2151 23 2128 11 2127 11 2125 11 2027 31 2028 66"/></Shape>
+	    <String CONTENT="Med."
+                    HPOS="2027"
+                    VPOS="11"
+                    WIDTH="193"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2040 132 2268 129" 
+                    HPOS="2038"
+                    VPOS="88"
+                    WIDTH="228"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="2039 131 2039 157 2123 161 2154 179 2155 179 2156 180 2242 180 2242 179 2243 179 2244 179 2266 159 2266 128 2264 103 2210 90 2209 90 2208 90 2185 101 2184 103 2134 103 2133 101 2117 88 2116 88 2114 88 2063 88 2062 88 2060 88 2038 99 2039 131"/></Shape>
+	    <String CONTENT="Kirurg."
+                    HPOS="2038"
+                    VPOS="88"
+                    WIDTH="228"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="165 247 2192 255" 
+                    HPOS="163"
+                    VPOS="198"
+                    WIDTH="2027"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="164 246 163 271 658 278 659 278 661 278 672 274 683 271 837 271 947 276 1016 279 1018 279 1085 277 1156 274 1171 277 1186 280 1187 280 1381 279 1772 274 1849 282 1857 282 1858 282 1865 282 1924 277 1952 282 1959 283 1960 284 2189 284 2190 253 2188 206 2081 212 2003 207 2001 207 1945 219 1881 210 1880 210 1803 220 1737 214 1735 214 1685 224 1575 224 1545 213 1544 213 1543 213 1351 218 1274 207 1273 207 1184 219 922 213 921 213 840 220 727 212 726 212 724 212 695 220 615 220 433 199 431 199 359 210 301 199 164 198 164 246"/></Shape>
+	    <String CONTENT="Étude sur l&#x27;importance clinique des diverticules du duodénum. [Ill.]¨"
+                    HPOS="163"
+                    VPOS="198"
+                    WIDTH="2027"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="166 448 604 451" 
+                    HPOS="164"
+                    VPOS="406"
+                    WIDTH="439"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="165 447 164 466 193 475 195 475 196 475 228 469 317 472 318 472 320 472 321 472 327 467 333 464 380 464 382 468 391 475 391 477 392 477 393 477 394 477 602 471 603 450 602 424 545 424 542 421 529 410 529 409 528 409 527 409 526 409 489 415 468 407 467 407 368 406 366 406 365 406 364 406 364 407 354 415 345 424 244 424 218 410 213 408 212 408 210 408 165 408 165 447"/></Shape>
+	    <String CONTENT="Diss. Uppsala."
+                    HPOS="164"
+                    VPOS="406"
+                    WIDTH="439"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1547 351 2126 356" 
+                    HPOS="1545"
+                    VPOS="315"
+                    WIDTH="580"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1546 350 1545 369 1602 381 1603 381 1642 375 1687 381 1689 381 1690 381 1691 381 1697 375 1706 382 1706 383 1707 383 1708 383 1710 383 1711 383 1729 377 1752 385 1754 385 1755 385 1756 385 1757 385 1770 376 1775 374 1783 377 1803 385 1804 385 1805 385 1806 385 1822 379 1836 372 1858 380 1875 385 1876 385 1878 385 1879 385 1880 385 1885 380 1890 376 1901 381 1908 383 1909 383 1911 383 1912 383 1913 383 1916 381 1924 374 1961 374 2001 383 2015 387 2016 387 2017 388 2124 388 2125 355 2125 329 2097 329 2097 328 2081 317 2080 317 2079 317 2078 317 1935 327 1932 327 1909 316 1908 316 1907 316 1814 322 1806 316 1806 315 1805 315 1804 315 1803 315 1766 322 1708 315 1707 315 1647 325 1646 325 1575 315 1573 315 1572 315 1546 323 1546 350"/></Shape>
+	    <String CONTENT="8:o Stockholm 1951."
+                    HPOS="1545"
+                    VPOS="315"
+                    WIDTH="580"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="169 546 1772 549 2011 538" 
+                    HPOS="166"
+                    VPOS="482"
+                    WIDTH="1844"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="168 545 166 571 327 572 413 588 414 590 771 590 771 588 899 572 951 580 953 580 954 580 977 574 1133 576 1162 588 1164 588 1165 588 1288 587 1289 587 1327 576 1366 583 1367 583 1368 583 1388 576 1544 583 1545 583 1586 575 1646 588 1647 590 1813 590 1813 588 1814 588 1871 572 2009 572 2010 537 2009 482 1788 482 1787 482 1786 482 1776 485 1686 516 1555 513 1554 513 1505 522 1367 506 1366 506 1284 521 1220 511 1219 511 1154 523 1097 515 1096 515 1042 522 1012 516 1010 516 970 525 895 513 894 513 803 518 760 509 759 509 758 509 712 520 624 512 623 512 621 512 599 520 576 511 575 511 574 511 444 520 380 509 372 507 371 507 370 507 365 509 333 517 306 510 305 510 304 510 168 511 168 545"/></Shape>
+	    <String CONTENT="Se även: Acta chirurgica scandinavica. Supplementum. 157. {Med"
+                    HPOS="166"
+                    VPOS="482"
+                    WIDTH="1844"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1930 641 2083 632" 
+                    HPOS="1925"
+                    VPOS="561"
+                    WIDTH="157"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="1929 640 1932 690 1971 690 1972 690 1973 690 1978 686 2003 672 2082 674 2082 631 2076 561 2047 563 2046 563 2044 563 2044 564 2037 570 2020 590 2000 580 1995 577 1994 577 1993 577 1992 577 1925 597 1929 640"/></Shape>
+	    <String CONTENT="Tidskr."
+                    HPOS="1925"
+                    VPOS="561"
+                    WIDTH="157"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

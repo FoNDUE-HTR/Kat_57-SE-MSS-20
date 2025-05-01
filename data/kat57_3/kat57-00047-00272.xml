@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00272.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="16"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2323 1479 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="205 247 767 247" 
+                    HPOS="204"
+                    VPOS="204"
+                    WIDTH="562"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="204 246 204 277 374 283 376 283 377 283 378 283 389 275 397 267 409 273 421 279 423 279 424 279 425 279 445 273 463 267 509 272 566 277 567 277 568 277 588 270 598 267 608 270 631 276 632 276 634 276 667 270 682 277 683 277 684 277 766 266 766 246 766 204 710 204 709 204 708 204 706 204 706 205 705 205 690 222 634 222 611 209 610 209 609 209 608 209 606 209 595 217 572 209 560 205 558 205 557 205 556 205 545 210 521 220 506 212 497 204 495 204 494 204 493 204 492 204 490 204 478 212 465 220 413 214 410 214 409 214 407 214 379 220 372 215 367 210 366 210 365 210 363 210 231 212 230 212 204 219 204 246"/></Shape>
+	    <String CONTENT="ANDRÉ de Coutances"
+                    HPOS="204"
+                    VPOS="204"
+                    WIDTH="562"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="210 354 2166 348" 
+                    HPOS="208"
+                    VPOS="309"
+                    WIDTH="1956"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="209 353 209 377 296 374 314 378 336 384 337 384 339 386 600 386 600 384 684 382 685 382 694 378 710 372 1351 372 1398 378 1413 381 1414 381 1416 381 1423 378 1440 374 1575 378 1641 381 1643 381 1664 378 1738 371 2163 378 2164 347 2162 320 1886 313 1884 313 1883 313 1862 319 1831 309 1830 309 1775 309 1773 309 1772 309 1738 320 1712 320 1683 320 1667 320 1384 310 1382 310 1275 320 1263 321 1252 320 1165 312 1164 312 1073 321 1063 321 1031 321 862 316 861 316 784 321 758 323 749 321 709 313 621 313 620 313 562 320 545 314 543 314 542 314 389 320 365 314 363 314 362 314 361 314 330 321 320 324 300 321 252 316 251 316 208 321 209 353"/></Shape>
+	    <String CONTENT="Se: Evangile.Trois versions rimées de l&#x27;évangile de Nicodeme, par"
+                    HPOS="208"
+                    VPOS="309"
+                    WIDTH="1956"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="327 448 1802 453" 
+                    HPOS="325"
+                    VPOS="414"
+                    WIDTH="1475"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="326 447 325 466 444 477 738 478 740 478 741 478 761 469 762 469 770 469 842 476 843 476 844 476 859 471 863 469 975 469 996 472 1063 479 1064 479 1106 472 1118 471 1166 471 1173 473 1187 479 1189 479 1190 481 1224 481 1224 479 1226 479 1238 473 1244 471 1439 471 1445 474 1458 481 1459 481 1460 482 1603 482 1603 481 1604 481 1622 476 1639 472 1656 477 1662 478 1664 478 1665 478 1799 477 1800 452 1800 427 1771 418 1770 418 1768 418 1491 426 1467 426 1465 426 1446 420 1445 420 1444 420 1253 425 1242 425 1239 425 1197 416 1196 416 1195 416 1170 425 1169 426 1065 426 1057 425 979 415 978 415 976 415 946 424 898 415 896 415 895 415 873 424 872 425 825 425 824 424 799 415 798 415 796 415 795 415 772 423 694 414 693 414 567 423 566 423 564 423 527 414 446 414 445 414 404 423 400 423 398 423 355 414 354 414 352 414 326 421 326 447"/></Shape>
+	    <String CONTENT="Chrétien, André de Coutances et un anonyme...1885."
+                    HPOS="325"
+                    VPOS="414"
+                    WIDTH="1475"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="239 556 1433 551" 
+                    HPOS="236"
+                    VPOS="516"
+                    WIDTH="1196"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="238 555 238 587 266 593 267 593 268 593 280 587 288 582 296 587 297 588 298 588 299 588 300 588 302 588 307 587 312 584 315 587 336 598 337 598 339 598 619 596 620 596 621 596 642 583 663 589 664 589 666 589 667 589 685 582 690 580 696 582 749 596 751 596 752 596 753 596 754 596 764 590 806 593 807 593 809 593 810 593 830 580 836 577 846 580 877 592 878 592 879 592 880 592 881 592 900 579 905 577 939 579 990 583 991 583 993 583 1007 578 1013 575 1233 575 1238 575 1321 592 1322 592 1323 592 1350 580 1432 573 1432 550 1429 526 1211 526 1192 516 1191 516 1157 516 1155 516 1154 516 1129 527 1055 527 1037 518 1036 518 1034 518 995 526 946 518 944 518 880 526 848 521 847 521 815 527 804 520 803 520 801 520 800 520 773 525 761 519 759 519 758 519 669 527 638 519 637 519 636 519 578 525 536 519 535 519 428 520 426 520 409 529 376 520 374 520 339 520 337 520 336 520 335 520 321 529 263 521 262 521 261 521 236 529 238 555"/></Shape>
+	    <String CONTENT="i: Société des anciens textes français."
+                    HPOS="236"
+                    VPOS="516"
+                    WIDTH="1196"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1474 551 1609 548" 
+                    HPOS="1470"
+                    VPOS="487"
+                    WIDTH="138"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="1472 550 1472 562 1498 562 1501 564 1509 572 1509 573 1511 573 1512 573 1513 573 1543 567 1549 566 1607 569 1608 547 1606 490 1594 487 1593 487 1592 487 1591 487 1590 487 1582 493 1576 497 1569 493 1553 487 1551 487 1550 487 1549 487 1532 495 1528 498 1524 495 1509 488 1508 488 1507 488 1506 488 1504 488 1493 497 1492 499 1470 499 1472 550"/></Shape>
+	    <String CONTENT="Vitt."
+                    HPOS="1470"
+                    VPOS="487"
+                    WIDTH="138"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1471 624 1703 621" 
+                    HPOS="1469"
+                    VPOS="575"
+                    WIDTH="233"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="1470 622 1470 635 1495 635 1496 635 1519 647 1520 647 1522 647 1523 647 1546 638 1562 646 1564 646 1565 646 1566 646 1577 642 1601 664 1601 666 1602 666 1603 666 1604 667 1655 667 1655 666 1656 666 1657 666 1685 642 1688 638 1699 642 1702 620 1699 595 1644 594 1641 592 1624 577 1623 577 1622 577 1620 577 1619 577 1618 577 1602 589 1601 589 1556 596 1539 585 1524 575 1523 575 1522 575 1520 575 1469 580 1470 622"/></Shape>
+	    <String CONTENT="Fornfr."
+                    HPOS="1469"
+                    VPOS="575"
+                    WIDTH="233"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1471 704 1727 700" 
+                    HPOS="1469"
+                    VPOS="643"
+                    WIDTH="257"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1470 703 1470 721 1513 731 1514 731 1516 731 1545 723 1556 721 1725 727 1726 699 1723 672 1686 672 1678 667 1667 656 1666 656 1665 656 1664 656 1662 656 1661 656 1652 663 1644 672 1622 673 1607 658 1597 649 1597 648 1596 648 1594 648 1518 643 1517 643 1516 643 1514 643 1511 647 1499 657 1487 645 1486 645 1486 643 1485 643 1483 643 1469 643 1470 703"/></Shape>
+	    <String CONTENT="Sällsk."
+                    HPOS="1469"
+                    VPOS="643"
+                    WIDTH="257"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

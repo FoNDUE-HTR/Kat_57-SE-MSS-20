@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00396.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="27"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2311 1471 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="126 187 903 183" 
+                    HPOS="123"
+                    VPOS="127"
+                    WIDTH="778"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="125 186 125 202 377 209 379 209 478 202 493 208 494 208 495 208 497 208 514 203 521 210 522 210 524 210 525 212 641 212 641 210 735 207 736 207 737 207 744 201 778 209 779 209 780 210 828 210 828 209 829 209 830 209 830 208 836 203 868 208 870 208 871 208 901 198 901 182 897 147 866 158 850 148 824 130 823 130 822 130 820 130 819 130 818 130 787 149 773 158 732 149 727 149 726 149 725 149 724 149 724 150 710 158 689 150 688 150 687 150 685 150 684 150 683 150 662 158 655 152 651 148 651 147 650 147 649 147 647 147 646 147 645 147 638 152 628 159 619 152 587 127 586 127 585 127 533 127 532 127 531 127 530 127 499 147 471 144 470 144 468 144 447 155 440 160 376 160 370 157 319 130 317 130 219 128 218 128 217 128 215 128 182 149 164 147 163 147 161 147 160 147 160 148 146 161 123 161 125 186"/></Shape>
+	    <String CONTENT="Andreas, Friedrich Carl"
+                    HPOS="123"
+                    VPOS="127"
+                    WIDTH="778"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="62 287 156 284" 
+                    HPOS="60"
+                    VPOS="223"
+                    WIDTH="95"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="61 285 61 320 155 320 155 283 152 223 131 224 130 224 128 224 106 241 79 261 60 261 61 285"/></Shape>
+	    <String CONTENT="Se:"
+                    HPOS="60"
+                    VPOS="223"
+                    WIDTH="95"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="153 383 1104 367" 
+                    HPOS="150"
+                    VPOS="310"
+                    WIDTH="953"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="152 382 152 410 220 410 220 409 222 409 227 407 252 396 290 402 292 402 401 394 409 401 411 402 412 402 413 402 414 402 416 402 424 399 446 393 470 398 485 401 487 401 488 401 497 397 522 385 598 393 606 393 607 393 608 393 609 393 609 392 624 382 737 381 753 381 762 387 778 399 779 399 780 399 781 399 882 398 883 398 884 398 893 392 937 397 938 397 965 396 967 396 968 396 989 379 990 379 1006 391 1007 391 1008 391 1009 391 1011 391 1027 385 1045 392 1046 392 1048 392 1049 392 1103 374 1103 366 1098 333 1073 339 1052 333 1033 328 1032 328 1030 328 1029 328 1018 334 1005 342 879 343 867 337 814 310 813 310 812 310 811 310 746 337 704 321 703 321 701 321 682 325 665 314 663 314 662 314 590 314 589 314 587 314 533 344 526 348 517 344 484 331 483 331 482 331 481 331 435 343 398 332 397 332 396 332 395 332 393 332 373 347 365 353 354 353 347 348 308 318 306 318 305 318 304 318 222 320 220 320 150 349 152 382"/></Shape>
+	    <String CONTENT="Festschrift Språkv. [Andreas, F.C."
+                    HPOS="150"
+                    VPOS="310"
+                    WIDTH="953"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="166 477 1757 471" 
+                    HPOS="164"
+                    VPOS="420"
+                    WIDTH="1592"
+                    HEIGHT="130">
+            <Shape><Polygon POINTS="165 475 165 550 354 550 386 543 553 502 600 512 601 512 645 505 660 510 661 510 662 510 663 510 715 493 764 504 765 504 813 498 881 506 882 506 964 490 1063 499 1065 499 1099 491 1181 511 1212 517 1213 517 1276 509 1295 516 1297 516 1298 516 1333 512 1389 533 1390 533 1391 533 1411 531 1457 545 1459 545 1460 545 1461 545 1574 505 1664 505 1664 504 1754 486 1756 469 1754 444 1697 428 1695 428 1694 428 1605 433 1587 426 1586 426 1585 426 1509 442 1428 431 1427 431 1368 441 1234 420 1211 420 1209 420 1208 420 1154 441 1135 434 1133 434 1132 434 1131 434 1104 442 1095 446 839 446 833 442 785 423 784 423 622 423 620 423 591 429 503 423 501 423 500 423 425 442 403 447 327 445 316 442 219 424 218 424 217 424 164 441 165 475"/></Shape>
+	    <String CONTENT="Friedrich Carl Andreas ... am 14 April 1916 dargebracht ..."
+                    HPOS="164"
+                    VPOS="420"
+                    WIDTH="1592"
+                    HEIGHT="130"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1574 570 1942 565" 
+                    HPOS="1572"
+                    VPOS="517"
+                    WIDTH="369"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="1573 569 1573 590 1589 597 1590 597 1591 597 1592 597 1594 597 1603 590 1703 592 1726 615 1726 617 1727 617 1729 617 1730 618 1745 618 1745 617 1828 615 1829 615 1830 615 1850 599 1866 608 1867 608 1868 608 1870 608 1871 608 1884 596 1941 586 1941 564 1937 536 1784 540 1774 536 1768 531 1767 531 1765 531 1764 531 1752 533 1734 517 1732 517 1731 517 1680 517 1678 517 1677 517 1676 517 1662 526 1628 518 1627 518 1626 518 1624 518 1624 520 1616 528 1601 520 1600 520 1599 520 1597 520 1572 533 1573 569"/></Shape>
+	    <String CONTENT="8º Leipzig 1916."
+                    HPOS="1572"
+                    VPOS="517"
+                    WIDTH="369"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00388.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="24"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2311 1479 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="160 196 802 196" 
+                    HPOS="159"
+                    VPOS="154"
+                    WIDTH="642"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="159 194 159 217 194 220 224 239 225 239 227 239 228 240 322 240 322 239 323 239 339 233 414 239 415 239 416 239 470 218 539 218 566 230 567 230 568 230 569 230 571 230 584 219 611 228 613 228 614 228 615 228 616 228 631 218 668 229 669 229 671 229 672 229 673 229 689 218 709 225 710 225 711 225 713 225 734 218 750 226 751 226 752 226 801 217 801 194 800 164 701 165 694 162 673 154 672 154 635 154 634 154 632 154 610 162 600 166 545 166 532 161 508 154 507 154 505 154 504 154 503 154 491 161 484 165 442 161 415 159 414 159 413 159 412 159 409 161 403 165 397 161 383 154 382 154 381 154 352 160 344 162 340 160 328 154 326 154 243 154 241 154 240 154 227 160 215 165 208 160 201 154 199 154 198 154 197 154 159 159 159 194"/></Shape>
+	    <String CONTENT="ANDREAS, Capellanus"
+                    HPOS="159"
+                    VPOS="154"
+                    WIDTH="642"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2082 84 2167 80" 
+                    HPOS="2078"
+                    VPOS="18"
+                    WIDTH="89"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="2081 99 2138 114 2139 114 2167 108 2166 78 2161 37 2141 37 2134 32 2122 20 2122 19 2120 19 2119 19 2099 18 2098 18 2097 18 2096 18 2096 19 2091 23 2086 27 2078 20 2081 83 2081 99"/></Shape>
+	    <String CONTENT="Vitt"
+                    HPOS="2078"
+                    VPOS="18"
+                    WIDTH="89"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2085 167 2221 167" 
+                    HPOS="2084"
+                    VPOS="109"
+                    WIDTH="136"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="2084 166 2084 213 2134 217 2135 217 2136 217 2138 217 2165 199 2177 192 2220 189 2220 166 2220 128 2124 109 2123 109 2084 118 2084 166"/></Shape>
+	    <String CONTENT="Nylat."
+                    HPOS="2084"
+                    VPOS="109"
+                    WIDTH="136"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="207 296 2301 301" 
+                    HPOS="204"
+                    VPOS="257"
+                    WIDTH="2096"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="206 296 204 321 2298 323 2300 300 2299 271 2097 271 2089 268 2051 262 2050 262 1735 267 1584 268 1574 266 1560 261 1559 261 1558 261 1338 263 1116 267 1094 262 1080 260 1079 260 1061 262 1027 267 859 261 815 260 814 260 782 261 634 266 610 260 606 259 605 259 604 259 561 259 271 266 206 257 206 296"/></Shape>
+	    <String CONTENT="Andrea Capellano, Trattato d&#x27;amore. Andreae Capellani regii francorum"
+                    HPOS="204"
+                    VPOS="257"
+                    WIDTH="2096"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="226 391 2237 400" 
+                    HPOS="224"
+                    VPOS="358"
+                    WIDTH="2012"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="225 390 224 418 651 424 652 424 653 424 667 420 676 418 715 420 803 425 804 425 927 420 977 419 1012 420 1104 426 1105 426 1294 421 1365 420 1370 421 1385 427 1386 427 1387 427 1389 427 1405 421 1407 421 1590 421 1595 423 1610 427 1611 427 1612 427 1781 423 1816 423 1820 423 1849 429 1850 429 1927 424 1946 423 1964 424 2036 430 2038 430 2235 424 2236 399 2234 366 2167 373 2038 366 2036 366 2035 366 2013 374 1954 374 1856 365 1854 365 1853 365 1846 365 1672 372 1643 363 1640 363 1639 363 1638 363 1613 363 1421 371 1381 363 1374 362 1373 362 1345 363 1220 370 1170 362 1163 362 1162 362 1160 362 1158 362 1135 368 1038 362 1009 361 1007 361 996 362 957 368 908 362 895 361 894 361 878 362 808 368 741 362 730 361 729 361 718 361 660 367 635 361 627 360 626 360 625 360 598 361 546 365 515 361 493 358 492 358 478 361 455 366 225 361 225 390"/></Shape>
+	    <String CONTENT="&quot;De amore&quot; libri tres. Testo latino del sec. XII con due traduzioni"
+                    HPOS="224"
+                    VPOS="358"
+                    WIDTH="2012"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="208 498 1980 504" 
+                    HPOS="206"
+                    VPOS="463"
+                    WIDTH="1772"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="207 497 206 524 334 526 371 537 372 537 373 537 375 537 415 526 424 525 452 527 568 537 569 537 571 537 599 529 605 526 710 526 735 530 787 540 788 540 984 534 1148 527 1215 536 1260 541 1262 541 1297 536 1358 529 1390 537 1391 537 1392 537 1394 537 1424 531 1529 538 1531 538 1645 535 1666 541 1676 543 1677 543 1679 545 1977 545 1978 503 1977 476 1918 467 1917 467 1828 474 1818 474 1814 474 1782 467 1691 467 1690 467 1658 473 1648 474 1635 473 1585 466 1584 466 1392 472 1357 472 1347 471 1310 466 1308 466 1284 471 1270 473 1106 473 1086 469 1053 464 1052 464 977 468 917 472 850 468 773 463 772 463 751 467 739 469 709 467 666 463 664 463 604 467 544 469 207 464 207 497"/></Shape>
+	    <String CONTENT="toscane inedite del sec. XIV a cura di Salvatore Battaglia."
+                    HPOS="206"
+                    VPOS="463"
+                    WIDTH="1772"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1431 604 1868 607" 
+                    HPOS="1428"
+                    VPOS="566"
+                    WIDTH="439"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="1429 603 1428 624 1453 625 1464 636 1464 637 1465 637 1466 637 1468 637 1555 626 1598 638 1600 638 1601 638 1644 632 1680 638 1681 638 1682 638 1684 638 1697 627 1698 627 1718 627 1719 627 1737 640 1738 640 1739 640 1740 641 1829 641 1829 640 1830 640 1866 629 1867 606 1867 577 1829 567 1724 567 1723 567 1722 567 1696 574 1696 575 1667 575 1667 574 1659 567 1659 566 1658 566 1656 566 1655 566 1654 566 1629 574 1628 574 1627 574 1593 566 1592 566 1591 566 1590 566 1559 573 1429 573 1429 603"/></Shape>
+	    <String CONTENT="8:o Roma 1947."
+                    HPOS="1428"
+                    VPOS="566"
+                    WIDTH="439"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="2069 1444 2258 1448" 
+                    HPOS="2067"
+                    VPOS="1391"
+                    WIDTH="190"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="2068 1443 2067 1460 2098 1457 2114 1463 2125 1468 2126 1468 2128 1468 2129 1468 2130 1468 2130 1467 2133 1465 2140 1459 2156 1459 2165 1467 2166 1467 2166 1468 2167 1468 2168 1468 2170 1468 2171 1468 2172 1468 2172 1467 2173 1467 2179 1461 2188 1468 2189 1468 2189 1470 2191 1470 2192 1470 2255 1471 2257 1447 2255 1393 2225 1402 2179 1402 2175 1394 2171 1392 2171 1391 2170 1391 2168 1391 2167 1391 2068 1397 2068 1443"/></Shape>
+	    <String CONTENT="20/3 1952"
+                    HPOS="2067"
+                    VPOS="1391"
+                    WIDTH="190"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

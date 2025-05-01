@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00440.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2315 1477 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="222 64 1602 59" 
+                    HPOS="220"
+                    VPOS="16"
+                    WIDTH="1381"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="221 62 221 108 332 107 333 107 337 105 390 82 554 91 555 91 556 91 622 75 704 75 732 87 734 87 735 87 777 83 797 89 798 89 799 89 800 89 841 78 891 91 904 93 905 93 906 93 917 89 941 82 962 88 997 100 999 100 1000 100 1001 100 1034 88 1068 93 1069 93 1112 84 1121 83 1125 84 1183 104 1185 104 1186 105 1252 105 1252 104 1254 104 1255 104 1277 91 1360 78 1393 73 1425 73 1431 76 1449 86 1451 86 1452 86 1504 75 1510 72 1600 71 1601 57 1599 18 1539 18 1538 18 1537 18 1488 33 1323 33 1293 18 1288 16 1287 16 1286 16 1268 18 1210 28 1162 18 1153 17 1151 17 1150 17 1145 18 1108 32 1024 18 1011 17 1010 17 1008 17 1005 18 979 32 850 34 821 19 820 19 819 19 817 19 787 32 755 19 752 18 751 18 666 18 665 18 664 18 661 19 625 35 564 35 485 19 481 19 480 19 463 19 425 22 423 22 395 36 291 36 261 19 259 19 258 19 257 19 220 19 221 62"/></Shape>
+	    <String CONTENT="Köpenhamn, Skribsvaerftsarbejdernes Forb."
+                    HPOS="220"
+                    VPOS="16"
+                    WIDTH="1381"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="198 232 692 228" 
+                    HPOS="195"
+                    VPOS="189"
+                    WIDTH="496"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="197 231 197 248 458 253 459 253 460 253 475 247 481 243 537 243 544 247 556 254 558 254 559 254 560 254 598 248 678 254 680 254 681 254 682 254 691 247 691 227 688 199 606 193 604 193 603 193 592 198 588 199 585 198 570 189 569 189 567 189 566 189 537 197 522 200 469 197 395 190 394 190 356 195 316 200 293 194 280 192 279 192 278 192 195 193 197 231"/></Shape>
+	    <String CONTENT="ANDREASEN, Villy"
+                    HPOS="195"
+                    VPOS="189"
+                    WIDTH="496"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="809 180 1038 163" 
+                    HPOS="804"
+                    VPOS="113"
+                    WIDTH="233"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="808 179 809 204 890 201 891 201 904 197 923 187 948 192 952 192 953 192 954 192 955 192 955 190 957 190 962 183 1037 182 1037 162 1032 113 970 118 969 118 959 121 947 128 938 125 928 121 927 121 926 121 925 121 923 121 923 123 919 128 911 136 804 142 808 179"/></Shape>
+	    <String CONTENT="Rev. 1965"
+                    HPOS="804"
+                    VPOS="113"
+                    WIDTH="233"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1984 64 2293 67" 
+                    HPOS="1982"
+                    VPOS="16"
+                    WIDTH="310"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1983 62 1982 81 2010 87 2011 87 2012 87 2014 87 2021 82 2024 81 2028 82 2058 91 2059 91 2060 91 2062 91 2093 83 2096 82 2097 83 2112 92 2113 92 2115 92 2116 92 2174 83 2187 82 2191 83 2210 93 2211 93 2212 93 2291 84 2292 66 2292 40 2258 36 2237 19 2235 19 2234 19 2233 19 2205 20 2203 20 2202 20 2202 22 2191 32 2184 38 2132 30 2131 30 2129 30 2106 38 2081 24 2080 24 2079 24 2078 24 2063 30 2043 19 2037 17 2036 17 1983 16 1983 62"/></Shape>
+	    <String CONTENT="Polit.ekon"
+                    HPOS="1982"
+                    VPOS="16"
+                    WIDTH="310"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1864 136 2035 134" 
+                    HPOS="1862"
+                    VPOS="87"
+                    WIDTH="171"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="1863 135 1863 161 1882 169 1883 169 1884 169 1886 169 1903 162 1945 176 1946 176 1947 176 1948 176 1999 150 2004 147 2032 147 2033 133 2030 99 2010 99 2008 97 1999 89 1999 88 1998 88 1996 88 1963 88 1962 88 1961 88 1959 88 1950 94 1937 102 1924 102 1914 92 1909 88 1909 87 1908 87 1907 87 1905 87 1904 87 1890 91 1877 94 1862 89 1863 135"/></Shape>
+	    <String CONTENT="Br.)"
+                    HPOS="1862"
+                    VPOS="87"
+                    WIDTH="171"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2077 134 2290 137" 
+                    HPOS="2074"
+                    VPOS="96"
+                    WIDTH="214"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="2075 133 2074 149 2105 150 2107 152 2122 163 2123 163 2125 163 2154 167 2155 167 2157 167 2175 158 2181 155 2190 160 2200 165 2201 165 2202 165 2203 165 2211 161 2213 160 2219 162 2237 168 2238 168 2239 168 2287 167 2288 136 2287 98 2198 99 2197 99 2196 99 2196 100 2195 100 2186 110 2155 110 2142 103 2127 96 2126 96 2125 96 2123 96 2122 96 2112 103 2105 108 2075 105 2075 133"/></Shape>
+	    <String CONTENT="Arbet."
+                    HPOS="2074"
+                    VPOS="96"
+                    WIDTH="214"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="2115 212 2274 212" 
+                    HPOS="2113"
+                    VPOS="171"
+                    WIDTH="159"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="2113 211 2113 245 2272 243 2272 211 2272 176 2265 171 2264 171 2263 171 2261 171 2260 171 2259 171 2251 178 2202 178 2191 178 2191 177 2185 172 2185 171 2184 171 2182 171 2181 171 2113 176 2113 211"/></Shape>
+	    <String CONTENT="Sällsk"
+                    HPOS="2113"
+                    VPOS="171"
+                    WIDTH="159"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="193 332 2181 320" 
+                    HPOS="190"
+                    VPOS="283"
+                    WIDTH="1990"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="192 331 193 354 2179 341 2180 319 2178 291 2081 283 2080 283 1905 284 1904 284 1870 293 1868 293 1855 293 1389 286 1388 286 1324 296 1321 296 1318 296 1187 290 1186 290 1129 296 1064 289 1063 289 1020 298 951 293 949 293 801 299 672 291 671 291 570 301 569 301 434 293 433 293 380 302 229 296 227 296 190 304 192 331"/></Shape>
+	    <String CONTENT="Festskrift ved Skribsvaerftsarbejdernes Forbunds 25 Aars Jubilaeum."
+                    HPOS="190"
+                    VPOS="283"
+                    WIDTH="1990"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="227 436 388 436" 
+                    HPOS="226"
+                    VPOS="395"
+                    WIDTH="160"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="226 434 226 458 241 465 242 465 243 465 245 465 268 459 364 465 365 465 367 465 386 458 386 434 383 396 373 406 327 406 319 397 316 396 316 395 315 395 314 395 312 395 311 395 310 395 307 397 296 405 275 399 266 395 264 395 263 395 226 399 226 434"/></Shape>
+	    <String CONTENT="/Ill./"
+                    HPOS="226"
+                    VPOS="395"
+                    WIDTH="160"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="1212 524 1839 518" 
+                    HPOS="1209"
+                    VPOS="481"
+                    WIDTH="629"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1210 523 1210 535 1243 551 1244 551 1245 551 1246 551 1247 551 1247 550 1256 543 1289 551 1291 551 1292 551 1293 551 1330 538 1335 535 1337 538 1355 550 1356 550 1357 550 1358 550 1552 549 1553 549 1554 549 1554 548 1560 543 1610 548 1611 548 1612 548 1613 548 1622 541 1634 532 1712 532 1749 532 1757 540 1759 540 1760 540 1761 540 1796 533 1835 544 1838 517 1836 497 1808 481 1807 481 1711 481 1709 481 1684 482 1682 482 1681 482 1663 496 1653 491 1651 491 1650 491 1649 491 1648 491 1637 498 1637 500 1579 501 1538 501 1537 500 1516 486 1515 486 1514 486 1512 486 1511 486 1465 500 1401 495 1384 485 1383 485 1382 485 1313 502 1310 502 1307 502 1246 486 1245 486 1244 486 1243 486 1241 486 1241 487 1224 502 1224 503 1209 503 1210 523"/></Shape>
+	    <String CONTENT="4:o Köbenhavn 1942."
+                    HPOS="1209"
+                    VPOS="481"
+                    WIDTH="629"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="195 638 2219 635" 
+                    HPOS="193"
+                    VPOS="596"
+                    WIDTH="2025"
+                    HEIGHT="231">
+            <Shape><Polygon POINTS="194 636 194 827 601 826 602 826 715 785 902 716 1072 674 1143 676 1144 676 1145 676 1212 656 1393 666 1394 666 1451 658 1537 663 1538 663 1618 657 1640 663 1642 663 1643 663 1644 663 1670 656 1695 663 1696 663 1697 663 1844 657 1892 668 1893 668 1894 668 1920 658 2030 655 2075 667 2077 667 2078 667 2217 661 2218 634 2216 596 2000 596 1999 596 1995 596 1958 605 1812 605 1753 597 1740 596 1739 596 1696 597 1514 605 1416 605 1398 598 1394 597 1393 597 1392 597 1390 597 1385 598 1362 604 1217 598 1160 597 1159 597 943 598 942 598 937 599 920 607 769 607 720 601 684 597 683 597 682 597 666 601 646 605 619 601 601 598 599 598 534 601 445 605 394 602 344 598 343 598 193 602 194 636"/></Shape>
+	    <String CONTENT="/Omslagstitel: Skribsvaerftsarbejdernes Forbund. 1917-1. August-1942./"
+                    HPOS="193"
+                    VPOS="596"
+                    WIDTH="2025"
+                    HEIGHT="231"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

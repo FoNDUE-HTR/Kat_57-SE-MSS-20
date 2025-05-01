@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00025.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="38"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2323 1479 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="136 63 1441 47" 
+                    HPOS="134"
+                    VPOS="6"
+                    WIDTH="1306"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="135 62 135 104 206 104 206 103 207 103 212 102 254 85 286 93 287 93 288 93 289 93 336 80 383 87 384 87 489 76 516 83 518 83 519 83 558 75 619 83 620 83 621 83 622 83 642 72 738 72 763 85 785 96 787 96 788 96 896 90 898 90 918 80 941 69 976 69 1005 77 1012 80 1013 80 1015 80 1039 76 1059 74 1067 76 1117 92 1118 92 1120 92 1226 91 1227 91 1286 69 1291 67 1307 69 1403 75 1405 75 1406 75 1440 64 1440 46 1438 23 1340 6 1339 6 1250 7 1185 23 1178 24 1174 23 1143 8 1142 8 1141 8 1070 16 1048 11 1047 11 1046 11 1044 11 1022 23 1013 28 807 29 791 23 769 14 768 14 767 14 766 14 748 23 735 30 705 24 704 24 673 30 646 23 619 16 618 16 616 16 615 16 614 16 601 23 588 32 551 32 527 23 513 18 511 18 510 18 483 23 471 25 462 23 439 17 437 17 436 17 368 23 344 25 330 23 312 20 310 20 309 20 302 23 271 37 231 37 204 23 197 20 196 20 194 20 134 23 135 62"/></Shape>
+	    <String CONTENT="Ges. deutscher Neurologen und Psychiater]"
+                    HPOS="134"
+                    VPOS="6"
+                    WIDTH="1306"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="104 280 319 277" 
+                    HPOS="102"
+                    VPOS="236"
+                    WIDTH="216"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="103 279 103 310 118 316 119 316 120 316 191 315 192 315 199 312 207 308 317 314 318 276 315 238 102 236 103 279"/></Shape>
+	    <String CONTENT="BERICHT"
+                    HPOS="102"
+                    VPOS="236"
+                    WIDTH="216"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2063 55 2279 55" 
+                    HPOS="2062"
+                    VPOS="3"
+                    WIDTH="216"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="2062 54 2062 69 2084 77 2085 77 2087 77 2088 77 2101 70 2104 70 2277 76 2278 54 2278 24 2222 3 2221 3 2220 3 2172 9 2137 4 2136 4 2135 4 2134 4 2099 25 2062 25 2062 54"/></Shape>
+	    <String CONTENT="Med ."
+                    HPOS="2062"
+                    VPOS="3"
+                    WIDTH="216"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2063 116 2276 116" 
+                    HPOS="2062"
+                    VPOS="78"
+                    WIDTH="213"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="2062 115 2062 130 2122 138 2124 138 2125 138 2143 130 2212 134 2214 134 2275 127 2275 115 2275 90 2259 78 2258 78 2257 78 2256 78 2208 87 2194 78 2193 78 2192 78 2159 78 2158 78 2157 78 2156 78 2137 91 2062 93 2062 115"/></Shape>
+	    <String CONTENT="Sällsk."
+                    HPOS="2062"
+                    VPOS="78"
+                    WIDTH="213"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2108 170 2225 170" 
+                    HPOS="2106"
+                    VPOS="127"
+                    WIDTH="118"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="2106 168 2106 189 2175 204 2177 204 2178 204 2179 204 2179 203 2196 188 2199 186 2222 187 2224 168 2224 150 2180 149 2174 143 2155 127 2153 127 2152 127 2151 127 2106 133 2106 168"/></Shape>
+	    <String CONTENT="Ty ."
+                    HPOS="2106"
+                    VPOS="127"
+                    WIDTH="118"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2055 237 2287 231" 
+                    HPOS="2052"
+                    VPOS="193"
+                    WIDTH="234"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="2053 236 2055 265 2079 259 2098 261 2117 263 2119 263 2120 263 2136 257 2146 254 2151 256 2164 262 2166 262 2167 262 2168 262 2204 251 2208 250 2210 250 2230 257 2231 257 2232 257 2233 257 2235 257 2247 247 2249 244 2286 242 2286 230 2283 212 2196 213 2192 210 2175 199 2174 199 2173 199 2172 199 2157 202 2140 193 2138 193 2095 193 2094 193 2093 193 2092 193 2072 209 2071 209 2052 209 2053 236"/></Shape>
+	    <String CONTENT="Allm."
+                    HPOS="2052"
+                    VPOS="193"
+                    WIDTH="234"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="95 375 2289 364" 
+                    HPOS="93"
+                    VPOS="331"
+                    WIDTH="2195"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="94 374 94 394 366 402 367 402 589 393 655 400 656 402 825 402 825 400 1070 390 1292 398 1293 398 1812 387 2009 394 2010 394 2103 386 2251 393 2252 393 2253 393 2288 383 2288 363 2284 331 93 344 94 374"/></Shape>
+	    <String CONTENT="über die Jahresversammlung der Gesellschaft deutscher Neurologen und Psy-"
+                    HPOS="93"
+                    VPOS="331"
+                    WIDTH="2195"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="92 477 597 477" 
+                    HPOS="91"
+                    VPOS="437"
+                    WIDTH="504"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="91 476 91 494 118 503 119 503 120 504 187 504 187 503 188 503 189 503 197 497 289 503 291 503 318 498 330 495 408 495 413 499 418 503 419 503 420 503 421 503 446 499 471 495 478 499 483 503 484 503 486 503 487 503 488 503 499 500 515 495 594 500 595 476 595 437 576 437 574 437 573 437 572 437 572 439 557 453 543 453 529 439 527 439 527 437 526 437 525 437 524 437 523 437 516 440 499 445 493 440 490 437 489 437 488 437 421 437 420 437 419 437 418 437 413 442 400 453 336 453 323 446 315 442 314 442 313 442 283 447 263 450 260 447 249 437 247 437 246 437 245 437 244 437 213 448 182 437 181 437 180 437 91 452 91 476"/></Shape>
+	    <String CONTENT="chiater...[Ill. ]"
+                    HPOS="91"
+                    VPOS="437"
+                    WIDTH="504"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1468 567 1993 556" 
+                    HPOS="1466"
+                    VPOS="515"
+                    WIDTH="526"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1467 566 1467 579 1499 593 1501 593 1553 594 1554 594 1555 594 1583 578 1606 593 1607 593 1608 593 1609 594 1639 594 1639 593 1777 589 1778 589 1804 575 1809 573 1844 573 1847 575 1857 583 1858 583 1860 583 1861 583 1862 583 1863 583 1874 575 1879 572 1920 572 1923 574 1926 577 1926 578 1928 578 1929 578 1930 578 1992 573 1992 555 1988 515 1871 518 1870 518 1861 520 1812 536 1750 536 1717 526 1715 526 1714 526 1713 526 1712 526 1685 537 1650 530 1649 530 1648 530 1646 530 1638 536 1606 531 1604 531 1603 531 1602 531 1601 531 1591 540 1520 540 1511 535 1496 527 1495 527 1493 527 1492 527 1466 535 1467 566"/></Shape>
+	    <String CONTENT="8:o Berlin  1938"
+                    HPOS="1466"
+                    VPOS="515"
+                    WIDTH="526"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="88 671 2123 660" 
+                    HPOS="86"
+                    VPOS="615"
+                    WIDTH="2036"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="87 670 87 710 473 709 474 709 487 705 547 684 709 684 777 698 778 698 867 688 958 696 968 696 969 696 970 696 974 695 1006 688 1141 690 1142 690 1199 683 1253 690 1317 700 1318 700 1438 698 1439 698 1470 686 1471 686 1475 686 1545 696 1546 696 1636 685 1714 695 1715 695 1800 682 2122 674 2122 659 2119 615 1882 617 1834 629 1761 620 1760 620 1678 629 1635 619 1634 619 1586 630 1444 624 1443 624 1442 624 1423 632 1322 632 1221 620 1219 620 1087 632 1044 622 1043 622 985 633 932 626 931 626 930 626 900 635 779 635 721 626 720 626 635 635 497 625 495 625 452 633 314 629 313 629 268 636 86 626 87 670"/></Shape>
+	    <String CONTENT="Se: Zeitschrift für die gesamte Neurologie und Psychiatrie...Bd 161."
+                    HPOS="86"
+                    VPOS="615"
+                    WIDTH="2036"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="93 767 1058 764" 
+                    HPOS="91"
+                    VPOS="722"
+                    WIDTH="966"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="92 765 93 807 120 795 140 800 141 800 143 800 144 800 157 794 188 809 204 816 206 816 207 817 262 817 262 816 263 816 280 809 305 797 330 804 331 804 333 804 413 791 458 800 460 800 461 800 478 790 619 790 648 800 650 800 651 800 693 790 726 812 729 815 730 815 731 815 732 815 769 814 849 809 869 814 870 814 872 814 873 814 905 805 933 805 949 815 951 815 952 815 953 816 1055 816 1057 763 1055 742 1016 722 1015 722 1013 722 1012 722 1011 722 1000 731 981 723 980 723 979 723 916 732 894 722 893 722 851 722 849 722 848 722 821 737 801 722 800 722 799 722 754 722 753 722 752 722 719 733 661 722 659 722 658 722 629 736 619 741 608 736 581 722 579 722 578 722 577 722 555 728 540 723 539 723 537 723 536 723 535 723 520 735 508 743 405 743 388 732 383 728 382 728 381 728 379 728 378 728 377 728 372 732 356 743 254 743 226 730 212 723 210 723 209 723 208 723 207 723 198 730 180 743 164 743 125 728 111 723 109 723 108 723 107 723 91 727 92 765"/></Shape>
+	    <String CONTENT="3: Munchen 20-30 Sept. 1937"
+                    HPOS="91"
+                    VPOS="722"
+                    WIDTH="966"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    
+                    BASELINE="1777 748 1996 744" 
+                    HPOS="1775"
+                    VPOS="703"
+                    WIDTH="220"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="1776 747 1776 775 1807 775 1807 774 1808 774 1817 770 1850 757 1871 765 1888 773 1889 773 1891 773 1932 772 1934 772 1935 772 1957 757 1960 756 1995 753 1995 743 1992 716 1963 716 1962 716 1946 703 1945 703 1944 703 1942 703 1941 703 1940 703 1940 704 1925 716 1925 717 1921 717 1886 717 1873 705 1873 704 1872 704 1871 704 1847 704 1846 704 1775 719 1776 747"/></Shape>
+	    <String CONTENT="Med ."
+                    HPOS="1775"
+                    VPOS="703"
+                    WIDTH="220"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    
+                    BASELINE="1774 815 2057 820" 
+                    HPOS="1772"
+                    VPOS="769"
+                    WIDTH="284"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1773 814 1772 833 1844 843 1845 843 1898 839 1947 851 2023 852 2024 852 2025 852 2026 852 2037 843 2041 841 2052 843 2056 818 2055 788 2036 788 2035 786 2029 781 2029 780 2027 780 2026 780 2025 780 1979 785 1958 775 1957 775 1956 775 1955 775 1924 785 1920 786 1916 785 1881 770 1879 770 1846 769 1820 769 1819 769 1818 769 1817 769 1817 770 1803 784 1802 784 1773 784 1773 814"/></Shape>
+	    <String CONTENT="Tidskr."
+                    HPOS="1772"
+                    VPOS="769"
+                    WIDTH="284"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

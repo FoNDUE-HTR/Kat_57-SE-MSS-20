@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00074.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="29"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2327 1471 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="168 260 551 257" 
+                    HPOS="165"
+                    VPOS="213"
+                    WIDTH="384"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="166 258 166 279 271 279 279 285 281 285 282 285 283 285 284 285 305 278 355 287 357 287 408 285 409 285 411 285 423 278 521 282 522 282 524 282 549 273 549 256 544 213 505 225 479 219 478 219 477 219 420 225 408 218 404 215 403 215 402 215 355 214 354 214 308 222 277 226 267 223 244 215 242 215 204 215 203 215 202 215 165 225 166 258"/></Shape>
+	    <String CONTENT="ANDESKÅDAREN"
+                    HPOS="165"
+                    VPOS="213"
+                    WIDTH="384"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="164 365 2223 356" 
+                    HPOS="161"
+                    VPOS="318"
+                    WIDTH="2061"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="163 364 163 394 298 396 299 396 321 393 384 387 429 393 452 396 454 396 485 392 525 388 582 392 634 394 635 394 681 391 752 385 849 390 930 393 931 393 932 393 948 388 962 383 1046 383 1087 387 1132 392 1133 393 1295 393 1295 392 1325 386 1340 382 1376 385 1434 390 1435 390 1437 390 1457 385 1467 382 1530 383 1724 390 1725 390 1781 381 1790 381 1808 381 1909 386 1910 386 1911 386 1927 381 1931 380 1936 380 1984 388 1985 388 2222 377 2222 355 2218 321 2017 326 2002 322 1991 318 1990 318 1989 318 1869 323 1811 325 1802 323 1784 320 1783 320 1748 323 1718 327 1687 325 1643 320 1641 320 1640 320 1621 325 1605 329 1543 329 1529 326 1509 321 1337 321 1336 321 1283 327 1257 329 1191 327 1060 323 1059 323 1057 323 1044 328 1038 331 960 329 760 325 759 325 758 325 741 331 736 332 727 331 686 325 684 325 578 332 570 332 555 332 283 326 282 326 281 326 258 334 161 334 163 364"/></Shape>
+	    <String CONTENT="Svedenborg ... jemte utdrag ur hans egna berättelser om sina syner och"
+                    HPOS="161"
+                    VPOS="318"
+                    WIDTH="2061"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="164 464 664 467" 
+                    HPOS="161"
+                    VPOS="430"
+                    WIDTH="502"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="163 463 161 483 191 491 192 491 193 493 240 493 240 491 241 491 242 491 249 485 260 491 261 491 262 491 332 485 342 491 343 491 344 491 346 491 347 491 369 485 414 493 416 493 662 485 663 466 662 442 559 442 558 441 548 433 547 433 546 433 544 433 543 433 517 441 504 431 503 431 501 431 439 431 438 431 436 431 422 439 406 430 404 430 374 430 373 430 371 430 370 430 363 437 348 430 347 430 299 430 298 430 296 430 295 430 281 440 269 433 268 433 267 433 266 433 163 439 163 463"/></Shape>
+	    <String CONTENT="andeskåderier ..."
+                    HPOS="161"
+                    VPOS="430"
+                    WIDTH="502"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1358 562 1949 565" 
+                    HPOS="1356"
+                    VPOS="526"
+                    WIDTH="592"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="1357 561 1356 588 1381 585 1400 591 1405 592 1406 592 1407 592 1408 592 1410 592 1411 591 1417 585 1429 591 1437 594 1438 594 1504 596 1505 596 1507 596 1508 596 1511 592 1520 585 1549 592 1551 592 1552 592 1553 592 1554 592 1565 585 1579 593 1583 596 1584 596 1585 596 1586 597 1634 597 1634 596 1635 596 1640 593 1651 587 1710 586 1726 594 1729 597 1730 597 1731 597 1732 597 1734 597 1735 597 1735 596 1736 594 1742 588 1786 586 1829 594 1830 594 1832 594 1843 590 1870 597 1872 597 1873 597 1875 597 1876 597 1877 597 1899 588 1946 597 1948 564 1948 538 1927 538 1927 537 1916 527 1916 526 1915 526 1914 526 1913 526 1803 527 1802 527 1780 537 1779 537 1754 527 1753 527 1752 527 1693 537 1688 537 1684 537 1656 529 1655 529 1654 529 1653 529 1639 536 1624 529 1623 529 1622 529 1621 529 1607 536 1574 529 1573 529 1532 534 1526 529 1526 528 1525 528 1524 528 1522 528 1521 528 1493 536 1491 536 1488 536 1448 528 1446 528 1445 528 1444 528 1433 536 1430 536 1395 527 1394 527 1357 534 1357 561"/></Shape>
+	    <String CONTENT="8:o Stockholm 1851."
+                    HPOS="1356"
+                    VPOS="526"
+                    WIDTH="592"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="172 672 1411 665" 
+                    HPOS="170"
+                    VPOS="629"
+                    WIDTH="1240"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="171 670 171 694 224 694 278 709 279 709 281 710 417 710 417 709 533 707 535 707 536 707 559 693 660 705 661 705 662 705 700 691 774 704 775 704 917 690 1125 697 1126 697 1127 697 1129 697 1142 689 1208 689 1294 704 1295 704 1410 686 1410 664 1407 635 1360 629 1359 629 1358 629 1346 635 1342 636 1332 635 1310 631 1309 631 1202 636 1152 637 1125 636 1032 630 1030 630 1029 630 1017 636 937 630 936 630 935 630 915 637 911 639 894 637 819 631 818 631 782 639 778 639 767 639 667 631 666 631 665 631 640 639 636 640 629 639 584 632 582 632 581 632 564 640 563 640 538 640 311 634 310 634 309 634 292 641 287 641 188 635 187 635 186 635 170 640 171 670"/></Shape>
+	    <String CONTENT="Se: Sjöberg, Christopher Christian August"
+                    HPOS="170"
+                    VPOS="629"
+                    WIDTH="1240"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="532 767 782 767" 
+                    HPOS="531"
+                    VPOS="709"
+                    WIDTH="250"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="531 766 531 782 552 793 553 793 554 793 555 793 557 793 557 792 565 785 566 783 608 783 618 787 632 793 633 793 634 793 635 793 645 788 646 788 667 803 668 803 670 803 671 804 721 804 721 803 722 803 724 803 737 794 741 792 780 796 781 766 781 747 742 742 727 727 727 726 726 726 725 726 724 726 722 726 721 726 703 743 677 745 668 745 667 745 628 710 628 709 627 709 625 709 570 709 569 709 568 709 566 709 531 739 531 766"/></Shape>
+	    <String CONTENT="Biogr."
+                    HPOS="531"
+                    VPOS="709"
+                    WIDTH="250"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="586 844 683 841" 
+                    HPOS="582"
+                    VPOS="786"
+                    WIDTH="100"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="585 843 585 863 682 863 682 840 679 804 616 786 614 786 613 786 612 786 611 786 582 805 585 843"/></Shape>
+	    <String CONTENT="Sv."
+                    HPOS="582"
+                    VPOS="786"
+                    WIDTH="100"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="560 909 969 905" 
+                    HPOS="558"
+                    VPOS="870"
+                    WIDTH="410"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="559 908 559 926 608 940 609 940 611 940 612 940 640 932 704 933 724 945 725 945 726 945 727 945 728 945 749 934 755 931 771 934 776 935 778 935 779 935 780 935 782 935 807 924 897 923 915 940 917 942 917 943 919 943 920 943 921 943 968 942 968 904 964 881 922 883 919 880 908 870 906 870 905 870 904 870 903 870 870 879 859 881 851 879 835 872 834 872 833 872 832 872 830 872 830 873 824 878 818 885 765 885 752 877 742 870 741 870 740 870 738 870 737 870 736 870 728 875 722 880 673 884 651 874 645 872 644 872 643 872 558 872 559 908"/></Shape>
+	    <String CONTENT="Svedenborg"
+                    HPOS="558"
+                    VPOS="870"
+                    WIDTH="410"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="956 943 1010 943" 
+                    HPOS="955"
+                    VPOS="873"
+                    WIDTH="54"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="968 905 962 905 955 942 955 967 1008 978 1009 942 1007 873 968 893 968 905"/></Shape>
+	    <String CONTENT="]"
+                    HPOS="955"
+                    VPOS="873"
+                    WIDTH="54"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

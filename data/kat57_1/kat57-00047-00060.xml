@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00060.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2304"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="21"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2304"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2302"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2303 1471 2303 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="198 185 1719 188" 
+                    HPOS="196"
+                    VPOS="118"
+                    WIDTH="1522"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="197 184 196 203 423 214 424 215 652 215 652 214 653 214 682 206 702 215 704 215 705 217 1045 217 1045 215 1046 215 1066 207 1110 207 1129 215 1131 215 1132 217 1205 217 1205 215 1207 215 1230 208 1295 217 1296 217 1297 217 1320 208 1392 208 1410 217 1412 217 1413 217 1414 217 1436 208 1549 208 1589 217 1591 217 1592 217 1605 209 1717 207 1718 187 1717 121 1593 121 1592 121 1591 121 1588 122 1571 127 1483 122 1443 121 1442 121 1441 121 1435 123 1374 148 1230 148 1212 139 1210 139 1209 139 1176 145 1091 131 1048 131 1047 131 1046 131 990 145 945 130 944 130 943 130 880 137 858 128 834 120 833 120 787 120 786 120 743 130 682 145 574 145 541 132 525 126 523 126 522 126 435 128 401 118 399 118 398 118 291 120 290 120 246 134 230 139 197 136 197 184"/></Shape>
+	    <String CONTENT="Anderson-Tesch, Hj[almar Gustaf"
+                    HPOS="196"
+                    VPOS="118"
+                    WIDTH="1522"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2022 51 2285 48" 
+                    HPOS="2020"
+                    VPOS="3"
+                    WIDTH="264"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="2021 50 2021 72 2106 79 2107 79 2108 79 2122 74 2138 67 2236 67 2283 77 2284 47 2281 18 2151 3 2150 3 2149 3 2119 18 2054 4 2053 4 2052 4 2020 18 2021 50"/></Shape>
+	    <String CONTENT="[Polit. ekon"
+                    HPOS="2020"
+                    VPOS="3"
+                    WIDTH="264"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2032 110 2269 107" 
+                    HPOS="2030"
+                    VPOS="67"
+                    WIDTH="238"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="2031 109 2031 138 2090 131 2151 134 2218 139 2219 139 2220 139 2236 132 2240 130 2267 130 2268 106 2264 79 2186 82 2184 80 2171 68 2171 67 2170 67 2169 67 2167 67 2108 68 2107 68 2106 68 2094 77 2070 68 2069 68 2068 68 2067 68 2030 83 2031 109"/></Shape>
+	    <String CONTENT="Näringsl"
+                    HPOS="2030"
+                    VPOS="67"
+                    WIDTH="238"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2051 158 2199 155" 
+                    HPOS="2048"
+                    VPOS="128"
+                    WIDTH="150"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="2050 157 2050 174 2081 174 2084 175 2091 182 2091 184 2092 184 2094 184 2095 184 2096 184 2111 177 2121 174 2134 179 2148 184 2149 184 2150 184 2198 182 2198 154 2196 141 2135 141 2117 128 2116 128 2115 128 2075 128 2074 128 2073 128 2048 141 2050 157"/></Shape>
+	    <String CONTENT="Amer"
+                    HPOS="2048"
+                    VPOS="128"
+                    WIDTH="150"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="220 290 2244 290" 
+                    HPOS="219"
+                    VPOS="230"
+                    WIDTH="2024"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="219 289 219 311 431 311 431 310 515 301 588 310 590 310 646 301 690 310 691 310 798 304 855 310 856 311 1312 311 1312 310 1369 301 1442 307 1443 307 1445 307 1463 301 1718 301 1742 307 1743 307 1744 307 1943 301 2242 310 2243 289 2243 250 2105 230 1993 230 1992 230 1991 230 1940 249 1938 250 1908 250 1897 247 1818 230 1816 230 1815 230 1761 247 1759 249 1669 258 1624 246 1562 230 1561 230 1393 230 1392 230 1391 230 1348 246 1311 258 1245 256 1209 245 1175 235 1174 235 1172 235 1171 235 1143 245 1101 260 860 260 809 244 793 239 792 239 791 239 790 239 772 244 714 260 503 260 453 242 419 230 418 230 252 230 251 230 250 230 219 240 219 289"/></Shape>
+	    <String CONTENT="Forskning och industri i Nordamerikas förenta"
+                    HPOS="219"
+                    VPOS="230"
+                    WIDTH="2024"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="211 362 1440 367" 
+                    HPOS="208"
+                    VPOS="311"
+                    WIDTH="1231"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="209 361 208 379 388 385 390 385 391 385 408 381 431 375 614 375 636 382 650 386 651 386 652 387 792 387 792 386 793 386 803 383 823 379 844 383 848 385 850 385 851 385 862 383 905 379 972 385 1006 387 1007 387 1008 387 1018 385 1048 377 1122 386 1131 386 1132 386 1133 386 1134 386 1149 379 1165 386 1171 388 1172 388 1174 388 1175 388 1185 386 1207 380 1220 386 1223 387 1224 387 1225 387 1236 386 1293 380 1333 387 1343 388 1344 388 1345 388 1349 387 1366 381 1436 387 1439 366 1437 343 1026 342 1021 338 974 314 972 314 971 314 970 314 905 331 873 315 872 315 841 314 840 314 839 314 777 337 769 339 734 336 715 334 672 312 671 312 563 312 561 312 523 321 514 315 512 315 511 315 385 311 384 311 382 311 366 317 325 311 323 311 322 311 269 332 253 338 209 332 209 361"/></Shape>
+	    <String CONTENT="stater. Berättelse avgiven."
+                    HPOS="208"
+                    VPOS="311"
+                    WIDTH="1231"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="975 447 2198 463" 
+                    HPOS="972"
+                    VPOS="380"
+                    WIDTH="1225"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="974 446 972 466 1002 474 1003 474 1004 474 1006 474 1026 467 1056 458 1096 458 1112 469 1113 469 1115 469 1116 469 1117 469 1153 460 1203 472 1205 472 1250 473 1283 473 1284 473 1327 464 1372 473 1374 473 1375 473 1396 463 1470 473 1472 473 1520 464 1593 480 1594 480 1624 475 1637 483 1651 490 1652 490 1727 491 1728 493 1799 493 1799 491 1819 488 1889 472 1954 486 1955 486 1956 486 1958 486 1985 471 2007 471 2058 489 2059 489 2061 489 2062 489 2078 483 2097 494 2100 496 2101 496 2102 496 2104 498 2196 498 2197 462 2196 414 2140 410 2139 410 2138 410 2132 413 2116 420 2099 412 2091 409 2090 409 2089 409 2063 410 2035 393 2034 393 2032 393 1988 392 1987 392 1986 392 1934 410 1915 417 1772 417 1759 408 1754 404 1753 404 1751 404 1750 404 1749 404 1739 408 1734 409 1729 408 1711 399 1710 399 1708 399 1707 399 1685 407 1680 408 1646 407 1643 407 1615 387 1614 387 1613 387 1549 387 1548 387 1547 387 1516 404 1506 410 1468 412 1455 404 1428 387 1426 387 1425 387 1424 387 1423 387 1394 396 1372 387 1371 387 1370 387 1369 387 1358 392 1315 385 1313 385 1312 385 1255 402 1248 403 1241 401 1181 382 1180 382 1154 381 1153 381 1152 381 1121 396 1096 381 1095 381 1094 381 1068 380 1067 380 974 397 974 446"/></Shape>
+	    <String CONTENT="8º Stockholm [tr. i Uppsala] 1919"
+                    HPOS="972"
+                    VPOS="380"
+                    WIDTH="1225"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="185 531 2274 546" 
+                    HPOS="182"
+                    VPOS="468"
+                    WIDTH="2091"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="184 529 182 555 289 555 295 556 312 561 314 561 315 561 345 556 359 555 366 558 418 574 419 574 534 575 536 575 615 561 988 578 990 580 1077 580 1077 578 1133 569 1208 575 1209 575 1262 569 1334 577 1336 577 1388 575 1390 575 1423 565 1430 563 1628 563 1697 566 1705 566 1799 585 1800 585 1960 577 2034 582 2035 582 2105 570 2270 570 2273 545 2270 509 2204 509 2200 507 2122 485 2121 485 2119 485 2005 486 2004 486 1942 504 1935 506 1793 506 1689 505 1675 500 1607 480 1605 480 1604 480 1538 495 1437 480 1436 480 1363 496 1361 496 1359 496 1334 489 1333 489 1332 489 1331 489 1307 495 1290 501 1246 501 1224 495 1150 474 1149 474 953 473 952 473 873 486 807 475 806 475 804 475 756 489 726 496 531 496 494 485 439 469 437 469 436 469 318 477 269 468 268 468 184 480 184 529"/></Shape>
+	    <String CONTENT="Se: Sveriges industriförbund. Avd. Diverse publikationer"
+                    HPOS="182"
+                    VPOS="468"
+                    WIDTH="2091"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="313 617 1074 627" 
+                    HPOS="311"
+                    VPOS="569"
+                    WIDTH="762"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="312 615 311 641 357 636 364 642 365 642 366 642 368 644 441 644 441 642 442 642 467 635 478 645 479 646 480 646 482 646 483 647 506 647 506 646 507 646 509 646 509 645 510 645 518 636 564 636 590 644 591 644 592 644 658 639 668 646 669 646 671 646 672 646 673 646 702 639 717 647 721 648 722 648 723 648 725 648 729 647 753 640 763 647 765 650 766 650 768 650 819 651 820 651 821 651 834 648 857 642 894 648 916 652 917 652 918 652 931 648 950 644 1071 650 1073 626 1073 601 1021 601 1020 599 987 577 986 577 985 577 983 577 982 577 906 598 904 598 902 597 874 576 873 576 872 576 871 576 869 576 821 597 820 597 801 576 801 575 799 575 798 575 797 575 796 575 766 588 731 574 729 574 694 574 693 574 691 574 690 574 663 594 662 594 628 594 628 593 607 574 607 572 606 572 604 572 566 571 515 571 514 571 512 571 511 571 485 592 484 592 463 592 463 591 451 581 450 581 449 581 447 581 430 583 397 569 396 569 384 569 382 569 381 569 380 569 380 570 358 590 312 590 312 615"/></Shape>
+	    <String CONTENT="Noº  15. Polit. ekon"
+                    HPOS="311"
+                    VPOS="569"
+                    WIDTH="762"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="776 699 863 694" 
+                    HPOS="771"
+                    VPOS="639"
+                    WIDTH="91"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="775 697 777 721 818 710 840 721 841 722 842 722 844 722 862 721 862 693 857 639 771 659 775 697"/></Shape>
+	    <String CONTENT="Sv"
+                    HPOS="771"
+                    VPOS="639"
+                    WIDTH="91"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="645 734 993 739" 
+                    HPOS="642"
+                    VPOS="696"
+                    WIDTH="350"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="644 733 642 755 680 765 682 765 683 765 698 756 704 754 733 758 763 761 764 761 780 759 798 755 814 759 841 767 842 767 844 769 895 769 895 767 896 767 898 767 905 761 910 758 931 761 955 766 956 766 991 762 992 738 991 720 896 704 895 704 894 704 874 715 869 717 774 711 772 711 771 711 770 711 764 716 754 710 734 696 733 696 732 696 663 696 662 696 661 696 644 704 644 733"/></Shape>
+	    <String CONTENT="Näringsv."
+                    HPOS="642"
+                    VPOS="696"
+                    WIDTH="350"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    
+                    BASELINE="674 795 916 798" 
+                    HPOS="672"
+                    VPOS="747"
+                    WIDTH="243"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="673 794 672 813 690 820 691 820 693 820 732 814 737 814 912 820 915 797 910 748 887 765 821 754 777 747 776 747 673 762 673 794"/></Shape>
+	    <String CONTENT="Sällsk"
+                    HPOS="672"
+                    VPOS="747"
+                    WIDTH="243"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

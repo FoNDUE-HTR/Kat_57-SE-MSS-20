@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-02166-00337.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="37"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1480">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_7e1039f3"
+                    
+                    BASELINE="228 87 538 82" 
+                    HPOS="225"
+                    VPOS="20"
+                    WIDTH="312"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="227 86 227 102 239 111 240 111 241 111 243 111 244 111 254 106 275 125 275 127 276 127 277 127 278 127 280 127 289 122 302 128 303 128 304 128 305 128 307 128 307 127 324 109 333 99 360 99 433 106 434 106 458 101 482 123 486 125 486 127 487 127 488 127 489 128 537 128 537 81 534 20 487 22 486 22 484 22 484 23 479 27 462 44 440 32 439 30 437 30 436 30 435 30 431 32 400 50 384 38 376 30 375 30 373 30 372 30 371 30 370 30 370 32 359 40 342 56 287 56 278 50 262 39 261 39 260 39 259 39 257 39 256 39 238 55 235 57 225 57 227 86"/></Shape>
+	    <String CONTENT="[Äppelviken]"
+                    HPOS="225"
+                    VPOS="20"
+                    WIDTH="312"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ed4b01d"
+                    
+                    BASELINE="1940 88 2268 88" 
+                    HPOS="1939"
+                    VPOS="32"
+                    WIDTH="328"
+                    HEIGHT="144">
+            <Shape><Polygon POINTS="1939 87 1939 134 2020 134 2045 146 2056 152 2057 152 2059 152 2060 152 2068 150 2087 143 2102 154 2130 175 2131 175 2133 175 2134 176 2200 176 2200 175 2202 175 2203 175 2212 167 2215 165 2266 173 2267 87 2267 41 2231 32 2230 32 2229 32 2191 39 2139 32 2138 32 2136 32 2135 32 2135 33 2125 40 2124 43 2093 43 2091 40 2082 33 2082 32 2081 32 2080 32 2078 32 2023 39 2007 41 2001 39 1983 32 1982 32 1981 32 1939 38 1939 87"/></Shape>
+	    <String CONTENT="Tillf.-tidn."
+                    HPOS="1939"
+                    VPOS="32"
+                    WIDTH="328"
+                    HEIGHT="144"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7b09896a"
+                    
+                    BASELINE="221 194 684 194" 
+                    HPOS="220"
+                    VPOS="162"
+                    WIDTH="463"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="220 193 220 222 238 231 239 231 294 233 296 233 330 225 365 233 366 233 367 233 368 233 384 222 403 231 404 231 405 231 444 224 460 233 461 233 462 234 526 234 526 233 528 233 544 224 578 233 579 233 581 233 582 233 583 233 602 222 621 233 623 233 624 233 625 233 651 222 683 222 683 193 683 162 220 162 220 193"/></Shape>
+	    <String CONTENT="ÄPPELVIKS-BLADET"
+                    HPOS="220"
+                    VPOS="162"
+                    WIDTH="463"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2aea178a"
+                    
+                    BASELINE="215 293 900 290" 
+                    HPOS="213"
+                    VPOS="255"
+                    WIDTH="686"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="214 292 214 331 277 331 282 334 288 339 289 339 291 339 292 339 293 339 294 339 299 334 303 331 307 335 345 357 346 357 347 357 349 357 350 357 351 357 376 341 398 341 421 362 423 362 424 362 425 363 550 363 550 362 583 355 603 361 604 361 605 361 606 361 637 344 639 342 669 339 682 345 688 347 689 347 690 347 692 347 698 345 726 334 755 342 756 342 757 342 758 342 767 337 779 347 796 361 798 361 799 361 800 361 801 361 803 361 819 349 842 330 895 350 899 289 898 263 884 255 883 255 882 255 825 255 824 255 822 255 821 255 821 256 813 263 772 255 771 255 769 255 743 262 692 255 690 255 636 262 624 256 623 256 621 256 620 256 619 256 619 257 611 263 550 257 549 257 547 257 546 257 535 266 420 266 394 256 393 256 392 256 391 256 389 256 378 265 328 257 326 257 270 265 256 256 255 256 254 256 252 256 251 256 213 266 214 292"/></Shape>
+	    <String CONTENT="Sommarhemmets tidning."
+                    HPOS="213"
+                    VPOS="255"
+                    WIDTH="686"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_68876d63"
+                    
+                    BASELINE="253 394 373 394" 
+                    HPOS="252"
+                    VPOS="355"
+                    WIDTH="120"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="252 393 252 423 326 416 338 427 339 427 339 429 340 429 341 429 342 430 372 430 372 393 372 367 320 355 319 355 318 355 292 362 287 362 252 360 252 393"/></Shape>
+	    <String CONTENT="910."
+                    HPOS="252"
+                    VPOS="355"
+                    WIDTH="120"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b2c8114f"
+                    
+                    BASELINE="1554 392 1989 396" 
+                    HPOS="1552"
+                    VPOS="344"
+                    WIDTH="436"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="1553 390 1552 429 1566 439 1568 439 1569 439 1570 439 1571 439 1596 431 1613 447 1614 447 1616 447 1661 448 1663 450 1685 450 1685 448 1686 448 1687 448 1687 447 1697 439 1725 445 1727 445 1728 445 1729 445 1729 444 1744 431 1756 420 1792 431 1793 431 1795 431 1839 421 1876 429 1877 429 1878 429 1880 429 1888 423 1941 423 1966 436 1970 439 1971 439 1972 439 1973 439 1987 436 1988 395 1988 360 1966 349 1965 349 1915 347 1914 347 1913 347 1912 347 1898 360 1874 346 1872 346 1871 346 1870 346 1848 358 1845 360 1791 360 1786 357 1756 346 1755 346 1754 346 1753 346 1714 356 1707 357 1656 355 1644 355 1614 344 1613 344 1612 344 1553 352 1553 390"/></Shape>
+	    <String CONTENT="Stockholm 1910."
+                    HPOS="1552"
+                    VPOS="344"
+                    WIDTH="436"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00298.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="28"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2327 1471 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="152 203 495 199" 
+                    HPOS="149"
+                    VPOS="159"
+                    WIDTH="345"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="150 202 150 214 493 218 494 198 490 174 418 174 391 160 390 160 389 160 321 175 305 160 305 159 304 159 303 159 289 159 288 159 242 168 233 160 231 160 230 160 195 160 193 160 192 160 149 175 150 202"/></Shape>
+	    <String CONTENT="ANDRÉ, Marc"
+                    HPOS="149"
+                    VPOS="159"
+                    WIDTH="345"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="142 305 731 305" 
+                    HPOS="141"
+                    VPOS="271"
+                    WIDTH="589"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="141 304 141 323 177 333 179 333 180 333 181 333 187 327 198 333 200 333 201 334 251 334 251 333 252 333 254 333 261 327 284 332 285 332 287 332 288 332 298 325 339 325 349 332 350 332 352 332 353 332 444 327 462 333 463 333 465 333 466 333 488 325 489 325 547 325 548 325 558 333 559 333 560 333 562 333 730 325 730 304 730 280 645 271 644 271 581 279 552 271 551 271 549 271 493 279 463 271 462 271 461 271 419 278 381 271 380 271 379 271 377 271 366 280 300 280 293 273 292 273 290 273 289 273 255 279 244 271 242 271 241 271 240 271 202 278 195 272 195 271 193 271 192 271 166 271 165 271 164 271 141 279 141 304"/></Shape>
+	    <String CONTENT="Halacariens marins."
+                    HPOS="141"
+                    VPOS="271"
+                    WIDTH="589"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="145 501 932 504" 
+                    HPOS="143"
+                    VPOS="464"
+                    WIDTH="788"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="144 500 143 527 185 543 186 543 187 544 225 544 225 543 227 543 228 543 247 527 250 526 251 527 271 543 272 543 273 543 274 544 381 544 381 543 450 531 457 536 458 536 460 536 461 536 462 536 463 536 474 528 484 532 485 532 487 532 488 532 503 526 510 522 557 525 578 526 602 537 603 537 605 537 606 537 607 537 628 525 651 536 652 536 654 536 655 536 688 525 692 523 796 523 797 523 843 544 844 544 845 545 883 545 883 544 884 544 886 544 911 523 930 523 931 502 930 479 865 466 805 466 803 466 802 466 801 466 801 467 787 478 787 479 708 479 705 478 683 466 682 466 681 466 679 466 660 472 554 466 553 466 552 466 551 466 535 475 501 468 500 468 499 468 498 468 490 474 481 466 481 464 479 464 478 464 477 464 476 464 474 464 458 477 457 478 350 478 348 475 331 464 330 464 328 464 292 464 290 464 289 464 288 464 272 475 271 477 265 475 215 464 214 464 144 474 144 500"/></Shape>
+	    <String CONTENT="Se: Faune de France. 46. ("
+                    HPOS="143"
+                    VPOS="464"
+                    WIDTH="788"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="883 549 1029 549" 
+                    HPOS="882"
+                    VPOS="511"
+                    WIDTH="146"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="882 548 882 561 1027 567 1028 548 1028 517 978 511 976 511 975 511 949 523 940 529 882 529 882 548"/></Shape>
+	    <String CONTENT="Zool."
+                    HPOS="882"
+                    VPOS="511"
+                    WIDTH="146"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="871 600 1066 600" 
+                    HPOS="870"
+                    VPOS="565"
+                    WIDTH="195"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="870 599 870 640 893 640 894 639 898 639 899 639 900 639 903 636 914 626 925 634 926 634 927 634 928 634 946 632 960 631 962 631 963 631 981 618 1005 618 1014 626 1014 628 1016 628 1017 628 1018 628 1065 623 1065 599 1065 581 1030 574 1029 574 1028 574 1012 578 1008 580 1007 578 1002 574 1001 574 1000 574 998 574 978 577 969 580 967 577 954 566 954 565 953 565 952 565 951 565 870 574 870 599"/></Shape>
+	    <String CONTENT="Geogr."
+                    HPOS="870"
+                    VPOS="565"
+                    WIDTH="195"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="886 641 1001 641" 
+                    HPOS="884"
+                    VPOS="618"
+                    WIDTH="116"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="884 640 884 672 906 674 926 689 927 689 928 689 930 690 967 690 967 689 968 689 969 689 985 675 987 674 998 675 1000 640 998 618 884 618 884 640"/></Shape>
+	    <String CONTENT="Fr."
+                    HPOS="884"
+                    VPOS="618"
+                    WIDTH="116"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="2150 65 2247 62" 
+                    HPOS="2147"
+                    VPOS="31"
+                    WIDTH="98"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="2148 63 2148 90 2245 88 2245 61 2242 31 2194 42 2181 39 2168 34 2167 34 2166 34 2164 34 2147 41 2148 63"/></Shape>
+	    <String CONTENT="Zool"
+                    HPOS="2147"
+                    VPOS="31"
+                    WIDTH="98"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="2052 132 2295 136" 
+                    HPOS="2050"
+                    VPOS="83"
+                    WIDTH="244"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="2051 131 2050 160 2089 170 2091 170 2092 170 2103 164 2108 161 2113 165 2125 171 2126 171 2127 171 2129 171 2130 171 2137 166 2143 163 2170 163 2200 164 2207 170 2212 175 2213 175 2215 175 2216 176 2293 176 2294 134 2293 92 2179 101 2170 95 2156 84 2154 84 2153 84 2116 83 2115 83 2114 83 2113 83 2094 98 2091 100 2051 100 2051 131"/></Shape>
+	    <String CONTENT="[Insekt."
+                    HPOS="2050"
+                    VPOS="83"
+                    WIDTH="244"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1725 399 2193 402" 
+                    HPOS="1722"
+                    VPOS="358"
+                    WIDTH="469"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="1724 398 1722 433 1822 434 1823 434 1824 434 1826 434 1826 433 1827 433 1837 424 1935 431 1936 431 1937 431 1963 425 1981 431 1990 435 1991 435 1992 435 1994 435 2006 431 2029 425 2049 431 2060 435 2061 435 2062 436 2096 436 2096 435 2097 435 2098 435 2098 434 2102 431 2109 425 2136 431 2157 435 2158 435 2159 435 2161 435 2161 434 2164 431 2167 429 2189 430 2191 401 2191 360 2142 359 2141 359 2140 359 2135 361 2109 372 2096 363 2093 360 2092 360 2091 360 2089 360 2075 363 2024 372 2010 364 2000 359 1999 359 1997 359 1962 365 1940 370 1936 366 1927 359 1927 358 1926 358 1925 358 1924 358 1881 368 1864 372 1724 372 1724 398"/></Shape>
+	    <String CONTENT="8:o Paris 1946."
+                    HPOS="1722"
+                    VPOS="358"
+                    WIDTH="469"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="1949 1420 2201 1417" 
+                    HPOS="1947"
+                    VPOS="1384"
+                    WIDTH="253"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="1948 1419 1948 1431 1963 1438 1964 1438 1965 1438 2023 1432 2066 1438 2067 1438 2069 1438 2097 1430 2098 1430 2099 1430 2121 1437 2123 1437 2124 1437 2125 1437 2126 1437 2137 1430 2174 1437 2175 1437 2177 1437 2200 1429 2200 1416 2196 1384 1947 1384 1948 1419"/></Shape>
+	    <String CONTENT="18.3.1947."
+                    HPOS="1947"
+                    VPOS="1384"
+                    WIDTH="253"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

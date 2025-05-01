@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00210.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2308"
+          HEIGHT="1468"
+          PHYSICAL_IMG_NR="41"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2308"
+                  HEIGHT="1468">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2306"
+                   HEIGHT="1466"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1467 2307 1467 2307 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="201 161 681 166" 
+                    HPOS="199"
+                    VPOS="123"
+                    WIDTH="481"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="200 160 199 174 219 182 220 182 221 182 353 178 439 176 455 181 474 188 476 188 477 188 679 187 680 165 679 140 577 128 576 128 517 137 495 126 494 126 476 126 474 126 473 126 472 126 456 138 455 138 414 138 414 137 397 124 396 124 395 124 394 124 338 130 310 123 309 123 308 123 259 129 243 124 242 124 241 124 239 124 238 124 221 135 220 135 200 135 200 160"/></Shape>
+	    <String CONTENT="ANDRAE, Staffan"
+                    HPOS="199"
+                    VPOS="123"
+                    WIDTH="481"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="200 263 2104 268" 
+                    HPOS="199"
+                    VPOS="217"
+                    WIDTH="1904"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="199 261 199 293 249 299 250 299 279 294 301 289 320 294 338 298 340 298 375 294 423 288 692 288 709 294 739 303 740 303 1154 304 1155 304 1156 304 1190 294 1205 291 1315 291 1330 294 1346 299 1347 299 1348 299 1349 299 1366 294 1377 292 1434 294 1506 298 1507 298 1524 294 1539 292 1577 294 1723 307 1724 308 1950 308 1950 307 2102 294 2103 267 2102 233 2051 226 2049 226 1997 232 1939 239 1851 239 1820 231 1819 231 1818 231 1762 237 1726 229 1702 225 1701 225 1658 228 1648 229 1636 228 1588 223 1587 223 1510 227 1355 237 1332 231 1331 231 1330 231 1207 234 1158 225 1150 223 1149 223 1125 225 991 233 960 226 959 226 801 223 800 223 799 223 774 231 734 226 733 226 630 234 569 222 567 222 480 231 460 225 458 225 457 225 347 227 299 218 199 217 199 261"/></Shape>
+	    <String CONTENT="Se: All världens spökhistorier i urval av Staffan Andrae. 1948."
+                    HPOS="199"
+                    VPOS="217"
+                    WIDTH="1904"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2015 369 2161 364" 
+                    HPOS="2011"
+                    VPOS="307"
+                    WIDTH="148"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="2014 368 2014 380 2036 389 2037 389 2038 389 2039 389 2057 381 2070 387 2071 387 2073 387 2074 387 2093 382 2101 380 2158 382 2159 363 2157 320 2135 309 2134 309 2133 309 2131 309 2118 314 2060 307 2059 307 2058 307 2011 324 2014 368"/></Shape>
+	    <String CONTENT="Vitt."
+                    HPOS="2011"
+                    VPOS="307"
+                    WIDTH="148"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1986 437 2176 437" 
+                    HPOS="1984"
+                    VPOS="392"
+                    WIDTH="191"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1984 436 1984 453 2019 462 2020 462 2054 456 2055 456 2068 462 2069 462 2070 462 2175 458 2175 436 2173 404 2162 408 2156 404 2135 392 2134 392 2133 392 2131 392 2130 392 2129 392 2113 406 2112 407 2093 408 2091 406 2076 393 2076 392 2075 392 2074 392 2037 392 2036 392 2035 392 2005 408 2004 409 1984 409 1984 436"/></Shape>
+	    <String CONTENT="Mod."
+                    HPOS="1984"
+                    VPOS="392"
+                    WIDTH="191"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1984 514 2190 517" 
+                    HPOS="1982"
+                    VPOS="462"
+                    WIDTH="207"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="1983 513 1982 528 2009 529 2011 533 2020 540 2020 541 2021 541 2022 541 2024 541 2025 541 2037 535 2039 534 2041 537 2057 551 2057 552 2058 552 2059 552 2060 552 2062 552 2063 552 2079 540 2091 532 2115 545 2131 554 2133 554 2134 555 2188 555 2189 516 2189 483 2177 483 2177 481 2156 464 2155 464 2153 464 2152 464 2151 464 2109 481 2108 481 2086 481 2079 481 2058 463 2058 462 2057 462 2055 462 2014 462 2013 462 2011 462 2010 462 1983 478 1983 513"/></Shape>
+	    <String CONTENT="Saml."
+                    HPOS="1982"
+                    VPOS="462"
+                    WIDTH="207"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

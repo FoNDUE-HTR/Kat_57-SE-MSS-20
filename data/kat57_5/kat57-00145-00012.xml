@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00012.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1476"
+          PHYSICAL_IMG_NR="32"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1476">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1474"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1475 2323 1475 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="244 55 765 63" 
+                    HPOS="242"
+                    VPOS="4"
+                    WIDTH="522"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="243 54 242 81 303 104 305 104 350 105 351 105 353 105 407 82 413 79 506 79 525 82 532 83 562 109 563 109 564 109 615 110 616 110 617 110 672 89 698 87 713 94 714 94 716 94 717 94 718 94 718 93 728 84 762 83 764 62 764 31 663 30 656 25 647 18 645 18 644 18 643 18 642 18 631 23 617 9 617 8 616 8 615 8 613 8 612 8 569 20 546 28 517 18 495 11 494 11 493 11 492 11 479 17 468 22 460 15 450 7 449 7 447 7 415 6 414 6 413 6 412 6 412 7 405 12 391 25 360 25 337 9 332 4 330 4 329 4 243 4 243 54"/></Shape>
+	    <String CONTENT="[Psychische Hygiene"
+                    HPOS="242"
+                    VPOS="4"
+                    WIDTH="522"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="211 164 418 164" 
+                    HPOS="210"
+                    VPOS="132"
+                    WIDTH="207"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="210 163 210 201 248 201 248 200 249 200 250 200 279 184 362 184 381 200 382 200 383 200 385 201 417 201 417 163 417 132 210 132 210 163"/></Shape>
+	    <String CONTENT="BERITCHT"
+                    HPOS="210"
+                    VPOS="132"
+                    WIDTH="207"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="201 269 1767 281" 
+                    HPOS="199"
+                    VPOS="232"
+                    WIDTH="1567"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="200 268 199 287 370 298 371 298 482 291 511 290 538 292 606 298 607 298 649 293 670 291 856 292 863 296 880 302 882 302 883 302 951 297 953 297 957 297 1023 303 1024 303 1060 298 1083 295 1107 298 1141 305 1142 305 1295 301 1449 297 1467 303 1480 307 1481 307 1482 307 1534 303 1594 300 1604 305 1610 307 1611 307 1612 307 1614 307 1620 305 1635 300 1764 306 1766 280 1766 257 1669 255 1607 242 1606 242 1448 247 1240 239 1238 239 1237 239 1199 252 1194 252 1140 252 1136 250 1056 238 1055 238 1003 249 1002 249 998 249 879 237 878 237 803 247 756 237 755 237 472 244 469 244 468 244 393 233 392 233 391 233 358 244 355 244 351 244 294 232 292 232 200 242 200 268"/></Shape>
+	    <String CONTENT="über die...deutsche Tagung für psychische Hygiene..."
+                    HPOS="199"
+                    VPOS="232"
+                    WIDTH="1567"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2120 66 2250 70" 
+                    HPOS="2118"
+                    VPOS="8"
+                    WIDTH="130"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="2119 65 2118 82 2164 92 2165 93 2220 93 2220 92 2221 92 2247 82 2248 68 2246 14 2230 23 2221 18 2203 8 2202 8 2181 8 2180 8 2178 8 2177 8 2177 9 2156 29 2149 35 2119 35 2119 65"/></Shape>
+	    <String CONTENT="Med."
+                    HPOS="2118"
+                    VPOS="8"
+                    WIDTH="130"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2122 148 2248 143" 
+                    HPOS="2118"
+                    VPOS="83"
+                    WIDTH="129"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="2121 147 2121 172 2247 172 2247 142 2244 95 2180 83 2178 83 2177 83 2176 83 2144 104 2140 108 2118 108 2121 147"/></Shape>
+	    <String CONTENT="Mit."
+                    HPOS="2118"
+                    VPOS="83"
+                    WIDTH="129"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1363 376 2128 380" 
+                    HPOS="1360"
+                    VPOS="334"
+                    WIDTH="767"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="1361 375 1360 391 1401 399 1402 399 1441 394 1450 402 1451 402 1452 402 1454 402 1502 393 1507 393 1516 400 1518 400 1519 400 1520 400 1612 396 1617 396 1619 396 1641 403 1642 403 1643 404 1670 404 1670 403 1671 403 1673 403 1681 397 1684 394 1691 397 1711 403 1712 403 1713 403 1715 403 1732 397 1742 394 1794 398 1872 404 1873 404 1898 400 1915 397 1920 400 1925 404 1926 404 1927 404 1929 405 1983 405 1983 404 1984 404 1985 404 1988 402 1993 398 2124 403 2127 378 2125 337 2050 337 2049 337 2048 337 2002 349 1932 341 1931 341 1872 349 1809 335 1806 335 1777 335 1776 335 1775 335 1774 335 1756 346 1696 337 1695 337 1694 337 1692 337 1683 344 1675 337 1674 337 1673 337 1671 337 1670 337 1669 337 1669 338 1659 346 1633 338 1632 338 1631 338 1630 338 1628 338 1620 345 1612 339 1612 338 1611 338 1610 338 1609 338 1573 341 1521 335 1509 334 1508 334 1507 334 1505 334 1504 335 1483 348 1414 348 1361 335 1361 375"/></Shape>
+	    <String CONTENT="8:o Berlin &amp; Leipzig 1929"
+                    HPOS="1360"
+                    VPOS="334"
+                    WIDTH="767"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="2130 213 2229 210" 
+                    HPOS="2127"
+                    VPOS="170"
+                    WIDTH="102"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="2129 212 2132 292 2160 295 2161 295 2162 295 2164 295 2164 293 2188 268 2203 252 2229 250 2228 209 2226 188 2160 170 2159 170 2157 170 2156 170 2155 170 2127 188 2129 212"/></Shape>
+	    <String CONTENT="Ty."
+                    HPOS="2127"
+                    VPOS="170"
+                    WIDTH="102"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="215 479 2183 487" 
+                    HPOS="212"
+                    VPOS="436"
+                    WIDTH="1970"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="212 496 243 503 244 503 284 498 310 494 329 498 355 503 356 503 403 498 449 494 585 494 660 500 725 504 727 504 782 500 867 495 939 501 981 505 982 505 1042 503 1150 496 1232 504 1270 506 1272 506 1301 504 1368 498 1481 505 1526 507 1528 507 1601 506 1833 499 1876 507 1884 509 1886 510 2181 510 2182 485 2182 444 2048 451 1934 444 1932 444 1854 451 1716 441 1707 441 1706 441 1703 441 1670 450 1526 450 1448 442 1446 442 1445 442 1424 450 1278 450 1201 440 1192 439 1190 439 1189 439 1187 439 1158 447 969 441 968 441 935 447 756 437 743 437 741 437 734 437 631 446 610 439 608 439 467 439 466 439 465 439 442 445 215 436 214 478 212 496"/></Shape>
+	    <String CONTENT="[Veröffentlichung des Deutschen Verbandes für psychische Hygiene.]"
+                    HPOS="212"
+                    VPOS="436"
+                    WIDTH="1970"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="203 600 2240 611" 
+                    HPOS="201"
+                    VPOS="565"
+                    WIDTH="2038"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="202 599 201 621 318 630 319 630 387 623 468 624 497 634 498 634 499 634 638 629 692 635 693 635 866 628 991 635 992 635 1106 627 1318 627 1376 639 1377 639 1598 630 1626 640 1627 640 1628 642 1717 642 1717 640 1825 632 1861 642 1862 642 2012 643 2013 644 2064 644 2064 643 2065 643 2098 633 2237 633 2239 610 2239 580 2199 573 2198 573 2064 580 2042 580 1945 580 1942 579 1919 571 1918 571 1916 571 1831 578 1812 579 1804 578 1771 570 1770 570 1728 578 1722 579 1561 579 1551 575 1520 569 1519 569 1416 575 1380 576 1350 574 1275 568 1274 568 1181 573 1176 573 1169 573 1030 567 1029 567 974 571 944 574 877 570 762 565 654 565 653 565 652 565 640 569 632 571 202 567 202 599"/></Shape>
+	    <String CONTENT="1. Hamburg am 20.September 1928. Herausgegeben von Hans Roemer.1929."
+                    HPOS="201"
+                    VPOS="565"
+                    WIDTH="2038"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

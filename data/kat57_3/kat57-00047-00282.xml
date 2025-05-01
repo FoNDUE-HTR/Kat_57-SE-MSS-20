@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00282.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="21"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2315 1471 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="107 188 754 191" 
+                    HPOS="105"
+                    VPOS="148"
+                    WIDTH="648"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="106 187 105 201 118 209 120 209 121 209 122 210 252 210 252 209 253 209 276 201 321 201 322 201 347 218 348 218 349 218 350 218 447 213 489 219 490 219 491 219 493 219 512 203 515 202 548 202 550 203 565 218 565 219 566 219 567 219 569 219 658 210 695 217 696 217 697 217 699 217 713 206 720 202 750 206 753 190 753 165 668 158 658 149 657 149 656 149 655 149 601 157 583 149 582 149 581 149 580 149 579 149 561 163 556 165 440 164 436 161 428 155 426 155 425 155 424 155 423 155 421 155 414 160 410 163 387 160 348 157 347 157 345 157 338 160 329 165 291 165 287 159 277 150 277 149 276 149 274 149 257 148 145 148 144 148 106 157 106 187"/></Shape>
+	    <String CONTENT="ANDRÉ, Gunnar [1927-"
+                    HPOS="105"
+                    VPOS="148"
+                    WIDTH="648"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="109 292 1041 302 1410 294" 
+                    HPOS="106"
+                    VPOS="250"
+                    WIDTH="1303"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="107 291 106 328 137 323 154 329 175 338 176 338 177 338 215 331 267 334 295 347 296 347 298 347 299 347 331 333 397 336 398 336 399 336 421 329 431 327 437 329 461 341 462 341 463 341 464 341 493 329 506 325 516 329 525 334 526 334 527 334 561 329 565 329 582 341 583 341 585 341 586 341 587 341 613 334 648 349 650 349 651 349 652 349 705 329 712 326 764 326 771 329 814 350 815 350 1031 352 1032 352 1034 352 1088 331 1119 341 1121 341 1122 341 1123 341 1142 331 1171 329 1191 328 1192 329 1210 341 1211 341 1213 341 1247 343 1248 343 1250 343 1303 329 1408 329 1409 293 1408 269 1368 256 1367 256 1236 256 1235 256 1234 256 1204 268 1203 268 1202 268 1170 255 1169 255 1167 255 1009 267 999 267 998 267 977 253 976 253 975 253 929 253 928 253 927 253 926 253 905 266 904 267 791 267 787 266 736 252 734 252 672 252 671 252 669 252 628 264 626 264 625 264 563 252 561 252 505 262 463 253 462 253 410 263 409 263 391 253 390 253 342 250 272 250 271 250 269 250 239 262 239 263 172 263 171 262 148 253 147 253 145 253 107 261 107 291"/></Shape>
+	    <String CONTENT="Se: ANDRE, [Anders] Gunnar [Torgny] [1927-"
+                    HPOS="106"
+                    VPOS="250"
+                    WIDTH="1303"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

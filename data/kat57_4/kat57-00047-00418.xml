@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00418.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="39"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2315 1479 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="208 234 645 231" 
+                    HPOS="206"
+                    VPOS="178"
+                    WIDTH="438"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="207 233 207 257 224 270 225 270 227 270 401 272 402 272 438 271 439 271 440 271 460 255 461 254 507 254 508 254 515 261 515 262 516 262 518 262 519 262 520 262 521 262 535 254 587 254 589 254 603 263 604 263 605 263 607 263 608 263 644 254 644 230 641 197 586 197 583 196 555 183 554 183 552 183 551 183 550 183 534 194 528 198 466 198 456 193 436 182 435 182 434 182 433 182 418 189 394 178 393 178 392 178 391 178 360 186 349 178 347 178 346 178 345 178 255 181 254 181 252 181 241 188 233 194 206 188 207 233"/></Shape>
+	    <String CONTENT="ANDREAS, Willy"
+                    HPOS="206"
+                    VPOS="178"
+                    WIDTH="438"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="210 335 1012 332" 
+                    HPOS="208"
+                    VPOS="296"
+                    WIDTH="803"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="209 334 209 353 292 361 293 361 324 355 349 372 350 372 351 372 352 372 674 371 676 371 677 371 699 355 702 353 827 353 832 355 862 366 863 366 864 366 866 366 884 360 892 367 893 367 894 367 895 367 897 367 898 367 915 355 919 353 941 353 945 355 956 363 957 363 958 363 959 363 961 363 976 355 977 355 1010 355 1011 331 1008 302 873 305 858 302 829 296 827 296 826 296 808 303 798 307 793 303 783 296 782 296 781 296 779 296 778 296 762 303 753 307 745 303 730 298 729 298 727 298 702 303 687 307 673 304 641 296 640 296 639 296 637 296 618 303 563 297 562 297 494 305 470 308 463 305 446 297 445 297 373 297 372 297 371 297 349 307 344 309 298 309 294 307 278 297 277 297 276 297 250 297 249 297 248 297 208 307 209 334"/></Shape>
+	    <String CONTENT="Se: Carl August von Weimar"
+                    HPOS="208"
+                    VPOS="296"
+                    WIDTH="803"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="327 437 2199 432" 
+                    HPOS="325"
+                    VPOS="390"
+                    WIDTH="1873"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="326 436 326 457 440 468 441 468 641 458 667 458 756 458 761 460 789 468 790 468 792 468 853 460 874 457 884 460 904 467 905 467 906 467 1059 461 1149 457 1173 461 1205 467 1206 467 1231 461 1251 457 1285 462 1311 464 1312 464 1314 464 1325 462 1343 457 1356 462 1367 466 1368 466 1369 467 1559 467 1559 466 1560 466 1571 462 1594 455 1729 455 1785 463 1795 464 1796 464 1811 463 1906 455 2080 455 2195 464 2198 431 2196 403 2109 390 1934 390 1933 390 1932 390 1905 399 1775 390 1774 390 1724 400 1679 392 1481 392 1480 392 1479 392 1441 404 1249 405 1077 405 1059 398 1058 398 1057 398 961 404 926 398 925 398 877 404 836 397 835 397 747 405 652 397 651 397 604 405 540 394 539 394 444 403 393 395 392 395 325 407 326 436"/></Shape>
+	    <String CONTENT="Politischer Briefwechsel ... Herausgegeben von Willy Andreas ..."
+                    HPOS="325"
+                    VPOS="390"
+                    WIDTH="1873"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="332 538 802 535" 
+                    HPOS="330"
+                    VPOS="499"
+                    WIDTH="470"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="331 537 331 568 419 573 420 573 421 573 423 573 426 569 431 566 462 566 462 564 463 564 465 564 489 547 626 547 651 566 652 566 653 566 655 566 656 566 674 558 698 558 709 569 709 571 710 571 711 571 713 572 741 572 741 571 742 571 744 571 745 569 760 561 799 569 800 534 798 515 774 514 760 500 758 500 757 500 756 500 704 505 653 499 652 499 651 499 650 499 650 500 639 510 634 516 529 516 518 509 516 509 515 509 514 509 476 516 465 506 460 503 460 501 459 501 457 501 444 501 442 501 441 501 433 505 413 516 401 505 397 501 396 501 394 501 393 501 330 503 331 537"/></Shape>
+	    <String CONTENT="Bd 1-     . 1954-"
+                    HPOS="330"
+                    VPOS="499"
+                    WIDTH="470"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1018 528 1239 528" 
+                    HPOS="1017"
+                    VPOS="487"
+                    WIDTH="221"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1017 527 1017 542 1046 555 1047 555 1048 555 1099 548 1125 567 1126 567 1127 567 1129 568 1172 568 1172 567 1173 567 1174 567 1195 550 1196 550 1237 551 1238 527 1238 501 1172 494 1170 494 1169 494 1153 503 1151 504 1149 503 1141 499 1140 499 1138 499 1111 504 1105 505 1104 504 1087 488 1087 487 1085 487 1084 487 1048 487 1047 487 1046 487 1045 487 1017 504 1017 527"/></Shape>
+	    <String CONTENT="Biogr."
+                    HPOS="1017"
+                    VPOS="487"
+                    WIDTH="221"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1081 597 1145 589" 
+                    HPOS="1074"
+                    VPOS="559"
+                    WIDTH="69"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="1080 596 1080 603 1143 598 1143 588 1138 561 1074 559 1080 596"/></Shape>
+	    <String CONTENT="Ty"
+                    HPOS="1074"
+                    VPOS="559"
+                    WIDTH="69"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1036 640 1249 644" 
+                    HPOS="1033"
+                    VPOS="592"
+                    WIDTH="215"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="1035 638 1033 653 1053 663 1054 663 1141 666 1142 666 1184 657 1217 667 1219 667 1220 667 1221 667 1247 657 1248 643 1248 603 1207 595 1206 595 1205 595 1204 595 1195 603 1189 609 1147 609 1138 604 1119 593 1117 593 1116 593 1115 593 1073 599 1058 592 1057 592 1056 592 1054 592 1053 592 1035 603 1035 638"/></Shape>
+	    <String CONTENT="Furstl."
+                    HPOS="1033"
+                    VPOS="592"
+                    WIDTH="215"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1017 703 1785 690" 
+                    HPOS="1015"
+                    VPOS="646"
+                    WIDTH="769"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1016 703 1016 730 1059 744 1061 744 1062 744 1063 744 1064 744 1084 731 1088 730 1119 730 1124 732 1138 742 1140 742 1141 742 1142 742 1143 742 1145 742 1158 733 1168 728 1185 728 1193 733 1220 757 1221 757 1222 757 1224 757 1322 754 1323 754 1325 754 1325 753 1343 737 1352 728 1433 723 1495 733 1496 733 1497 733 1522 722 1538 735 1539 735 1541 735 1542 735 1543 735 1578 725 1600 742 1602 744 1604 744 1605 744 1606 744 1607 744 1612 743 1620 740 1623 743 1629 748 1631 748 1632 748 1633 748 1634 748 1636 748 1643 743 1655 736 1679 744 1680 744 1681 744 1683 744 1684 744 1686 744 1705 740 1712 744 1715 747 1716 747 1717 747 1718 747 1784 746 1784 689 1779 646 1742 667 1707 668 1646 668 1623 649 1622 648 1621 648 1620 648 1618 648 1606 651 1499 672 1463 672 1428 654 1422 652 1421 652 1420 652 1381 653 1380 653 1379 653 1377 656 1354 674 1279 674 1262 659 1261 659 1259 659 1214 656 1212 656 1211 656 1200 661 1190 664 1178 661 1161 656 1159 656 1158 656 1157 656 1143 662 1125 670 1108 663 1095 657 1094 657 1093 657 1015 664 1016 703"/></Shape>
+	    <String CONTENT="[Karl August av Weimar]"
+                    HPOS="1015"
+                    VPOS="646"
+                    WIDTH="769"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00265.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="11"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2319 1471 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="62 72 426 69" 
+                    HPOS="60"
+                    VPOS="12"
+                    WIDTH="365"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="61 71 61 98 126 98 130 100 139 109 141 109 142 109 143 109 184 101 201 99 214 103 242 111 244 111 245 111 246 111 266 105 276 101 285 105 298 111 299 111 300 111 352 107 393 105 424 110 425 68 424 45 396 36 395 36 393 36 392 36 391 36 391 38 386 41 384 45 294 45 280 31 263 17 263 15 262 15 261 15 260 15 258 15 235 28 217 39 204 26 204 25 203 25 202 25 201 25 199 25 185 26 179 23 164 12 163 12 161 12 141 12 139 12 138 12 137 12 137 13 131 19 128 20 126 18 117 12 116 12 115 12 114 12 60 12 61 71"/></Shape>
+	    <String CONTENT="[Andræ, T."
+                    HPOS="60"
+                    VPOS="12"
+                    WIDTH="365"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="168 217 990 217" 
+                    HPOS="166"
+                    VPOS="170"
+                    WIDTH="822"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="166 215 166 239 342 242 343 242 344 242 345 242 347 241 358 233 417 233 430 241 431 241 433 241 434 241 435 241 455 235 490 241 496 242 498 242 499 242 500 242 512 233 531 233 542 242 544 244 544 245 545 245 547 245 548 245 566 242 596 237 617 242 625 245 626 245 628 245 629 245 630 245 633 242 636 239 644 242 646 244 647 244 649 244 661 242 755 234 795 244 798 245 799 245 801 245 802 245 806 244 830 236 867 245 871 245 872 245 873 245 874 245 900 236 987 245 988 215 988 170 931 170 929 170 928 170 927 170 899 185 863 182 848 172 848 171 847 171 846 171 845 171 833 172 743 185 726 179 725 179 723 179 722 179 721 179 714 185 701 175 695 170 694 170 693 170 650 170 649 170 647 170 631 176 614 184 603 177 593 170 592 170 591 170 550 170 549 170 548 170 528 179 512 185 490 179 464 172 463 172 462 172 415 181 388 185 360 181 296 174 295 174 294 174 293 174 279 184 276 186 166 186 166 215"/></Shape>
+	    <String CONTENT="ANDRÆ, Tor [Julius Efraim]"
+                    HPOS="166"
+                    VPOS="170"
+                    WIDTH="822"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="171 319 1055 319" 
+                    HPOS="170"
+                    VPOS="277"
+                    WIDTH="883"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="170 318 172 348 181 342 201 348 202 348 203 348 204 349 591 349 591 348 593 348 629 341 705 348 707 348 709 348 710 348 745 341 783 347 785 347 868 341 880 348 882 348 883 348 884 348 887 348 994 341 1052 348 1053 318 1053 277 872 277 871 277 869 277 868 277 866 279 852 289 771 282 770 282 769 282 754 289 732 282 731 282 729 282 728 282 673 289 657 283 647 278 646 278 645 278 644 278 642 278 637 283 634 285 622 283 607 280 606 280 604 280 597 283 583 289 487 285 376 280 375 280 345 288 337 289 334 288 323 279 322 279 321 279 320 279 318 279 317 279 307 288 305 290 218 290 218 289 198 279 197 279 196 279 195 279 170 289 170 318"/></Shape>
+	    <String CONTENT="Tor Andræ in memoriam. [Ill.]"
+                    HPOS="170"
+                    VPOS="277"
+                    WIDTH="883"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2044 64 2260 61" 
+                    HPOS="2042"
+                    VPOS="18"
+                    WIDTH="217"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="2043 63 2043 85 2123 92 2145 105 2183 127 2185 127 2186 127 2187 127 2188 127 2203 121 2259 125 2259 60 2256 34 2234 38 2194 29 2191 29 2189 29 2188 29 2187 29 2187 30 2180 38 2126 38 2097 23 2089 18 2088 18 2086 18 2042 18 2043 63"/></Shape>
+	    <String CONTENT="Biogr."
+                    HPOS="2042"
+                    VPOS="18"
+                    WIDTH="217"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2067 123 2178 123" 
+                    HPOS="2066"
+                    VPOS="78"
+                    WIDTH="111"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="2066 122 2066 155 2110 169 2111 169 2112 169 2113 169 2144 160 2154 158 2176 161 2177 122 2177 99 2144 99 2135 90 2129 85 2129 84 2128 84 2127 84 2100 78 2066 78 2066 122"/></Shape>
+	    <String CONTENT="Sv."
+                    HPOS="2066"
+                    VPOS="78"
+                    WIDTH="111"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1033 408 2100 413" 
+                    HPOS="1030"
+                    VPOS="348"
+                    WIDTH="1069"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="1031 407 1030 433 1074 440 1075 440 1128 434 1147 433 1177 435 1245 440 1246 440 1290 436 1302 435 1307 436 1328 442 1329 442 1331 444 1374 444 1374 442 1375 442 1387 436 1393 434 1445 437 1512 442 1513 442 1515 442 1523 439 1533 434 1564 434 1583 439 1601 444 1602 444 1603 445 1635 445 1635 444 1636 444 1637 444 1642 440 1651 435 1707 435 1727 440 1738 444 1739 444 1740 444 1755 441 1780 435 1814 441 1836 445 1837 446 1948 446 1948 445 1949 445 1954 442 1966 436 2096 444 2099 412 2097 349 2068 355 2040 350 2034 349 2032 349 2031 349 2028 350 1986 365 1959 352 1954 349 1953 349 1810 348 1809 348 1808 348 1794 354 1791 356 1778 355 1737 348 1736 348 1734 348 1707 356 1690 361 1663 356 1642 354 1641 354 1640 354 1632 358 1605 371 1570 359 1559 355 1558 355 1556 355 1555 355 1543 359 1529 364 1504 360 1484 358 1483 358 1482 358 1475 360 1457 371 1332 364 1328 364 1327 364 1325 364 1280 370 1031 370 1031 407"/></Shape>
+	    <String CONTENT="8:o Stockholm [tr. i Uppsala] [1947]."
+                    HPOS="1030"
+                    VPOS="348"
+                    WIDTH="1069"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="174 517 1701 509" 
+                    HPOS="171"
+                    VPOS="463"
+                    WIDTH="1529"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="172 516 172 552 337 552 379 569 380 569 381 570 549 570 549 569 615 556 758 559 759 559 796 553 828 547 888 547 902 553 936 566 937 566 938 566 1036 556 1082 565 1083 565 1084 565 1118 553 1142 544 1455 544 1511 554 1561 563 1563 564 1667 564 1667 563 1668 563 1700 554 1700 507 1696 463 1597 464 1545 475 1499 464 1496 464 1495 464 1493 464 1440 477 1264 472 1263 472 1262 472 1244 479 1186 473 1185 473 1089 479 1055 469 1053 469 1052 469 947 480 901 469 898 469 896 469 895 469 894 469 866 482 814 482 707 474 706 474 705 474 680 483 606 483 541 473 521 471 520 471 505 473 484 477 464 473 445 471 444 471 428 474 385 484 328 474 315 473 314 473 299 475 271 479 249 475 228 472 226 472 171 475 172 516"/></Shape>
+	    <String CONTENT="[Under redaktion av Ove Hassler och Robert Murray.]"
+                    HPOS="171"
+                    VPOS="463"
+                    WIDTH="1529"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-02173-00226.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="45"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1478">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_3667a214"
+                    
+                    BASELINE="264 217 735 214" 
+                    HPOS="262"
+                    VPOS="174"
+                    WIDTH="472"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="263 216 263 227 351 237 352 237 422 231 481 236 483 236 484 236 485 236 485 235 490 231 494 227 544 227 554 232 571 240 572 240 574 240 734 234 734 213 729 176 706 187 630 177 629 177 596 184 576 178 575 178 574 178 572 178 547 189 494 189 475 179 474 179 473 179 471 179 453 187 439 176 438 174 437 174 436 174 434 174 369 176 368 176 367 176 342 185 326 178 325 178 324 178 322 178 311 184 303 177 303 176 301 176 300 176 299 176 262 176 263 216"/></Shape>
+	    <String CONTENT="ÖSTBORN, Gunnar"
+                    HPOS="262"
+                    VPOS="174"
+                    WIDTH="472"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_06d7b8a0"
+                    
+                    BASELINE="259 316 1063 316" 
+                    HPOS="258"
+                    VPOS="278"
+                    WIDTH="804"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="258 315 258 338 289 346 290 346 345 339 402 355 404 355 405 357 611 357 611 355 612 355 613 355 637 339 680 352 681 352 682 352 683 352 685 352 703 339 745 339 755 347 756 347 757 347 759 347 805 339 823 354 823 355 824 355 825 355 826 355 828 355 850 347 874 355 876 355 877 355 932 343 979 347 980 347 982 347 998 339 1036 347 1037 347 1038 347 1062 338 1062 315 1060 288 904 290 898 288 884 280 883 280 882 280 881 280 879 280 868 288 865 290 862 288 851 278 850 278 849 278 818 278 816 278 815 278 787 288 780 291 723 291 718 288 698 278 697 278 672 278 671 278 638 282 637 282 635 282 635 283 629 289 627 290 623 289 600 280 598 280 597 280 596 280 572 288 489 279 487 279 453 286 433 278 432 278 395 278 394 278 393 278 370 289 352 278 351 278 349 278 294 278 293 278 292 278 290 278 276 289 274 290 258 290 258 315"/></Shape>
+	    <String CONTENT="Se: ÖSTBORN, [Axel] Gunnar"
+                    HPOS="258"
+                    VPOS="278"
+                    WIDTH="804"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

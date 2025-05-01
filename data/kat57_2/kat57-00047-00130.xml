@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00130.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2311 1477 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="168 243 513 248" 
+                    HPOS="166"
+                    VPOS="203"
+                    WIDTH="346"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="167 242 166 251 187 263 188 263 189 263 190 263 299 259 339 266 341 267 358 267 358 266 359 266 360 266 360 264 371 253 394 264 395 264 396 264 423 263 424 263 426 263 426 262 436 254 511 254 512 247 512 224 438 224 437 222 418 206 418 205 417 205 416 205 395 205 394 205 392 205 391 205 373 221 371 221 319 204 317 204 316 204 275 209 222 203 221 203 220 203 167 218 167 242"/></Shape>
+	    <String CONTENT="ANDOM, R"
+                    HPOS="166"
+                    VPOS="203"
+                    WIDTH="346"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="544 249 811 252" 
+                    HPOS="541"
+                    VPOS="203"
+                    WIDTH="269"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="543 248 541 259 561 261 561 262 575 274 575 275 576 275 577 275 578 277 614 277 614 275 615 275 617 275 629 266 634 262 642 267 651 270 652 270 654 270 666 268 687 263 718 272 729 274 730 274 731 274 732 274 736 273 755 264 808 277 810 251 809 205 688 214 636 214 634 210 630 208 630 206 629 206 628 206 626 206 625 206 612 211 608 213 604 211 585 203 583 203 582 203 581 203 543 213 543 248"/></Shape>
+	    <String CONTENT="[pseud.]"
+                    HPOS="541"
+                    VPOS="203"
+                    WIDTH="269"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="166 342 940 342" 
+                    HPOS="165"
+                    VPOS="307"
+                    WIDTH="774"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="165 341 165 368 210 383 211 383 213 383 214 383 242 370 246 369 248 370 272 379 273 379 274 379 275 379 277 379 285 373 296 383 298 383 299 383 355 385 357 386 481 386 481 385 482 385 501 376 514 369 548 369 557 378 564 383 565 383 566 383 567 383 569 383 580 378 599 369 656 369 670 378 671 378 672 378 673 378 675 378 699 369 710 379 710 380 711 380 713 380 714 380 715 380 716 380 735 369 763 369 810 383 819 385 820 385 821 385 822 385 827 383 844 375 872 384 875 385 877 385 878 386 939 386 939 341 939 317 926 311 925 311 923 311 922 311 921 311 921 312 915 319 893 319 870 319 869 319 854 309 853 309 852 309 851 309 849 309 848 309 837 319 817 310 816 310 815 310 814 310 798 319 773 307 772 307 771 307 769 307 734 317 707 307 705 307 704 307 703 307 702 307 686 319 684 320 660 320 660 319 626 307 625 307 557 307 556 307 555 307 554 307 554 309 543 319 543 320 482 320 456 307 455 307 454 307 453 307 452 307 452 309 443 316 438 312 437 312 436 312 434 312 401 319 385 311 384 311 383 311 381 311 364 319 304 307 303 307 301 307 300 307 284 320 227 320 211 307 210 307 209 307 185 307 184 307 183 307 182 307 165 317 165 341"/></Shape>
+	    <String CONTENT="Se: Barret, Alfred Walter"
+                    HPOS="165"
+                    VPOS="307"
+                    WIDTH="774"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

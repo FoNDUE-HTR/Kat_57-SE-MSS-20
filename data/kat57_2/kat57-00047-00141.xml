@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00141.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2340"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2340"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2338"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2339 1479 2339 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="111 56 436 52" 
+                    HPOS="108"
+                    VPOS="13"
+                    WIDTH="327"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="109 55 109 83 148 83 149 83 150 83 159 76 180 82 181 82 182 82 183 82 222 69 434 81 435 51 432 13 403 13 402 13 400 13 399 13 399 14 398 14 391 23 377 18 376 18 374 18 373 18 349 32 328 32 317 20 310 16 310 14 309 14 308 14 282 14 281 14 280 14 260 24 259 25 257 24 245 16 244 16 243 16 241 16 218 18 217 18 215 18 204 28 198 34 125 34 125 33 118 27 117 27 115 27 114 27 113 27 112 27 112 28 108 30 109 55"/></Shape>
+	    <String CONTENT="Castro"
+                    HPOS="108"
+                    VPOS="13"
+                    WIDTH="327"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="156 136 1590 154" 
+                    HPOS="154"
+                    VPOS="82"
+                    WIDTH="1434"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="155 135 154 155 245 155 250 157 267 164 268 164 270 164 271 164 284 157 287 156 298 157 326 161 328 161 329 161 337 157 345 155 384 159 462 166 463 166 510 160 542 156 569 161 611 168 613 168 614 168 635 161 664 152 767 152 815 164 842 170 843 170 914 165 928 165 938 166 989 172 990 172 1022 167 1074 157 1122 168 1180 181 1298 182 1300 182 1301 182 1330 172 1384 172 1385 172 1386 172 1388 171 1406 162 1437 162 1456 172 1466 177 1467 177 1469 177 1470 177 1483 172 1486 172 1493 172 1557 181 1559 181 1560 181 1587 173 1588 152 1588 133 1536 131 1497 113 1496 113 1495 113 1493 113 1440 129 1439 129 1380 128 1350 128 1284 113 1252 94 1250 94 1152 93 1150 93 1149 93 1084 122 1002 99 1001 99 1000 99 999 99 954 119 947 124 879 124 864 118 814 99 812 99 811 99 743 115 720 120 624 120 610 113 568 93 567 93 566 93 462 109 456 111 453 109 405 85 404 85 358 83 244 82 243 82 241 82 194 104 187 108 155 104 155 135"/></Shape>
+	    <String CONTENT="Andrada, Jacinto Freyre de"
+                    HPOS="154"
+                    VPOS="82"
+                    WIDTH="1434"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1974 69 2243 64" 
+                    HPOS="1971"
+                    VPOS="12"
+                    WIDTH="271"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="1973 67 1973 97 2039 98 2040 98 2041 98 2042 98 2042 97 2047 93 2056 86 2080 92 2089 93 2090 93 2092 93 2099 91 2110 86 2114 90 2129 102 2129 103 2130 103 2131 103 2132 104 2174 104 2174 103 2175 103 2177 103 2205 85 2209 83 2241 83 2242 62 2238 40 2140 41 2130 37 2089 12 2088 12 2087 12 2085 12 2027 13 2026 13 1995 30 1971 32 1973 67"/></Shape>
+	    <String CONTENT="Biogr"
+                    HPOS="1971"
+                    VPOS="12"
+                    WIDTH="271"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2036 138 2291 146" 
+                    HPOS="2032"
+                    VPOS="86"
+                    WIDTH="258"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="2035 136 2032 166 2103 168 2104 168 2138 162 2168 157 2179 161 2195 167 2196 167 2198 167 2289 156 2290 145 2289 88 2258 97 2230 92 2196 86 2195 86 2194 86 2173 96 2145 109 2110 109 2101 101 2087 87 2087 86 2085 86 2084 86 2083 86 2082 86 2080 86 2057 103 2055 106 2035 106 2035 136"/></Shape>
+	    <String CONTENT="Sp. Pol"
+                    HPOS="2032"
+                    VPOS="86"
+                    WIDTH="258"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="202 266 2335 288" 
+                    HPOS="199"
+                    VPOS="224"
+                    WIDTH="2134"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="201 265 199 291 345 294 346 294 355 293 399 286 447 294 456 296 457 296 465 294 520 286 556 296 604 310 605 310 677 316 918 319 920 319 995 302 1029 294 1105 303 1107 303 1108 303 1110 303 1207 293 1291 305 1292 305 1293 305 1295 305 1324 302 1342 307 1390 320 1391 320 1392 320 1449 316 1506 325 1507 325 1548 319 1575 325 1576 325 1577 325 1662 310 1703 303 1844 299 1965 303 1988 312 1989 312 1990 312 2140 303 2231 318 2267 324 2268 324 2332 319 2333 287 2331 259 2268 250 2267 250 2265 250 2243 256 2216 265 2150 259 2148 259 1979 262 1904 252 1903 252 1902 252 1871 261 1786 249 1762 246 1761 246 1745 249 1683 259 1598 252 1597 252 1509 257 1425 244 1424 244 1423 244 1392 250 1371 242 1351 235 1350 235 1265 234 1264 234 1233 240 1192 249 1137 240 1136 240 1054 252 1017 240 1016 240 1015 240 948 244 921 235 906 230 905 230 831 230 830 230 828 230 816 234 762 249 692 231 674 228 617 228 616 228 615 228 608 230 562 246 468 246 437 236 436 236 435 236 397 242 328 225 319 224 201 224 201 265"/></Shape>
+	    <String CONTENT="Vida de dom Joaõ de Castro, quarto viso-rei da"
+                    HPOS="199"
+                    VPOS="224"
+                    WIDTH="2134"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="183 391 439 391" 
+                    HPOS="182"
+                    VPOS="362"
+                    WIDTH="255"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="182 390 182 410 436 415 437 390 437 373 398 363 397 363 395 363 374 373 367 366 367 365 366 365 365 365 329 362 328 362 326 362 325 362 309 373 272 362 271 362 270 362 268 362 267 362 255 371 250 367 250 366 249 366 247 366 246 366 245 366 244 366 244 367 236 373 217 367 215 367 214 367 182 373 182 390"/></Shape>
+	    <String CONTENT="India."
+                    HPOS="182"
+                    VPOS="362"
+                    WIDTH="255"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1436 517 2219 517" 
+                    HPOS="1435"
+                    VPOS="461"
+                    WIDTH="782"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="1435 516 1435 534 1536 529 1566 535 1567 535 1569 535 1588 529 1607 536 1645 553 1646 553 1647 553 1649 553 1650 553 1665 541 1735 543 1736 543 1738 543 1739 543 1746 538 1754 532 1762 538 1773 545 1775 545 1776 545 1777 545 1778 545 1798 538 1810 535 1840 536 1845 540 1881 557 1882 557 1883 558 2020 558 2020 557 2021 557 2022 557 2046 541 2064 530 2084 537 2085 537 2087 537 2088 537 2089 537 2089 536 2099 529 2136 529 2163 543 2178 551 2179 551 2180 551 2182 551 2183 551 2195 543 2204 538 2215 543 2217 516 2217 461 2094 461 2093 461 2092 461 2090 461 2083 466 2063 477 2047 467 2043 466 2042 466 2041 466 2040 466 2034 468 2019 473 2008 468 1990 461 1989 461 1988 461 1987 461 1985 461 1974 471 1948 490 1919 493 1850 493 1812 477 1778 463 1777 463 1776 463 1775 463 1773 463 1773 464 1760 476 1736 473 1735 473 1734 473 1717 481 1692 493 1672 493 1656 483 1618 462 1617 462 1586 461 1585 461 1583 461 1582 461 1538 488 1530 493 1435 493 1435 516"/></Shape>
+	    <String CONTENT=". Lisboa 1786."
+                    HPOS="1435"
+                    VPOS="461"
+                    WIDTH="782"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

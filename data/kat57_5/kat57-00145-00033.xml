@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00033.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="41"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2319 1479 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="284 250 498 245" 
+                    HPOS="282"
+                    VPOS="194"
+                    WIDTH="215"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="283 249 283 263 495 265 497 244 492 194 471 202 282 204 283 249"/></Shape>
+	    <String CONTENT="BERICHT"
+                    HPOS="282"
+                    VPOS="194"
+                    WIDTH="215"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1887 151 1992 148" 
+                    HPOS="1883"
+                    VPOS="69"
+                    WIDTH="108"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="1885 150 1885 178 1921 178 1925 180 1949 196 1951 196 1952 196 1953 197 1978 197 1978 196 1979 196 1980 196 1980 194 1991 183 1991 148 1985 71 1964 77 1961 74 1956 70 1956 69 1954 69 1953 69 1952 69 1925 70 1924 70 1883 81 1885 150"/></Shape>
+	    <String CONTENT="/ Fol.)"
+                    HPOS="1883"
+                    VPOS="69"
+                    WIDTH="108"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="274 349 2076 344" 
+                    HPOS="272"
+                    VPOS="300"
+                    WIDTH="1803"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="273 347 273 371 2075 370 2075 342 2073 315 1980 315 1917 302 1916 302 1800 312 1727 300 1626 300 1625 300 1577 302 1576 302 1525 315 1260 310 1259 310 1106 316 1075 305 1074 305 1073 305 1071 305 1032 315 990 303 989 303 779 303 778 303 663 307 662 307 640 315 559 307 558 307 499 316 404 310 403 310 272 319 273 347"/></Shape>
+	    <String CONTENT="über die medizinische Statistik des Hamburgischen Staates..."
+                    HPOS="272"
+                    VPOS="300"
+                    WIDTH="1803"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="269 437 759 434" 
+                    HPOS="267"
+                    VPOS="386"
+                    WIDTH="491"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="268 436 270 461 286 455 299 461 313 467 314 467 315 467 316 467 318 467 318 466 324 461 329 457 334 461 340 464 341 464 342 464 344 464 345 464 346 464 352 460 361 455 368 460 374 464 376 464 377 464 378 464 379 464 390 460 397 457 408 460 421 462 436 474 437 474 439 474 440 476 520 476 520 474 521 474 522 474 545 460 574 458 584 466 584 467 585 467 587 467 588 467 589 467 606 457 621 450 657 450 678 456 696 462 698 462 699 462 757 455 758 432 753 386 699 402 675 393 674 393 673 393 672 393 670 393 670 394 653 410 585 410 567 394 566 394 564 394 563 394 562 394 536 402 527 394 519 388 518 388 516 388 515 388 514 388 513 388 503 395 479 411 399 411 389 404 389 403 388 403 387 403 386 403 384 403 383 403 373 410 361 402 347 389 346 389 345 389 292 389 291 389 289 389 288 389 267 402 268 436"/></Shape>
+	    <String CONTENT="Bis zum Jahre 1927"
+                    HPOS="267"
+                    VPOS="386"
+                    WIDTH="491"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1528 445 2028 448" 
+                    HPOS="1525"
+                    VPOS="411"
+                    WIDTH="502"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="1526 444 1525 473 1567 472 1573 476 1578 479 1579 479 1581 479 1628 481 1629 481 1630 481 1639 477 1649 472 1687 477 1710 481 1711 481 1713 481 1721 478 1737 473 1751 478 1760 482 1761 482 1762 482 1788 479 1832 473 1840 479 1841 481 1841 482 1842 482 1843 482 1869 483 1871 483 1872 483 1873 483 1875 481 1882 474 1964 474 1975 482 1977 483 1978 483 1979 483 1980 483 2026 482 2027 447 2027 414 1982 414 1980 414 1979 414 1978 414 1966 424 1956 415 1956 414 1954 414 1953 414 1911 414 1910 414 1909 414 1908 414 1889 426 1841 418 1840 418 1838 418 1837 418 1830 424 1811 415 1810 415 1809 415 1808 415 1806 415 1805 415 1792 425 1757 416 1753 415 1752 415 1751 415 1750 415 1747 416 1730 425 1707 416 1692 411 1690 411 1662 411 1661 411 1660 411 1658 411 1658 413 1652 416 1645 424 1526 419 1526 444"/></Shape>
+	    <String CONTENT="4:o Hamburg 1928"
+                    HPOS="1525"
+                    VPOS="411"
+                    WIDTH="502"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="282 557 1837 560" 
+                    HPOS="279"
+                    VPOS="514"
+                    WIDTH="1557"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="281 556 279 596 404 621 405 621 494 614 524 621 525 621 801 622 802 622 870 611 920 620 921 620 974 610 1003 612 1005 612 1006 612 1038 598 1055 589 1127 580 1292 580 1332 594 1333 594 1334 594 1402 582 1499 582 1540 592 1541 592 1542 592 1544 592 1578 582 1614 588 1615 589 1615 588 1616 588 1630 583 1677 598 1684 600 1686 600 1687 600 1688 600 1697 598 1755 582 1790 582 1832 598 1836 559 1834 518 1787 524 1677 518 1676 518 1634 525 1529 519 1528 519 1526 519 1513 526 1371 526 1339 518 1338 518 1336 518 1335 518 1318 525 1275 516 1274 516 1272 516 1240 525 1129 525 1116 518 1114 518 1113 518 1052 524 992 516 991 516 990 516 963 524 932 516 931 516 929 516 928 516 897 525 802 525 789 518 788 518 786 518 740 522 640 516 638 516 456 522 434 515 432 515 431 515 357 522 281 514 281 556"/></Shape>
+	    <String CONTENT="[Ir: &quot;Hygiene und soziale Hygiene in Hamburg&quot; ...1928. ]"
+                    HPOS="279"
+                    VPOS="514"
+                    WIDTH="1557"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="2088 119 2293 116" 
+                    HPOS="2085"
+                    VPOS="46"
+                    WIDTH="207"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="2086 118 2086 160 2163 160 2164 160 2175 155 2199 144 2291 145 2292 115 2290 62 2263 59 2262 59 2260 59 2259 59 2252 65 2243 70 2238 65 2227 56 2227 55 2226 55 2225 55 2152 46 2151 46 2149 46 2148 46 2117 74 2115 76 2085 76 2086 118"/></Shape>
+	    <String CONTENT="Statist"
+                    HPOS="2085"
+                    VPOS="46"
+                    WIDTH="207"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="2149 212 2226 212" 
+                    HPOS="2148"
+                    VPOS="144"
+                    WIDTH="77"
+                    HEIGHT="149">
+            <Shape><Polygon POINTS="2148 210 2148 293 2225 282 2225 210 2225 164 2211 164 2210 161 2192 145 2192 144 2191 144 2190 144 2189 144 2188 144 2148 155 2148 210"/></Shape>
+	    <String CONTENT="Ty"
+                    HPOS="2148"
+                    VPOS="144"
+                    WIDTH="77"
+                    HEIGHT="149"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

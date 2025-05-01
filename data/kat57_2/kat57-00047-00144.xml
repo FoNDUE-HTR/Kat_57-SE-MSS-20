@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00144.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1476"
+          PHYSICAL_IMG_NR="11"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1476">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1474"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1475 2311 1475 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="204 261 821 266" 
+                    HPOS="201"
+                    VPOS="198"
+                    WIDTH="619"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="203 260 201 295 205 298 205 300 206 300 207 300 438 301 439 301 440 301 441 301 441 300 454 290 458 285 488 290 511 292 513 292 586 289 636 286 674 287 778 293 780 293 819 286 820 265 820 230 807 222 805 222 804 222 803 222 802 222 801 222 788 231 785 233 675 233 669 226 669 225 668 225 668 223 666 223 665 223 664 223 663 223 657 225 636 232 558 232 509 218 500 217 499 217 498 217 494 218 468 228 457 217 440 200 440 199 439 199 438 199 436 199 365 204 356 198 355 198 354 198 227 198 226 198 225 198 203 205 203 260"/></Shape>
+	    <String CONTENT="ANDRADE, Manuel José"
+                    HPOS="201"
+                    VPOS="198"
+                    WIDTH="619"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1960 68 2240 71" 
+                    HPOS="1957"
+                    VPOS="14"
+                    WIDTH="282"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1958 67 1957 82 1978 89 1979 89 1981 89 2032 84 2042 83 2052 84 2080 89 2081 89 2083 89 2091 86 2099 83 2111 87 2126 91 2127 91 2128 91 2142 88 2158 84 2236 91 2239 70 2238 44 2174 44 2174 43 2124 18 2123 18 2122 18 2121 18 2120 18 2104 29 2068 14 2067 14 2004 14 2003 14 2001 14 2000 14 1958 39 1958 67"/></Shape>
+	    <String CONTENT="Folkm."
+                    HPOS="1957"
+                    VPOS="14"
+                    WIDTH="282"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1978 140 2249 140" 
+                    HPOS="1977"
+                    VPOS="97"
+                    WIDTH="271"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1977 138 1977 159 1985 166 1987 166 1988 166 1989 166 1990 166 2019 157 2069 166 2070 166 2072 166 2073 166 2089 154 2094 151 2100 153 2126 166 2127 166 2128 167 2174 167 2174 166 2175 166 2176 166 2193 152 2195 151 2248 151 2248 138 2248 118 2193 118 2193 116 2171 98 2171 97 2170 97 2169 97 2168 97 2166 97 2129 113 2108 104 2107 104 2106 104 2065 107 2051 97 2049 97 2048 97 2011 97 2010 97 2009 97 2008 97 2008 98 1989 115 1987 116 1977 115 1977 138"/></Shape>
+	    <String CONTENT="Amer."
+                    HPOS="1977"
+                    VPOS="97"
+                    WIDTH="271"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="199 372 2276 367" 
+                    HPOS="196"
+                    VPOS="334"
+                    WIDTH="2079"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="198 371 198 400 228 403 230 403 231 403 238 400 268 392 429 392 467 399 468 399 524 392 692 392 733 398 754 402 755 402 782 398 839 391 952 398 969 398 970 398 980 397 1017 393 1049 397 1087 402 1088 402 1197 397 1288 392 1307 396 1315 397 1316 397 1317 397 1321 396 1341 389 1520 389 1536 394 1546 398 1547 398 1549 398 1594 394 1641 391 1653 394 1674 400 1675 400 1677 400 1888 398 1889 398 1904 393 1909 392 1913 393 1934 399 1935 399 1936 400 2058 400 2058 399 2097 392 2113 389 2140 392 2216 399 2217 399 2272 391 2275 366 2272 334 196 334 198 371"/></Shape>
+	    <String CONTENT="Folklore de la Republica Dominicana. Titulo del original ingles Folk-"
+                    HPOS="196"
+                    VPOS="334"
+                    WIDTH="2079"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="201 472 1201 469" 
+                    HPOS="199"
+                    VPOS="435"
+                    WIDTH="1001"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="200 471 200 500 301 492 349 499 358 500 359 500 369 499 417 492 460 498 461 498 462 498 482 492 605 492 613 496 617 500 618 500 620 500 621 500 712 495 798 492 804 495 813 499 814 499 815 500 857 500 857 499 858 499 860 499 866 494 869 492 882 494 900 498 901 498 903 498 904 498 910 494 916 490 981 493 1108 499 1109 499 1199 490 1200 468 1198 445 1148 444 1134 435 1133 435 1132 435 1130 435 866 444 855 435 853 435 852 435 826 435 825 435 675 445 644 436 643 436 642 436 641 436 613 445 550 436 548 436 471 445 458 436 457 436 456 436 378 436 377 436 376 436 375 436 362 446 298 446 216 436 215 436 214 436 212 436 199 444 200 471"/></Shape>
+	    <String CONTENT="lore from the Dominican republic."
+                    HPOS="199"
+                    VPOS="435"
+                    WIDTH="1001"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="209 576 356 573" 
+                    HPOS="205"
+                    VPOS="532"
+                    WIDTH="150"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="207 575 207 592 354 596 355 571 350 537 338 541 324 537 310 532 308 532 307 532 306 532 305 532 305 533 300 537 289 548 254 548 241 537 238 535 237 535 236 535 235 535 205 537 207 575"/></Shape>
+	    <String CONTENT="T. 2"
+                    HPOS="205"
+                    VPOS="532"
+                    WIDTH="150"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1335 571 2126 567" 
+                    HPOS="1332"
+                    VPOS="522"
+                    WIDTH="792"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1333 570 1333 590 1362 600 1363 600 1364 600 1365 600 1379 595 1392 605 1394 605 1395 605 1396 605 1397 605 1399 605 1411 595 1529 602 1530 602 1531 602 1547 594 1568 605 1570 605 1571 605 1572 605 1608 591 1609 591 1610 591 1630 597 1631 597 1632 597 1690 592 1711 600 1712 600 1714 600 1738 595 1761 603 1763 603 1764 603 1823 592 1824 592 1877 603 1878 603 1880 603 1910 592 1928 586 1963 586 1971 592 1981 601 1981 602 1982 602 1983 602 1984 603 2035 603 2035 602 2036 602 2037 602 2049 592 2052 591 2122 592 2124 565 2122 526 1987 522 1985 522 1984 522 1983 522 1983 523 1976 528 1963 541 1923 541 1856 532 1838 530 1837 530 1835 530 1834 530 1832 532 1822 541 1811 533 1805 528 1803 528 1802 528 1801 528 1774 533 1739 541 1723 535 1714 531 1712 531 1711 531 1710 531 1695 536 1677 541 1659 536 1616 525 1615 525 1614 525 1613 525 1611 525 1611 526 1598 538 1594 541 1592 538 1577 526 1577 525 1576 525 1574 525 1573 525 1572 525 1538 539 1526 543 1513 539 1480 531 1478 531 1477 531 1476 531 1475 531 1462 541 1459 543 1445 542 1415 537 1413 537 1412 537 1400 542 1373 528 1371 528 1370 528 1369 528 1332 542 1333 570"/></Shape>
+	    <String CONTENT="8:o Ciudad Trujillo 1948"
+                    HPOS="1332"
+                    VPOS="522"
+                    WIDTH="792"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="201 672 2083 677" 
+                    HPOS="199"
+                    VPOS="627"
+                    WIDTH="1882"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="200 671 199 694 239 704 440 714 735 715 737 715 738 715 781 699 836 704 837 704 872 699 905 694 932 699 994 713 995 713 1102 701 1119 699 1128 701 1175 713 1176 713 1177 713 1178 713 1220 702 1230 699 1283 702 1307 703 1309 703 1314 702 1343 696 1411 696 1453 703 1480 708 1481 708 1482 708 1498 703 1525 696 1599 704 1605 704 1606 704 1608 704 1609 704 1632 698 1680 704 1731 712 1732 712 1774 706 1829 697 2079 707 2081 676 2080 648 2014 632 1914 632 1913 632 1912 632 1885 639 1819 632 1818 632 1686 643 1638 646 1614 642 1566 633 1565 633 1483 640 1444 644 1427 640 1391 630 1390 630 1389 630 1387 630 1365 639 1352 644 1332 639 1306 632 1305 632 1304 632 1247 638 1242 638 1237 638 1181 632 1179 632 1155 637 1123 644 999 638 997 638 996 638 978 645 826 645 785 638 783 638 671 644 515 638 514 638 513 638 499 643 476 635 474 635 473 635 383 643 296 628 200 627 200 671"/></Shape>
+	    <String CONTENT="Se: Publicaciones de la universidad de Santo Domingo. Vol. 54."
+                    HPOS="199"
+                    VPOS="627"
+                    WIDTH="1882"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="682 776 824 779" 
+                    HPOS="680"
+                    VPOS="707"
+                    WIDTH="144"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="681 774 680 792 707 803 708 803 709 803 743 797 751 795 757 798 775 805 776 805 777 805 821 801 823 778 824 712 786 707 785 707 783 707 782 707 766 720 764 723 681 733 681 774"/></Shape>
+	    <String CONTENT="Acta"
+                    HPOS="680"
+                    VPOS="707"
+                    WIDTH="144"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="687 837 1003 829" 
+                    HPOS="685"
+                    VPOS="794"
+                    WIDTH="317"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="686 836 686 848 703 859 705 859 706 859 707 859 740 858 741 858 743 858 743 857 753 847 755 843 775 843 807 848 853 856 855 856 856 856 857 856 857 854 863 849 871 843 903 851 917 853 919 853 920 853 925 851 946 840 1001 852 1002 827 1000 806 944 801 943 801 901 809 871 794 869 794 868 794 823 795 821 795 787 814 754 814 735 798 734 798 733 798 732 798 706 799 705 799 703 799 685 813 686 836"/></Shape>
+	    <String CONTENT="C. Amer."
+                    HPOS="685"
+                    VPOS="794"
+                    WIDTH="317"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="651 900 1660 896" 
+                    HPOS="649"
+                    VPOS="848"
+                    WIDTH="1010"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="650 899 650 955 700 948 765 954 772 954 773 954 775 954 776 954 793 940 850 931 884 952 887 954 888 954 889 954 890 954 922 953 924 953 925 953 927 952 947 939 973 950 981 954 983 954 984 954 1005 953 1006 953 1013 950 1058 928 1145 928 1159 937 1160 937 1161 937 1162 937 1163 937 1188 928 1211 937 1213 937 1214 937 1215 937 1240 929 1256 939 1257 939 1258 939 1259 939 1261 939 1291 927 1371 927 1402 943 1403 943 1405 943 1407 943 1471 933 1506 942 1531 948 1533 948 1534 948 1535 948 1555 943 1571 952 1572 952 1573 953 1642 953 1642 952 1643 952 1645 952 1659 939 1659 895 1656 865 1490 872 1480 867 1440 848 1439 848 1333 848 1332 848 1331 848 1330 848 1319 858 1300 849 1299 849 1242 849 1241 849 1240 849 1239 849 1205 870 1199 874 1087 874 1082 872 1033 854 1032 854 1031 854 1029 854 1028 854 1016 863 989 853 988 853 986 853 893 857 867 851 866 851 865 851 863 851 818 864 808 856 807 856 805 856 804 856 803 856 787 862 766 854 765 854 764 854 762 854 738 864 697 851 696 851 695 851 693 851 649 874 650 899"/></Shape>
+	    <String CONTENT="[Ciudad Trujillo, univ. de S. Domingo"
+                    HPOS="649"
+                    VPOS="848"
+                    WIDTH="1010"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    
+                    BASELINE="1783 1413 2051 1410" 
+                    HPOS="1781"
+                    VPOS="1360"
+                    WIDTH="268"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1782 1412 1782 1432 1800 1441 1801 1441 1802 1441 1803 1441 1805 1441 1805 1440 1812 1434 1823 1423 1859 1423 1893 1439 1894 1439 1896 1439 1947 1429 1977 1445 1985 1450 1987 1450 1988 1451 2048 1451 2049 1409 2046 1376 1998 1376 1994 1375 1974 1365 1973 1365 1972 1365 1971 1365 1969 1365 1958 1373 1955 1376 1950 1373 1925 1360 1924 1360 1923 1360 1861 1361 1860 1361 1834 1371 1823 1375 1818 1370 1814 1367 1814 1366 1813 1366 1812 1366 1811 1366 1809 1366 1808 1366 1805 1370 1800 1373 1781 1370 1782 1412"/></Shape>
+	    <String CONTENT="4.10.49"
+                    HPOS="1781"
+                    VPOS="1360"
+                    WIDTH="268"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00426.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2340"
+          HEIGHT="1484"
+          PHYSICAL_IMG_NR="45"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2340"
+                  HEIGHT="1484">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2338"
+                   HEIGHT="1482"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1483 2339 1483 2339 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="81 72 1189 62" 
+                    HPOS="79"
+                    VPOS="9"
+                    WIDTH="1109"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="80 71 80 110 174 110 174 108 175 108 176 108 220 96 291 102 293 102 294 102 361 82 471 93 472 93 473 93 500 84 577 81 624 97 625 97 627 97 701 80 745 80 764 90 765 90 766 90 768 90 796 82 875 90 876 90 878 90 911 81 922 89 923 89 925 89 926 89 927 89 952 81 991 96 993 96 994 96 995 96 1020 82 1029 89 1030 89 1031 89 1032 89 1087 84 1136 100 1137 100 1139 100 1140 100 1188 98 1188 61 1186 35 1084 35 1021 9 1020 9 960 9 959 9 958 9 957 9 917 37 716 38 636 12 635 12 634 12 633 12 631 12 604 30 541 13 540 13 539 13 462 14 461 14 419 25 377 14 375 14 374 14 333 16 332 16 263 42 221 16 220 16 218 16 217 16 138 18 137 18 136 18 96 44 79 44 80 71"/></Shape>
+	    <String CONTENT="[Jahresbericht der Thies-Chemie"
+                    HPOS="79"
+                    VPOS="9"
+                    WIDTH="1109"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="267 171 883 174" 
+                    HPOS="264"
+                    VPOS="122"
+                    WIDTH="617"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="265 170 264 181 280 195 281 195 283 195 284 195 285 195 311 187 348 196 350 196 477 195 478 195 479 195 495 181 513 195 514 195 515 195 516 195 624 191 641 197 643 197 644 197 690 191 722 196 723 196 724 196 725 196 725 195 740 181 880 181 881 173 879 147 763 153 754 147 722 123 721 123 719 123 718 123 717 123 716 123 677 148 671 152 664 148 636 136 635 136 634 136 633 136 631 136 617 147 587 140 586 140 585 140 560 149 550 152 541 149 516 139 515 139 514 139 513 139 494 148 474 131 473 131 472 131 471 131 469 131 468 131 468 132 457 140 430 122 429 122 427 122 342 122 341 122 310 124 309 124 307 124 278 150 265 150 265 170"/></Shape>
+	    <String CONTENT="Andreasch"
+                    HPOS="264"
+                    VPOS="122"
+                    WIDTH="617"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="923 178 1229 174" 
+                    HPOS="921"
+                    VPOS="137"
+                    WIDTH="307"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="922 176 922 190 944 190 962 205 962 206 963 206 964 206 965 206 1025 196 1109 196 1126 211 1126 212 1127 212 1129 212 1130 213 1182 213 1182 212 1183 212 1184 212 1210 189 1228 185 1228 173 1225 149 1172 139 1171 139 1170 139 1168 139 1153 150 1148 154 1134 152 1110 147 1109 147 1108 147 1089 153 1082 154 1077 153 1024 137 1022 137 1021 137 984 139 983 139 982 139 982 140 964 155 963 158 921 158 922 176"/></Shape>
+	    <String CONTENT="Rudolf"
+                    HPOS="921"
+                    VPOS="137"
+                    WIDTH="307"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1945 70 2160 73" 
+                    HPOS="1942"
+                    VPOS="12"
+                    WIDTH="217"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1944 69 1942 87 1962 96 1964 96 1965 96 1966 96 1991 89 1998 87 2001 90 2013 98 2014 98 2015 98 2107 100 2108 100 2109 100 2111 100 2111 98 2117 93 2121 90 2156 93 2159 72 2159 48 2101 45 2098 43 2056 13 2055 13 2054 13 2008 12 2007 12 2006 12 2004 12 1968 34 1944 33 1944 69"/></Shape>
+	    <String CONTENT="Kemi"
+                    HPOS="1942"
+                    VPOS="12"
+                    WIDTH="217"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1934 158 2155 158" 
+                    HPOS="1933"
+                    VPOS="101"
+                    WIDTH="221"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1933 157 1933 170 1951 178 1952 178 1954 178 1955 178 1971 171 1983 179 1985 179 1986 179 1987 180 2043 180 2043 179 2044 179 2061 171 2116 179 2117 179 2154 170 2154 157 2154 106 2105 101 2103 101 2102 101 2101 101 2087 112 2062 101 2061 101 2060 101 2059 101 2058 101 2025 121 2007 133 1933 133 1933 157"/></Shape>
+	    <String CONTENT="Tidskr."
+                    HPOS="1933"
+                    VPOS="101"
+                    WIDTH="221"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="259 272 2306 277" 
+                    HPOS="257"
+                    VPOS="220"
+                    WIDTH="2048"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="258 270 257 285 348 298 350 298 440 288 509 299 510 299 627 286 633 286 669 286 758 288 798 300 800 300 801 300 933 299 998 288 1041 299 1042 299 1043 300 1105 300 1105 299 1106 299 1142 289 1565 289 1591 295 1592 295 1594 295 1678 289 1679 289 1797 301 1798 301 1829 295 1855 300 1856 300 2015 294 2041 302 2043 302 2044 304 2212 304 2212 302 2213 302 2243 291 2304 289 2305 275 2302 234 2283 236 2276 233 2247 223 2246 223 2170 223 2169 223 2168 223 2139 233 2105 246 2055 238 2054 238 2053 238 2027 248 1962 248 1891 233 1863 228 1862 228 1811 231 1810 231 1801 233 1757 247 1495 247 1421 232 1362 222 1281 221 1280 221 1144 231 1114 221 1113 221 1072 221 1071 221 1069 221 1030 232 983 244 857 237 831 231 769 220 768 220 719 231 669 244 492 244 456 231 425 220 424 220 301 220 300 220 258 230 258 270"/></Shape>
+	    <String CONTENT="Sach-und Autoren-Register über die ersten zehn Jahr"
+                    HPOS="257"
+                    VPOS="220"
+                    WIDTH="2048"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="272 341 2266 349" 
+                    HPOS="269"
+                    VPOS="306"
+                    WIDTH="1996"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="270 340 269 393 413 394 414 394 415 394 420 393 504 367 559 378 560 378 599 377 653 392 665 395 666 395 909 396 910 396 911 396 927 392 998 366 1126 385 1127 385 1210 371 1303 377 1304 377 1306 377 1330 369 1400 380 1401 380 1474 369 1580 375 1581 375 1682 368 1820 369 1865 384 1866 384 1867 384 1914 378 2046 384 2048 384 2107 375 2147 384 2148 384 2149 384 2181 375 2221 387 2232 389 2233 389 2234 389 2264 385 2265 348 2263 321 2228 327 2208 321 2202 319 2201 319 2200 319 2199 319 2191 321 2164 328 2074 320 1945 309 1944 309 1942 309 1910 320 1891 328 1856 328 1827 320 1784 309 1783 309 1693 307 1691 307 1690 307 1658 317 1621 307 1620 307 1490 307 1489 307 1438 320 1413 326 1397 320 1369 309 1367 309 1366 309 1281 320 1277 320 1275 320 1204 306 1147 306 1146 306 1145 306 1114 316 1095 310 1094 310 1093 310 1092 310 1064 320 1053 324 1032 320 994 312 993 312 991 312 965 320 949 325 895 325 870 320 822 311 821 311 742 316 692 306 691 306 690 306 650 320 640 322 270 320 270 340"/></Shape>
+	    <String CONTENT="gänge von Maly&#x27;s Jahres-Bericht der Thier-Chemie. Bearbeitet."
+                    HPOS="269"
+                    VPOS="306"
+                    WIDTH="1996"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1448 418 2181 415" 
+                    HPOS="1445"
+                    VPOS="375"
+                    WIDTH="735"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1447 417 1447 430 1468 441 1469 441 1470 441 1471 441 1473 441 1487 431 1491 430 1558 430 1568 434 1595 443 1596 443 1597 443 1599 443 1600 443 1611 436 1662 445 1663 445 1664 445 1679 439 1690 447 1691 447 1693 447 1694 447 1695 447 1732 437 1747 434 1752 439 1755 440 1755 441 1756 441 1757 441 1758 441 1759 441 1767 439 1774 436 1778 439 1792 450 1793 450 1794 450 1795 451 1893 451 1893 450 1894 450 1895 450 1904 442 1924 447 1925 447 1926 447 1928 447 1936 442 1965 427 2039 427 2074 446 2076 448 2077 448 2079 448 2080 450 2179 450 2180 414 2177 382 2114 375 2113 375 2112 375 2096 383 2066 398 1999 393 1998 393 1860 399 1850 393 1848 393 1847 393 1846 393 1789 399 1782 393 1771 383 1771 382 1769 382 1768 382 1767 382 1766 382 1764 382 1748 394 1743 398 1712 399 1708 395 1691 379 1691 378 1690 378 1689 378 1571 378 1570 378 1569 378 1568 378 1568 379 1549 394 1536 383 1534 383 1533 383 1484 378 1482 378 1481 378 1480 378 1445 399 1447 417"/></Shape>
+	    <String CONTENT="8º Weisbaden 1881."
+                    HPOS="1445"
+                    VPOS="375"
+                    WIDTH="735"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

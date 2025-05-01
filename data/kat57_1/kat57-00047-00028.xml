@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00028.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2308"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2308"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2306"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2307 1471 2307 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="168 278 707 281" 
+                    HPOS="165"
+                    VPOS="223"
+                    WIDTH="541"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="166 277 165 304 182 316 184 316 185 316 419 317 420 317 453 315 455 315 456 315 456 314 472 299 474 298 584 298 609 309 611 309 612 309 613 309 640 301 650 310 651 310 652 310 653 310 655 310 656 310 671 300 688 307 689 307 690 307 692 307 693 307 705 298 706 280 703 236 684 241 678 236 662 224 661 224 660 224 658 224 623 230 617 225 617 224 615 224 614 224 507 223 506 223 505 223 504 223 504 224 490 236 487 241 438 241 429 237 407 228 406 228 404 228 403 228 384 236 326 230 325 230 323 230 301 237 298 239 296 237 289 231 289 230 288 230 287 230 285 230 284 230 261 236 236 226 235 226 234 226 233 226 231 226 223 235 166 237 166 277"/></Shape>
+	    <String CONTENT="ANDERSSON, Viktor"
+                    HPOS="165"
+                    VPOS="223"
+                    WIDTH="541"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="158 377 1761 386" 
+                    HPOS="155"
+                    VPOS="336"
+                    WIDTH="1605"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="157 376 155 397 231 403 233 403 234 403 249 398 257 396 282 398 320 403 321 403 349 399 373 396 527 396 537 401 547 404 548 404 615 406 617 406 727 402 841 398 855 403 866 407 867 407 868 407 993 404 1136 401 1153 406 1164 408 1165 408 1166 408 1191 406 1233 401 1277 406 1303 409 1304 409 1334 407 1373 403 1404 407 1423 409 1424 409 1435 407 1462 402 1496 408 1500 408 1501 408 1509 408 1563 403 1575 408 1580 410 1581 410 1582 410 1617 409 1707 403 1758 409 1760 385 1760 342 1737 341 1736 341 1734 341 1732 341 1709 352 1656 341 1651 341 1560 341 1559 341 1558 341 1557 341 1532 350 1500 341 1494 339 1493 339 1492 339 1349 341 1300 342 1299 342 1267 349 1148 343 1147 343 1111 349 1071 342 1069 342 946 345 932 339 925 337 923 337 922 337 865 339 823 342 812 339 793 336 792 336 791 336 775 339 757 344 710 339 703 339 701 339 695 339 634 347 569 339 544 337 543 337 542 337 536 339 522 345 157 339 157 376"/></Shape>
+	    <String CONTENT="Se och lär! Handbok i bågskytte för nybörjare. [Ill.]"
+                    HPOS="155"
+                    VPOS="336"
+                    WIDTH="1605"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1411 480 1881 483" 
+                    HPOS="1408"
+                    VPOS="442"
+                    WIDTH="471"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1409 479 1408 493 1474 505 1476 505 1541 495 1559 505 1560 505 1561 505 1611 500 1682 506 1683 506 1684 506 1704 496 1726 496 1743 506 1744 506 1746 506 1747 506 1812 500 1828 506 1829 506 1830 506 1831 506 1833 506 1847 496 1862 504 1863 504 1865 504 1866 504 1867 504 1878 495 1879 482 1879 457 1856 457 1856 456 1831 444 1830 444 1829 444 1764 446 1763 446 1761 446 1755 452 1737 444 1736 444 1734 444 1733 444 1732 444 1716 453 1703 446 1701 446 1700 446 1662 447 1661 447 1660 447 1650 455 1615 442 1614 442 1561 442 1560 442 1559 442 1534 455 1534 456 1463 456 1462 455 1452 446 1451 446 1450 446 1449 446 1409 453 1409 479"/></Shape>
+	    <String CONTENT="8:o Malmö 1953."
+                    HPOS="1408"
+                    VPOS="442"
+                    WIDTH="471"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1927 70 1975 69" 
+                    HPOS="1925"
+                    VPOS="6"
+                    WIDTH="49"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1926 82 1974 76 1974 68 1971 25 1925 6 1926 69 1926 82"/></Shape>
+	    <String CONTENT="Br."
+                    HPOS="1925"
+                    VPOS="6"
+                    WIDTH="49"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2010 67 2254 64" 
+                    HPOS="2008"
+                    VPOS="11"
+                    WIDTH="244"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="2009 66 2009 110 2072 138 2073 138 2074 139 2131 139 2131 138 2132 138 2133 138 2188 104 2190 103 2252 101 2252 63 2249 15 2177 29 2168 24 2144 11 2143 11 2142 11 2112 12 2111 12 2071 34 2060 40 2008 40 2009 66"/></Shape>
+	    <String CONTENT="Sport"
+                    HPOS="2008"
+                    VPOS="11"
+                    WIDTH="244"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="166 582 2246 582" 
+                    HPOS="165"
+                    VPOS="545"
+                    WIDTH="2080"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="165 581 165 614 320 609 364 614 423 621 424 621 474 614 510 609 526 614 568 628 569 628 624 634 625 635 775 635 775 634 876 625 877 625 919 613 934 609 1027 609 1047 613 1141 634 1142 635 1440 635 1440 634 1544 613 1561 609 1596 612 1817 634 1818 634 1890 629 1892 629 1944 612 1953 609 2244 610 2245 581 2244 552 2006 553 1955 550 1877 545 1876 545 1854 550 1838 554 1611 554 1561 549 1516 545 1515 545 1498 549 1477 553 1456 549 1444 547 1442 547 1395 548 1298 553 1250 548 1222 545 1220 545 1219 545 1211 548 1193 554 1020 554 1003 548 1001 547 1000 547 838 545 836 545 827 547 795 553 719 547 701 545 700 545 689 547 635 553 580 547 570 545 569 545 544 545 407 552 326 545 321 545 320 545 317 545 282 553 165 545 165 581"/></Shape>
+	    <String CONTENT="[Ur: Bågskytten. Organ för Svenska bågskytteförbundet. - Förf.-namnet"
+                    HPOS="165"
+                    VPOS="545"
+                    WIDTH="2080"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="161 678 533 681" 
+                    HPOS="159"
+                    VPOS="644"
+                    WIDTH="373"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="160 677 159 696 238 697 240 700 246 705 247 705 249 705 250 705 269 701 282 699 284 702 292 709 292 710 293 710 294 710 295 711 341 711 341 710 342 710 353 705 359 701 368 705 379 710 380 710 381 710 412 707 433 705 436 707 439 710 439 711 440 711 441 711 442 711 456 709 493 701 528 711 532 680 531 645 503 645 501 645 500 645 499 645 499 646 489 655 476 646 474 645 473 645 472 645 449 645 447 645 446 645 445 645 445 646 442 647 429 662 409 662 390 650 381 644 380 644 379 644 377 644 376 644 361 651 355 653 350 651 339 645 338 645 337 645 336 645 334 645 334 646 327 652 323 656 283 659 244 659 240 655 234 650 234 648 233 648 231 648 230 648 229 648 212 653 193 644 192 644 191 644 190 644 160 657 160 677"/></Shape>
+	    <String CONTENT="fr. sid. 3.]"
+                    HPOS="159"
+                    VPOS="644"
+                    WIDTH="373"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

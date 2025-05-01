@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00237.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2308"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2308"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2306"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2307 1471 2307 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="144 238 1225 238" 
+                    HPOS="143"
+                    VPOS="174"
+                    WIDTH="1081"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="143 237 143 252 161 262 163 262 164 262 165 262 166 262 177 255 266 257 267 257 268 257 277 252 283 250 306 252 352 258 353 258 354 258 365 252 371 250 386 252 417 258 418 258 419 258 420 258 429 252 430 252 435 252 469 258 471 258 472 258 488 252 498 250 548 250 555 252 603 274 604 274 606 276 769 276 769 274 770 274 793 264 835 273 836 273 838 273 839 273 850 264 911 263 912 263 914 263 930 253 936 250 949 253 966 257 968 257 969 257 995 253 1008 251 1018 253 1038 258 1039 258 1040 258 1136 258 1191 273 1192 273 1193 273 1195 273 1196 273 1224 255 1224 237 1222 182 1175 207 1093 207 1061 186 1044 174 1042 174 1041 174 990 174 988 174 987 174 986 174 964 188 933 207 868 207 813 191 769 180 768 180 766 180 688 192 678 185 677 185 676 185 674 185 638 186 612 174 611 174 609 174 608 174 607 174 568 197 564 199 528 202 503 198 434 187 433 187 431 187 406 196 350 174 349 174 247 174 246 174 245 174 244 174 191 206 188 207 143 207 143 237"/></Shape>
+	    <String CONTENT="Andræ, Tor [Julius Efraim]"
+                    HPOS="143"
+                    VPOS="174"
+                    WIDTH="1081"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="190 332 1999 322" 
+                    HPOS="187"
+                    VPOS="267"
+                    WIDTH="1811"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="188 331 188 381 320 380 328 379 418 359 471 375 480 379 482 379 483 379 484 379 495 375 546 358 598 372 619 379 620 379 622 379 754 377 755 377 779 369 839 347 939 349 941 349 942 349 968 342 1024 354 1025 354 1071 344 1148 349 1149 349 1203 342 1293 350 1294 350 1361 336 1407 345 1408 345 1547 334 1678 337 1710 349 1716 350 1717 350 1719 350 1743 348 1845 336 1888 344 1926 353 1927 353 1997 342 1998 321 1996 287 1960 284 1919 267 1917 267 1916 267 1746 277 1679 268 1547 268 1546 268 1476 285 1466 288 1455 285 1430 279 1429 279 1366 279 1365 279 1364 279 1346 285 1316 296 1152 296 1116 285 1068 272 1067 272 1038 272 1036 272 1035 272 987 285 946 298 895 298 862 285 836 277 835 277 834 277 798 285 747 299 525 299 488 285 460 274 458 274 415 274 414 274 413 274 376 285 352 291 307 291 285 285 251 276 250 276 249 276 187 284 188 331"/></Shape>
+	    <String CONTENT="Der Ursprung des Islams und das Christentum."
+                    HPOS="187"
+                    VPOS="267"
+                    WIDTH="1811"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2075 70 2286 70" 
+                    HPOS="2074"
+                    VPOS="11"
+                    WIDTH="211"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="2074 93 2284 94 2285 69 2285 45 2225 36 2224 36 2223 36 2217 39 2211 41 2207 38 2173 11 2171 11 2170 11 2169 11 2107 12 2106 12 2105 12 2084 28 2082 30 2076 28 2074 69 2074 93"/></Shape>
+	    <String CONTENT="Rel. vet."
+                    HPOS="2074"
+                    VPOS="11"
+                    WIDTH="211"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2066 153 2283 158" 
+                    HPOS="2063"
+                    VPOS="98"
+                    WIDTH="219"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="2063 174 2092 185 2093 185 2094 185 2095 185 2096 185 2104 177 2106 177 2128 177 2134 181 2138 185 2139 185 2141 185 2142 185 2143 185 2150 182 2171 176 2198 188 2214 196 2215 196 2279 197 2282 157 2282 132 2234 132 2231 128 2212 110 2212 109 2211 109 2209 109 2181 106 2180 106 2179 106 2177 106 2169 112 2153 99 2152 99 2150 99 2111 98 2110 98 2109 98 2107 98 2082 120 2079 123 2066 120 2065 152 2063 174"/></Shape>
+	    <String CONTENT="Muham."
+                    HPOS="2063"
+                    VPOS="98"
+                    WIDTH="219"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="894 424 2203 421" 
+                    HPOS="892"
+                    VPOS="380"
+                    WIDTH="1310"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="893 423 893 444 1015 444 1050 461 1051 461 1052 462 1087 462 1087 461 1088 461 1120 450 1195 456 1196 456 1255 444 1258 444 1323 444 1327 444 1396 458 1397 458 1398 458 1444 444 1446 444 1452 444 1523 453 1525 453 1526 453 1549 447 1622 460 1623 460 1683 450 1727 460 1728 460 1730 460 1768 445 1774 442 1793 445 1888 457 1889 457 1890 457 1926 446 1961 460 1963 460 1964 461 2079 461 2079 460 2202 445 2202 420 2200 394 2131 383 2130 383 2128 383 2087 394 2079 397 1877 397 1871 394 1836 381 1835 381 1834 381 1833 381 1831 381 1808 396 1803 398 1763 398 1758 396 1728 380 1727 380 1668 380 1667 380 1666 380 1633 396 1629 398 1596 398 1591 396 1564 387 1563 387 1561 387 1506 393 1494 387 1493 387 1492 387 1423 391 1398 381 1397 381 1330 381 1328 381 1271 390 1252 381 1251 381 1214 381 1213 381 1212 381 1180 397 1177 399 1110 399 1106 397 1076 381 1074 381 1035 381 1034 381 1033 381 1002 392 970 381 969 381 934 381 933 381 932 381 892 396 893 423"/></Shape>
+	    <String CONTENT="8º Uppsala &amp; Stockholm [tr. i Uppsala] 1926."
+                    HPOS="892"
+                    VPOS="380"
+                    WIDTH="1310"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="173 546 1462 526" 
+                    HPOS="170"
+                    VPOS="483"
+                    WIDTH="1291"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="171 545 173 585 235 566 267 576 268 576 269 576 312 567 396 580 397 580 398 580 453 563 534 571 536 571 537 571 558 560 617 575 618 575 619 575 704 559 725 565 726 565 727 565 774 559 844 575 845 576 852 576 990 576 990 575 1018 574 1019 574 1022 574 1072 553 1105 563 1106 563 1107 563 1161 549 1233 549 1271 549 1296 561 1298 561 1346 569 1352 569 1353 569 1461 566 1461 525 1457 500 1411 500 1409 500 1393 491 1392 491 1391 491 1336 498 1315 489 1314 489 1312 489 1311 489 1310 489 1290 502 1288 504 1230 504 1228 504 1201 490 1200 490 1198 490 1197 490 1173 499 1134 486 1133 486 1132 486 1066 498 1003 483 1002 483 1001 483 937 501 882 486 880 486 879 486 878 486 877 486 840 510 838 510 823 510 733 506 732 506 631 512 630 512 581 493 580 493 579 493 577 493 559 498 532 490 531 490 530 490 393 491 353 493 352 493 316 509 277 494 276 494 244 494 242 494 241 494 188 520 188 521 170 521 171 545"/></Shape>
+	    <String CONTENT="En kyrkohist. arsskrift 1923-1925.]"
+                    HPOS="170"
+                    VPOS="483"
+                    WIDTH="1291"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

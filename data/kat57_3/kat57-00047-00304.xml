@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00304.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="31"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2323 1477 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="205 251 996 251" 
+                    HPOS="204"
+                    VPOS="201"
+                    WIDTH="791"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="204 250 204 288 243 294 245 294 290 289 305 288 311 289 326 294 327 294 329 294 330 294 331 294 338 289 341 288 349 289 369 294 370 294 372 294 373 294 379 290 404 274 436 274 457 290 460 294 462 294 463 294 464 295 489 295 489 294 490 294 491 294 491 293 494 290 511 274 527 274 579 280 590 291 592 293 592 294 593 294 595 294 596 295 629 295 629 294 630 294 632 294 635 291 651 282 664 291 666 294 667 294 669 294 670 295 702 295 702 294 703 294 704 294 707 293 738 274 914 274 940 294 941 294 942 294 943 295 995 295 995 250 994 211 962 216 931 211 895 205 894 205 893 205 878 211 866 216 831 211 809 209 808 209 791 211 766 216 757 211 749 208 747 208 659 201 658 201 656 201 655 201 646 209 607 204 606 204 605 204 603 204 592 213 587 216 559 213 536 210 534 210 533 210 523 213 512 216 503 213 475 201 474 201 473 201 471 201 470 201 453 214 449 216 417 216 410 214 380 201 379 201 271 201 269 201 268 201 267 201 267 203 253 214 251 216 204 215 204 250"/></Shape>
+	    <String CONTENT="ANDRÉ, P[ierre] J[ean Daniel]"
+                    HPOS="204"
+                    VPOS="201"
+                    WIDTH="791"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2069 80 2286 77" 
+                    HPOS="2067"
+                    VPOS="14"
+                    WIDTH="218"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="2068 78 2068 96 2284 99 2285 76 2283 18 2262 18 2261 18 2259 18 2258 18 2256 20 2229 41 2210 27 2195 14 2194 14 2193 14 2176 14 2174 14 2173 14 2146 27 2139 19 2137 19 2136 19 2135 19 2134 19 2133 19 2133 20 2113 40 2109 44 2067 45 2068 78"/></Shape>
+	    <String CONTENT="Hist."
+                    HPOS="2067"
+                    VPOS="14"
+                    WIDTH="218"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2055 160 2298 163" 
+                    HPOS="2052"
+                    VPOS="99"
+                    WIDTH="244"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="2054 158 2052 177 2084 187 2086 187 2087 187 2088 187 2099 181 2103 179 2130 181 2133 183 2145 193 2146 193 2147 193 2149 193 2150 193 2176 187 2194 182 2205 188 2208 190 2209 190 2210 190 2211 190 2221 189 2242 187 2294 194 2296 162 2296 128 2237 126 2231 123 2199 100 2198 100 2197 100 2181 100 2179 100 2178 100 2177 100 2177 102 2162 114 2141 114 2129 100 2129 99 2128 99 2126 99 2125 99 2054 108 2054 158"/></Shape>
+	    <String CONTENT="Islam."
+                    HPOS="2052"
+                    VPOS="99"
+                    WIDTH="244"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="211 352 2291 355" 
+                    HPOS="209"
+                    VPOS="315"
+                    WIDTH="2081"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="210 351 209 373 252 381 904 383 905 383 1595 376 1848 376 1879 384 1880 384 2136 378 2167 384 2168 384 2289 376 2290 354 2289 325 2188 316 2187 316 2094 322 2046 316 2045 316 2044 316 2017 323 2014 323 1972 323 1561 315 1560 315 1505 321 1463 315 1462 315 1461 315 1442 321 1439 322 1430 321 1377 315 1376 315 1256 321 1224 322 1195 321 1100 315 1035 315 1033 315 1032 315 1016 320 1009 322 840 322 834 320 814 315 813 315 812 315 752 320 728 321 210 319 210 351"/></Shape>
+	    <String CONTENT="L&#x27;Islam noir. Contribution à l&#x27;étude des confréries religieuses isla-"
+                    HPOS="209"
+                    VPOS="315"
+                    WIDTH="2081"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="205 454 1770 460" 
+                    HPOS="203"
+                    VPOS="413"
+                    WIDTH="1566"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="204 453 203 482 600 485 606 487 633 497 634 497 635 498 722 498 722 497 723 497 747 490 756 487 781 490 853 498 855 498 925 491 935 491 948 492 1003 497 1004 497 1160 495 1447 488 1539 498 1561 501 1562 502 1768 502 1769 459 1768 431 1707 419 1706 419 1665 428 1638 419 1637 419 1636 419 1580 427 1555 419 1553 419 1552 419 1551 419 1534 427 1529 429 1513 427 1468 421 1467 421 1466 421 1449 427 1442 429 1373 429 1364 426 1341 418 1340 418 1217 418 1216 418 1214 418 1202 423 1192 429 1144 429 1092 428 1081 422 1068 417 1067 417 906 417 905 417 878 421 836 426 805 419 787 416 786 416 756 418 697 426 584 419 582 419 320 424 204 413 204 453"/></Shape>
+	    <String CONTENT="miques en Afrique Occidentale... Préface de J. Carde."
+                    HPOS="203"
+                    VPOS="413"
+                    WIDTH="1566"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1727 556 2189 561" 
+                    HPOS="1725"
+                    VPOS="513"
+                    WIDTH="463"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1726 555 1725 597 1731 602 1732 602 1733 602 1734 603 1817 603 1817 602 1818 602 1820 602 1820 601 1828 593 1832 588 1861 588 1869 593 1882 603 1884 603 1885 603 1886 604 1927 604 1927 603 1928 603 1953 592 1954 592 1956 592 1987 597 1988 597 1990 597 1991 597 1991 596 1996 592 1998 589 2070 589 2107 589 2109 591 2135 604 2136 604 2137 604 2139 604 2165 591 2166 591 2187 591 2188 560 2188 529 2172 529 2172 528 2157 516 2157 514 2156 514 2155 514 2153 514 2152 514 2135 519 2072 513 2071 513 2020 516 2019 516 2018 516 2007 523 1964 513 1962 513 1961 513 1934 525 1870 514 1869 514 1868 514 1844 525 1842 525 1790 525 1789 524 1757 513 1755 513 1754 513 1753 513 1752 513 1739 524 1738 524 1726 524 1726 555"/></Shape>
+	    <String CONTENT="8:o Paris 1924."
+                    HPOS="1725"
+                    VPOS="513"
+                    WIDTH="463"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="2069 1440 2318 1436" 
+                    HPOS="2067"
+                    VPOS="1386"
+                    WIDTH="250"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="2068 1439 2068 1461 2118 1460 2124 1463 2135 1468 2136 1468 2137 1468 2139 1468 2157 1463 2173 1459 2181 1463 2187 1468 2188 1468 2189 1468 2190 1468 2192 1468 2193 1468 2193 1466 2197 1464 2203 1458 2216 1458 2222 1464 2224 1464 2224 1465 2225 1465 2226 1465 2227 1465 2317 1464 2317 1434 2315 1396 2258 1391 2257 1391 2256 1391 2254 1391 2252 1394 2245 1399 2174 1399 2162 1390 2157 1386 2156 1386 2155 1386 2153 1386 2067 1386 2068 1439"/></Shape>
+	    <String CONTENT="1.3.1947"
+                    HPOS="2067"
+                    VPOS="1386"
+                    WIDTH="250"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00313.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="36"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2319 1471 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="156 172 857 172" 
+                    HPOS="155"
+                    VPOS="123"
+                    WIDTH="701"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="155 171 155 182 171 182 172 182 180 190 180 191 181 191 182 191 184 192 291 192 291 191 293 191 294 191 294 190 301 182 318 191 320 191 321 192 361 192 361 191 363 191 364 191 377 182 379 182 424 182 425 182 437 191 439 191 440 191 441 191 489 190 490 190 491 190 503 182 504 182 547 182 556 190 556 191 558 191 559 191 560 191 622 185 635 191 636 191 637 191 639 191 658 184 669 191 671 191 672 191 673 191 674 191 698 182 726 191 727 191 728 191 729 191 745 184 752 190 752 191 753 191 754 191 755 191 798 185 814 191 815 191 817 191 856 181 856 171 856 148 771 148 750 137 749 137 748 137 747 137 718 147 691 123 690 123 689 123 688 123 687 123 685 123 667 137 601 123 544 123 543 123 542 123 500 144 462 123 461 123 460 123 458 123 457 123 430 142 334 147 305 128 304 128 303 128 207 123 206 123 204 123 203 123 175 148 155 148 155 171"/></Shape>
+	    <String CONTENT="Andrea da Barberino"
+                    HPOS="155"
+                    VPOS="123"
+                    WIDTH="701"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="160 255 1049 252" 
+                    HPOS="158"
+                    VPOS="217"
+                    WIDTH="890"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="159 253 160 287 180 278 252 278 274 285 283 289 284 289 285 289 310 288 328 299 330 299 331 299 332 300 528 300 528 299 572 290 718 298 720 298 721 298 754 282 769 276 867 276 878 282 884 284 885 284 887 284 888 284 899 280 917 276 1046 279 1048 251 1047 231 1021 217 1020 217 980 217 979 217 977 217 976 217 958 231 955 234 925 234 921 233 893 224 891 224 890 224 889 224 877 230 861 217 860 217 858 217 828 217 826 217 825 217 804 226 742 217 741 217 739 217 710 233 698 226 696 226 695 226 615 233 607 226 606 226 604 226 603 226 602 226 588 234 586 235 516 235 515 234 463 218 462 218 461 218 460 218 430 234 429 235 414 235 392 235 368 218 366 218 365 218 320 218 318 218 317 218 283 234 202 223 201 223 199 223 198 223 182 235 158 235 159 253"/></Shape>
+	    <String CONTENT="Se. Barberino, Andrea da"
+                    HPOS="158"
+                    VPOS="217"
+                    WIDTH="890"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-02173-00057.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="15"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1472">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_bf0a6056"
+                    
+                    BASELINE="2163 30 2295 30" 
+                    HPOS="2162"
+                    VPOS="1"
+                    WIDTH="132"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="2199 1 2187 1 2175 1 2162 1 2162 29 2162 36 2199 49 2200 49 2202 50 2267 50 2267 49 2268 49 2294 36 2294 29 2294 3 2205 1 2199 1"/></Shape>
+	    <String CONTENT="Jur."
+                    HPOS="2162"
+                    VPOS="1"
+                    WIDTH="132"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_20caaa07"
+                    
+                    BASELINE="2140 134 2306 131" 
+                    HPOS="2138"
+                    VPOS="93"
+                    WIDTH="167"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="2139 133 2139 157 2192 161 2193 161 2194 161 2196 161 2196 160 2198 158 2202 155 2210 158 2234 165 2235 165 2236 165 2268 164 2269 164 2270 164 2278 159 2285 154 2302 159 2305 130 2301 106 2278 106 2275 105 2250 93 2248 93 2247 93 2246 93 2212 103 2193 94 2192 94 2191 94 2189 94 2171 104 2161 109 2138 104 2139 133"/></Shape>
+	    <String CONTENT="Allm."
+                    HPOS="2138"
+                    VPOS="93"
+                    WIDTH="167"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6ed35940"
+                    
+                    BASELINE="193 207 825 211" 
+                    HPOS="191"
+                    VPOS="134"
+                    WIDTH="633"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="192 206 191 218 217 228 218 228 219 228 298 220 306 220 314 220 354 228 355 228 357 228 368 222 369 222 380 229 381 229 382 229 384 229 433 224 444 223 446 224 453 229 455 229 456 229 457 229 505 225 522 224 526 225 534 230 536 230 537 230 538 230 539 230 544 226 548 223 553 226 559 231 560 231 561 231 563 231 564 231 565 231 570 226 572 225 579 226 595 230 596 230 597 230 598 230 603 228 612 223 663 223 673 229 678 233 679 233 680 233 682 233 698 229 710 226 715 230 717 233 718 233 720 233 721 233 823 231 824 210 820 144 799 161 791 158 790 158 788 158 787 158 786 158 780 164 716 143 712 142 711 142 710 142 709 142 706 143 653 168 538 168 518 158 517 158 516 158 424 165 381 137 380 137 379 137 192 134 192 206"/></Shape>
+	    <String CONTENT="Oertmann, Paul"
+                    HPOS="191"
+                    VPOS="134"
+                    WIDTH="633"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d7688cd"
+                    
+                    BASELINE="179 295 2214 316" 
+                    HPOS="176"
+                    VPOS="239"
+                    WIDTH="2037"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="177 294 176 316 212 321 213 321 214 321 228 317 244 314 268 317 306 325 307 325 309 325 327 318 348 312 390 320 449 329 450 329 503 321 536 316 586 322 666 332 667 332 726 323 775 317 795 323 796 323 797 323 895 317 944 317 981 327 1014 336 1015 336 1017 336 1084 328 1160 321 1336 321 1376 332 1402 339 1403 339 1404 339 1435 333 1472 326 1526 334 1536 336 1537 336 1567 336 1732 329 1956 337 1962 341 1975 345 1976 345 1977 345 2212 343 2213 315 2213 284 1989 277 1988 277 1931 278 1855 280 1839 276 1802 266 1801 266 1799 266 1764 274 1761 276 1678 276 1667 272 1586 253 1484 252 1483 252 1398 266 1347 276 1274 276 1226 262 1180 250 1179 250 1177 250 1125 260 1116 261 1033 260 1031 260 1030 260 994 272 898 272 812 271 753 251 732 245 731 245 385 241 384 241 374 242 317 253 273 240 271 240 269 240 177 239 177 294"/></Shape>
+	    <String CONTENT="Die Rechtsbedingung (condicio iuris). Untersuchungen zum"
+                    HPOS="176"
+                    VPOS="239"
+                    WIDTH="2037"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f468c7e0"
+                    
+                    BASELINE="179 388 2092 394" 
+                    HPOS="176"
+                    VPOS="337"
+                    WIDTH="1915"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="177 387 176 450 428 451 429 451 456 447 471 445 499 446 593 452 595 452 669 444 803 429 920 437 921 437 999 434 1019 440 1062 453 1063 453 1064 455 1160 455 1160 453 1246 439 1306 452 1380 455 1381 455 1483 439 1527 440 1528 440 1529 440 1551 433 1576 425 1856 425 1863 429 1886 437 1888 437 1889 437 1890 437 1927 428 1934 426 2090 426 2091 393 2090 365 2040 365 2039 364 1977 342 1976 342 1705 341 1704 341 1702 341 1647 361 1642 364 1434 364 1425 360 1374 341 1372 341 1371 341 1291 359 1279 363 1140 363 1128 358 1078 341 1077 341 1075 341 1074 341 1023 356 1008 361 929 361 918 356 873 339 872 339 871 339 869 339 836 349 802 342 801 342 799 342 766 350 733 338 732 338 696 338 695 338 694 338 640 354 619 360 598 354 544 338 543 338 441 337 440 337 439 337 382 353 358 359 328 353 260 337 222 337 220 337 219 337 177 350 177 387"/></Shape>
+	    <String CONTENT="bürgerlichen Recht und zur allgemeinen Rechtslehre."
+                    HPOS="176"
+                    VPOS="337"
+                    WIDTH="1915"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e9563aef"
+                    
+                    BASELINE="1593 483 2225 483" 
+                    HPOS="1592"
+                    VPOS="430"
+                    WIDTH="632"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="1592 482 1592 509 1610 521 1612 521 1613 521 1614 521 1615 521 1617 521 1631 512 1693 515 1694 515 1695 515 1696 515 1701 510 1729 534 1731 534 1732 534 1733 534 1761 531 1788 554 1788 555 1789 555 1791 555 1792 556 1965 556 1965 555 1966 555 1967 555 1967 554 1997 526 2054 533 2056 533 2057 533 2089 521 2096 526 2097 526 2099 526 2100 526 2101 526 2134 509 2224 509 2224 482 2224 444 2207 439 2205 439 2204 439 2203 439 2189 445 2188 446 2188 445 2178 437 2178 436 2177 436 2176 436 2175 436 2174 436 2159 442 2124 434 2123 434 2122 434 2121 434 2120 434 2115 439 2089 430 2088 430 2086 430 2085 430 2084 430 2061 446 2046 434 2045 434 2043 434 2042 434 2041 434 2040 434 2040 435 2024 450 2014 461 1851 461 1846 455 1841 451 1841 450 1840 450 1839 450 1837 450 1836 450 1821 453 1798 431 1798 430 1797 430 1796 430 1736 430 1734 430 1733 430 1732 430 1688 456 1669 455 1630 430 1629 430 1628 430 1626 430 1625 430 1624 430 1592 457 1592 482"/></Shape>
+	    <String CONTENT="8:o Leipzig 1924."
+                    HPOS="1592"
+                    VPOS="430"
+                    WIDTH="632"
+                    HEIGHT="126"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

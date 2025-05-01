@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00378.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="19"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2319 1479 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="205 215 700 210" 
+                    HPOS="203"
+                    VPOS="151"
+                    WIDTH="496"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="204 214 204 245 220 256 222 256 223 256 224 256 431 255 432 255 434 255 458 238 460 238 464 238 561 242 562 242 563 242 585 236 595 245 595 246 596 246 598 246 617 247 619 247 620 247 621 247 621 246 631 239 690 241 691 241 693 241 694 241 694 240 699 235 699 209 696 177 648 167 647 167 614 172 585 177 577 171 569 165 568 165 567 165 566 165 564 165 552 170 543 173 514 168 513 168 429 180 381 161 353 151 352 151 351 151 350 151 320 159 319 159 318 159 303 152 302 152 300 152 203 152 204 214"/></Shape>
+	    <String CONTENT="ANDREAE, Wilhelm"
+                    HPOS="203"
+                    VPOS="151"
+                    WIDTH="496"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1960 80 2303 80" 
+                    HPOS="1959"
+                    VPOS="27"
+                    WIDTH="343"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="1959 78 1959 106 2072 106 2090 112 2122 124 2123 124 2125 125 2196 125 2196 124 2197 124 2199 124 2206 118 2208 118 2301 123 2302 78 2302 51 2249 49 2216 28 2215 28 2213 28 2212 28 2211 28 2158 49 2155 51 2136 51 2133 49 2116 37 2115 37 2114 37 2112 37 2111 37 2095 44 2054 27 2053 27 1998 27 1996 27 1995 27 1959 45 1959 78"/></Shape>
+	    <String CONTENT="Polit.-ekon."
+                    HPOS="1959"
+                    VPOS="27"
+                    WIDTH="343"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1928 160 2252 164" 
+                    HPOS="1926"
+                    VPOS="114"
+                    WIDTH="324"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="1927 159 1926 181 1957 188 1958 188 2009 186 2027 185 2030 186 2046 201 2046 202 2047 202 2048 202 2049 202 2051 202 2085 189 2088 188 2090 189 2141 215 2142 215 2143 217 2217 217 2217 215 2218 215 2249 197 2250 162 2250 139 2228 130 2227 130 2226 130 2190 138 2152 145 2121 136 2114 134 2112 134 2111 134 2110 134 2102 135 2072 144 2036 139 2032 134 2011 115 2011 114 2010 114 2009 114 1946 114 1945 114 1943 114 1942 114 1942 115 1927 129 1927 159"/></Shape>
+	    <String CONTENT="Penningv."
+                    HPOS="1926"
+                    VPOS="114"
+                    WIDTH="324"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="191 317 2183 320" 
+                    HPOS="188"
+                    VPOS="275"
+                    WIDTH="1993"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="189 316 188 344 249 345 291 358 292 358 293 358 294 358 333 346 461 346 500 353 501 353 541 347 604 360 605 361 805 361 805 360 869 346 872 346 880 346 1186 361 1187 361 1515 358 1562 351 1671 361 1672 361 1673 361 1723 349 1724 349 1894 358 1895 358 1896 358 1929 350 1967 357 1968 357 1969 357 1999 349 2005 347 2179 349 2181 319 2180 288 1892 287 1863 276 1862 276 1861 276 1688 287 1679 287 1674 287 1586 276 1391 276 1390 276 1316 286 1205 278 1203 278 1148 286 1091 275 1090 275 1005 282 976 275 975 275 974 275 973 275 936 286 934 286 927 286 716 278 715 278 614 286 606 286 603 286 561 278 559 278 558 278 529 286 526 287 298 287 293 286 268 279 267 279 189 284 189 316"/></Shape>
+	    <String CONTENT="Geld und Geldschöpfung. Mit einem Anhang: Der Staat und die Noten-"
+                    HPOS="188"
+                    VPOS="275"
+                    WIDTH="1993"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="196 420 424 420" 
+                    HPOS="194"
+                    VPOS="382"
+                    WIDTH="229"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="194 419 194 441 228 450 229 450 423 442 423 419 423 397 394 397 379 383 379 382 378 382 377 382 346 382 345 382 344 382 342 382 330 390 316 382 315 382 314 382 313 382 312 382 292 393 246 394 220 387 219 387 218 387 217 387 194 395 194 419"/></Shape>
+	    <String CONTENT="banken."
+                    HPOS="194"
+                    VPOS="382"
+                    WIDTH="229"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="204 629 1194 629" 
+                    HPOS="203"
+                    VPOS="579"
+                    WIDTH="990"
+                    HEIGHT="136">
+            <Shape><Polygon POINTS="203 629 203 670 228 678 229 678 230 678 231 678 233 678 242 670 244 670 254 678 255 678 256 678 257 678 259 678 284 670 286 670 287 670 363 714 365 714 366 715 614 715 614 714 615 714 616 714 646 694 737 669 800 653 821 661 822 661 823 661 825 661 826 661 838 652 867 658 868 658 869 658 884 653 925 664 926 664 927 664 928 664 946 656 963 663 964 663 965 663 966 663 989 652 1028 652 1050 661 1052 661 1053 661 1116 652 1192 668 1193 629 1193 582 1165 582 1164 582 1163 582 1161 582 1147 592 1129 582 1128 582 1127 582 1126 582 1106 593 1074 594 1013 594 975 583 974 583 973 583 971 583 943 590 925 583 923 583 922 583 921 583 900 593 846 585 844 585 783 593 704 590 686 580 684 579 683 579 540 579 538 579 537 579 534 580 498 594 456 594 436 580 435 579 434 579 432 579 431 579 425 580 400 585 356 582 355 582 353 582 336 590 309 582 308 582 307 582 305 582 277 590 247 580 245 579 244 579 242 579 203 579 203 629"/></Shape>
+	    <String CONTENT="[Sammlung &quot;Die Universität&quot;. 36.]"
+                    HPOS="203"
+                    VPOS="579"
+                    WIDTH="990"
+                    HEIGHT="136"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1325 520 2119 527" 
+                    HPOS="1323"
+                    VPOS="479"
+                    WIDTH="795"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="1324 519 1323 557 1350 569 1351 569 1353 569 1354 569 1371 561 1382 566 1383 566 1385 566 1386 566 1387 566 1398 558 1403 556 1408 558 1415 562 1417 562 1418 562 1419 562 1429 559 1455 552 1464 561 1468 564 1468 566 1470 566 1471 566 1489 567 1491 567 1492 567 1493 567 1501 562 1504 558 1509 562 1513 566 1514 566 1515 566 1517 566 1518 566 1519 566 1523 562 1536 552 1561 552 1618 566 1636 569 1637 569 1639 569 1646 566 1673 553 1772 559 1773 559 1811 555 1831 572 1851 590 1851 592 1852 592 1853 592 2040 593 2041 593 2042 593 2043 593 2054 584 2117 580 2118 526 2118 497 2091 485 2090 485 2089 485 1994 490 1988 485 1988 484 1986 484 1985 484 1984 484 1912 490 1821 484 1820 484 1819 484 1794 493 1782 484 1781 484 1779 484 1778 484 1777 484 1776 484 1776 485 1767 493 1766 494 1729 494 1727 493 1718 484 1716 484 1715 484 1714 484 1713 484 1711 484 1711 485 1704 493 1700 493 1671 493 1670 492 1658 484 1657 484 1656 484 1655 484 1620 492 1616 492 1609 492 1540 484 1539 484 1440 489 1415 479 1414 479 1413 479 1412 479 1410 479 1410 481 1399 489 1375 483 1373 483 1372 483 1324 488 1324 519"/></Shape>
+	    <String CONTENT="8:o Stuttgart &amp; Wien 1953."
+                    HPOS="1323"
+                    VPOS="479"
+                    WIDTH="795"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1992 1434 2229 1428" 
+                    HPOS="1989"
+                    VPOS="1366"
+                    WIDTH="239"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="1991 1433 1991 1451 2006 1459 2007 1459 2009 1459 2072 1451 2074 1451 2075 1451 2095 1456 2096 1456 2097 1456 2118 1451 2147 1445 2160 1452 2167 1455 2168 1455 2169 1455 2170 1455 2171 1455 2171 1454 2174 1452 2183 1444 2197 1444 2226 1452 2228 1426 2225 1389 2189 1389 2180 1386 2174 1381 2173 1381 2171 1381 2170 1381 2169 1381 2168 1381 2168 1382 2164 1385 2157 1391 2125 1383 2123 1383 2122 1383 2106 1389 2083 1377 2059 1366 2058 1366 2057 1366 1989 1370 1991 1433"/></Shape>
+	    <String CONTENT="29.7.54"
+                    HPOS="1989"
+                    VPOS="1366"
+                    WIDTH="239"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

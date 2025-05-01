@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00379.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="20"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2319 1471 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="313 276 814 276" 
+                    HPOS="312"
+                    VPOS="233"
+                    WIDTH="501"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="312 276 312 314 489 317 490 317 491 317 506 311 548 317 549 317 550 317 552 317 566 307 577 301 644 305 685 307 687 307 688 307 699 304 705 301 711 304 722 307 723 307 725 307 813 300 813 276 813 244 779 244 777 242 766 233 765 233 764 233 763 233 761 233 743 239 728 234 727 234 726 234 725 234 723 234 712 241 710 242 671 240 601 235 599 235 598 235 592 239 583 242 568 237 558 235 556 235 555 235 554 235 553 235 550 237 545 241 541 237 534 233 533 233 532 233 487 233 485 233 484 233 483 233 483 234 480 236 472 242 437 235 436 235 435 235 434 235 417 242 406 234 404 233 403 233 402 233 401 233 399 233 396 234 376 241 368 234 366 234 365 234 364 234 363 234 361 234 361 235 354 241 312 233 312 276"/></Shape>
+	    <String CONTENT="ANDREAE, Wilhelm"
+                    HPOS="312"
+                    VPOS="233"
+                    WIDTH="501"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1922 81 2215 85" 
+                    HPOS="1920"
+                    VPOS="34"
+                    WIDTH="294"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1920 98 1944 109 1945 109 1947 110 1981 110 1981 109 1982 109 2008 100 2088 106 2089 106 2090 106 2112 96 2113 96 2127 109 2127 110 2128 110 2129 110 2131 110 2132 110 2133 110 2148 100 2160 111 2161 111 2162 111 2164 111 2165 111 2192 98 2213 98 2214 84 2214 53 2172 53 2167 50 2160 44 2159 44 2158 44 2156 44 2155 44 2143 49 2132 52 2117 46 2100 40 2099 40 2097 40 2096 40 2084 45 2070 50 2062 42 2058 40 2057 40 2056 40 2054 40 2053 40 2046 41 2032 45 2028 40 2020 34 2019 34 2018 34 2016 34 1985 38 1948 42 1922 34 1921 80 1920 98"/></Shape>
+	    <String CONTENT="Statsv."
+                    HPOS="1920"
+                    VPOS="34"
+                    WIDTH="294"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1992 175 2170 172" 
+                    HPOS="1988"
+                    VPOS="121"
+                    WIDTH="181"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1991 174 1991 206 2080 195 2167 206 2169 171 2165 137 2112 141 2096 130 2084 121 2083 121 2081 121 1988 121 1991 174"/></Shape>
+	    <String CONTENT="Allm."
+                    HPOS="1988"
+                    VPOS="121"
+                    WIDTH="181"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="303 378 2244 370" 
+                    HPOS="300"
+                    VPOS="331"
+                    WIDTH="1943"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="301 377 303 415 388 404 436 415 441 415 442 417 571 417 571 415 586 414 672 402 793 402 836 410 837 410 939 401 979 410 987 413 988 413 990 413 1084 410 1089 410 1136 399 1293 399 1333 408 1352 412 1353 412 1370 408 1410 398 1478 407 1507 410 1509 410 1543 407 1612 398 1682 406 1721 409 1722 409 1765 404 1837 397 1885 404 1906 407 1907 407 1927 403 1964 397 1989 403 2008 408 2009 408 2010 408 2243 401 2243 369 2240 339 2128 339 2121 339 2063 331 2062 331 1949 339 1926 342 1610 342 1570 341 1448 333 1447 333 1376 341 1348 343 1331 341 1296 334 1295 334 1226 341 1221 341 1220 341 1197 334 1196 334 1194 334 1003 336 918 342 851 347 722 347 689 342 649 337 647 337 604 342 563 347 507 342 460 338 458 338 424 342 396 345 371 342 341 338 339 338 300 342 301 377"/></Shape>
+	    <String CONTENT="Staatssozialismus und Ständestaat. Ihre grundlegenden Ideologien"
+                    HPOS="300"
+                    VPOS="331"
+                    WIDTH="1943"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="303 475 1902 475" 
+                    HPOS="301"
+                    VPOS="436"
+                    WIDTH="1600"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="301 474 301 499 360 511 361 511 422 500 426 500 468 500 512 501 533 511 534 511 536 512 668 512 668 511 669 511 701 502 711 500 744 500 752 502 772 511 774 511 775 511 824 504 834 502 855 504 955 511 956 511 958 511 972 505 981 500 1025 500 1071 505 1100 509 1101 509 1129 506 1180 500 1213 506 1232 510 1234 510 1235 510 1242 506 1257 500 1273 507 1274 507 1275 507 1277 507 1288 507 1344 502 1396 507 1430 511 1431 511 1450 509 1495 500 1590 500 1624 510 1626 510 1628 510 1629 510 1630 510 1631 510 1656 502 1693 510 1700 511 1701 512 1901 512 1901 474 1901 446 1826 446 1801 436 1799 436 1798 436 1797 436 1782 442 1618 436 1617 436 1615 436 1585 446 1529 446 1510 436 1509 436 1507 436 1429 445 1352 436 1350 436 1349 436 1320 445 1294 436 1293 436 1291 436 1209 442 1117 436 1116 436 1115 436 1094 446 1052 446 1004 437 781 436 780 436 721 446 623 446 583 436 582 436 539 446 301 446 301 474"/></Shape>
+	    <String CONTENT="und die jüngste Wirklichkeit in Russland und Italien."
+                    HPOS="301"
+                    VPOS="436"
+                    WIDTH="1600"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1321 576 1757 576" 
+                    HPOS="1320"
+                    VPOS="533"
+                    WIDTH="436"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1320 575 1320 594 1370 610 1371 610 1372 612 1439 612 1439 610 1440 610 1484 598 1515 607 1516 607 1517 607 1518 607 1520 607 1528 599 1564 603 1565 603 1566 603 1581 596 1582 596 1626 603 1628 603 1629 603 1643 598 1693 610 1694 610 1695 610 1696 610 1717 599 1732 605 1733 605 1734 605 1736 605 1756 596 1756 575 1756 548 1729 548 1715 534 1715 533 1713 533 1712 533 1711 533 1612 537 1610 537 1609 537 1609 538 1599 547 1553 536 1551 536 1550 536 1523 547 1473 533 1472 533 1471 533 1469 533 1468 533 1451 548 1386 548 1371 536 1370 536 1369 536 1367 536 1320 547 1320 575"/></Shape>
+	    <String CONTENT="8:o Jena 1931."
+                    HPOS="1320"
+                    VPOS="533"
+                    WIDTH="436"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1931 1433 2126 1438" 
+                    HPOS="1928"
+                    VPOS="1386"
+                    WIDTH="196"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1928 1446 2122 1460 2124 1437 2124 1403 2040 1388 2039 1388 2014 1393 2001 1395 1975 1389 1974 1389 1972 1389 1971 1389 1970 1389 1953 1398 1933 1386 1929 1432 1928 1446"/></Shape>
+	    <String CONTENT="12.9.1941."
+                    HPOS="1928"
+                    VPOS="1386"
+                    WIDTH="196"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00339.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2332"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="49"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2332"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2330"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2331 1479 2331 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="204 189 1348 184" 
+                    HPOS="202"
+                    VPOS="134"
+                    WIDTH="1145"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="203 188 203 203 336 204 360 213 361 213 362 213 428 203 446 212 447 212 449 212 577 203 619 212 620 212 661 205 669 212 671 212 672 212 673 213 762 213 762 212 763 212 779 203 829 210 830 212 1037 212 1037 210 1038 210 1061 199 1062 199 1110 199 1130 209 1131 209 1132 209 1299 201 1322 209 1323 209 1325 209 1326 209 1347 198 1347 183 1343 156 1288 162 1272 156 1216 135 1215 135 1186 134 1135 134 1133 134 1132 134 1131 134 1099 155 1083 159 1058 165 797 165 790 161 744 141 742 141 683 136 605 136 604 136 603 136 533 159 516 149 515 149 514 149 513 149 465 156 442 143 441 143 440 143 439 143 438 143 398 152 373 138 372 138 371 138 293 138 292 138 291 138 289 138 245 167 202 167 203 188"/></Shape>
+	    <String CONTENT="Andreæ, Helsingius, Olaus"
+                    HPOS="202"
+                    VPOS="134"
+                    WIDTH="1145"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2116 60 2259 56" 
+                    HPOS="2113"
+                    VPOS="19"
+                    WIDTH="144"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="2114 59 2114 75 2158 85 2159 85 2245 83 2246 83 2248 83 2257 76 2257 55 2254 19 2213 22 2212 22 2211 22 2208 24 2192 35 2176 35 2170 29 2162 23 2162 22 2161 22 2160 22 2159 22 2158 22 2113 35 2114 59"/></Shape>
+	    <String CONTENT="Teol."
+                    HPOS="2113"
+                    VPOS="19"
+                    WIDTH="144"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2092 130 2223 138 2307 157" 
+                    HPOS="2088"
+                    VPOS="86"
+                    WIDTH="220"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="2091 129 2088 149 2109 151 2112 154 2132 170 2133 170 2134 170 2135 170 2171 164 2191 161 2211 162 2223 173 2233 181 2234 181 2235 181 2236 181 2253 178 2265 176 2299 186 2306 156 2308 124 2249 118 2245 112 2236 102 2235 102 2235 101 2234 101 2233 101 2232 101 2195 103 2191 103 2187 102 2171 96 2170 96 2169 96 2167 96 2161 97 2146 102 2095 86 2091 129"/></Shape>
+	    <String CONTENT="Uppbygg"
+                    HPOS="2088"
+                    VPOS="86"
+                    WIDTH="220"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="181 287 2295 276" 
+                    HPOS="178"
+                    VPOS="234"
+                    WIDTH="2116"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="180 286 180 313 292 313 296 313 398 329 399 329 468 323 528 340 529 340 530 341 646 341 646 340 848 339 850 339 940 313 1069 319 1114 335 1115 335 1158 336 1159 336 1279 319 1335 320 1336 320 1337 320 1386 307 1395 305 1405 307 1426 310 1427 310 1536 307 1599 304 1607 305 1703 334 1705 334 1706 335 1770 335 1770 334 1964 304 1975 302 2122 302 2128 303 2153 310 2154 310 2155 312 2155 310 2156 310 2181 303 2187 302 2291 302 2294 275 2291 256 2193 256 2187 255 2128 238 2127 238 2125 238 2044 252 1968 239 1966 239 1965 239 1913 254 1900 259 1859 259 1845 254 1786 234 1785 234 1686 234 1685 234 1684 234 1613 252 1583 261 1369 261 1333 251 1285 239 1284 239 1283 239 1235 245 1200 236 1199 236 1198 236 1068 239 1067 239 1035 250 1025 252 1011 250 1005 249 1004 249 1003 249 999 250 966 261 878 263 824 249 822 249 821 249 820 249 819 249 772 265 529 265 470 247 446 240 445 240 444 240 178 245 180 286"/></Shape>
+	    <String CONTENT="Förklaring öfver l. Johannis ... Uppenbarelse ..."
+                    HPOS="178"
+                    VPOS="234"
+                    WIDTH="2116"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1433 378 2082 383" 
+                    HPOS="1431"
+                    VPOS="340"
+                    WIDTH="650"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1432 377 1431 408 1436 411 1437 411 1438 411 1439 411 1465 405 1516 394 1533 408 1542 414 1543 414 1544 414 1631 415 1632 415 1633 415 1634 415 1641 409 1658 395 1755 395 1817 395 1845 411 1847 411 1848 413 1848 411 1849 411 1877 397 1896 397 1918 410 1919 410 1921 410 1922 410 1923 410 1942 403 1988 416 1993 418 1995 418 1996 419 2080 419 2081 382 2081 358 2033 344 2032 344 1938 344 1937 344 1935 344 1934 344 1918 357 1882 345 1881 345 1880 345 1879 345 1837 357 1815 342 1813 342 1812 342 1796 342 1795 342 1794 342 1792 342 1776 357 1775 357 1774 357 1737 349 1736 349 1734 349 1733 349 1721 356 1697 350 1696 350 1695 350 1624 356 1617 356 1616 356 1595 340 1594 340 1592 340 1550 340 1549 340 1548 340 1547 340 1547 341 1531 355 1531 356 1516 356 1515 355 1497 340 1496 340 1495 340 1468 340 1467 340 1465 340 1464 340 1447 355 1446 355 1432 355 1432 377"/></Shape>
+	    <String CONTENT="4º Upsala 1621."
+                    HPOS="1431"
+                    VPOS="340"
+                    WIDTH="650"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

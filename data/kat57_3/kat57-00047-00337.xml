@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00337.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1484"
+          PHYSICAL_IMG_NR="48"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1484">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1482"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1483 2319 1483 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="240 96 699 81" 
+                    HPOS="237"
+                    VPOS="27"
+                    WIDTH="461"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="239 95 239 122 321 112 362 119 363 119 364 119 366 119 378 111 462 117 467 117 468 117 472 117 546 105 607 112 608 112 609 112 610 112 626 102 651 111 652 111 654 111 698 110 698 80 696 38 672 32 671 32 670 32 669 32 667 32 667 33 666 33 661 38 660 42 629 43 620 38 599 27 598 27 597 27 596 27 594 27 577 38 570 42 556 38 523 27 521 27 520 27 519 27 518 27 505 37 498 44 473 37 460 33 458 33 457 33 456 33 455 33 450 37 425 55 337 56 311 35 310 34 309 34 307 34 306 34 237 34 239 95"/></Shape>
+	    <String CONTENT="[Rosensköld, A.ōB.]"
+                    HPOS="237"
+                    VPOS="27"
+                    WIDTH="461"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1832 107 2178 107" 
+                    HPOS="1831"
+                    VPOS="51"
+                    WIDTH="346"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1831 106 1831 143 1872 149 1873 149 1874 149 1893 142 1932 127 1971 140 1998 149 1999 149 2000 150 2055 150 2055 149 2056 149 2057 149 2070 138 2083 127 2176 134 2177 106 2177 56 2153 53 2151 53 2150 53 2149 53 2146 55 2117 77 2018 77 1988 53 1987 51 1986 51 1984 51 1983 51 1982 51 1977 53 1945 66 1911 51 1909 51 1908 51 1906 51 1902 51 1873 58 1831 51 1831 106"/></Shape>
+	    <String CONTENT="(Br.) Biogr. Sv."
+                    HPOS="1831"
+                    VPOS="51"
+                    WIDTH="346"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="178 213 1155 216" 
+                    HPOS="175"
+                    VPOS="140"
+                    WIDTH="978"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="176 212 175 227 197 237 199 237 200 237 201 237 227 228 293 252 294 252 295 252 296 252 327 244 392 260 393 260 394 262 525 262 525 260 526 260 528 260 562 236 601 238 602 238 603 238 623 231 628 228 641 231 702 241 703 241 704 241 719 233 748 241 749 241 750 241 751 241 769 234 780 243 781 243 782 243 784 243 824 236 849 249 850 249 852 249 853 249 878 239 1019 236 1067 243 1068 243 1152 234 1153 215 1151 160 1121 162 1117 160 1096 149 1095 149 1094 149 1093 149 1091 149 1074 160 1052 176 1000 176 981 162 954 142 953 142 952 142 951 142 949 142 895 162 865 142 864 142 863 142 861 142 860 142 812 160 788 142 787 142 786 142 751 142 750 142 749 142 748 142 709 165 693 175 591 175 581 168 546 140 545 140 544 140 502 140 500 140 499 140 442 164 410 140 409 140 408 140 406 140 357 149 346 140 345 140 343 140 299 140 298 140 296 140 295 140 254 173 251 174 176 174 176 212"/></Shape>
+	    <String CONTENT="Andreæ(Gunnerstadius),Laurentius"
+                    HPOS="175"
+                    VPOS="140"
+                    WIDTH="978"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="420 386 2285 391" 
+                    HPOS="417"
+                    VPOS="293"
+                    WIDTH="1867"
+                    HEIGHT="153">
+            <Shape><Polygon POINTS="419 385 417 398 472 411 473 411 529 405 636 410 638 410 748 401 764 400 771 401 801 408 802 408 803 408 818 401 821 401 827 401 879 408 880 408 925 403 928 403 931 403 978 415 979 415 980 415 1006 413 1124 445 1125 445 1544 446 1545 446 1547 446 1655 409 1660 408 1671 409 1756 424 1757 424 1847 410 1879 406 1935 411 2039 421 2040 421 2113 413 2143 410 2281 414 2284 390 2282 341 2239 341 2235 340 2181 324 2180 324 2179 324 2177 324 2135 336 2096 327 2094 327 2093 327 2072 335 2057 341 1981 341 1955 332 1916 320 1915 320 1914 320 1812 326 1763 321 1762 321 1738 326 1707 333 1684 325 1674 321 1673 321 1671 321 1654 324 1626 330 1603 322 1575 314 1574 314 1573 314 1571 314 1549 321 1544 322 1532 321 1449 309 1448 309 1446 309 1417 317 1352 338 1278 315 1276 314 1275 314 1273 314 1272 314 1270 314 1205 333 1098 310 1058 301 1057 301 1056 301 1033 307 979 325 874 314 873 314 871 314 837 327 819 321 818 321 817 321 781 327 758 319 756 319 654 312 609 298 599 294 598 294 419 293 419 385"/></Shape>
+	    <String CONTENT="Een christeligh lijk=predkan öfver...Adolph och Beata Rosenskiölder..."
+                    HPOS="417"
+                    VPOS="293"
+                    WIDTH="1867"
+                    HEIGHT="153"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="250 471 1088 468" 
+                    HPOS="248"
+                    VPOS="401"
+                    WIDTH="839"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="249 469 249 489 278 502 279 502 280 502 281 502 307 494 328 505 330 505 331 505 382 497 415 524 416 524 417 524 419 525 552 525 552 524 554 524 626 488 631 487 640 488 696 500 697 500 744 492 776 503 777 503 779 503 875 494 938 503 939 503 941 503 942 503 948 498 954 503 954 504 955 504 957 504 958 504 1085 487 1087 467 1083 434 986 434 985 434 944 401 943 401 942 401 941 401 939 401 908 410 900 403 900 401 899 401 897 401 850 401 849 401 848 401 847 401 819 421 792 401 791 401 790 401 751 401 750 401 749 401 748 401 708 434 708 435 677 435 677 434 667 426 667 425 666 425 665 425 664 425 662 425 649 429 620 403 619 403 618 403 589 403 588 403 587 403 586 403 586 404 575 414 552 403 551 403 550 403 549 403 547 403 537 410 526 404 525 404 524 404 523 404 521 404 521 405 488 435 487 436 437 436 436 435 398 404 396 404 395 404 368 403 367 403 366 403 364 403 338 420 309 403 307 403 306 403 305 403 304 403 304 404 268 435 268 436 248 436 249 469"/></Shape>
+	    <String CONTENT="hållen aff Laurentio Andreæ..."
+                    HPOS="248"
+                    VPOS="401"
+                    WIDTH="839"
+                    HEIGHT="124"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1765 562 2253 554" 
+                    HPOS="1763"
+                    VPOS="495"
+                    WIDTH="488"
+                    HEIGHT="149">
+            <Shape><Polygon POINTS="1764 561 1764 622 1794 643 1795 643 1796 643 1798 644 1833 644 1833 643 1835 643 1836 643 1882 612 1897 601 1952 594 1967 607 2007 639 2008 639 2009 639 2010 639 2082 638 2083 638 2159 594 2167 589 2251 588 2251 552 2249 516 2213 513 2195 495 2193 495 2192 495 2191 495 2190 495 2150 516 2076 519 2070 519 2042 495 2041 495 2040 495 2039 495 2038 495 2036 495 2004 520 1973 497 1972 497 1971 497 1970 497 1871 499 1869 499 1822 518 1795 504 1794 504 1793 504 1791 504 1790 504 1763 521 1764 561"/></Shape>
+	    <String CONTENT="4º Götheborg 1653."
+                    HPOS="1763"
+                    VPOS="495"
+                    WIDTH="488"
+                    HEIGHT="149"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="426 633 912 626" 
+                    HPOS="424"
+                    VPOS="549"
+                    WIDTH="487"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="425 631 425 673 471 673 471 672 472 672 473 672 492 657 521 656 545 662 546 662 547 662 549 662 568 656 697 656 708 667 708 669 709 669 711 669 712 669 713 669 717 667 753 655 802 656 822 666 826 667 827 667 828 667 911 664 911 625 908 566 880 562 879 562 878 562 869 567 854 576 847 568 837 560 837 558 835 558 834 558 833 558 832 558 831 558 819 570 805 582 739 582 730 573 704 550 704 549 703 549 702 549 623 549 622 549 620 549 589 562 563 551 562 551 561 551 560 551 558 551 531 575 468 561 467 561 466 561 424 583 425 631"/></Shape>
+	    <String CONTENT="(Med Personalia&quot;.)"
+                    HPOS="424"
+                    VPOS="549"
+                    WIDTH="487"
+                    HEIGHT="124"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

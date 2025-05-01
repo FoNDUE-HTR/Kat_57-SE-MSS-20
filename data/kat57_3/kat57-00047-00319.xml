@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00319.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1470"
+          PHYSICAL_IMG_NR="39"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1470">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1468"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1469 2319 1469 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="207 245 1061 250" 
+                    HPOS="204"
+                    VPOS="200"
+                    WIDTH="856"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="205 245 204 269 221 281 223 281 224 281 507 282 508 282 509 282 531 273 540 269 620 269 631 274 644 281 645 281 647 281 705 275 753 270 812 270 823 276 832 284 833 284 834 284 835 284 837 284 849 278 861 271 1025 271 1056 280 1060 249 1060 209 990 204 989 204 987 204 986 204 981 209 974 215 933 216 921 209 914 204 913 204 911 204 910 204 875 209 866 210 859 209 826 203 824 203 823 203 797 209 789 211 783 209 770 205 769 205 768 205 767 205 765 205 759 210 750 215 713 210 687 207 686 207 685 207 677 210 666 216 633 216 587 215 578 210 564 204 563 204 562 204 561 204 560 204 552 210 547 215 508 215 502 210 495 205 493 205 492 205 465 202 464 202 463 202 462 202 447 211 446 211 443 211 406 200 405 200 404 200 403 200 382 211 378 211 322 204 321 204 319 204 318 204 307 211 305 213 292 211 240 207 238 207 205 211 205 245"/></Shape>
+	    <String CONTENT="ANDREADES, Andreas M[ichael]"
+                    HPOS="204"
+                    VPOS="200"
+                    WIDTH="856"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="202 345 2045 355" 
+                    HPOS="199"
+                    VPOS="307"
+                    WIDTH="1845"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="200 344 199 369 235 382 236 382 237 382 393 377 547 383 549 383 550 383 576 373 631 373 849 384 850 384 851 384 884 374 1123 387 1125 388 1253 388 1253 387 1322 378 1527 378 1554 384 1555 384 1556 384 1557 384 1578 378 1672 389 1674 389 1805 383 1933 389 1935 389 2043 379 2044 354 2044 317 1815 324 1645 316 1580 313 1579 313 1540 316 1467 322 1405 316 1387 314 1386 314 1384 314 1378 316 1356 322 1335 316 1327 313 1326 313 1324 313 1308 316 1289 319 1277 316 1266 312 1264 312 1263 312 1229 316 1186 320 1061 316 991 313 990 313 955 316 905 319 870 316 816 309 815 309 750 316 718 318 694 316 640 308 639 308 574 316 557 317 551 316 531 308 530 308 529 308 481 316 468 317 452 316 386 307 384 307 300 313 251 307 250 307 200 316 200 344"/></Shape>
+	    <String CONTENT="Se: Etudes dédiées à la mémoire d&#x27;André M. Andréadès... 1940."
+                    HPOS="199"
+                    VPOS="307"
+                    WIDTH="1845"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="404 470 811 470" 
+                    HPOS="403"
+                    VPOS="410"
+                    WIDTH="407"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="403 469 403 485 426 485 437 493 437 494 438 494 439 494 441 494 442 494 443 494 453 487 470 498 471 498 473 498 474 498 475 498 500 490 523 498 524 498 525 498 526 498 552 492 577 498 578 498 579 498 580 498 582 498 596 485 598 485 643 485 644 485 658 497 659 497 660 497 661 497 663 497 681 491 688 497 688 498 689 498 691 498 692 498 767 496 768 496 769 496 783 486 792 493 792 494 794 494 795 494 796 494 797 494 799 494 810 487 810 469 810 443 758 443 742 437 729 432 707 411 707 410 705 410 704 410 682 410 681 410 680 410 678 410 678 411 658 429 647 441 621 442 594 425 585 418 584 418 583 418 582 418 580 418 579 418 573 423 547 442 515 418 514 418 513 418 512 418 511 418 509 418 489 434 473 433 454 414 451 411 451 410 449 410 448 410 403 410 403 469"/></Shape>
+	    <String CONTENT="Polit. ekon."
+                    HPOS="403"
+                    VPOS="410"
+                    WIDTH="407"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="404 581 652 586" 
+                    HPOS="401"
+                    VPOS="523"
+                    WIDTH="249"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="401 596 446 597 451 600 484 611 485 611 486 611 487 611 506 605 530 617 531 617 533 617 572 611 607 618 609 618 610 618 611 618 611 617 618 611 626 602 647 612 650 585 650 558 638 552 637 552 636 552 634 552 633 552 623 556 622 557 622 556 589 527 589 526 588 526 587 526 585 526 584 526 551 545 526 558 491 558 451 529 443 524 442 524 441 524 404 523 403 580 401 596"/></Shape>
+	    <String CONTENT="Saml."
+                    HPOS="401"
+                    VPOS="523"
+                    WIDTH="249"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="379 703 889 707" 
+                    HPOS="378"
+                    VPOS="634"
+                    WIDTH="510"
+                    HEIGHT="135">
+            <Shape><Polygon POINTS="378 701 379 739 390 732 495 732 517 747 519 749 520 749 522 749 523 749 524 749 529 748 542 743 555 749 562 753 563 753 564 753 579 750 618 744 676 752 677 752 678 752 680 752 692 743 734 759 740 761 741 761 742 761 743 761 746 760 752 758 754 760 757 764 758 764 758 765 759 765 761 765 790 766 791 766 792 766 800 763 813 757 822 765 826 768 827 768 828 768 829 769 887 769 888 706 888 638 873 638 872 638 871 638 870 638 833 663 783 663 756 643 751 639 750 639 748 639 747 639 746 639 745 639 745 640 740 644 730 652 692 645 634 635 633 635 567 638 566 638 564 638 541 652 524 662 508 662 474 661 468 655 446 635 446 634 444 634 443 634 424 634 422 634 421 634 420 634 393 659 390 660 378 660 378 701"/></Shape>
+	    <String CONTENT="Andréades]"
+                    HPOS="378"
+                    VPOS="634"
+                    WIDTH="510"
+                    HEIGHT="135"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

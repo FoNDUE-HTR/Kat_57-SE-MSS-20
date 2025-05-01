@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00425.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="44"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2311 1471 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="131 163 1200 167" 
+                    HPOS="128"
+                    VPOS="121"
+                    WIDTH="1070"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="130 161 128 176 161 187 163 187 164 187 165 187 198 177 272 186 273 186 325 181 335 187 336 187 337 187 412 188 413 188 414 188 416 188 429 180 433 179 478 179 483 181 498 188 499 188 668 190 670 191 753 191 753 190 754 190 755 190 763 185 766 182 770 185 776 190 778 190 779 190 780 190 781 190 793 186 809 180 879 180 893 187 894 187 895 187 897 187 898 187 899 187 926 180 970 188 981 190 1196 191 1198 166 1196 141 1111 145 1094 138 1067 126 1066 126 1017 126 1016 126 1014 126 985 136 973 141 965 136 952 126 951 126 949 126 884 125 883 125 882 125 861 133 838 144 582 144 555 128 548 123 547 123 546 123 514 123 512 123 511 123 500 127 458 144 397 144 343 130 342 130 341 130 339 130 314 142 289 125 288 125 287 125 276 123 260 122 258 122 257 122 256 122 218 141 186 123 185 123 130 121 130 161"/></Shape>
+	    <String CONTENT="Andreas Eborensis Lusitanus"
+                    HPOS="128"
+                    VPOS="121"
+                    WIDTH="1070"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2016 67 2220 72" 
+                    HPOS="2013"
+                    VPOS="22"
+                    WIDTH="206"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="2015 66 2013 84 2217 93 2219 71 2219 31 2207 23 2206 23 2205 23 2204 23 2174 28 2153 22 2152 22 2115 22 2114 22 2113 22 2111 22 2097 33 2093 33 2049 24 2048 24 2015 30 2015 66"/></Shape>
+	    <String CONTENT="Encykl."
+                    HPOS="2013"
+                    VPOS="22"
+                    WIDTH="206"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2049 120 2223 126" 
+                    HPOS="2046"
+                    VPOS="78"
+                    WIDTH="176"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="2048 118 2046 134 2089 144 2091 144 2120 141 2135 139 2219 148 2222 125 2221 85 2189 92 2175 85 2165 80 2164 80 2163 80 2162 80 2152 85 2146 88 2138 85 2116 78 2115 78 2114 78 2048 85 2048 118"/></Shape>
+	    <String CONTENT="Citat"
+                    HPOS="2046"
+                    VPOS="78"
+                    WIDTH="176"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="171 262 2202 274" 
+                    HPOS="169"
+                    VPOS="215"
+                    WIDTH="2032"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="169 276 203 287 204 287 206 287 261 279 379 289 380 289 481 283 514 289 515 289 559 279 563 279 569 279 636 289 638 289 674 280 678 280 775 280 808 282 1000 293 1259 294 1260 294 1261 294 1283 287 1290 284 1363 284 1401 288 1486 295 1487 295 1521 288 1538 285 1586 289 1680 296 1681 296 1736 290 1741 290 1746 290 1795 298 1796 299 1959 299 1959 298 1961 298 1978 293 1994 288 2199 294 2201 273 2200 245 2132 225 2131 225 2054 225 2053 225 2051 225 1995 241 1957 253 1810 253 1752 237 1693 223 1692 223 1603 223 1602 223 1601 223 1556 235 1500 250 1353 242 1352 242 1224 249 1165 229 1137 220 1136 220 1041 219 1040 219 1006 226 925 246 787 246 752 235 751 235 749 235 748 235 715 246 578 246 543 244 478 219 467 215 466 215 171 215 170 261 169 276"/></Shape>
+	    <String CONTENT="Sententiuarum memorabilibum cum ethnicarum tum"
+                    HPOS="169"
+                    VPOS="215"
+                    WIDTH="2032"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="187 361 1703 378" 
+                    HPOS="185"
+                    VPOS="320"
+                    WIDTH="1517"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="186 360 185 382 247 387 249 387 267 383 294 379 335 385 362 388 363 388 364 388 376 385 396 380 532 381 554 387 593 396 595 396 652 388 681 385 692 388 720 399 721 399 722 399 724 399 755 391 792 396 793 396 839 391 874 386 898 391 951 403 952 403 953 403 994 392 1000 391 1018 392 1162 407 1163 407 1228 394 1256 390 1268 396 1272 397 1273 397 1275 397 1286 396 1310 391 1322 396 1347 406 1348 406 1486 410 1487 410 1700 399 1702 377 1700 359 1675 353 1673 353 1646 356 1627 360 1616 356 1563 336 1562 336 1483 334 1452 334 1451 334 1450 334 1412 350 1398 356 1360 349 1354 349 1353 349 1352 349 1349 349 1320 356 1238 349 1236 349 1196 355 1132 345 1131 345 1130 345 1110 354 1033 348 1032 348 990 353 954 339 926 328 925 328 877 328 876 328 841 336 781 350 644 350 616 341 614 341 613 341 575 348 495 342 494 342 493 342 477 347 428 326 423 323 422 323 186 320 186 360"/></Shape>
+	    <String CONTENT="christianarum ... tomus prior &amp; posterior."
+                    HPOS="185"
+                    VPOS="320"
+                    WIDTH="1517"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1489 477 2311 480" 
+                    HPOS="1487"
+                    VPOS="428"
+                    WIDTH="824"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="1489 477 1487 495 1588 496 1598 506 1598 507 1599 507 1601 507 1602 507 1604 507 1606 507 1620 498 1637 512 1639 512 1641 512 1642 512 1704 503 1749 514 1751 514 1752 514 1754 514 1795 499 1856 523 1858 523 1899 525 1901 525 1902 525 1904 525 1920 511 1950 525 1952 525 1953 526 2134 526 2134 525 2135 525 2137 525 2174 503 2175 503 2308 503 2311 480 2311 451 2274 437 2273 437 2271 437 2225 444 2215 436 2214 436 2212 436 2210 436 2209 436 2207 436 2190 451 2188 453 2102 453 2099 450 2073 439 2072 439 2070 439 2068 439 2043 450 2038 451 2033 450 1998 437 1997 437 1995 437 1993 437 1966 445 1947 431 1945 431 1944 431 1942 431 1941 431 1939 431 1917 448 1912 451 1902 448 1878 439 1877 439 1875 439 1874 439 1854 447 1848 451 1784 451 1778 447 1749 428 1748 428 1746 428 1606 428 1604 428 1602 428 1548 444 1539 447 1531 444 1510 436 1508 436 1507 436 1505 436 1489 442 1489 477"/></Shape>
+	    <String CONTENT="8º Coloniæ Agrippinæ 1619."
+                    HPOS="1487"
+                    VPOS="428"
+                    WIDTH="824"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="464 586 2056 592" 
+                    HPOS="462"
+                    VPOS="540"
+                    WIDTH="1593"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="463 585 462 602 509 603 563 624 564 624 565 625 741 625 741 624 742 624 770 612 888 624 889 624 960 607 969 605 1077 605 1084 608 1114 617 1115 617 1116 617 1202 609 1236 607 1244 609 1267 620 1268 620 1270 620 1271 620 1309 610 1310 610 1418 610 1423 612 1461 621 1462 621 1464 621 1465 621 1493 612 1506 608 1533 613 1553 615 1554 615 1568 613 1583 609 1595 613 1629 624 1630 624 1737 629 1738 630 1812 630 1812 629 1872 615 1903 609 2053 617 2055 591 2053 565 2019 570 1992 564 1927 547 1926 547 1860 547 1859 547 1857 547 1827 561 1819 564 1768 560 1762 560 1760 560 1759 560 1721 570 1637 570 1607 558 1575 545 1574 545 1540 545 1538 545 1537 545 1504 556 1464 569 1348 569 1308 553 1283 544 1282 544 1184 544 1182 544 1181 544 1167 550 1153 556 1133 554 1132 554 1131 554 1087 567 791 567 728 544 721 542 720 542 656 542 655 542 654 542 649 543 581 561 521 542 520 542 463 540 463 585"/></Shape>
+	    <String CONTENT="Exemplorum memorabilium ... tomus posterior."
+                    HPOS="462"
+                    VPOS="540"
+                    WIDTH="1593"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1470 681 2123 688" 
+                    HPOS="1467"
+                    VPOS="641"
+                    WIDTH="654"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1468 680 1467 706 1492 713 1493 713 1494 713 1495 713 1511 706 1535 696 1644 704 1645 704 1646 704 1662 697 1675 705 1693 717 1694 717 1695 717 1762 718 1763 718 1764 718 1786 707 1811 716 1812 716 1813 716 1814 716 1844 705 1882 720 1883 720 1884 720 1886 720 1898 713 1994 720 1995 720 1996 720 2023 706 2061 704 2062 704 2087 716 2088 716 2089 716 2091 716 2092 716 2108 702 2110 701 2119 702 2121 686 2121 657 2103 648 2102 648 2100 648 2099 648 2098 648 2084 657 2082 658 2080 657 2062 650 2061 650 1989 646 1988 646 1986 646 1985 646 1970 658 1961 666 1895 666 1853 661 1851 658 1835 644 1835 642 1834 642 1833 642 1774 642 1773 642 1772 642 1770 642 1770 644 1752 659 1749 662 1695 663 1691 659 1666 641 1665 641 1664 641 1629 641 1628 641 1627 641 1626 641 1602 661 1600 663 1519 663 1516 661 1499 652 1498 652 1497 652 1495 652 1468 661 1468 680"/></Shape>
+	    <String CONTENT="8º Lugduni 1557"
+                    HPOS="1467"
+                    VPOS="641"
+                    WIDTH="654"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

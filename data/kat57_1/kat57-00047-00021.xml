@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00021.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2323 1479 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="194 191 689 186" 
+                    HPOS="192"
+                    VPOS="133"
+                    WIDTH="496"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="193 189 193 217 209 230 210 230 212 230 213 230 361 224 423 229 424 229 460 222 461 222 462 222 462 220 474 210 518 217 519 217 520 217 531 212 545 220 546 220 547 220 548 220 550 220 590 208 688 207 688 185 684 155 595 157 590 156 558 141 557 141 556 141 555 141 529 151 505 150 504 150 503 150 502 150 502 151 495 157 493 160 462 160 460 157 424 133 423 133 421 133 315 133 314 133 296 134 294 134 293 134 293 135 280 149 192 161 193 189"/></Shape>
+	    <String CONTENT="ANDERSON, Walter"
+                    HPOS="192"
+                    VPOS="133"
+                    WIDTH="496"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="188 296 2247 290" 
+                    HPOS="186"
+                    VPOS="252"
+                    WIDTH="2060"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="187 296 187 316 267 316 271 316 318 330 319 330 320 331 513 331 513 330 582 319 690 319 720 329 721 329 722 330 948 330 948 329 1073 325 1074 325 1106 315 1110 314 1132 315 1229 320 1231 320 1256 314 1261 314 1276 314 1370 320 1371 320 1481 314 1491 314 1502 314 1744 324 1745 324 1746 324 1780 313 1783 313 1835 313 2200 319 2201 319 2246 312 2246 289 2243 261 1860 252 1858 252 1857 252 1828 261 1824 262 1393 262 1387 261 1359 255 1358 255 1323 261 1316 261 1269 261 1030 255 1028 255 988 261 963 263 186 261 187 296"/></Shape>
+	    <String CONTENT="Se: Laakmann, H. &amp; Anderson, W., Ein neues Dokument über den estnischen"
+                    HPOS="186"
+                    VPOS="252"
+                    WIDTH="2060"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="281 396 1428 396" 
+                    HPOS="280"
+                    VPOS="358"
+                    WIDTH="1147"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="280 395 280 416 1425 418 1427 395 1427 366 1390 358 1388 358 280 363 280 395"/></Shape>
+	    <String CONTENT="Metsik-Kultus aus dem Jahre 1680.1934."
+                    HPOS="280"
+                    VPOS="358"
+                    WIDTH="1147"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="224 496 2191 493" 
+                    HPOS="222"
+                    VPOS="457"
+                    WIDTH="1968"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="223 495 224 521 265 521 300 532 302 532 303 534 434 534 434 532 435 532 466 521 675 521 706 532 708 532 709 534 877 534 877 532 938 522 1117 526 1118 526 1162 520 1239 529 1530 531 1532 531 1630 530 1631 530 1670 519 1902 519 1936 529 1937 529 1939 529 2190 516 2190 492 2188 457 2093 457 2092 457 2090 457 2089 457 2062 467 1863 467 1841 458 1835 457 1834 457 1772 457 1771 457 1715 460 1604 466 1578 461 1565 458 1564 458 1562 458 1553 461 1532 468 1382 468 1342 462 1306 458 1305 458 1303 458 1291 463 1279 467 1097 464 825 460 824 460 751 467 742 467 738 467 714 460 712 460 711 460 655 467 653 467 652 467 629 460 627 460 489 460 488 460 487 460 462 468 462 469 428 469 404 469 379 460 378 460 377 460 376 460 351 466 257 460 256 460 255 460 222 469 223 495"/></Shape>
+	    <String CONTENT="i: Acta et commentationes universitatis Dorpatensis.B.Humaniora.32."
+                    HPOS="222"
+                    VPOS="457"
+                    WIDTH="1968"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2148 562 2291 562" 
+                    HPOS="2147"
+                    VPOS="505"
+                    WIDTH="143"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="2147 561 2147 573 2169 580 2171 580 2172 580 2290 579 2290 561 2290 527 2251 508 2249 508 2248 508 2247 508 2246 508 2238 513 2230 506 2230 505 2229 505 2227 505 2196 505 2195 505 2194 505 2193 505 2193 506 2169 529 2147 529 2147 561"/></Shape>
+	    <String CONTENT="Acta"
+                    HPOS="2147"
+                    VPOS="505"
+                    WIDTH="143"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2147 644 2297 647" 
+                    HPOS="2145"
+                    VPOS="584"
+                    WIDTH="151"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="2145 658 2159 667 2161 667 2162 667 2163 667 2194 659 2222 668 2224 668 2225 668 2295 661 2296 646 2295 604 2236 603 2236 601 2222 585 2221 585 2221 584 2220 584 2219 584 2187 584 2185 584 2184 584 2183 584 2183 585 2168 598 2163 603 2147 598 2146 643 2145 658"/></Shape>
+	    <String CONTENT="Balt."
+                    HPOS="2145"
+                    VPOS="584"
+                    WIDTH="151"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="2108 725 2300 722" 
+                    HPOS="2105"
+                    VPOS="683"
+                    WIDTH="194"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="2106 723 2106 757 2159 758 2180 777 2182 777 2183 777 2184 777 2227 775 2229 775 2230 775 2266 749 2267 748 2299 747 2299 721 2294 683 2256 695 2208 689 2168 684 2167 684 2166 684 2164 684 2164 685 2156 693 2152 698 2105 698 2106 723"/></Shape>
+	    <String CONTENT="[Dorpat"
+                    HPOS="2105"
+                    VPOS="683"
+                    WIDTH="194"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="2142 815 2297 818" 
+                    HPOS="2140"
+                    VPOS="768"
+                    WIDTH="156"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="2140 847 2173 851 2174 851 2175 851 2198 842 2201 841 2203 842 2225 849 2226 849 2227 849 2229 849 2253 837 2261 833 2295 833 2296 817 2296 794 2249 786 2248 786 2225 791 2201 778 2189 769 2188 769 2187 769 2142 768 2141 814 2140 847"/></Shape>
+	    <String CONTENT="Univ."
+                    HPOS="2140"
+                    VPOS="768"
+                    WIDTH="156"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

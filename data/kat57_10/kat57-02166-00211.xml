@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-02166-00211.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2308"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="13"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2308"
+                  HEIGHT="1472">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_d634d3d2"
+                    
+                    BASELINE="1836 38 2024 38" 
+                    HPOS="1835"
+                    VPOS="4"
+                    WIDTH="188"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1835 36 1835 60 1921 56 1926 60 1933 67 1933 68 1934 68 1936 68 1937 68 2023 60 2023 36 2023 13 1991 4 1990 4 1988 4 1987 4 1964 13 1933 7 1932 7 1931 7 1930 7 1925 12 1916 6 1916 4 1915 4 1914 4 1912 4 1911 4 1910 4 1896 13 1879 4 1878 4 1877 4 1835 12 1835 36"/></Shape>
+	    <String CONTENT="C. U. C."
+                    HPOS="1835"
+                    VPOS="4"
+                    WIDTH="188"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_821eaae3"
+                    
+                    BASELINE="2125 38 2240 35" 
+                    HPOS="2122"
+                    VPOS="1"
+                    WIDTH="117"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="2208 1 2201 1 2182 6 2179 7 2176 6 2169 1 2159 1 2155 1 2122 4 2123 36 2123 53 2143 61 2144 61 2146 61 2147 61 2160 55 2163 53 2166 55 2186 60 2187 60 2188 60 2239 55 2239 34 2238 7 2213 1 2208 1"/></Shape>
+	    <String CONTENT="Vitt."
+                    HPOS="2122"
+                    VPOS="1"
+                    WIDTH="117"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_97135e41"
+                    
+                    BASELINE="187 193 901 193" 
+                    HPOS="186"
+                    VPOS="121"
+                    WIDTH="714"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="186 192 186 207 206 215 207 215 208 215 265 208 266 208 283 219 284 219 285 219 287 220 377 220 377 219 379 219 401 209 403 208 458 208 461 209 472 219 473 219 474 219 476 219 477 219 492 212 505 219 506 219 507 220 619 220 619 219 620 219 622 219 631 212 635 208 640 212 656 219 657 219 658 219 704 212 707 212 714 212 761 217 763 217 764 217 765 217 765 215 770 213 774 208 780 213 791 219 792 219 793 219 795 220 834 220 834 219 835 219 847 213 855 209 862 213 869 217 871 217 872 217 900 213 900 192 900 159 866 157 835 130 834 130 833 130 831 130 830 130 829 130 829 131 798 158 797 159 646 159 644 157 620 133 620 132 619 132 618 132 617 132 615 132 614 132 586 154 526 121 525 121 483 121 482 121 480 121 479 121 452 142 429 144 392 122 391 122 390 122 388 122 360 128 344 121 343 121 234 121 233 121 231 121 230 121 230 122 203 147 186 152 186 192"/></Shape>
+	    <String CONTENT="Aelst, Paul von der"
+                    HPOS="186"
+                    VPOS="121"
+                    WIDTH="714"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3f7be1aa"
+                    
+                    BASELINE="192 287 1633 286 2272 276" 
+                    HPOS="190"
+                    VPOS="229"
+                    WIDTH="2081"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="191 285 191 309 657 302 775 306 952 311 953 311 1060 304 1090 302 1115 304 1184 309 1185 309 1186 309 1206 304 1219 300 1406 300 1425 302 1492 310 1493 310 1836 309 1838 309 1874 299 1878 299 1882 299 1922 309 1923 310 2131 310 2131 309 2269 296 2271 276 2268 229 2144 229 2143 229 2139 229 2090 240 2006 234 2004 234 1925 251 1842 251 1722 231 1717 231 1716 231 1701 231 1674 234 1673 234 1619 252 1503 252 1428 234 1423 233 1422 233 1412 234 1317 246 1215 235 1214 235 1158 246 1063 235 1035 233 1034 233 1003 236 923 245 883 236 879 236 878 236 877 236 874 236 830 249 793 237 780 233 779 233 682 233 680 233 601 239 600 239 542 255 346 255 293 240 269 234 268 234 267 234 190 240 191 285"/></Shape>
+	    <String CONTENT="Blumm und Aussbund allerhandt ausserlesener weltlicher züchtiger lie-"
+                    HPOS="190"
+                    VPOS="229"
+                    WIDTH="2081"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d384e056"
+                    
+                    BASELINE="197 370 2296 370" 
+                    HPOS="196"
+                    VPOS="326"
+                    WIDTH="2099"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="196 369 196 385 242 393 244 393 287 386 289 386 314 386 512 391 557 406 558 406 559 406 721 388 750 386 765 388 796 396 797 396 926 390 992 387 1004 391 1033 399 1034 399 1035 399 1036 399 1065 391 1069 388 1132 387 1229 392 1310 396 1311 396 1328 392 1343 390 1366 393 1391 396 1392 396 1454 393 1538 390 1602 394 1703 402 1704 402 1746 396 1779 390 1798 394 1800 394 1801 394 1802 394 1825 387 1905 387 1946 397 1986 406 1987 407 2267 407 2267 406 2268 406 2295 398 2295 369 2295 344 1801 344 1750 326 1749 326 1636 326 1635 326 1590 334 1434 326 1433 326 1431 326 1397 337 1358 326 1357 326 1231 326 1230 326 1158 343 1099 327 1098 327 1096 327 1024 338 984 326 982 326 860 326 858 326 857 326 803 344 622 344 553 326 552 326 440 326 439 326 438 326 382 343 289 343 245 328 244 328 242 328 241 328 196 343 196 369"/></Shape>
+	    <String CONTENT="der und Rheymen, welche bey allen ehrlichen Gesellschafften können gesungen,"
+                    HPOS="196"
+                    VPOS="326"
+                    WIDTH="2099"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1f291c7c"
+                    
+                    BASELINE="192 440 920 451 1928 448" 
+                    HPOS="190"
+                    VPOS="406"
+                    WIDTH="1737"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="191 439 190 460 315 463 380 489 381 489 382 490 461 490 461 489 462 489 519 467 570 475 571 475 640 468 665 474 666 474 667 474 782 469 809 479 811 479 812 479 919 474 975 491 976 491 977 493 1184 493 1184 491 1185 491 1236 474 1316 485 1317 485 1319 485 1358 473 1414 473 1469 483 1471 483 1472 483 1511 472 1532 477 1533 477 1534 477 1638 468 1657 474 1658 474 1660 474 1689 468 1725 475 1726 475 1926 466 1927 447 1927 419 1904 410 1903 410 1804 410 1803 410 1802 410 1774 419 1742 430 1689 430 1652 419 1620 410 1619 410 1568 409 1566 409 1565 409 1539 419 1517 429 1455 429 1429 420 1415 415 1414 415 1413 415 1412 415 1398 420 1375 429 1298 429 1274 420 1250 412 1249 412 1247 412 1195 420 1155 428 1008 428 993 420 964 408 963 408 937 408 936 408 934 408 899 420 885 426 827 426 814 421 779 407 777 407 682 407 680 407 679 407 625 421 624 421 623 421 587 407 586 407 433 406 431 406 430 406 391 421 328 408 327 408 326 408 293 421 293 423 247 424 241 423 220 415 219 415 218 415 217 415 191 421 191 439"/></Shape>
+	    <String CONTENT="und auff allen Instrumenten gespiellt werden ... Deventer 1602."
+                    HPOS="190"
+                    VPOS="406"
+                    WIDTH="1737"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8b6a71b4"
+                    
+                    BASELINE="1499 531 2307 522" 
+                    HPOS="1496"
+                    VPOS="478"
+                    WIDTH="810"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1498 529 1498 549 1552 549 1555 550 1571 560 1573 560 1574 560 1575 560 1576 560 1577 560 1593 550 1596 549 1604 550 1640 556 1641 556 1642 556 1662 550 1668 549 1672 550 1685 558 1687 558 1688 558 1737 552 1773 547 1780 552 1790 559 1791 559 1792 559 1793 560 1840 560 1840 559 1922 558 1923 558 1925 558 1932 553 1934 550 1937 553 1943 556 1944 556 1946 556 1947 556 1948 556 1963 553 1992 544 2058 553 2077 555 2078 555 2090 553 2121 548 2155 554 2166 555 2168 555 2182 554 2272 543 2284 553 2284 554 2285 554 2287 554 2288 555 2305 555 2306 521 2304 478 2252 478 2251 478 2250 478 2246 479 2220 491 2188 482 2181 479 2180 479 2179 479 2177 479 2176 479 2176 480 2174 482 2158 496 2134 483 2126 479 2125 479 2104 479 2103 479 2101 479 2100 479 2093 485 2073 500 2049 500 2034 486 2027 480 2025 480 2024 480 2023 480 2022 480 2006 488 1982 500 1963 500 1952 490 1943 483 1943 482 1942 482 1941 482 1888 482 1887 482 1885 482 1884 482 1884 483 1872 493 1863 501 1854 501 1845 494 1834 484 1834 483 1833 483 1831 483 1798 483 1797 483 1796 483 1795 483 1774 496 1764 502 1753 502 1747 498 1732 485 1731 485 1730 485 1728 485 1727 485 1726 485 1710 499 1704 504 1638 504 1634 501 1608 488 1607 488 1606 488 1604 488 1603 488 1585 502 1582 505 1558 505 1558 504 1531 490 1530 490 1528 490 1527 490 1496 504 1498 529"/></Shape>
+	    <String CONTENT="8:o München [tr i] Haarlem, Enschede 1912"
+                    HPOS="1496"
+                    VPOS="478"
+                    WIDTH="810"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0aacd03e"
+                    
+                    BASELINE="203 624 2230 614" 
+                    HPOS="201"
+                    VPOS="565"
+                    WIDTH="2028"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="202 623 202 650 406 650 407 650 453 657 455 657 575 648 582 648 585 648 614 657 615 657 617 657 717 648 764 658 765 658 839 658 909 675 910 675 911 675 1212 674 1213 674 1300 650 1473 644 1505 644 1512 644 1719 672 1720 672 1872 670 2034 644 2125 651 2126 651 2227 640 2229 613 2225 571 2159 577 2121 571 2088 565 2087 565 2085 565 2066 571 2019 586 1889 586 1860 577 1858 577 1857 577 1856 577 1830 587 1650 587 1603 571 1590 567 1588 567 1587 567 1568 571 1537 578 1474 572 1473 572 1472 572 1471 572 1445 582 1404 572 1403 572 1402 572 1401 572 1354 583 1288 572 1265 569 1263 569 1233 570 1231 570 1224 572 1175 591 1049 591 1001 572 992 570 991 570 964 570 963 570 937 572 893 578 871 574 869 574 868 574 774 591 723 591 671 574 669 574 668 574 667 574 624 582 568 575 566 575 565 575 537 582 473 574 460 572 458 572 445 574 376 583 332 574 328 574 327 574 201 574 202 623"/></Shape>
+	    <String CONTENT="14 Druck für die Hundert. Nytr. av uppl. Deventer 1602 herausgegeben von Ernst"
+                    HPOS="201"
+                    VPOS="565"
+                    WIDTH="2028"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8379e388"
+                    
+                    BASELINE="192 707 675 702" 
+                    HPOS="190"
+                    VPOS="657"
+                    WIDTH="484"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="191 706 191 747 386 748 387 748 388 748 413 737 446 722 672 724 674 701 671 679 580 679 552 657 550 657 549 657 548 657 517 658 516 658 515 658 484 680 472 670 471 670 469 670 468 670 467 670 466 670 466 672 456 682 452 682 428 682 423 682 396 678 379 661 379 659 377 659 376 659 342 659 341 659 339 659 338 659 316 677 283 661 282 661 280 661 279 661 263 667 219 661 218 661 217 661 215 661 190 679 191 706"/></Shape>
+	    <String CONTENT="Schulte - Srathaus"
+                    HPOS="190"
+                    VPOS="657"
+                    WIDTH="484"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

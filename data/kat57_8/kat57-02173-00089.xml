@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-02173-00089.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="28"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1480">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_2f128fa6"
+                    
+                    BASELINE="124 232 439 232" 
+                    HPOS="123"
+                    VPOS="178"
+                    WIDTH="315"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="123 231 123 271 293 271 293 270 294 270 313 261 325 255 438 255 438 231 436 178 349 198 298 198 289 189 289 188 288 188 287 188 246 188 245 187 229 178 228 178 172 178 171 178 170 178 169 178 150 192 145 196 123 194 123 231"/></Shape>
+	    <String CONTENT="ØRVIG, Tor"
+                    HPOS="123"
+                    VPOS="178"
+                    WIDTH="315"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ef4fd347"
+                    
+                    BASELINE="117 332 1031 338" 
+                    HPOS="114"
+                    VPOS="294"
+                    WIDTH="916"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="115 331 114 350 153 363 154 363 155 363 156 363 180 357 199 363 201 363 202 363 228 358 347 365 349 365 350 365 351 365 366 353 368 352 401 353 550 362 551 362 581 356 582 356 583 356 612 365 613 365 614 365 679 357 704 355 846 356 851 360 861 363 862 363 863 363 906 360 930 358 937 361 956 366 957 366 958 366 959 366 974 361 985 357 1027 361 1030 337 1029 310 974 310 973 309 945 298 943 298 942 298 866 308 848 309 842 307 816 297 815 297 814 297 731 305 704 308 693 304 665 296 663 296 662 296 661 296 637 303 623 296 621 296 550 296 549 296 547 296 546 296 535 303 528 307 503 302 463 294 462 294 415 300 380 305 115 297 115 331"/></Shape>
+	    <String CONTENT="Se: Acta borealia.A. Scientia."
+                    HPOS="114"
+                    VPOS="294"
+                    WIDTH="916"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_85c1af13"
+                    
+                    BASELINE="236 434 2297 445" 
+                    HPOS="234"
+                    VPOS="395"
+                    WIDTH="2062"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="235 432 234 452 296 461 297 461 436 455 444 455 452 455 557 461 558 461 813 457 885 457 893 458 922 464 924 464 1095 460 1131 460 1205 461 1460 467 1462 467 1502 463 1533 461 1571 464 1622 468 1623 468 1625 468 1636 464 1644 462 1659 464 1680 468 1681 468 1715 466 1749 462 1765 466 1776 468 1778 468 2293 469 2296 444 2296 416 1997 414 1997 413 1979 407 1977 407 1976 407 1884 413 1870 413 1864 413 1822 404 1821 404 1650 410 1610 411 1584 410 1500 403 1499 403 1467 409 1457 410 1447 409 1407 402 1406 402 1364 408 1356 409 1347 408 1311 400 1310 400 930 404 695 407 673 402 645 397 644 397 571 402 507 405 478 400 449 395 447 395 235 399 235 432"/></Shape>
+	    <String CONTENT="No.4. On the Mesozoic field of Andøya. 1.Notes on the ichtyosaurian"
+                    HPOS="234"
+                    VPOS="395"
+                    WIDTH="2062"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5017f4de"
+                    
+                    BASELINE="415 487 2287 496" 
+                    HPOS="413"
+                    VPOS="456"
+                    WIDTH="1873"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="414 485 413 506 472 518 473 518 523 509 544 509 647 509 652 509 700 520 702 520 769 510 777 510 878 510 915 511 988 516 989 516 1061 514 1114 511 1141 514 1189 520 1190 520 1191 520 1209 515 1217 513 1300 516 1379 519 1380 519 1449 518 1583 514 1610 519 1642 525 1643 525 1671 520 1690 516 1741 520 1817 526 1818 526 2285 525 2286 495 2285 473 2107 473 2105 472 2087 464 2086 464 2085 464 2035 469 2014 463 2013 463 2012 463 1844 471 1821 471 1812 469 1752 462 1750 462 1610 469 1590 469 1585 469 1549 461 1548 461 1384 468 1362 468 1359 468 1341 460 1339 460 1338 460 1205 467 1193 467 1185 467 1115 458 1114 458 1040 466 1036 466 1030 466 878 457 877 457 826 464 825 464 824 464 795 457 794 457 793 457 711 464 702 464 610 464 610 463 583 456 582 456 581 456 414 462 414 485"/></Shape>
+	    <String CONTENT="remains collected in 1952, with remarks on the age of the ver-"
+                    HPOS="413"
+                    VPOS="456"
+                    WIDTH="1873"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_20b7d94b"
+                    
+                    BASELINE="421 535 1442 546" 
+                    HPOS="419"
+                    VPOS="500"
+                    WIDTH="1022"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="420 534 419 559 462 559 487 571 488 571 489 571 491 571 512 562 555 567 556 567 588 561 589 561 593 561 629 563 649 574 650 574 651 574 715 564 731 577 732 577 734 577 874 579 876 579 929 567 993 573 994 573 995 573 996 573 1010 566 1059 566 1069 566 1105 582 1106 582 1108 583 1136 583 1136 582 1137 582 1138 582 1154 571 1246 582 1247 582 1248 582 1280 573 1321 580 1322 580 1323 580 1339 572 1357 579 1358 579 1359 579 1439 568 1441 545 1441 521 1418 510 1417 510 1416 510 1322 515 1299 509 1298 509 1296 509 1295 509 1279 516 1241 509 1240 509 1238 509 1215 519 1214 519 1186 508 1185 508 1100 506 1099 506 1098 506 1077 518 1061 518 1004 518 1003 516 990 505 989 505 988 505 987 505 943 515 922 505 921 505 920 505 919 505 899 515 895 515 814 504 813 504 811 504 790 514 789 514 755 514 699 513 683 504 682 504 681 504 679 504 663 513 662 513 616 513 616 511 602 501 600 501 599 501 598 501 597 501 574 511 573 511 571 511 499 501 498 501 497 501 476 510 451 500 450 500 449 500 447 500 420 509 420 534"/></Shape>
+	    <String CONTENT="tebrate-bearing beds. [Ill.] 1953."
+                    HPOS="419"
+                    VPOS="500"
+                    WIDTH="1022"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_302d1a40"
+                    
+                    BASELINE="156 674 497 674" 
+                    HPOS="155"
+                    VPOS="637"
+                    WIDTH="341"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="155 673 155 706 175 706 176 706 207 733 208 733 209 733 210 735 283 735 283 733 285 733 286 733 313 711 319 706 403 707 414 714 452 733 454 733 455 733 456 733 496 716 496 673 494 637 408 638 407 638 405 638 405 640 403 641 398 647 386 642 383 641 382 641 381 641 380 641 378 641 378 642 377 642 368 652 324 652 317 645 310 640 309 640 308 640 307 640 306 640 281 647 278 647 276 647 255 641 254 641 252 641 251 641 220 649 214 651 210 649 175 637 173 637 172 637 171 637 170 637 155 648 155 673"/></Shape>
+	    <String CONTENT="i: Kat. 1958-"
+                    HPOS="155"
+                    VPOS="637"
+                    WIDTH="341"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c4f0f4a4"
+                    
+                    BASELINE="617 744 685 740" 
+                    HPOS="613"
+                    VPOS="684"
+                    WIDTH="71"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="616 743 618 765 684 757 684 740 681 686 613 684 616 743"/></Shape>
+	    <String CONTENT="B/"
+                    HPOS="613"
+                    VPOS="684"
+                    WIDTH="71"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5dae74dc"
+                    
+                    BASELINE="591 816 812 813" 
+                    HPOS="588"
+                    VPOS="777"
+                    WIDTH="223"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="589 815 589 843 811 841 811 812 809 780 769 777 768 777 767 777 757 781 752 784 748 781 737 777 736 777 735 777 734 777 710 784 697 788 688 784 672 778 671 778 669 778 588 788 589 815"/></Shape>
+	    <String CONTENT="Tromso"
+                    HPOS="588"
+                    VPOS="777"
+                    WIDTH="223"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4c71c3db"
+                    
+                    BASELINE="1986 1444 2161 1440" 
+                    HPOS="1984"
+                    VPOS="1402"
+                    WIDTH="176"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1985 1443 1985 1460 2159 1461 2160 1439 2156 1403 2127 1408 2118 1406 2107 1402 2106 1402 2105 1402 2103 1402 2085 1408 2066 1414 2061 1410 2054 1403 2053 1403 2051 1403 2050 1403 1984 1415 1985 1443"/></Shape>
+	    <String CONTENT="13.2.54"
+                    HPOS="1984"
+                    VPOS="1402"
+                    WIDTH="176"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

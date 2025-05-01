@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00472.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="20"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2311 1479 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="173 276 722 279" 
+                    HPOS="171"
+                    VPOS="222"
+                    WIDTH="550"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="172 275 171 298 196 313 197 313 198 313 199 313 349 310 384 316 386 316 489 315 491 315 492 315 520 296 521 296 534 296 627 302 629 302 630 302 642 297 651 303 652 303 653 303 655 303 720 296 721 278 721 246 708 238 706 238 705 238 704 238 703 238 701 238 701 239 692 247 645 247 604 224 603 224 583 224 582 224 581 224 579 224 579 225 557 246 557 247 539 247 504 246 497 246 456 223 455 223 386 223 384 223 383 223 382 223 370 233 356 222 355 222 354 222 334 222 333 222 331 222 330 222 330 223 317 235 302 230 301 230 299 230 298 230 277 236 243 222 241 222 240 222 239 222 192 244 172 244 172 275"/></Shape>
+	    <String CONTENT="ANDRÉASSON, Rune"
+                    HPOS="171"
+                    VPOS="222"
+                    WIDTH="550"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="173 373 1264 380" 
+                    HPOS="172"
+                    VPOS="331"
+                    WIDTH="1091"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="172 372 172 421 273 414 289 420 296 423 297 423 433 424 434 424 460 419 474 415 482 418 495 424 497 424 498 424 595 418 636 425 637 425 639 425 663 416 693 405 716 405 752 414 753 414 755 414 792 408 801 414 813 421 814 421 815 421 816 421 817 421 841 414 843 413 847 414 869 423 871 423 872 424 932 424 932 423 933 423 935 423 945 415 980 423 982 423 983 423 1017 414 1042 420 1043 420 1044 420 1046 420 1072 410 1080 408 1117 410 1172 414 1173 414 1262 408 1263 379 1263 351 1133 337 1132 337 1047 349 1028 336 1027 336 1026 336 933 336 932 336 931 336 903 347 867 341 866 341 864 341 845 347 827 336 826 336 825 336 824 336 822 336 792 346 774 335 773 335 772 335 718 334 716 334 656 335 655 335 620 346 619 346 581 334 579 334 551 334 550 334 549 334 525 346 505 346 355 346 354 345 338 337 336 337 335 337 249 344 244 344 243 344 209 331 208 331 207 331 206 331 172 342 172 372"/></Shape>
+	    <String CONTENT="Se: Julbocken och Nicke Bock. 1954 -"
+                    HPOS="172"
+                    VPOS="331"
+                    WIDTH="1091"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1426 324 1664 327" 
+                    HPOS="1423"
+                    VPOS="263"
+                    WIDTH="240"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="1424 323 1423 336 1466 346 1468 346 1469 346 1480 340 1492 347 1494 347 1495 347 1496 347 1497 347 1498 347 1506 342 1513 349 1515 349 1516 349 1517 349 1545 344 1590 350 1591 350 1661 340 1663 326 1663 291 1597 288 1593 284 1576 267 1576 266 1575 266 1574 266 1572 266 1571 266 1543 279 1540 281 1529 278 1468 263 1466 263 1424 268 1424 323"/></Shape>
+	    <String CONTENT="Underv."
+                    HPOS="1423"
+                    VPOS="263"
+                    WIDTH="240"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1426 392 1642 396" 
+                    HPOS="1423"
+                    VPOS="342"
+                    WIDTH="217"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="1424 390 1423 404 1454 411 1455 411 1457 411 1470 408 1474 407 1475 408 1480 414 1481 414 1481 415 1482 415 1484 415 1485 415 1486 415 1503 410 1507 409 1508 410 1516 416 1517 416 1518 416 1519 416 1521 416 1522 416 1522 415 1526 411 1527 411 1529 411 1542 420 1543 420 1544 420 1545 420 1639 419 1640 395 1640 367 1613 353 1612 353 1611 353 1610 353 1608 353 1608 355 1596 366 1595 367 1560 367 1550 363 1480 342 1479 342 1443 342 1442 342 1440 342 1439 342 1424 352 1424 390"/></Shape>
+	    <String CONTENT="Barnb."
+                    HPOS="1423"
+                    VPOS="342"
+                    WIDTH="217"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1420 468 1887 461" 
+                    HPOS="1417"
+                    VPOS="403"
+                    WIDTH="469"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="1418 467 1418 487 1447 505 1448 505 1449 505 1450 505 1507 504 1508 504 1510 504 1534 488 1565 498 1566 498 1568 498 1569 498 1570 498 1580 489 1586 484 1606 490 1622 494 1623 494 1624 494 1626 494 1633 490 1654 479 1734 479 1755 494 1756 494 1758 494 1759 494 1760 494 1781 487 1800 495 1807 499 1808 499 1809 499 1811 499 1817 497 1828 492 1835 497 1838 499 1839 499 1840 499 1841 499 1886 498 1886 460 1881 407 1856 419 1832 409 1816 403 1814 403 1813 403 1759 404 1758 404 1734 414 1705 427 1672 423 1671 423 1670 423 1645 429 1605 421 1542 410 1540 410 1539 410 1538 410 1515 426 1508 431 1485 431 1479 429 1459 419 1458 419 1457 419 1455 419 1454 419 1438 431 1436 432 1417 432 1418 467"/></Shape>
+	    <String CONTENT="Tidskr.   (Fol.)"
+                    HPOS="1417"
+                    VPOS="403"
+                    WIDTH="469"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

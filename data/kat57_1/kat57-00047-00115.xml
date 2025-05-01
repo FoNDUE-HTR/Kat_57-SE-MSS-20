@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00115.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1464"
+          PHYSICAL_IMG_NR="47"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1464">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1462"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1463 2319 1463 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="161 149 688 154" 
+                    HPOS="158"
+                    VPOS="107"
+                    WIDTH="529"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="159 148 158 162 218 174 219 174 270 169 324 175 325 175 327 175 353 168 427 176 428 176 429 176 452 167 480 167 483 167 494 176 494 178 495 178 496 178 497 178 550 170 563 179 565 179 566 179 567 179 568 179 585 172 619 179 621 179 685 168 687 153 685 109 613 120 602 112 601 111 601 109 600 109 599 109 550 108 549 108 547 108 546 108 540 113 538 115 534 113 530 109 529 109 528 109 527 109 525 109 517 114 490 129 424 129 402 118 381 107 380 107 344 107 342 107 341 107 340 107 325 119 317 128 307 128 301 120 300 120 300 119 299 119 297 119 296 119 295 119 290 120 277 125 270 122 247 107 246 107 245 107 244 107 242 107 208 123 203 125 159 125 159 148"/></Shape>
+	    <String CONTENT="Andler, Max"
+                    HPOS="158"
+                    VPOS="107"
+                    WIDTH="529"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1867 51 2217 47" 
+                    HPOS="1864"
+                    VPOS="3"
+                    WIDTH="352"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="1866 50 1866 64 1980 74 1981 74 2025 64 2069 73 2071 73 2180 71 2182 71 2216 61 2216 46 2215 23 2166 9 2165 9 2163 9 2162 9 2149 14 2138 4 2138 3 2136 3 2135 3 2134 3 2133 3 2094 19 2031 23 2012 7 2011 7 2010 7 1980 4 1979 4 1913 6 1912 6 1911 6 1911 7 1892 25 1864 25 1866 50"/></Shape>
+	    <String CONTENT="Polit. ekon"
+                    HPOS="1864"
+                    VPOS="3"
+                    WIDTH="352"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1905 108 2181 105" 
+                    HPOS="1902"
+                    VPOS="69"
+                    WIDTH="278"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1903 107 1903 122 1927 130 1928 130 1929 130 1980 123 2011 134 2012 134 2013 134 2014 134 2035 124 2058 132 2060 132 2061 134 2150 134 2150 132 2151 132 2180 119 2180 104 2179 87 2163 80 2162 80 2161 80 2128 86 2125 86 2113 76 2112 76 2111 76 2086 76 2085 76 2084 76 2083 76 2072 85 2069 87 2024 87 2016 84 1986 69 1985 69 1929 69 1928 69 1927 69 1902 79 1903 107"/></Shape>
+	    <String CONTENT="Finansv"
+                    HPOS="1902"
+                    VPOS="69"
+                    WIDTH="278"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="164 238 2251 251" 
+                    HPOS="162"
+                    VPOS="153"
+                    WIDTH="2088"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="163 237 162 254 212 264 213 264 352 257 358 257 361 257 400 265 401 265 474 261 950 268 951 268 984 262 997 261 1060 263 1232 270 1233 272 1352 272 1352 270 1377 265 1392 263 1404 265 1415 269 1416 269 1418 269 1504 267 1601 264 1617 268 1639 273 1640 274 1859 274 1859 273 1861 273 1872 270 1887 267 2247 273 2250 250 2249 223 2173 200 2172 200 2119 200 2118 200 2046 215 2013 223 1948 217 1947 217 1946 217 1892 233 1848 233 1751 217 1689 217 1641 202 1624 197 1623 197 1621 197 1601 201 1464 226 1253 196 1252 196 1161 209 1093 202 1092 202 1062 207 1019 195 1017 195 1016 195 1015 195 918 223 835 211 834 211 833 211 798 220 754 207 752 207 676 206 547 165 515 156 513 156 163 153 163 237"/></Shape>
+	    <String CONTENT="Die Städtesschulden in Frankreich und Preussen und ihre"
+                    HPOS="162"
+                    VPOS="153"
+                    WIDTH="2088"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="151 329 1315 335" 
+                    HPOS="148"
+                    VPOS="294"
+                    WIDTH="1166"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="150 328 148 344 216 358 217 358 218 358 235 350 290 362 291 363 327 363 327 362 328 362 353 352 457 357 458 357 496 352 505 351 507 352 534 366 535 366 536 366 538 366 568 353 569 353 571 353 615 367 616 367 617 368 662 368 662 367 663 367 665 367 678 357 691 356 737 352 759 357 771 361 772 361 773 361 788 358 807 355 848 359 860 361 861 361 862 361 865 359 888 350 990 350 1006 356 1008 356 1009 356 1037 350 1051 356 1053 356 1054 356 1170 355 1194 367 1198 369 1199 369 1200 370 1313 370 1314 334 1314 314 1204 314 1203 313 1178 298 1177 298 1176 298 1120 298 1119 298 1117 298 1097 309 1056 297 1055 297 1054 297 1053 297 1005 309 987 297 986 297 984 297 932 297 931 297 929 297 903 312 900 313 850 313 848 312 818 297 817 297 816 297 752 305 734 297 733 297 732 297 731 297 718 302 667 296 666 296 665 296 663 296 643 311 640 312 624 312 622 311 600 295 599 295 598 295 596 295 544 306 506 296 505 296 504 296 502 296 461 309 458 309 374 309 374 308 324 297 323 297 322 297 311 302 297 294 296 294 295 294 294 294 292 294 264 307 150 307 150 328"/></Shape>
+	    <String CONTENT="volkswirtschalftiche Bedeutung."
+                    HPOS="148"
+                    VPOS="294"
+                    WIDTH="1166"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1775 405 2303 410" 
+                    HPOS="1773"
+                    VPOS="362"
+                    WIDTH="529"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1774 403 1773 417 1796 425 1797 425 1798 425 1800 425 1801 425 1813 418 1840 430 1841 430 1842 430 1844 430 1845 430 1845 429 1857 418 1858 418 1862 418 1962 436 1963 436 1964 436 1978 430 1997 447 1997 448 1999 448 2000 448 2001 450 2080 450 2080 448 2082 448 2083 448 2099 436 2132 439 2133 439 2134 439 2135 439 2151 429 2175 439 2177 439 2178 439 2179 439 2180 439 2180 437 2191 428 2210 444 2211 444 2212 444 2213 445 2228 445 2228 444 2229 444 2258 427 2266 431 2267 431 2268 431 2269 431 2271 431 2272 431 2272 430 2279 424 2282 423 2300 424 2302 409 2302 389 2229 376 2228 376 2227 376 2207 381 2186 370 2185 370 2184 370 2183 370 2182 370 2155 386 2154 386 2119 386 2066 386 2022 370 2020 370 2019 370 2018 370 2017 370 1999 384 1962 384 1940 364 1940 363 1939 363 1938 363 1891 363 1890 363 1889 363 1867 373 1846 362 1845 362 1801 362 1800 362 1798 362 1797 362 1774 379 1774 403"/></Shape>
+	    <String CONTENT="8º Stuttgart 1911."
+                    HPOS="1773"
+                    VPOS="362"
+                    WIDTH="529"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="156 499 2303 509" 
+                    HPOS="153"
+                    VPOS="440"
+                    WIDTH="2149"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="154 498 153 523 208 525 327 553 546 555 547 555 549 555 605 535 680 527 776 527 840 541 842 541 892 530 940 539 942 539 1059 533 1159 557 1160 557 1308 533 1460 551 1462 551 1562 551 1592 559 1593 559 1765 561 1767 562 1828 562 1828 561 1918 541 1999 544 2000 544 2047 534 2301 534 2302 508 2301 473 2014 469 2012 468 1973 457 1972 457 1970 457 1969 457 1938 467 1880 485 1796 488 1686 463 1674 461 1673 461 1671 461 1664 462 1619 475 1541 461 1538 461 1537 461 1536 461 1499 470 1482 464 1481 464 1480 464 1479 464 1415 481 1352 467 1350 467 1349 467 1308 480 1205 462 1204 462 962 485 883 473 882 473 754 477 683 461 682 461 591 484 479 484 356 442 351 441 350 441 154 440 154 498"/></Shape>
+	    <String CONTENT="Se: Tübingen staatswissenschaftliche Abhandlungen. H. 22. Polit. ekon"
+                    HPOS="153"
+                    VPOS="440"
+                    WIDTH="2149"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="2139 558 2286 555" 
+                    HPOS="2136"
+                    VPOS="518"
+                    WIDTH="149"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="2138 557 2138 581 2285 580 2285 553 2282 520 2222 531 2216 525 2207 519 2207 518 2206 518 2205 518 2184 518 2183 518 2182 518 2180 518 2160 531 2156 534 2136 534 2138 557"/></Shape>
+	    <String CONTENT="Saml"
+                    HPOS="2136"
+                    VPOS="518"
+                    WIDTH="149"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

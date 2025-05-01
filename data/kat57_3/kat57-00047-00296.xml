@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00296.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1464"
+          PHYSICAL_IMG_NR="27"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1464">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1462"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1463 2311 1463 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="167 272 549 272" 
+                    HPOS="165"
+                    VPOS="229"
+                    WIDTH="382"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="165 270 165 294 185 305 186 305 187 306 341 306 341 305 342 305 344 305 361 292 439 300 440 300 441 300 442 300 450 292 473 300 474 300 475 300 513 292 523 300 523 301 524 301 525 301 527 301 528 301 547 291 547 270 547 244 508 244 495 233 494 233 492 233 491 233 427 242 409 229 408 229 407 229 406 229 405 229 378 244 347 244 334 230 334 229 333 229 331 229 204 229 203 229 202 229 165 242 165 270"/></Shape>
+	    <String CONTENT="ANDRÉ, Louis"
+                    HPOS="165"
+                    VPOS="229"
+                    WIDTH="382"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="161 369 1910 377" 
+                    HPOS="158"
+                    VPOS="328"
+                    WIDTH="1751"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="158 389 248 390 290 405 291 405 408 406 409 407 577 407 577 406 578 406 618 395 655 401 656 401 696 395 706 394 912 394 921 397 946 405 947 405 949 405 1067 400 1087 406 1088 406 1089 406 1134 398 1148 397 1163 400 1228 408 1229 408 1231 408 1250 402 1318 408 1320 408 1321 408 1340 401 1355 396 1471 402 1503 403 1504 403 1510 402 1528 398 1576 403 1661 412 1662 412 1709 405 1748 398 1906 406 1909 376 1909 340 1758 346 1721 337 1711 336 1710 336 1700 337 1660 346 1597 337 1571 334 1570 334 1551 336 1515 345 1411 345 1315 345 1292 335 1284 333 1283 333 1282 333 1245 335 1183 339 1167 334 1159 331 1157 331 1073 331 1072 331 1040 334 915 342 749 331 725 330 724 330 703 331 553 340 456 329 448 329 447 329 442 329 396 335 357 329 350 328 161 328 159 368 158 389"/></Shape>
+	    <String CONTENT="Se: Richelieu, Armand Jean du Plessis, cardinal, duc de,"
+                    HPOS="158"
+                    VPOS="328"
+                    WIDTH="1751"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="283 469 2300 482" 
+                    HPOS="280"
+                    VPOS="429"
+                    WIDTH="2019"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="281 468 280 498 296 497 306 500 325 507 326 507 328 507 329 507 355 501 381 494 430 494 513 501 586 507 588 507 617 501 647 495 736 501 816 507 817 507 844 502 861 498 880 502 906 506 907 506 956 502 1011 497 1062 502 1123 508 1124 508 1126 508 1149 502 1161 500 1187 502 1257 511 1259 511 1316 503 1339 500 1355 503 1385 509 1387 509 1418 503 1425 502 1438 503 1565 516 1566 517 1704 517 1704 516 1766 503 1772 503 1778 503 1821 511 1822 511 1926 505 1930 505 1931 505 1969 517 1970 517 2119 519 2120 519 2121 519 2164 506 2298 506 2299 481 2299 455 2222 436 1866 435 1865 435 1821 445 1742 433 1741 433 1622 436 1582 446 1568 448 1542 445 1483 437 1482 437 1448 444 1434 447 1210 447 1188 440 1174 436 1173 436 1172 436 1118 440 1018 446 993 437 966 429 965 429 963 429 929 437 896 446 836 446 805 435 784 429 783 429 782 429 702 434 574 442 555 436 553 436 552 436 459 441 281 429 281 468"/></Shape>
+	    <String CONTENT="Testament politique. Éd. critique...par L. André...7e éd.1947 {Statsv."
+                    HPOS="280"
+                    VPOS="429"
+                    WIDTH="2019"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2133 541 2228 541" 
+                    HPOS="2132"
+                    VPOS="494"
+                    WIDTH="95"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="2132 540 2132 574 2174 581 2175 581 2227 575 2227 540 2227 517 2207 517 2207 516 2183 495 2183 494 2182 494 2181 494 2158 494 2157 494 2155 494 2154 494 2132 509 2132 540"/></Shape>
+	    <String CONTENT="Fr."
+                    HPOS="2132"
+                    VPOS="494"
+                    WIDTH="95"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

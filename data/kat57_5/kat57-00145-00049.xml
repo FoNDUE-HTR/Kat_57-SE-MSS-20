@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00049.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2292"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="47"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2292"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2290"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2291 1477 2291 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="195 228 392 225" 
+                    HPOS="193"
+                    VPOS="184"
+                    WIDTH="198"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="194 227 194 257 240 258 241 259 253 268 255 268 256 268 257 268 258 268 278 261 289 257 391 264 391 224 389 188 193 184 194 227"/></Shape>
+	    <String CONTENT="BERICHT"
+                    HPOS="193"
+                    VPOS="184"
+                    WIDTH="198"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1992 69 2122 72" 
+                    HPOS="1990"
+                    VPOS="23"
+                    WIDTH="131"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1991 68 1990 86 2119 87 2121 71 2121 32 2068 23 2067 23 1991 36 1991 68"/></Shape>
+	    <String CONTENT="Hist."
+                    HPOS="1990"
+                    VPOS="23"
+                    WIDTH="131"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1991 136 2218 142" 
+                    HPOS="1988"
+                    VPOS="87"
+                    WIDTH="228"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1990 135 1988 161 2078 158 2214 168 2216 141 2216 107 2165 105 2163 104 2129 87 2128 87 2109 87 2108 87 2107 87 2105 87 2092 98 2080 88 2078 88 2077 88 2076 88 2075 88 2061 94 2046 87 2045 87 2044 87 2043 87 2041 87 2025 97 1990 97 1990 135"/></Shape>
+	    <String CONTENT="Världskr."
+                    HPOS="1988"
+                    VPOS="87"
+                    WIDTH="228"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2005 216 2112 216" 
+                    HPOS="2004"
+                    VPOS="158"
+                    WIDTH="106"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="2004 215 2007 235 2013 230 2109 236 2110 215 2110 181 2087 181 2083 178 2054 158 2052 158 2051 158 2025 158 2024 158 2023 158 2022 158 2004 168 2004 215"/></Shape>
+	    <String CONTENT="Fred."
+                    HPOS="2004"
+                    VPOS="158"
+                    WIDTH="106"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1979 262 2149 262" 
+                    HPOS="1977"
+                    VPOS="225"
+                    WIDTH="170"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1977 261 1977 288 1998 296 1999 296 2001 298 2076 298 2076 296 2077 296 2078 296 2092 286 2093 286 2147 286 2147 261 2147 225 2130 225 2129 225 2128 225 2126 225 2125 226 2104 241 2064 232 2023 225 2022 225 2020 225 2019 225 2001 240 1997 242 1977 242 1977 261"/></Shape>
+	    <String CONTENT="Saml."
+                    HPOS="1977"
+                    VPOS="225"
+                    WIDTH="170"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="179 328 2013 331" 
+                    HPOS="178"
+                    VPOS="290"
+                    WIDTH="1834"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="178 327 178 365 242 358 441 358 458 365 463 367 464 367 465 368 867 368 867 367 868 367 882 363 898 359 914 363 929 367 930 367 1097 368 1099 368 2011 358 2012 330 2011 291 1901 291 1900 291 1898 291 1875 301 1507 301 1488 293 1483 291 1482 291 1436 291 1435 291 1434 291 1429 293 1410 301 1350 301 1329 294 1322 291 1320 291 1216 291 1215 291 1213 291 1206 294 1191 299 1153 294 1127 291 1126 291 1125 291 1116 294 1102 299 1069 295 1033 290 1032 290 1031 290 1017 295 1007 298 953 295 856 290 855 290 727 296 656 299 580 296 458 293 457 293 455 293 443 298 438 299 178 299 178 327"/></Shape>
+	    <String CONTENT="über die Tätigkeit der deutschösterreichischen Friedensdelegation in"
+                    HPOS="178"
+                    VPOS="290"
+                    WIDTH="1834"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="181 432 705 428" 
+                    HPOS="178"
+                    VPOS="397"
+                    WIDTH="526"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="179 431 179 448 267 455 268 455 327 452 369 449 398 453 430 458 431 458 471 455 554 448 575 456 582 460 584 460 585 460 704 459 704 427 702 408 601 408 569 397 568 397 566 397 491 408 448 408 439 400 439 399 438 399 437 399 436 399 434 399 395 408 288 400 287 400 285 400 284 400 284 401 274 411 258 411 246 400 245 400 243 400 203 400 202 400 200 400 178 410 179 431"/></Shape>
+	    <String CONTENT="St.Germain-en-Laye."
+                    HPOS="178"
+                    VPOS="397"
+                    WIDTH="526"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="185 532 388 532" 
+                    HPOS="184"
+                    VPOS="497"
+                    WIDTH="202"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="184 530 184 567 386 566 386 530 386 507 346 501 345 501 312 507 309 508 308 508 300 501 299 501 298 501 296 501 264 508 263 508 251 497 250 497 248 497 204 497 203 497 202 497 200 497 184 507 184 530"/></Shape>
+	    <String CONTENT="Bd 1-2."
+                    HPOS="184"
+                    VPOS="497"
+                    WIDTH="202"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1401 531 1789 535" 
+                    HPOS="1398"
+                    VPOS="498"
+                    WIDTH="390"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="1399 530 1398 561 1428 562 1441 576 1441 577 1442 577 1444 577 1445 577 1642 571 1683 578 1684 578 1786 565 1788 534 1786 500 1399 498 1399 530"/></Shape>
+	    <String CONTENT="8:o Wien 1919."
+                    HPOS="1398"
+                    VPOS="498"
+                    WIDTH="390"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="2015 1440 2227 1440" 
+                    HPOS="2014"
+                    VPOS="1395"
+                    WIDTH="212"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="2014 1439 2014 1453 2225 1460 2226 1439 2226 1406 2099 1406 2098 1405 2082 1395 2081 1395 2080 1395 2078 1395 2014 1404 2014 1439"/></Shape>
+	    <String CONTENT="8.12.70"
+                    HPOS="2014"
+                    VPOS="1395"
+                    WIDTH="212"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

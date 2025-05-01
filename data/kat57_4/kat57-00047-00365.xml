@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00365.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1476"
+          PHYSICAL_IMG_NR="14"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1476">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1474"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1475 2311 1475 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="150 242 1099 247" 
+                    HPOS="147"
+                    VPOS="186"
+                    WIDTH="951"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="148 241 147 263 162 275 163 275 164 275 391 276 392 276 393 276 394 276 414 261 450 274 451 274 452 274 454 274 479 260 481 260 502 260 765 269 766 269 767 269 786 261 839 261 840 261 860 274 861 274 862 274 863 274 942 263 979 279 980 279 981 279 983 279 1008 265 1039 265 1064 277 1065 277 1066 277 1068 277 1097 261 1098 246 1097 204 946 209 935 204 908 190 906 190 856 189 855 189 853 189 852 189 834 204 830 205 820 204 789 199 788 199 711 204 648 207 639 204 607 189 606 189 531 188 530 188 529 188 513 195 482 188 481 188 345 186 344 186 343 186 311 200 283 186 281 186 280 186 279 186 230 204 226 205 148 205 148 241"/></Shape>
+	    <String CONTENT="ANDREAE, [Nils] Daniel [Esaias]"
+                    HPOS="147"
+                    VPOS="186"
+                    WIDTH="951"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="148 338 837 341" 
+                    HPOS="146"
+                    VPOS="301"
+                    WIDTH="690"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="147 337 146 372 166 380 167 380 168 380 169 380 171 380 182 372 191 366 235 364 254 371 283 383 284 383 285 383 375 378 450 384 451 384 452 384 454 384 454 383 462 376 486 382 487 382 488 382 489 382 490 382 509 369 515 365 526 369 562 381 563 381 564 381 566 381 567 381 586 369 593 365 711 365 712 367 722 375 722 376 723 376 724 376 785 381 786 381 787 381 814 366 815 366 835 366 836 340 835 305 780 303 778 303 777 303 776 303 776 305 775 305 764 317 735 306 729 303 728 303 727 303 725 303 724 303 722 306 702 317 609 317 593 307 583 302 581 302 536 302 535 302 534 302 532 302 532 303 526 308 519 317 476 317 462 309 447 302 446 302 361 301 360 301 287 302 286 302 285 302 285 303 275 312 273 314 199 314 198 313 180 306 179 306 178 306 177 306 147 313 147 337"/></Shape>
+	    <String CONTENT="Se: WALLIN, Johan Olof"
+                    HPOS="146"
+                    VPOS="301"
+                    WIDTH="690"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="268 439 1621 445" 
+                    HPOS="265"
+                    VPOS="391"
+                    WIDTH="1355"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="267 437 265 473 313 478 346 495 348 495 349 495 372 492 394 503 396 503 397 503 518 492 552 504 553 504 554 505 639 505 639 504 641 504 713 477 805 477 874 495 876 495 877 495 878 495 898 484 954 479 1053 492 1080 506 1081 506 1082 507 1336 507 1336 506 1337 506 1384 488 1410 492 1411 492 1412 492 1440 480 1619 480 1620 444 1620 415 1570 391 1568 391 1385 391 1384 391 1383 391 1348 404 1277 398 1275 398 1274 398 1236 408 1208 399 1207 399 1205 399 1204 399 1179 408 1161 400 1160 400 1159 400 1122 408 1060 402 1059 402 1058 402 1037 412 970 397 969 397 908 412 905 412 703 412 700 410 643 398 642 398 612 404 557 397 556 397 554 397 530 405 509 398 508 398 506 398 505 398 474 409 472 409 468 409 420 398 419 398 267 407 267 437"/></Shape>
+	    <String CONTENT="Dikter i urval av Daniel Andreae. 1955. {Vitt."
+                    HPOS="265"
+                    VPOS="391"
+                    WIDTH="1355"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1476 531 1586 531" 
+                    HPOS="1475"
+                    VPOS="495"
+                    WIDTH="109"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="1475 595 1498 595 1498 594 1499 594 1501 594 1512 585 1513 584 1528 590 1529 590 1530 590 1531 590 1533 590 1533 589 1546 575 1554 568 1584 565 1584 530 1584 506 1541 495 1540 495 1539 495 1503 498 1502 498 1501 498 1501 499 1496 503 1491 506 1476 503 1475 530 1475 595"/></Shape>
+	    <String CONTENT="Sv."
+                    HPOS="1475"
+                    VPOS="495"
+                    WIDTH="109"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

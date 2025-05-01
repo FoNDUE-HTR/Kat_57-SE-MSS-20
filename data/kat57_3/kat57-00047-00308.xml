@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00308.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="33"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2311 1479 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="205 205 741 200" 
+                    HPOS="203"
+                    VPOS="136"
+                    WIDTH="537"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="204 204 204 231 214 240 215 240 217 240 218 240 402 239 403 239 433 224 436 222 495 222 499 223 524 235 525 235 526 235 528 235 565 222 566 220 641 220 672 220 697 233 698 233 699 233 700 233 740 218 740 199 737 166 677 166 674 164 652 150 651 150 650 150 648 150 647 150 615 162 602 168 498 168 479 159 431 136 430 136 429 136 286 138 284 138 264 144 234 138 233 138 231 138 203 150 204 204"/></Shape>
+	    <String CONTENT="ANDREA, Capellano"
+                    HPOS="203"
+                    VPOS="136"
+                    WIDTH="537"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="202 308 924 303" 
+                    HPOS="199"
+                    VPOS="265"
+                    WIDTH="723"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="201 307 201 350 301 345 312 350 333 360 334 360 335 360 336 360 356 350 382 358 383 358 384 358 386 358 398 352 404 358 404 360 405 360 407 360 530 361 531 361 595 358 597 358 598 358 598 357 611 345 614 342 703 342 705 342 745 358 746 358 747 360 869 360 869 358 871 358 872 358 890 344 922 339 922 302 917 270 901 276 879 270 867 267 866 267 864 267 838 271 803 276 790 271 773 265 772 265 771 265 769 265 741 272 726 276 719 272 705 266 704 266 703 266 701 266 683 273 682 273 678 273 626 266 625 266 624 266 623 266 613 275 609 278 555 278 546 276 529 268 528 268 526 268 428 273 379 267 378 267 377 267 336 278 331 281 292 281 291 279 265 268 264 268 217 268 215 268 214 268 213 268 199 276 201 307"/></Shape>
+	    <String CONTENT="Se: ANDREAS, Capellanus"
+                    HPOS="199"
+                    VPOS="265"
+                    WIDTH="723"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

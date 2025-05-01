@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00197.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="34"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2319 1471 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="208 199 592 196" 
+                    HPOS="206"
+                    VPOS="153"
+                    WIDTH="385"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="207 198 207 219 228 235 229 235 230 235 231 236 334 236 334 235 409 234 410 234 412 234 435 215 468 215 477 223 477 224 478 224 479 224 480 224 523 218 531 224 532 224 533 224 534 224 591 213 591 195 590 168 574 161 572 161 571 161 570 161 569 161 560 168 556 170 522 170 518 168 495 155 494 155 493 155 491 155 466 166 458 171 414 171 409 166 396 155 395 155 393 155 355 153 354 153 353 153 327 159 257 154 256 154 206 165 207 198"/></Shape>
+	    <String CONTENT="ANDRAE, Olof"
+                    HPOS="206"
+                    VPOS="153"
+                    WIDTH="385"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="211 298 1130 303" 
+                    HPOS="209"
+                    VPOS="260"
+                    WIDTH="920"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="209 296 209 325 316 322 328 326 404 352 406 352 577 353 579 354 661 354 661 353 662 353 663 353 691 329 705 328 729 325 749 328 788 336 790 336 791 336 802 332 823 349 824 349 825 349 826 349 828 349 890 328 901 326 933 329 1015 338 1017 338 1018 338 1041 329 1042 329 1127 329 1129 302 1127 272 1110 274 1105 272 1094 264 1093 264 1091 264 1090 264 1089 264 1088 264 1078 271 1074 274 1069 271 1061 264 1060 264 1058 264 1057 264 1056 264 1030 271 1015 274 966 271 863 263 862 263 815 271 810 271 807 271 747 262 745 262 744 262 727 271 723 273 620 273 617 269 607 263 606 263 604 263 603 263 547 269 536 271 534 269 521 261 520 261 518 261 517 261 469 269 468 269 452 261 451 261 392 260 360 260 359 260 358 260 357 260 344 269 343 271 263 271 261 269 250 262 249 262 247 262 246 262 209 268 209 296"/></Shape>
+	    <String CONTENT="Se: ANDRAE, Lars Olof Johannes"
+                    HPOS="209"
+                    VPOS="260"
+                    WIDTH="920"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00202.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1468"
+          PHYSICAL_IMG_NR="36"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1468">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1466"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1467 2323 1467 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="152 75 332 71" 
+                    HPOS="150"
+                    VPOS="15"
+                    WIDTH="181"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="151 74 151 111 186 111 186 110 187 110 188 110 215 99 330 106 331 70 329 20 315 20 314 20 313 20 312 20 312 22 310 22 288 42 255 42 236 30 216 15 215 15 214 15 212 15 183 17 182 17 181 17 181 18 160 39 156 41 150 40 151 74"/></Shape>
+	    <String CONTENT="[Rom]"
+                    HPOS="150"
+                    VPOS="15"
+                    WIDTH="181"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="222 195 837 192" 
+                    HPOS="220"
+                    VPOS="146"
+                    WIDTH="615"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="221 194 221 209 419 210 423 212 441 218 443 218 444 218 445 218 446 218 446 217 452 212 457 207 473 212 479 215 480 215 482 215 483 215 489 214 510 207 543 214 569 218 570 218 571 218 587 215 614 207 626 215 629 217 630 217 631 217 632 218 652 218 652 217 653 217 654 217 654 216 655 215 663 209 696 216 704 217 706 218 834 218 835 190 832 146 810 148 808 148 807 148 786 162 695 162 682 151 681 151 680 151 679 151 677 151 676 151 668 157 653 146 652 146 651 146 631 146 630 146 629 146 627 146 627 148 609 162 572 156 571 156 528 162 502 151 501 151 500 151 435 162 401 149 400 149 398 149 397 149 375 156 359 149 358 149 290 149 288 149 287 149 286 149 277 155 271 149 270 149 269 149 268 149 220 149 221 194"/></Shape>
+	    <String CONTENT="ANDRAE, Poul [Georg]"
+                    HPOS="220"
+                    VPOS="146"
+                    WIDTH="615"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="219 292 1401 297" 
+                    HPOS="216"
+                    VPOS="253"
+                    WIDTH="1184"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="217 291 216 310 245 320 247 320 248 320 325 313 342 320 343 320 345 320 380 313 387 311 397 313 444 320 445 320 558 315 559 315 571 321 572 321 573 322 728 322 728 321 758 316 786 313 795 318 799 319 800 319 801 319 816 318 851 314 864 318 876 322 877 322 878 322 879 322 894 319 909 314 1040 314 1090 321 1113 324 1114 324 1147 321 1227 315 1397 324 1400 296 1400 259 1360 256 1359 256 1358 256 1357 256 1354 259 1347 263 1316 259 1298 256 1297 256 1296 256 1289 259 1269 266 1132 260 1130 260 1129 260 1109 266 1084 260 1067 255 1065 255 1064 255 1042 260 1018 265 975 260 943 256 942 256 941 256 930 260 916 265 897 260 883 258 882 258 881 258 875 260 865 266 808 266 745 261 641 254 640 254 638 254 620 261 614 265 580 265 572 261 551 254 550 254 405 253 403 253 402 253 364 263 362 264 217 264 217 291"/></Shape>
+	    <String CONTENT="Caeciliernes Villa ved den Appiske Vej."
+                    HPOS="216"
+                    VPOS="253"
+                    WIDTH="1184"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="221 496 954 502" 
+                    HPOS="219"
+                    VPOS="455"
+                    WIDTH="734"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="220 495 219 517 266 519 281 530 282 530 283 530 285 530 336 519 365 533 367 533 566 534 567 534 569 534 598 526 632 534 633 534 635 534 636 534 637 534 653 524 723 529 724 529 725 529 748 523 797 535 799 535 800 535 865 524 866 524 927 533 928 533 930 533 952 524 953 501 950 458 829 473 796 459 789 457 788 457 739 457 737 457 736 457 729 461 717 467 703 461 693 457 692 457 691 457 690 457 689 457 684 461 670 470 642 468 635 462 627 456 626 456 625 456 603 456 602 456 600 456 599 456 592 462 582 470 526 463 520 463 518 463 517 463 516 463 505 469 496 464 487 457 485 457 484 457 483 457 461 461 455 456 455 455 454 455 452 455 432 455 430 455 429 455 428 455 416 464 413 467 408 464 384 456 383 456 381 456 380 456 358 466 352 468 319 466 252 462 250 462 220 467 220 495"/></Shape>
+	    <String CONTENT="Se: Andrae, Poul [Georg]"
+                    HPOS="219"
+                    VPOS="455"
+                    WIDTH="734"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1322 394 1908 399" 
+                    HPOS="1320"
+                    VPOS="352"
+                    WIDTH="587"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1321 393 1320 413 1357 424 1358 424 1359 424 1456 415 1474 425 1475 425 1477 425 1584 419 1609 425 1610 425 1611 425 1612 425 1638 418 1698 426 1699 426 1701 426 1702 426 1702 425 1709 418 1745 418 1765 428 1767 428 1768 429 1857 429 1857 428 1906 418 1907 398 1907 369 1856 363 1849 355 1849 354 1847 354 1846 354 1845 354 1753 362 1742 354 1741 354 1740 354 1739 354 1737 354 1736 354 1729 360 1719 353 1718 353 1716 353 1715 353 1714 353 1713 353 1691 367 1690 367 1663 359 1661 359 1660 359 1659 359 1658 359 1648 367 1647 367 1615 352 1614 352 1612 352 1611 352 1571 365 1570 367 1545 367 1544 365 1528 352 1527 352 1526 352 1524 352 1473 354 1472 354 1452 364 1362 354 1360 354 1359 354 1358 354 1344 364 1343 364 1321 364 1321 393"/></Shape>
+	    <String CONTENT="8:o København 1925."
+                    HPOS="1320"
+                    VPOS="352"
+                    WIDTH="587"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="345 595 1550 603" 
+                    HPOS="342"
+                    VPOS="560"
+                    WIDTH="1207"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="343 594 342 616 381 625 383 625 480 619 490 625 491 625 493 625 494 625 604 620 605 620 607 620 663 626 664 626 665 626 689 620 692 620 698 620 745 627 746 627 888 622 934 621 948 622 981 628 982 630 1548 630 1549 601 1546 573 1529 574 1526 572 1516 566 1515 566 1513 566 1406 566 1404 566 1370 571 1348 574 1307 574 1300 571 1288 565 1287 565 1204 565 1202 565 1176 570 1157 573 1138 570 1109 563 1108 563 1030 568 988 571 971 568 941 562 939 562 910 567 890 571 877 567 861 562 860 562 859 562 857 562 841 567 827 571 805 567 782 562 780 562 779 562 766 566 752 571 741 566 735 563 734 563 733 563 731 563 724 566 714 571 603 571 588 565 576 561 575 561 494 560 493 560 491 560 477 563 461 568 343 563 343 594"/></Shape>
+	    <String CONTENT="Tre Villaer ved den Appiske Vej ... 1925."
+                    HPOS="342"
+                    VPOS="560"
+                    WIDTH="1207"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1440 705 1671 702" 
+                    HPOS="1437"
+                    VPOS="648"
+                    WIDTH="233"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1439 704 1439 732 1488 732 1488 731 1489 731 1490 731 1494 727 1497 725 1506 726 1530 730 1532 730 1533 730 1534 730 1543 724 1548 720 1556 722 1578 729 1579 729 1581 729 1582 729 1599 719 1606 715 1617 718 1632 720 1633 720 1670 713 1670 700 1668 652 1650 648 1649 648 1648 648 1647 648 1641 654 1623 669 1606 656 1595 649 1594 649 1593 649 1546 649 1545 649 1544 649 1511 661 1500 653 1499 653 1497 653 1496 653 1495 653 1494 653 1474 670 1471 672 1437 672 1439 704"/></Shape>
+	    <String CONTENT="{Arkeol."
+                    HPOS="1437"
+                    VPOS="648"
+                    WIDTH="233"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1460 775 1639 772" 
+                    HPOS="1458"
+                    VPOS="730"
+                    WIDTH="180"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1459 774 1459 782 1478 782 1495 793 1496 793 1497 793 1499 795 1499 793 1500 793 1501 793 1510 787 1540 793 1541 793 1610 792 1611 792 1638 779 1638 771 1637 746 1627 736 1627 735 1626 735 1625 735 1623 735 1581 743 1555 730 1554 730 1553 730 1551 730 1550 730 1550 731 1543 737 1505 731 1504 731 1502 731 1501 731 1501 732 1485 748 1458 748 1459 774"/></Shape>
+	    <String CONTENT="Klass."
+                    HPOS="1458"
+                    VPOS="730"
+                    WIDTH="180"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1424 861 1652 851" 
+                    HPOS="1420"
+                    VPOS="802"
+                    WIDTH="230"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="1423 860 1424 907 1471 907 1472 907 1473 907 1475 905 1491 891 1538 882 1578 882 1598 895 1604 900 1605 900 1606 900 1608 900 1609 900 1626 893 1639 888 1648 891 1650 850 1647 829 1555 834 1548 830 1502 802 1501 802 1500 802 1499 802 1459 804 1458 804 1457 804 1420 829 1423 860"/></Shape>
+	    <String CONTENT="[Rom]"
+                    HPOS="1420"
+                    VPOS="802"
+                    WIDTH="230"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="2031 79 2281 72" 
+                    HPOS="2029"
+                    VPOS="23"
+                    WIDTH="250"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="2030 78 2030 102 2076 96 2095 99 2109 101 2111 101 2112 101 2113 101 2118 97 2128 90 2136 96 2142 100 2144 100 2145 100 2146 100 2147 100 2148 100 2157 94 2162 91 2177 92 2221 97 2222 97 2223 97 2224 97 2240 88 2246 85 2278 85 2279 70 2277 24 2248 23 2246 23 2245 23 2244 23 2244 24 2240 28 2226 44 2213 44 2195 33 2184 25 2183 25 2182 25 2158 25 2157 25 2156 25 2155 25 2136 39 2117 26 2115 26 2114 26 2113 26 2112 26 2111 26 2081 46 2073 51 2029 51 2030 78"/></Shape>
+	    <String CONTENT="Arkeol"
+                    HPOS="2029"
+                    VPOS="23"
+                    WIDTH="250"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="1991 152 2265 149" 
+                    HPOS="1988"
+                    VPOS="107"
+                    WIDTH="276"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1989 151 1989 187 2005 194 2007 194 2008 195 2063 195 2063 194 2064 194 2065 194 2081 184 2085 182 2087 184 2096 192 2097 192 2098 192 2100 192 2101 192 2115 184 2120 182 2125 184 2139 189 2140 189 2141 189 2142 189 2162 183 2178 179 2261 182 2264 148 2257 107 2235 127 2199 114 2197 114 2196 114 2195 114 2172 122 2163 116 2156 110 2155 110 2153 110 2082 110 2081 110 2080 110 2079 110 2059 124 2051 130 2018 130 2015 128 2010 123 2010 122 2009 122 2008 122 2007 122 2005 122 1988 128 1989 151"/></Shape>
+	    <String CONTENT="Klass."
+                    HPOS="1988"
+                    VPOS="107"
+                    WIDTH="276"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

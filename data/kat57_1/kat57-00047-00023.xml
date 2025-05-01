@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00023.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1468"
+          PHYSICAL_IMG_NR="5"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1468">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1466"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1467 2323 1467 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="287 184 973 189" 
+                    HPOS="285"
+                    VPOS="148"
+                    WIDTH="687"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="286 183 285 199 352 209 353 209 469 204 559 210 560 210 561 210 575 205 578 204 583 205 594 210 595 210 597 210 598 210 613 206 625 203 629 206 630 209 631 209 631 210 632 210 633 210 635 210 693 207 778 204 791 210 799 212 800 212 801 214 971 214 972 188 971 161 892 162 887 160 867 151 866 151 780 150 779 150 778 150 777 150 763 160 762 161 757 160 737 154 736 154 735 154 621 160 599 160 591 159 518 149 517 149 468 159 457 149 457 148 456 148 455 148 454 148 452 148 451 148 433 159 432 159 416 159 402 159 383 148 381 148 380 148 379 148 356 159 354 159 351 159 314 152 313 152 286 157 286 183"/></Shape>
+	    <String CONTENT="ANDERSSON, Walter [Hjalmar]"
+                    HPOS="285"
+                    VPOS="148"
+                    WIDTH="687"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="299 222 968 225" 
+                    HPOS="297"
+                    VPOS="204"
+                    WIDTH="669"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="298 221 297 236 323 244 324 244 325 244 518 239 586 238 620 240 670 245 671 247 965 247 966 223 965 206 298 204 298 221"/></Shape>
+	    <String CONTENT="Researches into the theory of regression."
+                    HPOS="297"
+                    VPOS="204"
+                    WIDTH="669"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="248 259 969 259" 
+                    HPOS="247"
+                    VPOS="234"
+                    WIDTH="721"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="247 258 247 271 335 281 336 281 337 281 338 281 351 274 356 274 414 280 416 280 455 275 480 272 487 276 496 283 498 283 499 283 500 283 501 283 526 276 543 272 569 272 575 277 580 281 580 282 581 282 582 282 677 283 679 283 680 283 681 283 686 280 695 274 702 280 707 283 708 283 709 283 711 285 772 285 772 283 773 283 774 283 774 282 777 281 785 272 797 272 807 281 808 282 808 283 810 283 811 283 812 285 968 285 968 258 968 242 774 242 758 234 757 234 756 234 755 234 737 242 630 242 624 236 624 234 622 234 621 234 577 234 576 234 531 240 489 234 488 234 451 240 441 234 440 234 439 234 368 234 367 234 365 234 354 240 350 236 350 234 348 234 347 234 263 234 261 234 260 234 247 240 247 258"/></Shape>
+	    <String CONTENT="Lund 1932. 4:o. 199 s., 8 pl. (From the"
+                    HPOS="247"
+                    VPOS="234"
+                    WIDTH="721"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="246 292 966 297" 
+                    HPOS="244"
+                    VPOS="274"
+                    WIDTH="721"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="245 291 244 308 296 315 297 316 964 316 965 296 964 275 245 274 245 291"/></Shape>
+	    <String CONTENT="statistical institution at the university of Lund."
+                    HPOS="244"
+                    VPOS="274"
+                    WIDTH="721"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="257 329 958 334" 
+                    HPOS="255"
+                    VPOS="309"
+                    WIDTH="702"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="256 327 255 342 308 349 954 352 957 333 955 309 256 309 256 327"/></Shape>
+	    <String CONTENT="- Lunds universitets årsskrift. N. F. Avd. 2"
+                    HPOS="255"
+                    VPOS="309"
+                    WIDTH="702"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="248 364 966 367" 
+                    HPOS="245"
+                    VPOS="346"
+                    WIDTH="720"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="247 363 245 376 288 387 290 389 362 389 362 387 363 387 364 387 375 379 376 379 384 380 440 386 441 386 443 386 455 381 458 379 463 381 473 386 474 386 476 386 527 382 558 380 573 382 600 389 730 390 731 390 750 386 773 381 779 387 782 389 782 390 783 390 784 390 785 391 839 391 839 390 840 390 845 389 862 381 882 389 886 390 887 390 888 391 964 391 965 367 964 349 247 346 247 363"/></Shape>
+	    <String CONTENT="Bd 28. Nr 1.  Meddelande från Lunds"
+                    HPOS="245"
+                    VPOS="346"
+                    WIDTH="720"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="246 400 968 405" 
+                    HPOS="244"
+                    VPOS="381"
+                    WIDTH="722"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="245 398 244 418 293 428 294 428 370 420 378 420 380 420 396 426 397 426 398 426 534 423 577 423 580 424 587 430 588 430 589 430 591 431 691 431 691 430 692 430 693 430 693 429 697 426 698 425 701 426 708 431 709 431 711 431 712 431 713 431 714 431 722 426 726 424 739 426 757 431 758 431 759 431 761 431 777 428 785 425 789 428 793 431 794 431 795 431 796 431 812 428 827 425 844 429 862 433 864 433 965 430 966 404 966 384 245 381 245 398"/></Shape>
+	    <String CONTENT="astronomiska observatorium. Ser. II. Nr 64.)"
+                    HPOS="244"
+                    VPOS="381"
+                    WIDTH="722"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="300 436 593 436" 
+                    HPOS="299"
+                    VPOS="418"
+                    WIDTH="293"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="299 435 299 479 592 473 592 435 591 418 299 418 299 435"/></Shape>
+	    <String CONTENT="Diss. Lund. phil."
+                    HPOS="299"
+                    VPOS="418"
+                    WIDTH="293"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1945 87 2029 83" 
+                    HPOS="1940"
+                    VPOS="35"
+                    WIDTH="89"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="1944 86 1945 119 1959 127 1960 127 1961 127 2002 124 2003 124 2029 112 2027 81 2024 37 1960 35 1959 35 1958 35 1940 41 1944 86"/></Shape>
+	    <String CONTENT="Fol."
+                    HPOS="1940"
+                    VPOS="35"
+                    WIDTH="89"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="2110 61 2278 61" 
+                    HPOS="2109"
+                    VPOS="13"
+                    WIDTH="168"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="2109 59 2109 81 2131 90 2133 90 2134 90 2167 83 2189 96 2190 96 2191 96 2193 96 2277 81 2277 59 2276 35 2200 36 2190 26 2175 14 2175 13 2174 13 2173 13 2172 13 2109 19 2109 59"/></Shape>
+	    <String CONTENT="Statist."
+                    HPOS="2109"
+                    VPOS="13"
+                    WIDTH="168"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="2104 126 2255 130" 
+                    HPOS="2102"
+                    VPOS="90"
+                    WIDTH="152"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="2103 124 2102 163 2177 161 2250 168 2254 129 2254 106 2178 90 2177 90 2175 90 2147 101 2144 102 2103 100 2103 124"/></Shape>
+	    <String CONTENT="Allm"
+                    HPOS="2102"
+                    VPOS="90"
+                    WIDTH="152"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

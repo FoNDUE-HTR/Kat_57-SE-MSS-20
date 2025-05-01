@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00200.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1488"
+          PHYSICAL_IMG_NR="35"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1488">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1486"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1487 2327 1487 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="184 201 960 198" 
+                    HPOS="182"
+                    VPOS="152"
+                    WIDTH="777"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="183 200 183 214 259 214 261 215 269 221 269 223 270 223 271 223 272 223 300 217 310 214 321 217 369 233 370 233 372 233 434 228 435 228 448 220 455 217 461 220 475 230 476 230 477 230 478 231 502 231 502 230 503 230 519 221 538 213 579 213 591 224 595 226 595 228 596 228 597 228 599 228 600 228 606 224 622 215 633 225 635 225 636 225 637 225 638 225 639 225 659 215 679 226 692 233 693 233 694 233 695 233 708 226 713 225 733 228 782 234 783 234 785 234 786 234 792 229 807 219 823 226 824 226 826 226 827 226 845 221 860 230 864 234 865 234 866 234 868 234 959 233 959 197 957 178 879 177 852 152 850 152 849 152 787 152 786 152 785 152 752 169 714 159 713 159 711 159 710 159 709 159 695 169 639 153 638 153 637 153 636 153 635 153 602 176 596 179 525 179 517 174 507 171 506 171 504 171 479 174 455 178 446 174 429 166 427 166 426 166 388 174 362 179 353 173 327 155 326 155 324 155 264 155 262 155 261 155 219 173 217 173 215 173 192 164 191 164 189 164 188 164 187 164 182 167 183 200"/></Shape>
+	    <String CONTENT="Andræ Poul [Georg]"
+                    HPOS="182"
+                    VPOS="152"
+                    WIDTH="777"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2039 79 2276 82" 
+                    HPOS="2036"
+                    VPOS="16"
+                    WIDTH="239"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="2037 78 2036 94 2117 105 2118 106 2156 106 2156 105 2158 105 2159 105 2169 97 2170 97 2181 105 2182 105 2184 105 2185 105 2274 100 2275 81 2275 49 2218 49 2217 48 2189 22 2189 21 2187 21 2186 21 2185 21 2135 26 2119 16 2118 16 2117 16 2091 16 2089 16 2088 16 2037 42 2037 78"/></Shape>
+	    <String CONTENT="Statsv."
+                    HPOS="2036"
+                    VPOS="16"
+                    WIDTH="239"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2065 153 2315 156" 
+                    HPOS="2062"
+                    VPOS="104"
+                    WIDTH="252"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="2063 152 2062 177 2070 183 2071 183 2072 183 2073 183 2180 179 2277 176 2310 184 2314 155 2311 116 2287 125 2279 117 2275 114 2275 112 2274 112 2273 112 2257 111 2256 111 2254 111 2253 111 2253 112 2247 117 2238 126 2210 126 2203 119 2190 105 2190 104 2189 104 2187 104 2186 104 2185 104 2156 114 2146 105 2146 104 2145 104 2144 104 2101 104 2099 104 2098 104 2063 121 2063 152"/></Shape>
+	    <String CONTENT="Valmetod"
+                    HPOS="2062"
+                    VPOS="104"
+                    WIDTH="252"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="189 281 1118 293 2257 288" 
+                    HPOS="187"
+                    VPOS="229"
+                    WIDTH="2069"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="188 280 187 302 383 306 476 328 477 329 618 329 618 328 705 311 770 312 817 328 818 328 966 329 967 329 968 329 1002 319 1199 319 1199 318 1200 318 1236 306 1268 316 1270 316 1271 316 1350 307 1494 317 1495 317 1660 308 1802 332 1803 333 1861 333 1861 332 1862 332 1948 308 2084 318 2086 318 2254 307 2256 287 2254 246 2202 239 2201 239 2175 245 2104 264 1900 267 1756 241 1745 240 1743 240 1736 241 1633 265 1568 252 1567 252 1492 254 1423 266 1296 238 1282 235 1281 235 1279 235 1271 238 1174 266 966 266 886 248 885 248 813 265 737 265 663 238 662 238 620 231 600 230 188 229 188 280"/></Shape>
+	    <String CONTENT="Andræ og hans Opfindelse Forholdstals Valgmaaden. En"
+                    HPOS="187"
+                    VPOS="229"
+                    WIDTH="2069"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="198 374 2281 378" 
+                    HPOS="195"
+                    VPOS="336"
+                    WIDTH="2085"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="197 373 195 391 293 404 295 404 463 400 519 409 520 409 522 409 554 399 605 416 606 416 607 416 698 395 728 401 729 401 730 401 752 394 754 394 777 394 1017 401 1060 417 1061 417 1062 419 1265 419 1265 417 1266 417 1320 399 1368 398 1464 404 1466 404 1535 399 1588 419 1590 419 1591 420 1776 420 1776 419 1907 398 1922 396 2098 396 2114 399 2143 404 2144 404 2145 404 2160 399 2169 396 2278 399 2280 376 2279 358 2231 345 2230 345 2130 352 2081 343 2079 343 2078 343 2039 354 1953 339 1779 339 1778 339 1777 339 1737 352 1719 358 1658 358 1635 350 1611 343 1609 343 1608 343 1607 343 1583 350 1562 357 1488 357 1463 349 1447 344 1446 344 1444 344 1443 344 1430 348 1406 355 1314 347 1293 345 1292 345 1284 347 1243 357 987 357 953 344 952 344 951 344 950 344 921 352 894 343 878 337 876 337 875 337 850 342 812 350 731 341 695 337 694 337 670 341 595 352 543 342 542 342 486 355 379 355 308 337 307 337 197 336 197 373"/></Shape>
+	    <String CONTENT="mindesskrift i Anledning af 50 Aars-Dagen for Forholdstals-"
+                    HPOS="195"
+                    VPOS="336"
+                    WIDTH="2085"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="211 460 1036 468" 
+                    HPOS="209"
+                    VPOS="422"
+                    WIDTH="826"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="210 458 209 482 251 500 253 500 341 502 342 502 343 502 344 502 358 491 363 496 364 496 365 496 367 496 425 487 439 484 441 487 445 489 445 491 446 491 447 491 448 491 509 491 532 503 533 503 534 503 535 504 571 504 571 503 573 503 602 491 605 491 607 491 642 502 643 502 644 502 646 502 668 493 679 488 688 493 704 502 705 502 706 502 708 502 728 494 746 487 767 496 797 507 798 507 799 507 839 497 876 488 1004 488 1031 502 1035 467 1035 448 978 443 968 435 968 434 967 434 966 434 964 434 963 434 936 445 932 447 897 447 891 443 865 430 864 430 818 430 817 430 816 430 785 440 781 441 777 440 755 429 754 429 695 429 694 429 693 429 692 429 680 436 674 441 631 445 579 445 559 435 558 435 556 435 555 435 554 435 543 442 383 442 336 426 328 424 327 424 326 424 324 424 321 425 305 434 280 424 279 424 277 424 210 422 210 458"/></Shape>
+	    <String CONTENT="Valgmaadens Indførelse."
+                    HPOS="209"
+                    VPOS="422"
+                    WIDTH="826"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1241 541 2209 546" 
+                    HPOS="1239"
+                    VPOS="503"
+                    WIDTH="969"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1240 540 1239 570 1284 565 1310 572 1325 576 1327 576 1328 577 1399 577 1399 576 1400 576 1408 572 1416 569 1422 572 1428 576 1430 576 1431 576 1520 577 1521 577 1523 577 1531 572 1542 567 1603 567 1617 574 1624 576 1626 576 1627 576 1652 574 1707 566 1752 566 1766 574 1773 577 1774 577 1776 577 1777 577 1783 574 1797 567 1861 567 1876 574 1887 579 1888 579 1890 580 1948 580 1948 579 1949 579 1950 579 1957 575 1963 571 1968 575 1972 576 1973 576 1974 576 1975 576 1979 575 1991 569 2017 575 2040 580 2041 580 2042 580 2043 580 2051 575 2055 572 2066 575 2081 579 2082 579 2083 579 2104 575 2141 569 2206 575 2208 545 2207 508 2088 508 2087 508 2086 508 2084 508 2057 527 2030 527 2009 515 2008 515 2006 515 2005 515 1981 525 1943 513 1942 513 1941 513 1939 513 1917 522 1887 508 1886 508 1885 508 1883 508 1831 525 1784 525 1723 505 1722 505 1721 505 1720 505 1676 524 1556 524 1541 517 1540 517 1539 517 1484 523 1427 513 1426 513 1425 513 1400 522 1359 504 1358 504 1356 504 1302 512 1240 503 1240 540"/></Shape>
+	    <String CONTENT="8º Kjøbenhavn, Kristiania 1905."
+                    HPOS="1239"
+                    VPOS="503"
+                    WIDTH="969"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

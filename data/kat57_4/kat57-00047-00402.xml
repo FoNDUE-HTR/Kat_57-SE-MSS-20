@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00402.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="32"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2319 1477 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="210 152 857 155" 
+                    HPOS="208"
+                    VPOS="105"
+                    WIDTH="648"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="209 151 208 181 224 193 225 193 226 193 227 193 436 192 437 192 438 192 453 181 469 171 606 171 618 183 624 189 624 190 625 190 627 190 628 190 629 190 630 190 638 184 640 182 648 184 661 188 662 188 664 188 665 188 676 184 707 173 720 182 721 182 723 182 724 182 725 182 726 182 741 172 804 172 832 187 835 188 836 188 837 188 855 187 856 153 856 113 834 107 832 107 831 107 830 107 829 107 821 113 804 125 784 115 783 115 782 115 781 115 761 126 708 126 699 119 698 119 697 119 696 119 664 125 645 114 630 107 629 107 628 107 627 107 625 107 616 115 603 126 555 126 526 115 519 114 518 114 517 114 503 117 462 124 452 117 438 105 437 105 436 105 227 105 226 105 225 105 224 105 209 115 209 151"/></Shape>
+	    <String CONTENT="ANDREAS, Th. [pseud.]"
+                    HPOS="208"
+                    VPOS="105"
+                    WIDTH="648"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="211 252 1367 249" 
+                    HPOS="209"
+                    VPOS="205"
+                    WIDTH="1157"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="210 251 213 311 235 299 447 299 475 301 484 307 502 320 503 320 505 320 506 320 507 320 508 320 529 307 532 305 555 305 559 306 567 311 569 311 570 311 618 307 677 326 678 326 680 326 878 325 879 325 932 306 1010 307 1049 323 1050 323 1135 325 1137 325 1138 325 1179 312 1259 325 1260 325 1261 325 1319 296 1366 295 1366 248 1361 213 1328 222 1187 222 1155 214 1150 214 1149 214 1148 214 1147 215 1132 222 967 222 952 216 936 211 935 211 933 211 845 218 839 218 837 218 789 205 788 205 787 205 754 213 735 208 734 208 733 208 731 208 704 219 698 221 692 219 650 206 649 206 648 206 646 206 645 206 625 220 622 220 593 222 590 220 567 206 566 206 565 206 354 206 353 206 352 206 321 222 278 213 277 213 209 224 210 251"/></Shape>
+	    <String CONTENT="Se: WALLBECK-HALLGREN, Thorgny Andreas"
+                    HPOS="209"
+                    VPOS="205"
+                    WIDTH="1157"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

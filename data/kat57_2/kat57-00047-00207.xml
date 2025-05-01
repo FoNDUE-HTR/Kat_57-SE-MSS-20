@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00047-00207.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="39"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2311 1471 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="81 75 308 75" 
+                    HPOS="80"
+                    VPOS="12"
+                    WIDTH="226"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="80 74 80 104 141 112 142 112 143 112 164 104 166 104 168 104 188 112 190 112 191 112 192 112 209 106 217 112 218 112 219 112 220 114 274 114 274 112 276 112 277 112 277 111 284 104 285 104 305 104 306 74 305 33 185 41 154 18 152 15 150 15 149 15 80 12 80 74"/></Shape>
+	    <String CONTENT="[Læssøe"
+                    HPOS="80"
+                    VPOS="12"
+                    WIDTH="226"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="243 185 899 174" 
+                    HPOS="241"
+                    VPOS="117"
+                    WIDTH="657"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="242 184 242 198 285 207 287 207 456 206 457 206 458 206 458 204 468 195 500 195 565 195 596 204 597 204 598 204 600 204 601 204 608 198 657 203 658 203 660 203 689 196 726 204 727 204 728 204 769 190 780 199 781 199 782 199 823 203 824 203 866 202 867 202 868 202 868 201 882 187 898 186 898 172 894 145 825 145 786 117 785 117 784 117 782 117 714 130 712 130 711 130 692 145 603 121 602 121 548 121 547 121 546 121 544 121 510 152 509 152 508 152 474 144 473 144 435 152 402 131 401 131 400 131 317 125 316 125 315 125 314 125 278 155 277 157 241 157 242 184"/></Shape>
+	    <String CONTENT="Andræ, Poul [Georg]"
+                    HPOS="241"
+                    VPOS="117"
+                    WIDTH="657"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2087 51 2234 51" 
+                    HPOS="2086"
+                    VPOS="8"
+                    WIDTH="147"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="2086 50 2086 72 2146 83 2147 83 2148 83 2150 83 2158 77 2170 88 2170 89 2172 89 2173 89 2174 90 2206 90 2206 89 2207 89 2208 89 2233 73 2233 50 2233 15 2086 8 2086 50"/></Shape>
+	    <String CONTENT="Biogr"
+                    HPOS="2086"
+                    VPOS="8"
+                    WIDTH="147"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2102 115 2215 115" 
+                    HPOS="2100"
+                    VPOS="73"
+                    WIDTH="113"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="2100 114 2100 131 2212 136 2213 114 2213 93 2184 93 2179 89 2147 73 2146 73 2145 73 2100 83 2100 114"/></Shape>
+	    <String CONTENT="Dan"
+                    HPOS="2100"
+                    VPOS="73"
+                    WIDTH="113"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="257 278 2292 278" 
+                    HPOS="256"
+                    VPOS="225"
+                    WIDTH="2035"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="256 277 256 302 390 299 406 304 412 305 413 305 414 305 427 304 499 291 553 291 591 304 592 304 593 304 595 304 603 304 706 298 855 304 909 306 910 306 911 306 917 304 937 298 955 302 957 302 958 302 1197 294 1227 302 1228 302 1229 302 1230 302 1256 295 1302 300 1303 300 1374 291 1510 305 1546 309 1547 309 1548 309 1559 305 1608 291 1682 291 1745 306 1759 309 1760 310 1937 310 1937 309 1959 306 2070 291 2289 306 2291 277 2291 239 2256 231 2255 231 2177 237 2154 239 2135 237 2035 226 2034 226 1991 236 1957 245 1870 245 1839 235 1817 229 1816 229 1724 225 1722 225 1721 225 1695 234 1668 245 1605 245 1554 236 1553 236 1552 236 1536 241 1511 233 1488 225 1487 225 1378 225 1376 225 1375 225 1348 231 1302 245 1141 245 1097 230 1081 225 1079 225 968 225 967 225 919 229 834 236 720 230 719 230 717 230 668 245 622 245 566 226 565 226 564 226 563 226 562 226 560 226 509 245 418 245 337 226 256 225 256 277"/></Shape>
+	    <String CONTENT="Werner Hans Fredrik Abrahamsson Læssøe. Bidrag til Charak-"
+                    HPOS="256"
+                    VPOS="225"
+                    WIDTH="2035"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="260 367 2233 367" 
+                    HPOS="258"
+                    VPOS="322"
+                    WIDTH="1974"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="258 366 258 387 414 387 422 388 472 402 473 402 474 402 508 396 602 402 603 402 604 402 643 390 656 385 763 385 792 391 822 397 823 397 892 391 957 386 1000 392 1068 402 1070 403 1162 403 1162 402 1163 402 1189 393 1214 385 1263 391 1265 391 1375 387 1395 394 1396 394 1397 394 1398 394 1408 394 1514 385 1671 385 1707 396 1725 402 1726 402 1727 403 1997 403 1997 402 1999 402 2011 397 2044 385 2096 385 2229 398 2232 366 2231 344 2099 322 2040 322 2039 322 2038 322 1974 343 1973 344 1797 344 1795 343 1732 322 1731 322 1705 322 1704 322 1703 322 1648 342 1644 344 1594 344 1589 342 1538 328 1537 328 1536 328 1535 328 1498 342 1493 344 1333 344 1327 342 1268 322 1267 322 1266 322 1174 326 1173 326 1131 341 1125 344 1021 344 1008 341 926 322 754 322 753 322 752 322 704 339 671 339 566 343 557 339 509 322 508 322 506 322 380 334 320 322 319 322 317 322 258 338 258 366"/></Shape>
+	    <String CONTENT="teristisk paa Grundlag af Breve mellem ham og Andræ"
+                    HPOS="258"
+                    VPOS="322"
+                    WIDTH="1974"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="278 458 1716 458" 
+                    HPOS="277"
+                    VPOS="409"
+                    WIDTH="1438"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="277 457 277 488 402 478 457 486 465 488 466 488 476 486 526 480 598 486 623 488 624 488 634 485 695 472 744 473 774 485 782 488 784 488 785 488 828 485 829 485 832 484 861 473 926 484 930 484 931 484 935 484 980 473 1016 483 1019 484 1021 484 1022 484 1023 484 1027 483 1057 473 1191 472 1219 482 1235 488 1236 488 1238 489 1338 489 1338 488 1340 488 1353 482 1371 472 1395 480 1398 482 1400 482 1401 482 1402 482 1406 480 1429 472 1714 478 1715 457 1715 418 1626 409 1624 409 1589 417 1549 409 1548 409 1547 409 1521 419 1519 419 1516 419 1481 409 1479 409 1478 409 1477 409 1455 419 1438 428 1386 428 1370 419 1347 409 1346 409 1344 409 1343 409 1309 420 1304 421 1300 420 1277 409 1276 409 1206 409 1205 409 1203 409 1180 421 1169 428 1130 428 1120 421 1098 410 1097 410 1065 409 1063 409 1062 409 1035 421 1025 428 866 428 859 423 852 420 851 420 850 420 798 423 747 409 746 409 744 409 655 420 620 409 619 409 618 409 617 409 573 425 568 426 549 425 436 415 435 415 434 415 413 426 412 428 341 428 341 426 319 417 317 417 316 417 315 417 277 426 277 457"/></Shape>
+	    <String CONTENT="fra 1840 till Læssøes Fald i Slaget ved Isted"
+                    HPOS="277"
+                    VPOS="409"
+                    WIDTH="1438"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1269 539 1953 546" 
+                    HPOS="1267"
+                    VPOS="496"
+                    WIDTH="685"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="1268 538 1267 567 1287 578 1288 578 1289 578 1435 581 1437 581 1438 581 1460 570 1481 559 1503 559 1514 570 1514 571 1515 571 1516 571 1518 571 1519 571 1520 571 1530 565 1541 571 1551 576 1552 576 1553 576 1578 572 1585 570 1586 570 1587 570 1587 569 1597 560 1682 571 1683 571 1684 571 1686 571 1699 563 1722 571 1724 571 1725 571 1726 571 1727 571 1742 563 1800 563 1824 577 1833 583 1834 583 1835 583 1837 583 1838 583 1839 583 1846 578 1861 567 1949 580 1952 545 1951 522 1936 522 1936 521 1919 505 1919 504 1918 504 1916 504 1915 504 1914 504 1882 515 1849 504 1848 504 1846 504 1845 504 1844 504 1817 520 1816 521 1725 521 1722 518 1702 509 1700 509 1699 509 1698 509 1697 509 1691 515 1667 501 1666 501 1665 501 1664 501 1649 509 1630 500 1629 500 1628 500 1627 500 1596 517 1594 518 1547 518 1545 516 1524 500 1522 500 1521 500 1520 500 1519 500 1518 500 1503 510 1484 498 1483 498 1482 498 1407 498 1406 498 1405 498 1403 498 1384 515 1383 516 1376 515 1315 496 1314 496 1313 496 1311 496 1310 496 1297 509 1268 512 1268 538"/></Shape>
+	    <String CONTENT="8º Kjøbenhavn 1912."
+                    HPOS="1267"
+                    VPOS="496"
+                    WIDTH="685"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

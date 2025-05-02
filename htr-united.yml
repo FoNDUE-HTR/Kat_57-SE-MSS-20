@@ -7,123 +7,157 @@ automatically-aligned: false
 characters:
   members:
   - e
-  - a
-  - s
   - r
-  - t
   - n
-  - u
+  - a
   - i
+  - .
+  - t
+  - s
   - o
   - l
   - d
+  - u
+  - h
+  - g
   - c
   - m
-  - p
-  - v
-  - ́
-  - .
-  - ','
-  - q
-  - h
-  - f
-  - g
-  - b
-  - "'"
-  - y
-  - L
-  - M
-  - C
-  - S
-  - x
-  - j
-  - E
   - '1'
-  - z
-  - ̀
-  - I
-  - ’
-  - ̂
-  - '2'
-  - J
-  - +
-  - D
-  - V
-  - ¬
-  - ʳ
-  - ^
-  - P
-  - ':'
-  - '4'
-  - '3'
-  - X
-  - R
-  - '7'
-  - A
-  - ̈
-  - B
-  - '6'
-  - ;
-  - '5'
-  - T
-  - G
-  - '9'
-  - ᵉ
-  - '0'
-  - '8'
-  - N
-  - —
-  - ̧
-  - O
-  - F
-  - '-'
-  - ᵗ
-  - '?'
-  - ᵈ
-  - Q
   - k
-  - H
-  - ⟦
-  - ⟧
+  - S
+  - f
+  - v
+  - ̈
+  - A
+  - '9'
+  - b
+  - p
+  - ','
+  - '8'
+  - B
+  - E
+  - ':'
+  - '-'
   - '['
+  - N
+  - R
+  - T
   - ']'
-  - œ
-  - ˢ
-  - ˡ
-  - ᵇ
-  - Z
-  -  
-  - W
-  - α
-  - w
-  - U
-  - ̃
-  - (
-  - )
-  - ̓
-  - ο
-  - ν
-  - '&'
+  - y
+  - '5'
+  - '2'
+  - M
+  - '4'
+  - L
+  - I
+  - H
+  - F
+  - O
+  - '3'
+  - G
+  - D
+  - P
   - K
-  - ⁱ
-  - μ
-  - ω
+  - U
+  - V
+  - '6'
+  - '7'
+  - '0'
+  - C
+  - z
+  - J
+  - ̊
+  - w
+  - W
+  - ́
+  - j
+  - )
+  - (
+  - º
+  - x
+  - /
+  - q
+  - Y
+  - æ
+  - Z
+  - ᵒ
+  - '&'
+  - ̀
+  - "'"
+  - ø
+  - '"'
+  - '{'
+  - ´
+  - '|'
+  - X
+  - ̄
+  - ̌
+  - ̧
+  - ;
+  - '?'
+  - ̂
+  - Ø
+  - α
+  - '!'
+  - '='
+  - ο
+  - ι
+  - Q
+  - '}'
+  - υ
+  - '*'
+  - ν
+  - κ
+  - ε
   - τ
   - δ
-  - ε
-  - °
-  - Y
-  - ̄
   - ρ
-  - φ
-  - '{'
-  - Ψ
-  - ι
-  - υ
   - π
+  - +
+  - ̨
+  - ς
+  - μ
+  - η
+  - ͂
+  - Æ
+  - Α
+  - ̓
+  - ᵉ
+  - ̇
+  - Ł
+  - ð
+  - Κ
+  - σ
+  - _
+  - —
+  - ß
+  - ¨
+  - ł
+  - ̔
+  - χ
+  - θ
+  - ᑕ
+  - ª
+  - ̃
+  - ᵈ
+  - ı
+  - þ
+  - Þ
+  - œ
+  - „
+  - '>'
+  - ʼ
+  - Ε
+  - Γ
+  - Χ
+  - ζ
+  - Φ
   - λ
-  - $
-  - /
+  - Τ
+  - ʽ
+  - γ
+  - ω
+  - ˢ
   mode: NFD
 citation-file-link: https://github.com/FoNDUE-HTR/Kat_57-SE-MSS-20/blob/master/CITATION.cff
 description: Swedish Library cards of the 20th
@@ -151,11 +185,11 @@ title: Kat_57-SE-MSS-20
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/Kat_57-SE-MSS-20
 volume:
-- count: 232519
+- count: 253507
   metric: characters
-- count: 228
+- count: 1496
   metric: files
-- count: 6446
+- count: 12830
   metric: lines
-- count: 709
+- count: 1496
   metric: regions

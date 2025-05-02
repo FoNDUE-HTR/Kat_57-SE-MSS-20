@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01411-00090.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1470"
+          PHYSICAL_IMG_NR="49"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1470">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1468"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1469 2311 1469 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="176 52 556 49" 
+                    HPOS="173"
+                    VPOS="7"
+                    WIDTH="382"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="175 51 175 72 278 78 279 78 280 78 281 78 281 77 285 74 292 68 387 75 430 78 431 78 432 78 433 78 433 77 434 75 444 67 513 67 521 74 521 75 523 75 524 75 553 77 555 49 552 13 525 9 524 9 510 12 480 19 466 12 459 7 458 7 457 7 455 7 454 7 444 12 434 15 421 11 406 7 405 7 404 7 403 7 401 7 395 11 381 20 287 20 273 9 272 8 270 8 269 8 268 8 267 8 263 9 237 20 225 9 224 8 222 8 221 8 220 8 173 8 175 51"/></Shape>
+	    <String CONTENT="Schweitzer, A."
+                    HPOS="173"
+                    VPOS="7"
+                    WIDTH="382"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="173 223 583 223" 
+                    HPOS="172"
+                    VPOS="183"
+                    WIDTH="409"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="172 222 172 256 385 262 387 262 411 258 412 258 414 258 414 257 419 253 425 247 580 251 581 222 580 193 394 197 387 193 382 188 381 188 379 188 378 188 330 193 322 193 321 193 301 183 300 183 197 183 196 183 194 183 172 192 172 222"/></Shape>
+	    <String CONTENT="PIERHAL, Jean"
+                    HPOS="172"
+                    VPOS="183"
+                    WIDTH="409"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2021 35 2198 35" 
+                    HPOS="2020"
+                    VPOS="3"
+                    WIDTH="176"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="2020 34 2020 52 2095 53 2097 56 2111 67 2112 67 2113 67 2114 67 2196 60 2196 34 2196 12 2161 3 2160 3 2098 11 2046 3 2044 3 2043 3 2020 11 2020 34"/></Shape>
+	    <String CONTENT="Biogr."
+                    HPOS="2020"
+                    VPOS="3"
+                    WIDTH="176"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2087 102 2150 98" 
+                    HPOS="2084"
+                    VPOS="49"
+                    WIDTH="66"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="2089 150 2113 154 2114 154 2115 154 2117 154 2117 153 2128 143 2131 139 2150 138 2149 98 2144 56 2122 60 2084 49 2086 101 2089 150"/></Shape>
+	    <String CONTENT="Ty."
+                    HPOS="2084"
+                    VPOS="49"
+                    WIDTH="66"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="167 323 2311 345" 
+                    HPOS="165"
+                    VPOS="264"
+                    WIDTH="2146"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="167 323 165 347 2311 369 2311 345 2311 310 2206 302 2155 280 2154 280 2152 280 2091 286 2013 271 1690 267 1688 267 1527 299 1514 301 1487 299 1427 293 1425 293 1423 293 1412 298 1403 301 1207 299 1199 294 1183 288 1181 288 1179 288 1084 293 1023 296 1007 293 913 264 912 264 910 264 809 269 808 269 758 288 747 293 706 288 628 278 626 278 522 285 502 286 495 285 460 274 459 274 457 274 385 283 341 290 167 282 167 323"/></Shape>
+	    <String CONTENT="Albert Schweitzer. Das Leben eines guten Menschen. Mit einer Einführung"
+                    HPOS="165"
+                    VPOS="264"
+                    WIDTH="2146"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="172 420 2026 444" 
+                    HPOS="170"
+                    VPOS="382"
+                    WIDTH="1855"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="171 418 170 444 313 460 314 460 434 449 444 449 448 450 504 466 506 466 544 467 661 469 662 469 664 469 697 455 740 455 818 454 936 455 952 459 1038 474 1040 474 1105 461 1119 459 1137 463 1157 466 1159 466 1160 466 1173 463 1189 459 1231 464 1265 467 1266 467 1307 465 1366 461 1397 466 1469 480 1470 481 1535 481 1535 480 1536 480 1557 472 1798 483 1799 483 1801 483 1826 475 1834 472 1856 475 1877 477 1878 477 1879 477 1884 475 1902 469 2022 477 2025 443 2024 418 1930 405 1863 405 1862 405 1861 405 1826 414 1821 415 1808 414 1715 403 1714 403 1671 411 1668 411 1665 411 1635 403 1634 403 1633 403 1632 403 1611 410 1602 414 1563 414 1540 409 1496 400 1494 400 1444 406 1423 409 1397 405 1340 398 1339 398 1306 404 1284 407 1139 407 1108 400 1081 394 1080 394 999 395 998 395 992 398 975 404 856 396 855 396 790 401 764 394 763 394 762 394 760 394 733 401 657 401 637 393 635 393 634 393 607 398 479 388 477 388 425 396 330 387 329 387 265 395 220 383 219 383 171 382 171 418"/></Shape>
+	    <String CONTENT="von Robert Jungk und einem Epilog von Niko Kazantzakis. [Ill."
+                    HPOS="170"
+                    VPOS="382"
+                    WIDTH="1855"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1479 538 2009 542" 
+                    HPOS="1477"
+                    VPOS="503"
+                    WIDTH="531"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1478 537 1477 564 1500 573 1502 573 1503 573 1541 565 1546 565 1614 565 1622 569 1632 574 1633 574 1634 574 1635 574 1644 570 1654 565 1684 565 1694 572 1699 575 1700 575 1701 575 1703 575 1704 575 1710 573 1714 570 1717 573 1730 583 1731 583 1732 583 1733 584 1801 584 1801 583 1802 583 1815 576 1825 572 1832 578 1841 584 1842 584 1843 584 1845 585 1943 585 1943 584 1944 584 1945 584 1948 581 1972 568 2004 584 2008 541 2008 518 1986 516 1975 507 1975 505 1973 505 1972 505 1971 505 1769 515 1766 515 1755 505 1755 504 1754 504 1753 504 1752 504 1750 504 1710 515 1707 515 1706 515 1655 503 1617 503 1616 503 1614 503 1613 503 1613 504 1602 514 1578 508 1576 508 1575 508 1574 508 1551 514 1549 514 1508 503 1507 503 1505 503 1504 503 1478 513 1478 537"/></Shape>
+	    <String CONTENT="8:o München 1955."
+                    HPOS="1477"
+                    VPOS="503"
+                    WIDTH="531"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

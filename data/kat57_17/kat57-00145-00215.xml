@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00215.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="23"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2311 1471 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="155 242 480 242" 
+                    HPOS="154"
+                    VPOS="191"
+                    WIDTH="325"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="154 241 154 282 326 274 344 277 371 282 373 282 374 282 375 282 381 276 397 264 466 264 476 273 479 241 479 207 445 191 444 191 379 191 377 191 376 191 375 191 364 199 311 193 310 193 258 206 249 207 154 204 154 241"/></Shape>
+	    <String CONTENT="BERIDZE, V."
+                    HPOS="154"
+                    VPOS="191"
+                    WIDTH="325"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2041 57 2252 57" 
+                    HPOS="2040"
+                    VPOS="29"
+                    WIDTH="211"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="2040 56 2040 73 2062 74 2073 85 2073 87 2075 87 2076 87 2077 88 2100 88 2100 87 2102 87 2103 87 2103 85 2113 77 2114 76 2175 78 2175 79 2183 85 2183 87 2184 87 2185 87 2186 87 2188 87 2207 80 2212 79 2250 82 2251 56 2249 33 2232 38 2227 33 2226 33 2226 31 2224 31 2223 31 2163 29 2162 29 2161 29 2159 29 2159 30 2153 35 2151 39 2108 39 2104 36 2086 29 2084 29 2083 29 2082 29 2081 29 2069 38 2067 39 2040 39 2040 56"/></Shape>
+	    <String CONTENT="Språkv."
+                    HPOS="2040"
+                    VPOS="29"
+                    WIDTH="211"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2054 108 2265 112" 
+                    HPOS="2051"
+                    VPOS="79"
+                    WIDTH="213"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="2051 134 2121 132 2132 138 2134 138 2135 138 2136 138 2142 138 2177 133 2261 139 2264 111 2262 92 2233 84 2232 84 2211 88 2199 90 2196 87 2192 83 2191 83 2191 82 2190 82 2189 82 2188 82 2186 82 2174 85 2163 89 2114 83 2105 82 2104 82 2103 82 2086 88 2054 79 2053 107 2051 134"/></Shape>
+	    <String CONTENT="Kaukas"
+                    HPOS="2051"
+                    VPOS="79"
+                    WIDTH="213"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2051 175 2164 172" 
+                    HPOS="2049"
+                    VPOS="128"
+                    WIDTH="114"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="2050 174 2050 188 2065 196 2066 196 2067 196 2091 191 2107 187 2162 193 2163 171 2161 144 2108 139 2093 128 2092 128 2091 128 2089 128 2049 134 2050 174"/></Shape>
+	    <String CONTENT="Lex."
+                    HPOS="2049"
+                    VPOS="128"
+                    WIDTH="114"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="145 338 2164 313" 
+                    HPOS="143"
+                    VPOS="276"
+                    WIDTH="2020"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="144 337 144 366 699 355 839 356 948 358 949 358 967 354 989 350 1001 354 1008 356 1009 356 1011 356 1152 355 1153 355 1169 352 1192 344 1354 343 1411 348 1452 350 1454 350 1473 347 1494 341 1676 339 1691 343 1702 345 1703 345 1704 345 1705 345 1715 342 1725 338 1916 337 1926 339 1946 344 1947 344 1948 344 1949 344 1972 338 1981 336 2161 336 2163 312 2159 276 1956 289 1908 283 1907 283 1830 290 1779 280 1773 279 1772 279 1764 280 1725 289 1686 282 1678 280 1677 280 1670 282 1613 293 1551 287 1549 287 1487 294 1441 284 1425 282 1356 280 1354 280 1353 280 1336 287 1310 295 1230 298 1099 290 1098 290 931 301 894 294 893 294 789 298 743 294 647 285 646 285 447 288 391 299 341 309 306 300 274 291 273 291 272 291 271 291 234 301 217 305 201 301 176 295 175 295 174 295 143 301 144 337"/></Shape>
+	    <String CONTENT="Gruzinski j ( kartskij) glossari j po imerskomu i račinskomu govoram."
+                    HPOS="143"
+                    VPOS="276"
+                    WIDTH="2020"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1428 415 2108 412" 
+                    HPOS="1425"
+                    VPOS="377"
+                    WIDTH="682"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1427 414 1427 434 1462 442 1464 442 1465 442 1484 435 1522 444 1524 445 1653 445 1653 444 1654 444 1682 434 1738 442 1740 442 1786 434 1840 442 1841 442 1843 442 1881 433 1904 441 1905 441 1907 441 1965 433 2008 441 2010 441 2011 441 2012 441 2012 440 2021 433 2064 437 2065 437 2107 430 2107 410 2102 379 2092 383 2086 379 2084 377 2083 377 2082 377 1954 377 1953 377 1952 377 1942 382 1931 388 1922 382 1916 377 1915 377 1914 377 1889 377 1888 377 1887 377 1886 377 1877 383 1868 390 1827 385 1787 380 1786 380 1785 380 1774 386 1765 390 1748 386 1727 382 1726 382 1704 387 1693 390 1684 387 1661 380 1660 380 1659 380 1657 380 1656 380 1656 381 1648 388 1646 390 1637 388 1591 382 1590 382 1589 382 1570 390 1568 392 1502 392 1494 392 1455 380 1454 380 1452 380 1451 380 1425 391 1427 414"/></Shape>
+	    <String CONTENT="8:o S.-Petersburg 1912."
+                    HPOS="1425"
+                    VPOS="377"
+                    WIDTH="682"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="153 542 1896 520" 
+                    HPOS="150"
+                    VPOS="480"
+                    WIDTH="1745"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="152 540 152 578 598 575 600 575 601 575 630 564 714 569 715 569 716 569 757 558 866 558 919 566 920 566 984 554 1097 563 1098 563 1148 552 1279 566 1287 566 1288 566 1289 566 1290 566 1332 549 1403 563 1405 563 1519 545 1801 543 1895 558 1895 518 1892 488 1791 494 1772 489 1740 480 1738 480 1737 480 1522 483 1521 483 1502 490 1413 488 1412 488 1352 496 1320 500 1294 496 1239 489 1238 489 1133 498 1099 490 1098 490 1043 501 1019 505 987 501 944 498 943 498 942 498 927 502 920 505 909 502 857 493 856 493 855 493 824 504 785 496 784 496 739 506 726 509 715 506 701 502 700 502 699 502 585 509 526 511 511 510 450 501 449 501 447 501 419 511 414 513 342 513 341 512 323 505 322 505 321 505 287 513 283 515 150 515 152 540"/></Shape>
+	    <String CONTENT="Se: Materialy po jafetičeskomu jasykoznani ju. 6. { Sprakv."
+                    HPOS="150"
+                    VPOS="480"
+                    WIDTH="1745"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1671 592 1851 595" 
+                    HPOS="1668"
+                    VPOS="552"
+                    WIDTH="182"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="1670 591 1668 623 1849 623 1850 594 1850 571 1823 554 1822 554 1821 554 1794 554 1792 554 1791 554 1790 554 1772 565 1760 571 1713 571 1698 558 1692 553 1692 552 1691 552 1689 552 1688 552 1670 554 1670 591"/></Shape>
+	    <String CONTENT="Saml."
+                    HPOS="1668"
+                    VPOS="552"
+                    WIDTH="182"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

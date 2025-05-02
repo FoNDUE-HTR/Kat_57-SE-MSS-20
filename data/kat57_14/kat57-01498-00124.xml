@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01498-00124.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1468"
+          PHYSICAL_IMG_NR="14"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1468">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1466"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1467 2311 1467 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="226 198 957 193" 
+                    HPOS="223"
+                    VPOS="146"
+                    WIDTH="732"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="225 196 225 226 373 229 374 229 375 229 389 223 407 215 456 215 468 222 472 225 473 225 474 225 476 225 477 225 489 222 516 215 576 215 596 220 620 226 621 226 622 226 624 226 625 226 633 218 640 215 660 218 670 220 671 220 680 218 701 214 730 217 780 223 782 223 783 223 806 216 811 215 855 215 895 215 906 222 908 222 909 222 910 222 911 222 922 217 941 225 942 225 943 225 944 225 946 225 946 223 955 214 955 192 952 162 821 162 816 160 810 155 809 155 807 155 806 155 786 159 777 161 771 159 738 146 736 146 735 146 734 146 733 146 714 159 708 162 703 157 695 151 693 151 692 151 588 146 587 146 586 146 566 156 548 165 505 160 501 155 494 149 494 148 493 148 492 148 490 148 489 148 474 155 460 161 435 154 429 152 428 152 427 152 413 154 351 161 339 154 337 154 336 154 335 154 297 159 285 152 283 152 282 152 281 152 280 152 269 160 259 151 257 149 255 149 254 149 253 149 223 150 225 196"/></Shape>
+	    <String CONTENT="REIN, Friedrich Hermann"
+                    HPOS="223"
+                    VPOS="146"
+                    WIDTH="732"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="224 292 1832 295" 
+                    HPOS="222"
+                    VPOS="249"
+                    WIDTH="1608"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="223 291 222 310 334 315 353 325 354 325 356 326 718 326 718 325 719 325 757 313 758 313 768 313 846 315 868 325 870 325 871 325 931 313 936 313 941 313 1015 324 1017 324 1062 314 1068 313 1206 313 1210 314 1221 319 1222 319 1223 319 1260 314 1272 313 1286 314 1369 326 1370 326 1372 326 1406 316 1434 322 1435 322 1493 315 1501 314 1506 315 1540 325 1542 325 1543 325 1544 325 1575 315 1580 314 1681 314 1687 315 1709 322 1711 322 1712 322 1829 315 1830 294 1828 252 1607 261 1537 252 1441 252 1440 252 1400 260 1329 253 1327 253 1248 259 1181 250 1176 250 1174 250 1173 250 1172 250 1137 261 1023 261 977 250 975 250 974 250 971 250 939 256 925 250 924 250 785 250 784 250 783 250 760 260 597 260 567 250 564 249 563 249 561 249 560 249 556 250 532 259 507 253 506 253 505 253 504 253 487 260 310 260 223 250 223 291"/></Shape>
+	    <String CONTENT="Se: Physiologie. T.1-3.Vegetative Physiologie. 1948."
+                    HPOS="222"
+                    VPOS="249"
+                    WIDTH="1608"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="264 394 2269 394" 
+                    HPOS="263"
+                    VPOS="351"
+                    WIDTH="2004"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="263 393 263 434 291 433 301 434 361 448 362 450 806 450 806 448 807 448 856 434 876 437 877 437 904 433 954 423 1059 423 1110 431 1123 434 1124 434 1126 434 1133 431 1165 423 1243 423 1281 431 1290 433 1291 433 1308 431 1390 423 1429 431 1440 433 1441 433 1588 430 1631 430 1635 430 1718 446 1719 446 1876 429 1943 423 2048 429 2095 431 2096 431 2116 429 2143 425 2266 428 2267 393 2267 360 2228 351 2227 351 1986 351 1985 351 1943 359 1924 354 1922 354 1921 354 1851 359 1835 360 1824 359 1760 351 1758 351 1659 359 1635 360 1584 359 1478 354 1477 354 1395 358 1335 360 1320 358 1302 354 1301 354 1282 358 1267 360 1256 358 1236 351 1234 351 1233 351 1232 351 1206 357 1193 362 1130 362 1113 357 1084 351 1083 351 1028 357 1001 359 971 357 920 351 919 351 917 351 898 355 882 360 263 354 263 393"/></Shape>
+	    <String CONTENT="i: Naturforschung und Medizin in Deutschland 1939-1946. Bd 57-59."
+                    HPOS="263"
+                    VPOS="351"
+                    WIDTH="2004"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1096 514 1306 514" 
+                    HPOS="1095"
+                    VPOS="451"
+                    WIDTH="210"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1095 513 1095 529 1154 539 1155 539 1156 539 1157 539 1166 533 1170 530 1173 533 1181 539 1182 539 1183 539 1184 539 1185 539 1201 534 1217 530 1233 537 1241 539 1242 539 1243 539 1244 539 1245 539 1248 537 1256 532 1263 537 1263 538 1264 538 1265 538 1266 538 1267 538 1269 538 1279 532 1303 539 1305 513 1305 491 1210 490 1193 473 1181 462 1181 461 1179 461 1150 451 1149 451 1148 451 1095 457 1095 513"/></Shape>
+	    <String CONTENT="Polygr"
+                    HPOS="1095"
+                    VPOS="451"
+                    WIDTH="210"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1103 596 1292 593" 
+                    HPOS="1100"
+                    VPOS="551"
+                    WIDTH="191"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="1102 595 1102 621 1163 623 1165 623 1189 621 1242 614 1290 619 1291 592 1287 573 1177 573 1148 556 1140 551 1139 551 1138 551 1100 551 1102 595"/></Shape>
+	    <String CONTENT="Saml."
+                    HPOS="1100"
+                    VPOS="551"
+                    WIDTH="191"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

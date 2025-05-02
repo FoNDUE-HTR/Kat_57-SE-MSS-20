@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01411-00306.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1464"
+          PHYSICAL_IMG_NR="33"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1464">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1462"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1463 2311 1463 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="162 68 481 68" 
+                    HPOS="161"
+                    VPOS="14"
+                    WIDTH="319"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="161 67 161 78 178 89 179 89 180 89 181 89 240 82 248 89 250 89 251 89 252 89 253 89 254 89 263 81 268 85 268 86 269 86 270 86 272 86 303 85 305 85 306 85 308 82 314 78 322 82 325 86 326 86 328 86 329 86 357 84 440 78 453 89 455 89 456 89 457 90 480 90 480 67 480 24 463 14 462 14 461 14 428 14 427 14 425 14 407 24 405 25 402 24 392 20 391 20 390 20 389 20 387 20 383 24 372 30 345 23 336 20 335 20 334 20 333 20 331 20 329 23 315 31 240 31 222 19 214 14 213 14 212 14 211 14 161 17 161 67"/></Shape>
+	    <String CONTENT="Suvorov, A."
+                    HPOS="161"
+                    VPOS="14"
+                    WIDTH="319"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="152 210 614 216" 
+                    HPOS="150"
+                    VPOS="170"
+                    WIDTH="463"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="150 231 179 226 207 233 215 234 335 235 336 235 337 235 350 231 366 226 413 226 418 230 424 235 424 236 425 236 427 236 453 239 596 240 597 240 599 240 600 240 612 229 613 215 611 175 567 186 539 175 538 175 536 175 488 185 484 180 483 180 483 179 481 179 480 179 479 179 439 180 433 174 431 174 431 173 430 173 429 173 428 173 427 173 425 173 424 174 411 185 367 185 342 174 336 172 335 172 334 172 333 172 323 174 311 178 307 174 305 173 305 172 303 172 302 172 197 170 196 170 195 170 193 170 193 172 190 174 181 181 152 174 151 209 150 231"/></Shape>
+	    <String CONTENT="PIGAREV, Kirill"
+                    HPOS="150"
+                    VPOS="170"
+                    WIDTH="463"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2041 87 2243 90" 
+                    HPOS="2038"
+                    VPOS="29"
+                    WIDTH="204"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="2039 86 2038 106 2138 112 2148 122 2169 139 2170 139 2171 139 2172 139 2241 132 2242 89 2242 64 2205 53 2204 53 2203 53 2189 56 2149 64 2130 46 2130 45 2128 45 2127 45 2126 45 2111 46 2102 40 2089 30 2088 30 2087 30 2039 29 2039 86"/></Shape>
+	    <String CONTENT="Biogr."
+                    HPOS="2038"
+                    VPOS="29"
+                    WIDTH="204"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="129 316 1261 321" 
+                    HPOS="126"
+                    VPOS="280"
+                    WIDTH="1134"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="128 315 126 340 152 350 153 350 154 350 231 342 251 350 252 350 495 351 496 351 497 351 519 341 522 341 606 341 610 342 630 351 631 351 633 351 671 342 678 341 683 342 705 352 706 352 707 353 752 353 752 352 753 352 778 344 783 342 873 342 877 344 886 348 888 348 889 348 933 345 958 342 972 345 1013 353 1015 353 1016 353 1017 353 1029 346 1078 353 1079 353 1080 353 1105 346 1154 352 1155 352 1259 346 1260 320 1260 296 1226 295 1210 284 1209 284 1207 284 1206 284 1095 294 1087 294 1079 294 1018 284 1017 284 928 291 907 292 902 291 884 284 883 284 833 283 832 283 830 283 812 290 807 291 793 290 743 283 741 283 713 289 692 292 635 287 594 284 592 284 560 286 541 287 538 286 527 281 525 281 524 281 523 281 513 286 507 289 448 285 425 284 424 284 423 284 422 284 422 285 412 291 347 291 336 284 333 280 331 280 330 280 329 280 128 280 128 315"/></Shape>
+	    <String CONTENT="Soldat-polkovodec. Očerki o Suvorove."
+                    HPOS="126"
+                    VPOS="280"
+                    WIDTH="1134"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1506 424 2010 429" 
+                    HPOS="1504"
+                    VPOS="384"
+                    WIDTH="505"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1505 423 1504 445 1538 452 1539 452 1589 447 1593 447 1594 447 1629 462 1631 462 1632 463 1692 463 1692 462 1693 462 1694 462 1709 450 1711 448 1734 448 1739 451 1764 463 1765 463 1766 464 1830 464 1830 463 1831 463 1832 463 1849 452 1854 450 1860 453 1884 464 1886 464 1887 466 1926 466 1926 464 1927 464 1928 464 1928 463 1938 455 1941 451 1965 451 1971 456 1982 464 1983 464 1985 464 1986 464 1987 464 2008 456 2009 428 2008 396 1883 386 1882 386 1847 394 1833 397 1760 397 1751 392 1744 389 1743 389 1742 389 1714 392 1689 395 1683 391 1671 385 1670 385 1669 385 1642 391 1628 395 1555 395 1551 390 1545 385 1545 384 1544 384 1543 384 1542 384 1505 389 1505 423"/></Shape>
+	    <String CONTENT="8:o Moskva 1943."
+                    HPOS="1504"
+                    VPOS="384"
+                    WIDTH="505"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1928 1430 2174 1430" 
+                    HPOS="1927"
+                    VPOS="1372"
+                    WIDTH="245"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="1927 1429 1927 1446 1994 1440 2015 1444 2038 1449 2039 1449 2041 1449 2060 1443 2070 1440 2077 1443 2093 1449 2094 1449 2096 1450 2139 1450 2139 1449 2141 1449 2142 1449 2142 1448 2150 1440 2172 1440 2172 1429 2171 1374 2024 1382 1987 1372 1986 1372 1985 1372 1983 1372 1982 1372 1981 1372 1961 1379 1927 1372 1927 1429"/></Shape>
+	    <String CONTENT="14.3.1945."
+                    HPOS="1927"
+                    VPOS="1372"
+                    WIDTH="245"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

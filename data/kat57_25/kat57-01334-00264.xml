@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01334-00264.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1464"
+          PHYSICAL_IMG_NR="47"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1464">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1462"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1463 2315 1463 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="210 119 848 114" 
+                    HPOS="208"
+                    VPOS="69"
+                    WIDTH="638"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="209 118 209 142 220 150 222 150 223 150 224 151 368 151 368 150 369 150 383 143 553 147 555 147 556 147 557 147 566 140 568 139 633 139 634 140 640 145 641 145 643 145 644 145 645 145 646 145 646 143 651 140 652 137 745 137 755 140 785 146 787 146 846 139 846 113 844 85 822 84 806 69 805 69 804 69 802 69 801 69 800 69 784 82 782 86 683 87 635 87 627 80 618 73 617 73 616 73 614 73 613 73 599 79 583 87 553 87 541 78 535 73 534 73 533 73 532 73 530 73 518 78 506 82 499 78 495 74 494 74 492 74 491 74 475 76 469 78 468 76 461 70 461 69 460 69 458 69 457 69 456 69 444 76 430 84 418 75 411 70 409 70 408 70 407 70 406 70 405 70 400 75 396 76 394 75 386 69 385 69 384 69 383 69 348 71 347 71 342 74 333 80 323 73 319 70 318 70 317 70 316 70 208 70 209 118"/></Shape>
+	    <String CONTENT="Ó LAOGHAIRE, Diarmuid"
+                    HPOS="208"
+                    VPOS="69"
+                    WIDTH="638"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="208 216 850 226" 
+                    HPOS="206"
+                    VPOS="179"
+                    WIDTH="643"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="207 215 206 245 268 246 270 248 285 254 286 254 287 254 289 254 302 250 303 248 305 250 340 272 341 272 342 272 367 273 368 273 466 269 540 275 541 275 543 275 573 259 589 252 632 253 643 263 649 268 650 268 651 268 706 269 707 269 708 269 716 265 737 254 745 262 745 263 746 263 748 263 749 263 780 259 790 267 791 267 793 267 794 267 795 267 813 258 845 270 849 225 849 200 833 189 832 189 830 189 829 189 828 189 827 189 816 197 801 190 800 190 799 190 798 190 779 200 733 192 732 192 730 192 704 200 629 185 628 185 627 185 591 198 558 198 551 198 551 197 530 183 529 183 528 183 527 183 481 190 474 184 474 183 473 183 472 183 471 183 469 183 468 183 468 184 462 189 407 181 406 181 405 181 403 181 385 193 369 180 368 180 367 180 366 180 290 193 286 193 280 193 255 191 236 179 235 179 234 179 233 179 231 179 207 190 207 215"/></Shape>
+	    <String CONTENT="Se: Ó LEARY, Diarmuid"
+                    HPOS="206"
+                    VPOS="179"
+                    WIDTH="643"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00248.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="44"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2315 1471 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="240 191 462 191" 
+                    HPOS="239"
+                    VPOS="150"
+                    WIDTH="222"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="239 190 239 219 245 225 246 225 247 225 249 225 285 218 336 225 337 225 338 225 339 225 350 219 361 213 408 213 419 220 425 225 426 225 428 225 429 225 461 220 461 190 461 152 239 150 239 190"/></Shape>
+	    <String CONTENT="BÉRINUS"
+                    HPOS="239"
+                    VPOS="150"
+                    WIDTH="222"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="224 289 1957 282" 
+                    HPOS="222"
+                    VPOS="244"
+                    WIDTH="1734"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="223 288 223 312 390 312 439 321 440 321 441 321 474 312 507 320 509 320 621 312 742 320 743 320 794 310 801 310 818 310 938 317 939 317 1025 311 1050 318 1051 318 1052 318 1094 310 1101 309 1110 310 1158 317 1159 317 1215 310 1225 309 1345 309 1373 317 1375 317 1376 317 1434 316 1435 316 1456 309 1462 307 1489 309 1539 312 1540 312 1618 309 1671 306 1680 309 1700 315 1701 315 1702 316 1924 316 1924 315 1956 307 1956 280 1954 255 1827 255 1783 244 1782 244 1599 255 1535 247 1534 247 1403 255 1345 246 1194 246 1193 246 1062 255 1037 247 1036 247 1035 247 935 249 901 256 819 247 818 247 737 260 579 260 518 251 517 251 516 251 485 260 305 255 304 255 222 261 223 288"/></Shape>
+	    <String CONTENT="Roman en prose du XIVe siècle publié par Robert Bossuat."
+                    HPOS="222"
+                    VPOS="244"
+                    WIDTH="1734"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="235 394 430 394" 
+                    HPOS="234"
+                    VPOS="358"
+                    WIDTH="195"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="234 393 234 410 429 409 429 393 429 372 408 372 394 359 394 358 393 358 392 358 391 358 390 358 345 371 321 358 320 358 318 358 317 358 293 371 280 359 280 358 279 358 278 358 251 358 250 358 249 358 247 358 234 369 234 393"/></Shape>
+	    <String CONTENT="T. 1-2."
+                    HPOS="234"
+                    VPOS="358"
+                    WIDTH="195"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="230 488 1469 485" 
+                    HPOS="228"
+                    VPOS="452"
+                    WIDTH="1240"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="229 486 229 510 257 518 258 518 260 518 325 511 360 527 361 527 363 528 608 528 608 527 609 527 640 518 668 527 669 527 671 527 672 527 704 513 770 523 771 523 899 510 904 510 1047 510 1048 510 1070 516 1072 516 1073 516 1150 510 1153 510 1178 518 1180 518 1181 518 1226 510 1227 510 1275 522 1276 522 1278 522 1279 522 1305 515 1340 521 1342 521 1343 521 1366 510 1391 517 1392 517 1393 517 1394 517 1411 510 1468 510 1468 484 1465 462 1355 452 1354 452 1302 461 1297 462 1242 462 1240 461 1224 452 1223 452 1221 452 960 458 826 463 673 463 659 457 647 453 646 453 645 453 644 453 628 457 613 461 604 457 596 453 594 453 477 453 475 453 474 453 464 456 445 462 403 456 382 453 381 453 380 453 375 456 363 462 228 456 229 486"/></Shape>
+	    <String CONTENT="Se: Société des anciens textes français."
+                    HPOS="228"
+                    VPOS="452"
+                    WIDTH="1240"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="604 589 717 584" 
+                    HPOS="601"
+                    VPOS="533"
+                    WIDTH="115"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="603 588 603 602 628 613 629 613 630 613 631 613 656 605 658 604 658 605 666 612 667 612 668 612 669 612 671 612 685 607 699 603 713 609 716 583 713 549 657 533 656 533 655 533 653 533 601 553 603 588"/></Shape>
+	    <String CONTENT="Vitt."
+                    HPOS="601"
+                    VPOS="533"
+                    WIDTH="115"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="605 672 766 668" 
+                    HPOS="603"
+                    VPOS="617"
+                    WIDTH="162"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="604 670 604 686 656 686 664 694 695 723 695 724 696 724 697 724 699 724 739 723 740 723 765 709 765 667 763 617 713 617 712 617 711 617 710 617 695 630 675 646 646 640 637 639 636 639 635 639 634 639 634 640 630 644 625 648 603 648 604 670"/></Shape>
+	    <String CONTENT="Fornfr."
+                    HPOS="603"
+                    VPOS="617"
+                    WIDTH="162"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="615 771 770 775" 
+                    HPOS="613"
+                    VPOS="722"
+                    WIDTH="156"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="614 770 613 798 766 808 769 774 769 742 743 728 742 728 740 728 739 728 738 728 723 740 722 740 710 740 702 740 671 722 669 722 640 722 639 722 637 722 636 722 614 734 614 770"/></Shape>
+	    <String CONTENT="Sällsk."
+                    HPOS="613"
+                    VPOS="722"
+                    WIDTH="156"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1482 384 2047 388" 
+                    HPOS="1480"
+                    VPOS="345"
+                    WIDTH="566"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1481 383 1480 401 1523 415 1524 415 1526 415 1591 402 1592 402 1621 408 1622 408 1624 408 1646 402 1649 402 1652 402 1691 418 1692 418 1694 419 1820 419 1820 418 1821 418 1836 410 1906 419 1907 419 1908 419 1909 419 1909 418 1922 407 1924 404 1952 404 1959 407 1973 418 1974 418 1976 418 1977 418 1978 418 1998 408 2005 404 2043 408 2046 387 2046 363 2025 363 2025 361 2009 348 2008 348 2006 348 1918 348 1917 348 1916 348 1901 355 1858 347 1829 347 1827 347 1826 347 1825 347 1808 360 1782 360 1741 360 1729 349 1728 349 1727 349 1725 349 1676 360 1673 360 1670 360 1636 345 1635 345 1633 345 1632 345 1586 359 1584 360 1537 360 1534 359 1517 349 1516 349 1514 349 1513 349 1512 349 1501 359 1500 359 1481 359 1481 383"/></Shape>
+	    <String CONTENT="8:o Paris 1931-33."
+                    HPOS="1480"
+                    VPOS="345"
+                    WIDTH="566"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="2104 53 2224 53" 
+                    HPOS="2103"
+                    VPOS="8"
+                    WIDTH="120"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="2103 52 2103 66 2124 77 2125 77 2127 78 2188 78 2188 77 2189 77 2190 77 2190 76 2203 65 2223 65 2223 52 2223 24 2143 8 2141 8 2140 8 2103 23 2103 52"/></Shape>
+	    <String CONTENT="Vitt."
+                    HPOS="2103"
+                    VPOS="8"
+                    WIDTH="120"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="2098 124 2275 120" 
+                    HPOS="2097"
+                    VPOS="73"
+                    WIDTH="178"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="2097 158 2134 158 2143 165 2157 177 2157 179 2158 179 2160 179 2198 182 2199 182 2200 182 2214 176 2223 171 2232 179 2241 186 2242 186 2243 186 2244 186 2275 185 2274 118 2270 92 2241 92 2238 90 2223 78 2222 78 2221 78 2220 78 2182 85 2166 73 2165 73 2163 73 2162 73 2123 74 2122 74 2120 74 2102 88 2100 89 2097 88 2097 123 2097 158"/></Shape>
+	    <String CONTENT="Fornfr.]"
+                    HPOS="2097"
+                    VPOS="73"
+                    WIDTH="178"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

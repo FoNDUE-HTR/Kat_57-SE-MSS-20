@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01012-00020.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2308"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="45"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2308"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2306"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2307 1471 2307 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="136 198 1004 193" 
+                    HPOS="134"
+                    VPOS="1"
+                    WIDTH="870"
+                    HEIGHT="229">
+            <Shape><Polygon POINTS="136 198 136 220 152 228 153 228 155 230 377 230 377 228 379 228 380 228 380 227 393 215 396 214 478 214 481 214 490 222 492 222 493 222 495 222 497 222 498 222 511 214 514 212 519 214 543 223 545 223 546 223 629 215 644 225 645 225 647 225 648 225 728 212 736 211 741 211 786 223 787 223 789 223 885 211 924 222 926 222 928 222 1004 207 1004 193 999 1 134 1 136 198"/></Shape>
+	    <String CONTENT="Leeuw, Gerardus van der"
+                    HPOS="134"
+                    VPOS="1"
+                    WIDTH="870"
+                    HEIGHT="229"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1737 49 2241 49" 
+                    HPOS="1737"
+                    VPOS="1"
+                    WIDTH="504"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="1737 49 1737 81 1869 81 1869 80 1871 80 1873 80 1876 77 1887 67 1903 77 1911 80 1912 80 1914 80 1916 80 1932 75 1949 70 1983 73 2039 80 2040 80 2079 70 2096 67 2241 67 2241 49 2241 1 1737 1 1737 49"/></Shape>
+	    <String CONTENT="Diss. teol. Leiden"
+                    HPOS="1737"
+                    VPOS="1"
+                    WIDTH="504"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1877 113 2115 116" 
+                    HPOS="1876"
+                    VPOS="64"
+                    WIDTH="239"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="1877 113 1876 139 2043 144 2045 144 2114 134 2115 116 2114 83 2051 83 2050 81 2034 67 2032 67 2031 67 2029 67 2027 67 1999 77 1972 64 1970 64 1968 64 1877 78 1877 113"/></Shape>
+	    <String CONTENT="Rel. vet"
+                    HPOS="1876"
+                    VPOS="64"
+                    WIDTH="239"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1922 177 2099 174" 
+                    HPOS="1920"
+                    VPOS="131"
+                    WIDTH="179"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1922 177 1922 207 1941 207 1959 222 1959 223 1960 223 1962 223 1964 225 2008 225 2008 223 2010 223 2047 206 2077 214 2079 214 2080 214 2082 214 2099 204 2099 174 2096 136 2045 131 2043 131 2042 131 2040 131 2024 142 2015 148 1988 148 1981 145 1959 131 1957 131 1956 131 1954 131 1952 131 1951 131 1920 147 1922 177"/></Shape>
+	    <String CONTENT="Egypt."
+                    HPOS="1920"
+                    VPOS="131"
+                    WIDTH="179"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="145 290 1976 290" 
+                    HPOS="145"
+                    VPOS="236"
+                    WIDTH="1831"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="145 290 145 322 382 314 439 324 458 327 498 348 500 348 501 349 639 349 639 348 640 348 682 327 798 325 800 325 802 325 837 314 955 314 988 325 1047 348 1049 348 1051 349 1191 349 1191 348 1193 348 1274 327 1306 319 1325 327 1371 348 1373 348 1375 349 1488 349 1488 348 1490 348 1558 329 1606 314 1727 322 1729 322 1761 316 1793 329 1801 332 1802 332 1804 332 1976 329 1976 290 1976 255 1930 255 1928 254 1874 236 1873 236 1774 236 1772 236 1692 252 1678 254 1470 250 1469 249 1450 239 1448 239 1446 239 1402 249 1399 249 1395 249 1367 236 1365 236 1292 236 1290 236 1288 236 1264 247 1255 252 1204 254 1140 246 1111 242 1110 242 1067 246 944 254 920 244 907 238 905 238 904 238 902 238 885 242 851 255 765 255 624 241 575 236 573 236 556 239 519 247 355 239 353 239 351 239 332 249 296 236 292 236 291 236 145 236 145 290"/></Shape>
+	    <String CONTENT="Godsvoorstellingen in de oud-ægyptische pyramidetexten..."
+                    HPOS="145"
+                    VPOS="236"
+                    WIDTH="1831"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1512 378 1932 375" 
+                    HPOS="1510"
+                    VPOS="329"
+                    WIDTH="422"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1512 378 1512 399 1675 399 1697 407 1708 410 1710 410 1711 410 1729 407 1783 396 1812 410 1822 413 1823 413 1825 413 1932 412 1932 375 1927 345 1782 351 1775 348 1754 333 1753 333 1751 333 1750 333 1748 333 1718 349 1716 351 1715 349 1687 329 1686 329 1684 329 1563 329 1561 329 1560 329 1558 329 1558 330 1537 351 1510 354 1512 378"/></Shape>
+	    <String CONTENT="8º Leiden 1916."
+                    HPOS="1510"
+                    VPOS="329"
+                    WIDTH="422"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

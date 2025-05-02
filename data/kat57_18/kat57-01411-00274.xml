@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01411-00274.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1468"
+          PHYSICAL_IMG_NR="17"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1468">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1466"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1467 2319 1467 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="108 225 474 230" 
+                    HPOS="106"
+                    VPOS="162"
+                    WIDTH="367"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="107 223 106 259 277 265 278 265 296 263 297 263 298 263 298 261 310 250 320 240 351 240 357 248 358 248 358 249 359 249 360 249 362 249 472 242 473 229 473 166 367 162 365 162 364 162 363 162 352 172 336 184 298 179 297 179 249 189 223 189 215 181 214 181 212 181 211 181 210 181 184 188 161 183 149 181 148 181 107 185 107 223"/></Shape>
+	    <String CONTENT="PIETTE, Ed."
+                    HPOS="106"
+                    VPOS="162"
+                    WIDTH="367"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1744 107 1878 107" 
+                    HPOS="1743"
+                    VPOS="45"
+                    WIDTH="134"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1743 106 1743 124 1763 124 1763 123 1764 123 1765 123 1765 122 1776 113 1791 121 1796 123 1797 123 1798 123 1799 123 1801 123 1801 122 1803 121 1810 113 1821 119 1830 123 1831 123 1832 123 1834 123 1848 118 1861 113 1875 116 1877 106 1877 72 1844 46 1842 46 1841 46 1817 45 1815 45 1785 52 1784 52 1782 52 1782 53 1762 74 1743 74 1743 106"/></Shape>
+	    <String CONTENT="Br."
+                    HPOS="1743"
+                    VPOS="45"
+                    WIDTH="134"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2019 52 2297 55" 
+                    HPOS="2017"
+                    VPOS="2"
+                    WIDTH="279"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="2018 51 2017 69 2115 69 2158 73 2178 88 2179 88 2180 88 2181 89 2238 89 2238 88 2239 88 2240 88 2274 66 2275 66 2295 66 2296 53 2295 25 2223 25 2212 18 2211 17 2209 17 2208 17 2207 17 2203 17 2168 24 2140 19 2132 11 2125 4 2125 3 2124 3 2122 3 2121 3 2120 3 2103 8 2102 8 2018 2 2018 51"/></Shape>
+	    <String CONTENT="Etnogr"
+                    HPOS="2017"
+                    VPOS="2"
+                    WIDTH="279"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1995 126 2297 130" 
+                    HPOS="1992"
+                    VPOS="83"
+                    WIDTH="304"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="1994 124 1992 192 2001 199 2003 199 2004 199 2005 199 2063 194 2100 200 2102 200 2103 200 2104 200 2110 194 2121 185 2218 185 2244 201 2246 203 2247 203 2249 203 2250 204 2294 204 2296 129 2296 111 2217 97 2215 97 2214 97 2189 103 2168 85 2167 85 2165 85 2145 84 2143 84 2142 84 2108 95 2096 84 2094 84 2093 84 2054 83 2053 83 2052 83 2050 83 2021 106 1994 106 1994 124"/></Shape>
+	    <String CONTENT="Antrop."
+                    HPOS="1992"
+                    VPOS="83"
+                    WIDTH="304"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="93 322 2082 319" 
+                    HPOS="91"
+                    VPOS="280"
+                    WIDTH="1990"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="92 321 92 362 549 363 550 363 551 363 568 358 614 342 682 342 714 349 715 349 717 349 816 341 1139 341 1186 352 1228 360 1229 360 1273 351 1316 341 1404 346 1405 346 1407 346 1429 340 1546 346 1547 346 1749 341 1773 346 1839 360 1840 360 1916 353 2023 358 2025 358 2026 358 2081 342 2081 318 2078 281 1098 280 1097 280 1096 280 1080 286 1078 286 1055 286 920 280 918 280 879 286 878 286 850 281 849 281 847 281 829 287 825 288 571 288 544 288 352 281 351 281 91 289 92 321"/></Shape>
+	    <String CONTENT="L&#x27;époque éburnéenne et les races humaines de la période glyptique."
+                    HPOS="91"
+                    VPOS="280"
+                    WIDTH="1990"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1316 416 2027 420" 
+                    HPOS="1314"
+                    VPOS="381"
+                    WIDTH="712"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1315 415 1314 439 1328 440 1344 455 1344 456 1345 456 1347 456 1348 456 1349 456 1350 456 1368 441 1385 441 1387 441 1489 441 1494 442 1517 456 1518 456 1551 457 1552 457 1554 457 1555 457 1574 444 1579 442 1613 442 1622 445 1653 457 1654 457 1655 457 1656 457 1686 446 1687 446 1688 446 1719 457 1720 457 1895 458 1896 458 1897 458 1899 458 1910 451 1913 448 1937 451 2003 458 2004 458 2005 458 2025 452 2026 419 2023 391 1993 395 1988 391 1982 385 1982 384 1981 384 1979 384 1881 384 1880 384 1879 384 1878 384 1870 391 1864 396 1831 396 1823 391 1809 384 1808 384 1768 382 1766 382 1765 382 1764 382 1754 391 1749 395 1669 395 1662 391 1643 382 1642 382 1640 382 1639 382 1616 391 1610 393 1609 391 1600 384 1600 382 1599 382 1598 382 1579 382 1578 382 1577 382 1557 391 1552 393 1549 391 1536 382 1535 382 1534 382 1533 382 1531 382 1511 391 1508 392 1505 391 1468 381 1467 381 1465 381 1464 381 1445 391 1442 393 1377 393 1374 391 1347 381 1345 381 1344 381 1343 381 1342 381 1342 382 1331 391 1330 392 1315 392 1315 415"/></Shape>
+	    <String CONTENT="8:o Saint-Quentin 1894."
+                    HPOS="1314"
+                    VPOS="381"
+                    WIDTH="712"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

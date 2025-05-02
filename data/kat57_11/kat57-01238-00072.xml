@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00072.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1496"
+          PHYSICAL_IMG_NR="17"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1496">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1494"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1495 2319 1495 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="230 54 1261 49" 
+                    HPOS="228"
+                    VPOS="7"
+                    WIDTH="1031"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="229 53 229 67 286 77 288 77 289 77 290 77 305 67 306 67 454 67 457 67 492 83 493 83 495 84 542 84 542 83 543 83 587 68 603 78 604 78 606 78 607 78 608 78 609 78 627 66 628 66 661 66 715 81 717 81 718 81 750 79 752 79 753 79 767 71 906 82 908 82 909 82 971 64 992 64 1022 79 1024 79 1025 79 1066 71 1086 81 1087 81 1088 82 1112 82 1112 81 1113 81 1115 81 1130 71 1219 79 1221 79 1222 79 1259 62 1259 48 1257 27 1179 18 1178 18 1177 18 1161 24 1157 27 1060 27 1053 23 1041 17 1040 17 1039 17 1037 17 1036 17 1029 23 1024 26 1000 22 979 19 977 19 976 19 970 22 956 28 876 28 851 19 845 18 844 18 843 18 825 19 802 22 797 19 779 7 778 7 777 7 744 7 743 7 707 8 705 8 687 17 666 29 618 29 599 16 589 8 588 8 587 8 540 8 538 8 510 14 472 23 454 13 445 9 444 9 407 9 406 9 405 9 397 13 377 22 341 12 331 9 330 9 329 9 228 9 229 53"/></Shape>
+	    <String CONTENT="/ Washington, Library of congress"
+                    HPOS="228"
+                    VPOS="7"
+                    WIDTH="1031"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="175 152 1499 159" 
+                    HPOS="173"
+                    VPOS="84"
+                    WIDTH="1325"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="173 190 321 187 346 190 359 193 656 195 657 195 658 195 673 188 699 175 740 174 779 188 802 195 803 195 869 196 870 196 871 196 903 187 951 172 1167 172 1216 180 1217 180 1218 180 1239 173 1295 180 1297 180 1458 174 1495 182 1498 158 1496 132 1471 129 1423 102 1421 102 1420 102 1419 102 1358 128 1357 128 1312 115 1310 115 1309 115 1284 120 1208 89 1207 89 1083 89 1082 89 1081 89 1024 120 1009 129 919 129 891 119 890 119 889 119 821 124 790 115 757 107 755 107 754 107 753 107 730 114 694 127 561 125 527 110 516 105 515 105 513 105 487 109 455 114 441 108 389 84 387 84 265 84 264 84 263 84 228 104 209 114 175 103 174 150 173 190"/></Shape>
+	    <String CONTENT="Morrison, Hugh Alexander"
+                    HPOS="173"
+                    VPOS="84"
+                    WIDTH="1325"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1689 96 1803 93" 
+                    HPOS="1687"
+                    VPOS="44"
+                    WIDTH="115"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="1688 95 1688 110 1703 110 1708 113 1726 124 1727 124 1728 124 1730 124 1731 124 1751 115 1753 114 1756 115 1769 122 1771 122 1772 122 1802 118 1802 92 1798 48 1766 54 1761 53 1732 44 1731 44 1730 44 1728 44 1727 44 1727 46 1712 61 1708 66 1687 66 1688 95"/></Shape>
+	    <String CONTENT="Fol."
+                    HPOS="1687"
+                    VPOS="44"
+                    WIDTH="115"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1930 65 2217 62" 
+                    HPOS="1928"
+                    VPOS="16"
+                    WIDTH="288"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1929 64 1929 83 2215 86 2216 61 2215 36 2194 29 2192 29 2191 29 2115 36 2078 16 2076 16 2055 16 2054 16 2053 16 2029 28 2006 17 2005 17 2004 17 1960 18 1959 18 1958 18 1928 36 1929 64"/></Shape>
+	    <String CONTENT="Bbliogr."
+                    HPOS="1928"
+                    VPOS="16"
+                    WIDTH="288"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1914 130 2189 123" 
+                    HPOS="1912"
+                    VPOS="82"
+                    WIDTH="275"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="1913 129 1913 144 1955 154 1957 154 1958 154 1959 154 1959 153 1960 153 1964 148 2040 152 2041 152 2043 152 2044 152 2051 145 2083 150 2084 150 2085 150 2100 143 2132 148 2134 148 2135 148 2149 142 2155 139 2186 140 2187 122 2186 93 2162 82 2161 82 2160 82 2081 86 2080 86 2079 86 2070 93 2050 83 2049 83 2048 83 2005 93 1994 84 1994 83 1993 83 1991 83 1965 83 1964 83 1963 83 1962 83 1938 99 1937 100 1912 100 1913 129"/></Shape>
+	    <String CONTENT="Bibliot."
+                    HPOS="1912"
+                    VPOS="82"
+                    WIDTH="275"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1838 183 2155 178" 
+                    HPOS="1836"
+                    VPOS="138"
+                    WIDTH="318"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1837 182 1837 196 1842 201 1842 203 1843 203 1844 203 1846 204 1885 204 1885 203 1887 203 1888 203 1888 201 1897 194 1899 190 1915 190 1930 195 1949 200 1950 200 1952 201 2043 201 2043 200 2044 200 2054 196 2075 188 2088 194 2089 194 2090 194 2091 194 2107 188 2116 195 2116 196 2117 196 2119 196 2120 196 2121 196 2122 196 2131 189 2151 198 2154 177 2151 150 2097 140 2096 140 2095 140 2074 152 2061 152 2029 152 1998 139 1996 139 1995 139 1934 153 1915 138 1914 138 1913 138 1912 138 1864 139 1863 139 1836 153 1837 182"/></Shape>
+	    <String CONTENT="N. Amer."
+                    HPOS="1836"
+                    VPOS="138"
+                    WIDTH="318"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="205 252 2312 252" 
+                    HPOS="204"
+                    VPOS="198"
+                    WIDTH="2107"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="204 251 204 269 251 280 253 280 357 270 364 270 367 270 515 300 516 301 709 301 709 300 710 300 769 284 838 289 839 289 934 274 940 273 946 274 1070 300 1071 301 1285 301 1285 300 1398 278 1530 284 1531 284 1586 276 1640 270 1849 270 1902 278 1903 278 1962 270 2004 278 2005 278 2056 273 2083 279 2121 290 2122 290 2124 290 2175 280 2218 271 2310 280 2311 251 2311 206 2236 198 2235 198 2233 198 2206 205 2196 208 2185 205 2149 198 2147 198 2060 205 2059 205 1993 225 1851 225 1777 204 1761 199 1759 199 1758 199 1757 199 1743 204 1681 226 1446 226 1374 201 1360 198 1359 198 1358 198 1313 201 1274 205 1262 201 1251 198 1249 198 1248 198 1247 198 1236 201 1192 216 1123 216 1052 200 1036 198 990 198 989 198 987 198 977 200 950 208 919 200 916 200 915 200 914 200 846 219 784 200 783 200 782 200 780 200 708 226 467 226 385 198 384 198 382 198 204 198 204 251"/></Shape>
+	    <String CONTENT="Preliminary check list of American almanacs 1639-1800."
+                    HPOS="204"
+                    VPOS="198"
+                    WIDTH="2107"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="212 445 1370 440" 
+                    HPOS="209"
+                    VPOS="376"
+                    WIDTH="1160"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="210 443 212 501 315 472 461 483 462 483 464 483 500 471 593 471 619 479 621 479 622 479 664 471 755 471 808 497 809 497 810 497 812 498 894 498 894 497 895 497 896 497 898 496 910 488 949 496 959 497 960 497 961 497 965 496 996 478 1044 469 1123 494 1128 496 1130 496 1131 497 1192 497 1192 496 1193 496 1197 494 1219 483 1253 493 1262 496 1263 496 1264 496 1369 492 1369 438 1365 400 1309 410 1259 397 1258 397 1257 397 1256 397 1254 397 1253 397 1227 411 1132 411 1096 407 1075 395 1045 376 1044 376 1042 376 1025 376 1024 376 1022 376 986 392 946 412 840 412 788 390 783 387 782 387 780 387 779 387 778 387 775 388 740 412 704 401 703 401 702 401 700 401 664 412 628 392 627 392 626 392 577 395 561 385 546 377 545 377 543 377 508 385 476 391 440 387 439 387 437 387 436 387 417 398 382 382 374 378 372 378 371 378 209 378 210 443"/></Shape>
+	    <String CONTENT="[Rubliktitel: Library of congress./"
+                    HPOS="209"
+                    VPOS="376"
+                    WIDTH="1160"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1629 347 2270 347" 
+                    HPOS="1628"
+                    VPOS="286"
+                    WIDTH="640"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="1628 346 1628 372 1722 372 1735 377 1762 388 1763 388 1764 388 1766 388 1767 388 1781 380 1783 378 1832 382 1873 385 1874 385 1875 385 1877 385 1890 378 1900 386 1917 397 1918 397 1919 397 1920 397 1922 397 1923 397 1932 391 1948 403 1949 403 1950 403 1952 403 2008 397 2009 397 2010 397 2016 391 2040 372 2085 382 2086 382 2088 382 2089 382 2099 375 2127 397 2135 403 2136 403 2137 403 2139 405 2268 405 2268 346 2268 301 2256 295 2255 295 2253 295 2252 295 2231 302 2218 307 2207 304 2181 294 2180 294 2179 294 2177 294 2176 294 2162 304 2156 307 2151 304 2135 292 2134 292 2132 292 2131 292 2080 294 2056 286 2055 286 2054 286 2053 286 2051 286 2039 296 2015 295 2014 295 2013 295 2011 295 1998 305 1993 310 1913 310 1909 306 1894 292 1893 292 1892 292 1890 292 1889 292 1888 292 1888 294 1873 306 1870 310 1836 310 1833 307 1811 287 1811 286 1809 286 1808 286 1672 286 1671 286 1670 286 1668 286 1668 287 1648 307 1628 309 1628 346"/></Shape>
+	    <String CONTENT="8ᵒ Washington 1907"
+                    HPOS="1628"
+                    VPOS="286"
+                    WIDTH="640"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

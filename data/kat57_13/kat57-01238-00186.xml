@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00186.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2308"
+          HEIGHT="1462"
+          PHYSICAL_IMG_NR="20"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2308"
+                  HEIGHT="1462">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2306"
+                   HEIGHT="1460"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1461 2307 1461 2307 1"/></Shape>
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2087 47 2220 50" 
+                    HPOS="2084"
+                    VPOS="1"
+                    WIDTH="135"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="2143 1 2142 1 2141 1 2141 2 2120 21 2119 21 2086 21 2086 46 2084 80 2156 82 2158 82 2159 82 2186 68 2193 64 2217 64 2219 49 2219 19 2195 4 2194 4 2193 4 2144 1 2143 1"/></Shape>
+	    <String CONTENT="Vitt"
+                    HPOS="2084"
+                    VPOS="1"
+                    WIDTH="135"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="225 149 479 142" 
+                    HPOS="223"
+                    VPOS="76"
+                    WIDTH="255"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="224 148 224 160 264 169 265 169 266 169 280 163 293 168 294 168 296 168 297 168 298 168 307 160 309 158 314 160 329 166 330 166 331 166 332 166 346 159 352 157 357 159 369 165 370 165 371 165 372 165 385 159 392 155 399 159 404 163 405 163 407 163 408 163 409 163 410 163 410 162 414 159 417 155 427 159 439 163 441 163 442 163 478 158 478 141 474 92 419 109 408 99 383 77 383 76 382 76 381 76 380 76 321 77 320 77 319 77 319 79 285 114 279 120 223 120 224 148"/></Shape>
+	    <String CONTENT="Mort"
+                    HPOS="223"
+                    VPOS="76"
+                    WIDTH="255"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2095 106 2259 110" 
+                    HPOS="2093"
+                    VPOS="73"
+                    WIDTH="165"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="2094 105 2093 119 2130 132 2131 132 2132 132 2133 132 2147 125 2173 143 2175 143 2176 143 2203 144 2204 144 2205 144 2256 123 2258 109 2258 75 2225 75 2223 75 2222 75 2221 75 2221 76 2214 82 2171 76 2149 73 2148 73 2094 76 2094 105"/></Shape>
+	    <String CONTENT="Fornfr"
+                    HPOS="2093"
+                    VPOS="73"
+                    WIDTH="165"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="214 257 2271 250" 
+                    HPOS="212"
+                    VPOS="190"
+                    WIDTH="2058"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="213 255 213 271 352 280 353 280 387 272 394 271 467 271 489 272 577 281 578 281 733 274 817 270 832 274 851 280 853 280 924 282 926 282 983 275 993 274 1000 275 1034 282 1035 282 1546 280 1547 280 1559 276 1576 272 1620 277 1651 280 1652 280 1653 280 1662 277 1682 270 1719 277 1734 280 1735 281 1824 281 1824 280 1825 280 1831 277 1847 272 1868 277 1872 278 1874 278 1875 278 1883 277 1964 266 2072 266 2267 278 2270 249 2266 197 2165 209 2100 196 2065 190 2064 190 1961 191 1932 196 1907 201 1877 196 1849 192 1848 192 1790 193 1788 193 1777 196 1721 211 1688 207 1687 207 1686 207 1649 220 1119 220 1082 214 1080 214 1023 221 980 207 979 207 978 207 930 207 895 196 888 193 887 193 777 193 776 193 775 193 766 196 717 210 656 213 565 196 558 194 556 194 548 196 471 207 419 196 413 194 411 194 212 194 213 255"/></Shape>
+	    <String CONTENT="Artu. An old french prose romance of the XIIIth century"
+                    HPOS="212"
+                    VPOS="190"
+                    WIDTH="2058"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="220 347 2300 331" 
+                    HPOS="218"
+                    VPOS="288"
+                    WIDTH="2081"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="219 346 219 365 536 369 537 369 580 363 599 360 628 363 693 367 694 367 739 361 759 359 776 361 811 366 812 366 1017 365 1086 359 1100 358 1111 358 1175 364 1177 364 1178 364 1202 358 1212 355 1223 358 1249 363 1250 363 1497 361 1525 355 1535 353 1608 354 1816 359 1818 359 1819 359 1836 353 1842 350 1902 352 2074 356 2075 356 2123 350 2141 348 2172 349 2269 355 2270 355 2271 355 2299 348 2299 330 2295 299 2223 309 2048 309 2017 299 2000 293 1999 293 1998 293 1997 293 1977 299 1938 311 1787 311 1696 299 1620 288 1619 288 1618 288 1587 299 1581 300 1557 299 1492 293 1491 293 1490 293 1470 299 1415 315 1336 315 1236 299 1208 294 1207 294 1206 294 1194 299 1145 317 994 317 939 299 922 293 921 293 868 293 867 293 866 293 849 299 803 314 773 304 772 304 771 304 740 309 710 299 700 296 699 296 639 296 638 296 637 296 627 299 604 307 581 299 571 296 570 296 569 296 458 297 456 297 449 299 408 311 366 299 364 298 363 298 361 298 218 298 219 346"/></Shape>
+	    <String CONTENT="being the last division of Lancelot du Lae&#x27;. Now first"
+                    HPOS="218"
+                    VPOS="288"
+                    WIDTH="2081"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="228 427 2254 424" 
+                    HPOS="226"
+                    VPOS="374"
+                    WIDTH="2027"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="227 426 227 445 319 450 320 450 343 447 372 442 388 447 402 452 403 452 404 452 438 448 489 441 615 448 653 450 654 450 666 449 717 439 757 448 798 449 855 450 856 450 861 450 904 441 991 450 1065 459 1066 459 1067 459 1091 452 1104 447 1295 438 1369 453 1383 455 1384 455 1385 455 1395 453 1429 444 1465 454 1483 458 1484 458 1485 459 1653 459 1653 458 1654 458 1664 455 1714 438 1824 438 2010 441 2070 458 2072 458 2074 458 2075 459 2251 459 2253 423 2249 400 2156 400 2153 400 2066 377 2065 377 2064 377 2021 386 1964 374 1853 374 1852 374 1809 382 1780 374 1779 374 1640 374 1638 374 1637 374 1598 384 1556 380 1554 380 1553 380 1493 400 1461 400 1350 374 1275 374 1274 374 1273 374 1236 387 1211 382 1210 382 1208 382 1146 402 1079 402 1056 402 1004 383 1002 383 941 376 940 376 939 376 849 403 509 403 360 375 359 375 358 375 279 403 226 403 227 426"/></Shape>
+	    <String CONTENT="edited from ms. 342 (fonds français) of the Bibliotheque"
+                    HPOS="226"
+                    VPOS="374"
+                    WIDTH="2027"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="233 509 1230 514 2274 500" 
+                    HPOS="231"
+                    VPOS="459"
+                    WIDTH="2042"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="232 508 233 549 282 534 547 534 583 545 584 545 586 547 650 547 650 545 751 533 784 542 785 542 952 545 972 551 1035 568 1037 568 1038 568 1239 567 1240 567 1297 551 1355 537 1398 542 1400 542 1461 531 1503 536 1504 536 1630 528 1721 547 1723 547 1793 533 1872 554 1911 564 1913 564 1914 565 2081 565 2081 564 2082 564 2115 554 2121 553 2130 554 2175 564 2176 564 2273 554 2273 499 2271 473 2210 459 2209 459 1960 460 1959 460 1913 476 1890 484 1805 484 1779 477 1725 461 1724 461 1656 461 1654 461 1653 461 1586 478 1556 486 1492 486 1474 480 1439 469 1437 469 1436 469 1435 469 1403 480 1386 487 1057 488 1040 483 994 466 993 466 991 466 990 466 938 480 922 475 921 475 920 475 848 484 833 486 826 484 759 466 757 466 710 466 709 466 707 466 645 486 640 487 636 486 620 482 619 482 617 482 570 487 536 489 497 487 472 486 422 467 421 467 336 467 335 467 333 467 304 477 271 473 270 473 269 473 231 487 232 508"/></Shape>
+	    <String CONTENT="nationale with collations from some other mss. by J. Doug"
+                    HPOS="231"
+                    VPOS="459"
+                    WIDTH="2042"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="233 586 599 591" 
+                    HPOS="231"
+                    VPOS="532"
+                    WIDTH="367"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="232 584 231 612 305 609 347 616 349 616 350 616 352 616 378 609 414 609 422 617 424 617 425 617 426 617 427 617 444 610 449 615 449 616 450 616 452 616 453 616 481 611 532 620 539 620 541 620 542 620 544 620 566 612 594 620 598 590 598 570 575 562 573 562 572 562 571 562 558 570 548 562 547 562 545 562 544 562 517 568 478 536 477 536 476 536 453 534 452 534 431 536 430 536 428 536 391 567 389 567 369 567 369 566 330 533 329 533 327 533 307 532 287 532 286 532 285 532 283 532 283 533 248 565 247 565 232 565 232 584"/></Shape>
+	    <String CONTENT="las Bruce"
+                    HPOS="231"
+                    VPOS="532"
+                    WIDTH="367"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="1417 668 2104 662" 
+                    HPOS="1414"
+                    VPOS="595"
+                    WIDTH="689"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="1415 667 1415 692 1437 692 1437 690 1439 690 1440 690 1440 689 1450 682 1526 682 1553 690 1563 694 1564 694 1565 694 1567 694 1574 690 1585 685 1626 685 1641 690 1658 696 1659 696 1660 696 1662 696 1674 690 1691 682 1735 690 1738 690 1740 690 1741 690 1743 690 1766 684 1781 690 1793 695 1794 695 1796 695 1797 695 1798 695 1798 694 1803 690 1805 688 1815 690 1826 692 1827 692 1829 692 1830 692 1830 690 1831 690 1844 678 1920 678 1932 689 1936 693 1936 694 1937 694 1938 694 1939 694 2069 693 2070 693 2071 693 2071 692 2075 689 2082 682 2088 689 2092 692 2092 693 2093 693 2094 693 2095 693 2097 693 2103 689 2103 661 2098 618 2076 628 2069 621 2069 620 2067 620 2066 620 2064 618 2015 616 1964 595 1963 595 1961 595 1960 595 1959 595 1920 621 1919 622 1915 622 1904 620 1903 620 1902 620 1900 620 1900 621 1899 622 1885 637 1757 637 1741 625 1707 598 1706 598 1704 598 1703 598 1597 599 1596 599 1595 599 1595 600 1567 628 1556 639 1534 639 1523 628 1511 617 1511 616 1509 616 1508 616 1507 616 1484 616 1462 603 1461 603 1459 603 1458 603 1457 603 1456 603 1414 627 1415 667"/></Shape>
+	    <String CONTENT="8ᵒ Halle a. S. 1910."
+                    HPOS="1414"
+                    VPOS="595"
+                    WIDTH="689"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

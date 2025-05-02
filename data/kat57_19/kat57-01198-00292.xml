@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01198-00292.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="41"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2327 1471 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="192 258 686 255" 
+                    HPOS="190"
+                    VPOS="212"
+                    WIDTH="494"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="191 257 191 294 403 295 404 295 406 295 407 295 423 285 435 279 492 279 494 283 503 290 503 291 504 291 505 291 506 291 508 291 509 291 520 282 525 278 544 282 574 285 575 285 576 285 578 285 585 279 587 278 616 278 617 278 639 294 640 294 641 294 643 294 644 294 684 276 684 253 681 222 571 222 563 220 517 213 516 213 484 220 483 220 465 212 463 212 434 212 433 212 431 212 430 212 430 213 422 220 419 223 411 220 380 212 379 212 377 212 323 220 304 223 293 220 268 213 267 213 266 213 190 219 191 257"/></Shape>
+	    <String CONTENT="MEYNELL, Francis"
+                    HPOS="190"
+                    VPOS="212"
+                    WIDTH="494"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="177 359 863 356" 
+                    HPOS="175"
+                    VPOS="316"
+                    WIDTH="687"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="176 358 176 380 214 393 215 393 217 394 287 394 287 393 288 393 321 380 322 380 325 380 381 386 382 386 417 380 441 393 443 393 444 394 517 394 517 393 519 393 551 380 580 392 581 392 582 392 584 392 609 386 628 392 629 392 630 392 632 392 656 379 673 390 674 390 676 390 677 390 678 390 711 379 713 379 716 379 796 386 797 386 861 377 862 355 857 316 841 325 820 318 819 318 818 318 817 318 816 318 802 328 780 318 779 318 778 318 776 318 753 327 736 318 735 318 733 318 732 318 728 318 699 325 684 320 681 318 679 318 678 318 677 318 673 320 656 328 649 321 645 317 645 316 644 316 643 316 618 316 617 316 616 316 602 321 585 328 553 322 517 316 516 316 473 325 443 329 403 326 380 323 379 323 364 326 349 329 346 327 338 320 337 320 336 320 288 317 287 317 285 317 263 328 261 329 255 328 214 320 213 320 212 320 175 328 176 358"/></Shape>
+	    <String CONTENT="English printed books."
+                    HPOS="175"
+                    VPOS="316"
+                    WIDTH="687"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1904 75 2207 75" 
+                    HPOS="1903"
+                    VPOS="18"
+                    WIDTH="303"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="1903 74 1903 116 1932 117 1962 132 1963 132 1964 132 1997 131 1999 131 2000 131 2016 118 2049 132 2050 132 2051 133 2087 133 2087 132 2088 132 2089 132 2110 117 2123 117 2139 131 2139 132 2140 132 2141 132 2142 133 2166 133 2166 132 2167 132 2168 132 2168 131 2184 117 2206 117 2206 74 2206 49 2118 36 2116 36 2115 36 2109 38 2077 47 2034 38 2026 30 2015 19 2015 18 2013 18 2012 18 1903 18 1903 74"/></Shape>
+	    <String CONTENT="Bibliogr."
+                    HPOS="1903"
+                    VPOS="18"
+                    WIDTH="303"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1933 166 2041 169" 
+                    HPOS="1931"
+                    VPOS="120"
+                    WIDTH="109"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="1932 165 1931 192 2039 191 2040 168 2039 143 2001 136 2000 136 1999 136 1988 142 1969 127 1962 121 1961 121 1959 121 1932 120 1932 165"/></Shape>
+	    <String CONTENT="Eng"
+                    HPOS="1931"
+                    VPOS="120"
+                    WIDTH="109"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1499 450 2001 450" 
+                    HPOS="1498"
+                    VPOS="409"
+                    WIDTH="502"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="1498 471 1532 479 1534 480 1563 480 1563 479 1564 479 1565 479 1565 478 1572 472 1573 472 1575 472 1607 478 1608 478 1634 473 1637 473 1644 479 1645 479 1646 479 1648 480 1808 480 1808 479 1810 479 1817 475 1826 472 1999 478 2000 448 1999 418 1972 420 1968 417 1961 410 1961 409 1959 409 1958 409 1957 409 1911 415 1846 409 1845 409 1844 409 1830 415 1816 409 1815 409 1813 409 1812 409 1799 417 1791 420 1769 417 1749 413 1748 413 1747 413 1736 417 1722 420 1716 415 1711 412 1710 412 1709 412 1708 412 1707 412 1691 415 1673 420 1661 415 1649 410 1648 410 1646 410 1645 410 1644 410 1637 415 1628 421 1574 421 1558 415 1543 410 1542 410 1541 410 1540 410 1530 415 1519 420 1499 415 1498 448 1498 471"/></Shape>
+	    <String CONTENT="8:o London 1946."
+                    HPOS="1498"
+                    VPOS="409"
+                    WIDTH="502"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="192 563 1818 555" 
+                    HPOS="190"
+                    VPOS="507"
+                    WIDTH="1627"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="191 561 191 593 219 605 220 605 222 605 223 605 267 593 282 590 364 590 377 593 488 623 489 623 490 624 681 624 681 623 682 623 757 594 786 591 825 587 852 591 910 601 911 601 981 591 1017 586 1195 588 1196 590 1221 601 1222 601 1223 601 1270 592 1347 597 1439 619 1440 619 1617 618 1618 618 1699 588 1700 588 1817 588 1817 554 1813 509 1765 520 1607 511 1547 507 1546 507 1514 511 1489 515 1478 512 1466 509 1465 509 1297 509 1295 509 1294 509 1271 515 1239 522 1152 516 1117 513 1116 513 1115 513 1108 516 1093 522 1065 517 1052 515 1051 515 1006 517 911 523 893 518 870 512 868 512 867 512 866 512 849 520 838 525 649 525 639 522 608 515 607 515 575 522 564 526 510 526 505 523 487 516 485 516 484 516 483 516 465 523 457 526 434 523 335 513 333 513 332 513 316 520 218 517 217 517 215 517 190 525 191 561"/></Shape>
+	    <String CONTENT="[Britain in pictures. The British people in pictures.]"
+                    HPOS="190"
+                    VPOS="507"
+                    WIDTH="1627"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

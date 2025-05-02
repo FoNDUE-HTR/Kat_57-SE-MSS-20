@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00195.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="24"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2311 1471 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="199 166 833 166" 
+                    HPOS="198"
+                    VPOS="101"
+                    WIDTH="634"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="198 165 198 185 471 180 474 182 483 190 483 191 484 191 485 191 487 191 488 191 512 182 532 191 533 191 535 192 778 192 778 191 779 191 780 191 780 190 791 181 798 187 798 188 800 188 801 188 802 188 803 188 832 179 832 165 828 109 791 137 676 137 660 122 660 121 658 121 657 121 656 121 655 121 620 136 600 118 578 101 576 101 575 101 574 101 524 103 522 103 484 122 449 101 447 101 446 101 445 101 444 101 408 116 364 114 353 103 353 101 352 101 350 101 285 101 284 101 283 101 282 101 240 134 238 137 198 137 198 165"/></Shape>
+	    <String CONTENT="Mort, Frederick"
+                    HPOS="198"
+                    VPOS="101"
+                    WIDTH="634"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="62 426 169 426" 
+                    HPOS="61"
+                    VPOS="365"
+                    WIDTH="107"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="61 425 61 451 168 445 168 425 168 369 139 365 138 365 137 365 136 365 120 377 115 381 110 380 103 377 101 377 100 377 99 377 98 377 89 383 80 390 61 390 61 425"/></Shape>
+	    <String CONTENT="Se:"
+                    HPOS="61"
+                    VPOS="365"
+                    WIDTH="107"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="193 255 919 252" 
+                    HPOS="191"
+                    VPOS="204"
+                    WIDTH="726"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="192 253 192 269 233 279 234 279 235 279 268 269 271 269 309 296 310 296 311 296 312 298 389 298 389 296 390 296 391 296 424 272 450 278 451 278 452 278 494 272 535 283 536 283 537 283 538 283 565 269 566 269 569 269 618 279 619 279 673 271 703 284 704 284 705 284 706 284 708 284 727 272 753 295 754 295 755 295 757 295 758 295 806 277 833 295 834 295 835 295 836 296 874 296 874 295 876 295 877 295 917 269 917 251 915 215 898 215 897 215 895 215 894 215 877 228 863 215 859 213 859 212 857 212 856 212 807 204 806 204 805 204 803 204 803 206 790 218 779 230 731 230 693 220 628 204 627 204 625 204 624 204 604 222 600 226 587 223 579 220 578 220 576 220 575 220 566 223 544 231 500 231 482 226 481 225 461 207 461 206 460 206 458 206 439 206 438 206 436 206 435 206 406 226 401 230 391 228 374 222 373 222 371 222 370 222 358 228 357 229 357 228 335 207 335 206 333 206 332 206 266 206 265 206 263 206 262 206 227 231 191 231 192 253"/></Shape>
+	    <String CONTENT="Renfrewshire. [Ill.]"
+                    HPOS="191"
+                    VPOS="204"
+                    WIDTH="726"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="196 511 1253 519 1535 526" 
+                    HPOS="193"
+                    VPOS="458"
+                    WIDTH="1340"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="195 510 193 552 293 548 306 554 335 566 336 566 337 566 338 566 365 558 444 583 445 583 446 585 527 585 527 583 528 583 579 560 663 555 697 566 698 566 699 567 733 567 775 586 776 586 990 588 991 590 1043 590 1043 588 1044 588 1082 567 1125 561 1151 574 1152 574 1153 574 1154 574 1216 555 1222 554 1531 555 1533 525 1533 494 1466 494 1462 491 1440 482 1439 482 1438 482 1437 482 1405 490 1398 491 1391 490 1322 468 1321 468 1320 468 1241 471 1240 471 1189 484 1187 484 1163 478 1162 478 1160 478 1159 478 1141 483 1119 489 1086 482 1082 482 1081 482 1078 482 1038 489 1000 489 980 479 958 468 957 468 955 468 954 468 932 474 904 464 903 464 901 464 900 464 872 477 847 488 720 488 630 486 590 469 569 461 568 461 566 461 510 467 506 467 499 467 413 460 412 460 411 460 396 464 355 478 320 462 311 458 310 458 309 458 195 458 195 510"/></Shape>
+	    <String CONTENT="Cambridge county geographies. Geogr"
+                    HPOS="193"
+                    VPOS="458"
+                    WIDTH="1340"
+                    HEIGHT="132"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1414 573 1532 573" 
+                    HPOS="1413"
+                    VPOS="542"
+                    WIDTH="118"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="1413 617 1441 617 1445 619 1471 639 1472 639 1473 639 1475 640 1505 640 1505 639 1506 639 1531 625 1531 572 1531 556 1499 556 1497 554 1483 542 1482 542 1481 542 1451 542 1450 542 1449 542 1448 542 1437 552 1432 555 1414 550 1413 572 1413 617"/></Shape>
+	    <String CONTENT="Eng."
+                    HPOS="1413"
+                    VPOS="542"
+                    WIDTH="118"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2103 70 2238 70" 
+                    HPOS="2102"
+                    VPOS="15"
+                    WIDTH="135"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="2102 69 2102 92 2150 90 2151 92 2161 100 2161 101 2162 101 2163 101 2164 103 2195 103 2195 101 2196 101 2237 89 2237 69 2235 45 2186 50 2150 25 2136 15 2135 15 2134 15 2102 15 2102 69"/></Shape>
+	    <String CONTENT="Geogr"
+                    HPOS="2102"
+                    VPOS="15"
+                    WIDTH="135"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="2089 118 2220 115" 
+                    HPOS="2087"
+                    VPOS="88"
+                    WIDTH="132"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="2088 117 2088 141 2110 139 2113 141 2137 159 2138 159 2140 159 2141 160 2172 160 2172 159 2173 159 2174 159 2201 136 2219 134 2219 114 2213 92 2205 99 2186 93 2184 93 2183 93 2181 93 2180 93 2179 93 2178 94 2172 99 2167 95 2161 89 2161 88 2159 88 2158 88 2134 88 2132 88 2131 88 2130 88 2116 99 2113 103 2087 103 2088 117"/></Shape>
+	    <String CONTENT="Eng."
+                    HPOS="2087"
+                    VPOS="88"
+                    WIDTH="132"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1543 341 2140 338" 
+                    HPOS="1541"
+                    VPOS="293"
+                    WIDTH="597"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="1542 339 1542 361 1592 383 1594 383 1595 383 1596 383 1644 365 1657 370 1659 370 1660 370 1661 370 1662 370 1670 365 1676 370 1676 371 1677 371 1678 371 1680 371 1743 366 1757 379 1757 380 1758 380 1759 380 1805 381 1822 397 1823 397 1824 397 1826 397 1927 396 1929 396 1930 396 1983 365 2010 370 2024 383 2024 385 2026 385 2027 385 2028 385 2029 385 2030 385 2030 383 2048 366 2138 364 2138 337 2134 300 2104 310 2081 304 2080 304 2078 304 2029 309 2011 302 2008 301 2007 301 2006 301 1999 302 1965 310 1956 304 1943 295 1942 295 1941 295 1940 295 1938 295 1921 304 1909 311 1877 311 1866 305 1839 293 1838 293 1837 293 1835 293 1811 306 1800 312 1746 312 1738 307 1716 294 1715 294 1714 294 1713 294 1664 301 1649 294 1648 294 1585 294 1584 294 1583 294 1581 294 1581 295 1569 307 1541 311 1542 339"/></Shape>
+	    <String CONTENT="8ᵒ Cambridge 1912."
+                    HPOS="1541"
+                    VPOS="293"
+                    WIDTH="597"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

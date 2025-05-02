@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00039.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2319 1471 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="14 56 147 56" 
+                    HPOS="13"
+                    VPOS="18"
+                    WIDTH="132"
+                    HEIGHT="139">
+            <Shape><Polygon POINTS="13 55 13 154 73 157 74 157 76 157 77 157 93 142 103 134 145 134 145 55 143 18 117 29 63 29 60 25 53 19 53 18 52 18 51 18 30 18 29 18 28 18 26 18 13 26 13 55"/></Shape>
+	    <String CONTENT="Rhŷs"
+                    HPOS="13"
+                    VPOS="18"
+                    WIDTH="132"
+                    HEIGHT="139"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="316 244 879 239" 
+                    HPOS="314"
+                    VPOS="197"
+                    WIDTH="564"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="315 242 315 255 682 262 683 262 684 262 685 262 685 261 688 260 694 252 741 252 749 260 750 261 750 262 752 262 753 262 754 262 878 261 878 237 877 210 860 201 858 201 857 201 856 201 855 201 839 210 837 212 808 212 807 210 775 199 774 199 772 199 771 199 770 199 756 210 756 212 691 212 685 210 618 197 617 197 615 197 591 208 549 201 548 201 547 201 545 201 532 210 499 198 498 198 453 198 452 198 451 198 419 209 376 199 375 199 328 201 327 201 326 201 314 207 315 242"/></Shape>
+	    <String CONTENT="MORRIS-JONES, John"
+                    HPOS="314"
+                    VPOS="197"
+                    WIDTH="564"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="337 341 803 345" 
+                    HPOS="334"
+                    VPOS="306"
+                    WIDTH="468"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="334 358 361 369 363 369 364 370 444 370 444 369 445 369 463 359 496 366 498 366 530 363 539 370 541 370 542 370 543 370 619 360 626 360 628 361 647 371 649 371 685 372 687 372 743 363 752 361 799 363 802 344 802 320 771 309 770 309 769 309 728 318 723 320 721 318 711 310 711 309 710 309 709 309 685 307 684 307 613 315 572 318 559 314 547 307 545 307 544 307 543 307 533 312 528 315 523 312 514 307 512 307 511 307 510 307 503 311 489 318 453 318 388 307 376 306 375 306 374 306 372 306 372 307 363 316 337 306 336 339 334 358"/></Shape>
+	    <String CONTENT="&quot;Sir John Rhŷs&quot;."
+                    HPOS="334"
+                    VPOS="306"
+                    WIDTH="468"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1824 69 2088 72" 
+                    HPOS="1821"
+                    VPOS="8"
+                    WIDTH="265"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="1823 68 1821 89 1824 92 1825 92 1825 93 1826 93 1828 93 1863 95 1864 95 1897 90 1922 109 1923 109 1924 109 1980 110 1981 110 1982 110 1983 110 1983 109 2005 88 2085 80 2086 71 2085 50 1972 44 1969 40 1928 8 1927 8 1926 8 1861 8 1859 8 1858 8 1823 26 1823 68"/></Shape>
+	    <String CONTENT="Bibliogr."
+                    HPOS="1821"
+                    VPOS="8"
+                    WIDTH="265"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1837 140 2022 140" 
+                    HPOS="1836"
+                    VPOS="98"
+                    WIDTH="185"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1836 139 1836 155 1918 168 1920 168 1921 168 1944 160 1954 168 1955 168 1956 168 1958 168 2021 159 2021 139 2020 118 2001 120 1998 118 1986 109 1985 109 1983 109 1982 109 1981 109 1980 109 1967 118 1965 121 1950 121 1948 118 1918 98 1917 98 1916 98 1878 98 1877 98 1875 98 1836 118 1836 139"/></Shape>
+	    <String CONTENT="Monogr."
+                    HPOS="1836"
+                    VPOS="98"
+                    WIDTH="185"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1823 214 2011 214" 
+                    HPOS="1821"
+                    VPOS="157"
+                    WIDTH="189"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="1821 213 1821 244 1872 244 1879 249 1901 267 1902 267 1904 267 1905 267 1906 267 1933 255 1935 253 1939 255 1960 267 1961 267 1962 267 2010 262 2010 213 2008 165 1980 174 1966 174 1960 168 1949 158 1949 157 1948 157 1947 157 1945 157 1944 157 1928 163 1882 157 1880 157 1879 157 1878 157 1856 174 1853 176 1821 176 1821 213"/></Shape>
+	    <String CONTENT="[ Rhŷs, J"
+                    HPOS="1821"
+                    VPOS="157"
+                    WIDTH="189"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1564 444 2065 447" 
+                    HPOS="1561"
+                    VPOS="408"
+                    WIDTH="503"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1563 442 1561 462 1585 472 1586 472 1587 473 1630 473 1630 472 1631 472 1632 472 1642 464 1648 469 1650 469 1651 469 1652 469 1697 463 1704 463 1712 463 1794 473 1796 473 1828 466 1830 466 1832 466 1866 473 1867 473 1868 473 1880 467 1885 464 1891 467 1909 474 1910 474 1911 474 2063 469 2064 446 2064 420 2042 420 2041 419 2031 410 2030 410 2029 410 1918 410 1917 410 1916 410 1904 415 1896 419 1884 415 1875 413 1874 413 1873 413 1855 414 1825 418 1819 414 1814 409 1813 409 1812 409 1810 409 1785 413 1751 418 1739 412 1731 408 1729 408 1728 408 1695 410 1631 417 1563 408 1563 442"/></Shape>
+	    <String CONTENT="8:o London 1925."
+                    HPOS="1561"
+                    VPOS="408"
+                    WIDTH="503"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="324 550 1837 547" 
+                    HPOS="322"
+                    VPOS="505"
+                    WIDTH="1514"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="323 549 323 569 452 565 478 569 505 572 506 572 532 569 554 565 622 567 722 572 723 572 766 567 777 566 787 567 825 572 826 572 860 566 879 564 941 566 1047 571 1048 571 1117 565 1140 564 1150 565 1179 571 1180 571 1739 570 1740 570 1761 563 1763 563 1835 563 1836 545 1830 507 1818 515 1742 507 1711 505 1710 505 1709 505 1702 507 1686 516 1491 516 1451 507 1435 505 1434 505 1376 507 1219 516 1144 507 1126 506 1125 506 1116 507 1088 515 1071 509 1069 509 1068 509 1067 509 1046 517 959 517 863 507 840 506 839 506 829 507 795 516 765 507 763 507 761 507 760 507 699 507 622 510 620 510 604 517 528 507 520 507 518 507 511 507 469 513 446 507 442 507 441 507 440 507 322 507 323 549"/></Shape>
+	    <String CONTENT="[The Sir John Rhŷs memorial inaugural lecture. ]"
+                    HPOS="322"
+                    VPOS="505"
+                    WIDTH="1514"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="314 643 1866 656" 
+                    HPOS="311"
+                    VPOS="605"
+                    WIDTH="1553"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="312 642 311 675 750 680 752 680 753 680 761 678 803 666 869 678 883 680 884 680 885 680 893 678 933 666 976 673 977 673 979 673 1003 667 1080 668 1110 679 1111 679 1112 679 1113 679 1115 679 1159 668 1241 668 1296 675 1298 675 1299 675 1318 669 1457 669 1472 677 1473 677 1474 677 1475 677 1498 670 1603 672 1631 682 1653 688 1655 688 1722 689 1723 689 1761 682 1807 673 1862 682 1864 655 1864 609 1696 609 1695 609 1678 610 1608 618 1567 610 1554 609 1553 609 1540 612 1464 625 1387 612 1383 612 1382 612 1381 612 1380 612 1345 625 1312 625 1248 613 1230 609 1229 609 1191 613 1158 615 1134 613 1079 605 1078 605 1031 609 1030 609 1019 613 998 621 947 613 925 610 923 610 922 610 909 614 893 618 880 614 871 610 869 610 868 610 867 610 858 614 842 620 809 614 807 614 806 614 795 614 685 619 662 614 623 607 622 607 620 607 598 615 588 619 473 619 466 615 440 605 439 605 437 605 436 605 414 615 412 617 399 615 345 610 344 610 312 615 312 642"/></Shape>
+	    <String CONTENT="Se:Proceedings of the British academy.Vol.11./ Acta"
+                    HPOS="311"
+                    VPOS="605"
+                    WIDTH="1553"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="1757 728 1866 731" 
+                    HPOS="1755"
+                    VPOS="669"
+                    WIDTH="109"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1756 727 1755 734 1809 750 1810 750 1812 750 1813 750 1863 737 1864 729 1864 689 1835 689 1835 688 1815 670 1815 669 1814 669 1813 669 1788 669 1787 669 1786 669 1785 669 1785 670 1767 686 1766 686 1756 686 1756 727"/></Shape>
+	    <String CONTENT="Eng"
+                    HPOS="1755"
+                    VPOS="669"
+                    WIDTH="109"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="1719 838 2022 842" 
+                    HPOS="1717"
+                    VPOS="783"
+                    WIDTH="304"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1717 863 1771 857 1828 857 1834 864 1836 866 1836 867 1837 867 1839 867 1840 867 1867 863 1912 858 1926 863 1939 868 1940 868 1942 868 2020 862 2021 841 2021 788 1960 783 1959 783 1958 783 1956 783 1956 785 1953 787 1934 807 1923 807 1893 804 1870 787 1866 783 1864 783 1863 783 1862 783 1861 783 1846 787 1793 803 1770 796 1769 796 1767 796 1766 796 1744 803 1721 787 1718 837 1717 863"/></Shape>
+	    <String CONTENT="[ London Brit"
+                    HPOS="1717"
+                    VPOS="783"
+                    WIDTH="304"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    
+                    BASELINE="1885 919 2032 916" 
+                    HPOS="1883"
+                    VPOS="866"
+                    WIDTH="148"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1884 918 1884 939 1901 939 1902 940 1910 946 1910 948 1911 948 1912 948 1913 948 1915 948 1932 940 1934 940 1938 942 1962 946 1964 946 2031 943 2031 915 2029 866 2004 866 2003 866 2002 866 2001 866 1991 872 1961 890 1945 881 1929 873 1928 873 1927 873 1926 873 1924 873 1907 888 1902 893 1883 893 1884 918"/></Shape>
+	    <String CONTENT="acad."
+                    HPOS="1883"
+                    VPOS="866"
+                    WIDTH="148"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    
+                    BASELINE="2111 72 2276 77" 
+                    HPOS="2107"
+                    VPOS="18"
+                    WIDTH="168"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="2110 71 2107 130 2137 131 2138 131 2139 131 2150 125 2205 96 2224 96 2246 114 2247 114 2248 114 2250 114 2274 110 2275 76 2275 44 2225 41 2194 18 2193 18 2192 18 2156 18 2155 18 2154 18 2110 36 2110 71"/></Shape>
+	    <String CONTENT="Biogr"
+                    HPOS="2107"
+                    VPOS="18"
+                    WIDTH="168"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13"
+                    
+                    BASELINE="2145 166 2242 163" 
+                    HPOS="2143"
+                    VPOS="132"
+                    WIDTH="100"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="2144 165 2145 229 2162 229 2183 240 2216 257 2218 257 2219 257 2243 256 2241 161 2235 133 2227 141 2219 136 2213 132 2212 132 2210 132 2143 142 2144 165"/></Shape>
+	    <String CONTENT="Eng"
+                    HPOS="2143"
+                    VPOS="132"
+                    WIDTH="100"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

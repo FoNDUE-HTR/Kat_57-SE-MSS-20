@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00165.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2327 1477 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="3 49 277 49" 
+                    HPOS="2"
+                    VPOS="3"
+                    WIDTH="273"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="2 48 2 89 23 96 24 96 25 96 27 96 28 96 33 91 49 78 99 78 108 86 108 87 109 87 110 87 140 89 141 89 142 89 167 78 192 94 193 96 194 96 195 96 197 96 198 96 203 94 222 89 274 96 275 48 275 7 251 3 250 3 248 3 247 3 241 8 230 17 204 17 184 11 162 3 161 3 160 3 158 3 157 3 157 4 149 12 142 19 99 19 94 14 82 3 81 3 80 3 41 3 40 3 39 3 38 3 20 18 19 19 2 19 2 48"/></Shape>
+	    <String CONTENT="[ Herrnhut]"
+                    HPOS="2"
+                    VPOS="3"
+                    WIDTH="273"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="225 167 457 171" 
+                    HPOS="222"
+                    VPOS="131"
+                    WIDTH="234"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="222 205 304 208 305 208 306 208 325 200 341 193 455 193 456 169 455 135 422 141 319 141 304 133 303 133 301 133 300 133 295 133 236 139 226 131 224 166 222 205"/></Shape>
+	    <String CONTENT="BERICHTE"
+                    HPOS="222"
+                    VPOS="131"
+                    WIDTH="234"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="198 278 1916 286" 
+                    HPOS="195"
+                    VPOS="176"
+                    WIDTH="1720"
+                    HEIGHT="139">
+            <Shape><Polygon POINTS="197 277 195 298 237 306 238 306 296 300 429 300 445 307 447 307 448 307 1166 304 1240 311 1241 311 1418 305 1481 312 1483 312 1608 306 1671 314 1672 315 1877 315 1877 314 1914 306 1915 285 1912 252 1802 250 1800 250 1735 257 1661 242 1660 242 1560 256 1522 245 1521 245 1454 245 1453 245 1345 258 1300 257 1267 243 1266 243 1265 243 1186 246 1155 238 1154 238 1152 238 1151 238 1109 251 1008 245 1007 245 881 256 854 247 853 247 852 247 826 252 708 237 588 193 549 178 548 178 197 176 197 277"/></Shape>
+	    <String CONTENT="des theologischen Seminars der Brüdergemeine in Herrnhut."
+                    HPOS="195"
+                    VPOS="176"
+                    WIDTH="1720"
+                    HEIGHT="139"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="202 380 493 380" 
+                    HPOS="200"
+                    VPOS="332"
+                    WIDTH="292"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="200 379 200 396 246 403 247 403 256 403 291 399 304 408 310 413 311 413 312 413 351 421 352 421 353 421 369 416 405 402 431 422 438 428 439 428 440 428 442 429 492 429 492 379 490 338 458 349 447 339 442 336 440 336 439 336 336 332 335 332 305 338 304 338 303 338 303 339 295 346 291 349 268 347 222 343 221 343 220 343 200 349 200 379"/></Shape>
+	    <String CONTENT="H. 12/1934/"
+                    HPOS="200"
+                    VPOS="332"
+                    WIDTH="292"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1363 384 1860 388" 
+                    HPOS="1361"
+                    VPOS="348"
+                    WIDTH="498"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="1362 383 1361 408 1401 412 1402 412 1404 412 1405 412 1409 408 1416 403 1431 408 1437 411 1438 411 1439 411 1455 408 1486 403 1552 408 1592 411 1593 411 1595 411 1603 408 1611 406 1618 408 1643 415 1644 415 1645 416 1733 416 1733 415 1734 415 1735 415 1741 408 1752 416 1754 416 1755 416 1756 417 1846 417 1846 416 1847 416 1848 416 1858 407 1859 387 1859 352 1744 352 1742 352 1741 352 1740 352 1740 353 1729 363 1644 363 1622 353 1612 349 1611 349 1609 349 1608 349 1600 353 1584 362 1547 362 1539 353 1535 351 1535 349 1534 349 1533 349 1532 349 1502 351 1501 351 1500 351 1500 352 1497 354 1490 360 1417 360 1410 354 1402 348 1401 348 1400 348 1399 348 1362 354 1362 383"/></Shape>
+	    <String CONTENT="8:o Breslau 1935"
+                    HPOS="1361"
+                    VPOS="348"
+                    WIDTH="498"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2164 73 2271 78" 
+                    HPOS="2161"
+                    VPOS="1"
+                    WIDTH="109"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="2213 1 2212 1 2162 1 2162 72 2161 91 2267 96 2270 77 2270 17 2245 17 2236 12 2214 1 2213 1"/></Shape>
+	    <String CONTENT="Teol."
+                    HPOS="2161"
+                    VPOS="1"
+                    WIDTH="109"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="2145 150 2289 150" 
+                    HPOS="2144"
+                    VPOS="86"
+                    WIDTH="144"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="2144 149 2144 177 2202 188 2203 188 2288 177 2288 149 2288 100 2261 94 2260 94 2259 94 2257 94 2238 100 2208 87 2207 87 2171 86 2170 86 2169 86 2167 86 2144 99 2144 149"/></Shape>
+	    <String CONTENT="Inst."
+                    HPOS="2144"
+                    VPOS="86"
+                    WIDTH="144"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="198 633 2172 641" 
+                    HPOS="195"
+                    VPOS="596"
+                    WIDTH="1976"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="195 657 2169 662 2171 640 2167 603 2092 608 1838 602 1836 602 1835 602 1731 609 1702 603 1701 603 1609 609 1524 601 1523 601 1522 601 1518 601 1359 608 1229 599 1224 599 1223 599 1220 599 1151 607 1120 599 1119 599 1118 599 885 605 843 598 842 598 841 598 838 598 763 605 720 598 719 598 535 604 396 596 378 596 376 596 367 596 305 602 237 596 232 596 231 596 230 596 213 602 198 596 197 631 195 657"/></Shape>
+	    <String CONTENT="12. Bericht über das theol. Seminar der Brüdergemeine in Herrnhut"
+                    HPOS="195"
+                    VPOS="596"
+                    WIDTH="1976"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="318 734 2311 745" 
+                    HPOS="316"
+                    VPOS="698"
+                    WIDTH="1994"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="317 732 316 755 530 755 538 757 553 762 554 762 555 762 661 758 724 756 737 758 759 763 761 763 824 759 863 757 912 759 982 764 984 764 1040 761 1086 758 1143 762 1203 766 1204 766 1231 762 1257 759 1326 763 1373 766 1374 766 1375 766 1383 763 1400 759 1433 764 1455 767 1457 767 1523 764 1643 761 1667 766 1678 768 1680 768 1705 767 1760 762 1837 767 1872 769 1873 769 1890 768 1933 763 2138 769 2178 771 2180 771 2192 771 2272 764 2308 771 2310 743 2308 710 2002 708 2001 708 2000 708 1999 708 1972 716 1869 716 1830 706 1826 706 1746 706 1745 706 1744 706 1655 714 1443 705 1442 705 1287 711 1209 703 1204 703 1203 703 1194 703 1054 710 974 702 971 702 970 702 966 702 875 709 819 702 817 702 767 709 666 700 665 700 465 706 434 699 433 699 317 698 317 732"/></Shape>
+	    <String CONTENT="Herbst 1926- Ostern 1934. Beigabe: Hochmann von Hochenau (1670-1721"
+                    HPOS="316"
+                    VPOS="698"
+                    WIDTH="1994"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="323 838 2268 849" 
+                    HPOS="321"
+                    VPOS="801"
+                    WIDTH="1946"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="322 837 321 865 383 859 456 868 459 868 460 868 465 868 538 863 572 869 590 872 591 872 607 869 656 860 830 867 831 867 953 862 987 872 1001 875 1002 875 1003 876 1095 876 1095 875 1128 873 1209 864 1274 872 1276 872 1357 864 1459 870 1460 870 1534 865 1606 875 1625 878 1627 878 1644 875 1703 867 1733 876 1741 879 1742 879 2158 881 2159 881 2160 881 2170 879 2202 870 2265 879 2267 848 2265 811 2069 820 2026 810 2023 810 2022 810 2017 810 1942 819 1907 810 1906 810 1905 810 1903 810 1855 815 1820 810 1813 809 1811 809 1787 810 1620 817 1473 809 1465 809 1464 809 1462 809 1414 816 1390 809 1383 806 1382 806 1380 806 1352 809 1274 815 1250 807 1244 806 1242 806 1241 806 1229 807 1188 815 1144 807 1125 805 1024 805 1023 805 1022 805 1013 807 991 814 928 807 915 806 913 806 907 807 880 812 716 812 703 806 692 803 691 803 689 803 629 806 557 811 516 806 476 801 475 801 436 806 401 810 322 806 322 837"/></Shape>
+	    <String CONTENT="Quellenstudien zur Geschichte des Pietismus von H. Renkewitz. 1935."
+                    HPOS="321"
+                    VPOS="801"
+                    WIDTH="1946"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

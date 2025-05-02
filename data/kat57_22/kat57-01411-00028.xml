@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01411-00028.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2332"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="22"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2332"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2330"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2331 1471 2331 1"/></Shape>
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2075 51 2307 54" 
+                    HPOS="2073"
+                    VPOS="1"
+                    WIDTH="233"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="2140 1 2134 1 2122 1 2109 1 2097 1 2096 1 2095 1 2094 1 2074 9 2074 50 2073 109 2128 110 2129 110 2130 110 2156 95 2197 72 2210 84 2211 84 2213 84 2214 84 2305 71 2306 53 2306 13 2284 3 2282 3 2281 3 2280 3 2279 3 2266 13 2228 7 2227 7 2203 12 2194 4 2193 4 2192 4 2190 4 2189 4 2171 12 2170 12 2141 1 2140 1"/></Shape>
+	    <String CONTENT="Kyrkohist."
+                    HPOS="2073"
+                    VPOS="1"
+                    WIDTH="233"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2144 128 2273 134" 
+                    HPOS="2141"
+                    VPOS="74"
+                    WIDTH="130"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="2143 127 2141 145 2194 154 2195 154 2221 149 2227 154 2227 155 2228 155 2230 155 2231 155 2270 147 2271 133 2271 104 2236 99 2213 77 2213 76 2211 76 2210 76 2195 74 2194 74 2193 74 2143 95 2143 127"/></Shape>
+	    <String CONTENT="Sam."
+                    HPOS="2141"
+                    VPOS="74"
+                    WIDTH="130"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="248 231 621 231" 
+                    HPOS="247"
+                    VPOS="180"
+                    WIDTH="373"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="247 230 247 245 445 253 446 253 461 250 480 246 500 251 509 253 510 253 511 253 531 252 582 247 619 253 620 230 620 180 526 180 525 180 523 180 512 185 483 196 364 191 291 188 290 188 247 196 247 230"/></Shape>
+	    <String CONTENT="PIEPER, Karl"
+                    HPOS="247"
+                    VPOS="180"
+                    WIDTH="373"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="241 329 2331 351" 
+                    HPOS="240"
+                    VPOS="279"
+                    WIDTH="2092"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="241 329 240 348 559 362 561 362 615 354 690 364 691 364 827 356 840 356 862 356 1087 367 1089 367 1127 361 1143 369 1145 369 1146 369 1148 369 1180 361 1181 361 1185 361 1324 370 1325 370 1386 362 1395 362 1418 364 1531 370 1533 370 1566 365 1574 364 1581 365 1608 373 1609 373 1611 373 1695 367 1716 365 1748 367 1887 377 1889 377 2332 373 2331 351 2331 313 2262 314 2243 311 2203 302 2201 302 2200 302 2179 309 2170 314 2069 314 2055 308 2035 300 2034 300 2032 300 1960 306 1898 311 1874 305 1868 303 1866 303 1865 303 1814 303 1606 308 1537 300 1491 294 1277 290 1276 290 1221 294 1145 300 1114 292 1100 289 1098 289 1097 289 1078 292 1027 302 913 292 912 292 849 300 770 287 758 286 757 286 749 287 695 298 583 298 519 282 514 282 513 282 492 282 348 287 241 279 241 329"/></Shape>
+	    <String CONTENT="Die Kirche Palästinas bis zum Jare 135. Ihre äussere Geschichte und in"
+                    HPOS="240"
+                    VPOS="279"
+                    WIDTH="2092"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="243 429 2104 450" 
+                    HPOS="241"
+                    VPOS="393"
+                    WIDTH="1862"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="242 428 241 450 769 455 787 457 899 466 900 466 959 458 967 458 976 460 1030 467 1031 467 1172 462 1200 461 1224 462 1337 471 1483 472 1484 472 1528 466 1539 464 1543 466 1560 473 1561 473 1562 473 2102 472 2103 448 2102 424 1972 414 1971 414 1970 414 1951 420 1949 421 1918 420 1822 415 1821 415 1799 418 1786 420 1776 418 1752 412 1751 412 1750 412 1722 417 1711 419 1699 417 1664 409 1663 409 1662 409 1636 415 1626 418 1605 415 1571 410 1570 410 1528 414 1494 417 1470 413 1441 408 1440 408 1402 412 1365 415 1300 410 1227 404 1226 404 1225 404 1209 409 1192 414 1131 414 1115 407 1107 404 1106 404 1105 404 1104 404 1096 407 1083 413 1010 413 935 404 899 401 830 401 829 401 828 401 823 402 801 409 766 402 756 399 755 399 745 401 709 408 617 408 577 398 570 397 569 397 540 398 377 404 329 394 328 394 242 393 242 428"/></Shape>
+	    <String CONTENT="innerer Zustand. Ein Beitraf zur Erkenntnis des Urchristentums."
+                    HPOS="241"
+                    VPOS="393"
+                    WIDTH="1862"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1430 547 1865 550" 
+                    HPOS="1427"
+                    VPOS="510"
+                    WIDTH="437"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1429 545 1427 563 1484 576 1485 577 1529 577 1529 576 1530 576 1553 567 1560 565 1568 569 1591 577 1592 577 1593 577 1657 571 1713 566 1723 574 1728 578 1729 578 1730 578 1732 578 1733 578 1734 578 1739 575 1743 572 1779 576 1808 578 1809 578 1810 578 1811 578 1811 577 1813 577 1819 571 1862 578 1864 549 1864 525 1841 525 1840 523 1824 512 1822 512 1821 512 1820 512 1784 517 1718 511 1717 511 1667 521 1615 511 1614 511 1613 511 1611 511 1603 517 1580 511 1578 511 1577 511 1576 511 1575 511 1560 521 1557 522 1485 522 1483 520 1470 510 1469 510 1468 510 1467 510 1465 510 1464 510 1452 520 1449 521 1429 520 1429 545"/></Shape>
+	    <String CONTENT="8:o Köln 1938."
+                    HPOS="1427"
+                    VPOS="510"
+                    WIDTH="437"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="240 632 2192 657" 
+                    HPOS="237"
+                    VPOS="594"
+                    WIDTH="1953"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="239 631 237 669 353 674 354 674 355 674 366 672 387 667 444 673 474 675 475 675 477 675 485 673 505 668 533 674 549 677 759 678 760 678 781 677 920 668 958 679 966 682 967 682 1034 683 1035 683 1047 680 1080 673 1121 682 1134 684 1135 684 1153 682 1182 678 1256 682 1257 682 1258 682 1280 674 1300 680 1301 680 1302 680 1365 674 1697 677 1789 682 1809 690 1814 693 1815 693 1816 693 1844 691 1976 682 2027 694 2037 695 2129 696 2130 696 2132 696 2136 695 2160 688 2187 695 2190 656 2189 624 1993 615 1992 615 1990 615 1971 620 1962 623 1678 620 1658 617 1605 610 1604 610 1603 610 1588 617 1582 618 1475 618 1469 614 1454 609 1453 609 1452 609 1422 614 1413 615 1218 615 1187 612 1117 604 1116 604 1089 610 1080 612 850 610 818 607 727 599 726 599 609 604 576 605 522 603 336 594 334 594 239 599 239 631"/></Shape>
+	    <String CONTENT="Se: Palästina-Hefte des Deutschen Vereins vom Heiligen Lande. H. 16."
+                    HPOS="237"
+                    VPOS="594"
+                    WIDTH="1953"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="2048 745 2270 748" 
+                    HPOS="2046"
+                    VPOS="688"
+                    WIDTH="223"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="2047 744 2046 756 2160 764 2167 771 2167 772 2168 772 2170 772 2171 774 2249 774 2249 772 2251 772 2268 764 2269 747 2268 696 2235 690 2233 690 2232 690 2214 697 2206 700 2199 697 2177 689 2176 689 2174 689 2173 689 2139 699 2129 702 2125 700 2114 689 2114 688 2113 688 2112 688 2097 688 2096 688 2095 688 2094 688 2071 701 2069 702 2047 702 2047 744"/></Shape>
+	    <String CONTENT="Kyrkohist"
+                    HPOS="2046"
+                    VPOS="688"
+                    WIDTH="223"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="2095 817 2249 817" 
+                    HPOS="2094"
+                    VPOS="765"
+                    WIDTH="154"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="2094 816 2094 834 2171 842 2172 842 2173 842 2174 842 2182 835 2201 842 2203 842 2204 842 2248 835 2248 816 2246 774 2217 787 2205 777 2198 771 2197 771 2195 771 2150 765 2149 765 2147 765 2146 765 2123 785 2119 788 2094 788 2094 816"/></Shape>
+	    <String CONTENT="Sällsk"
+                    HPOS="2094"
+                    VPOS="765"
+                    WIDTH="154"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="2154 887 2224 884" 
+                    HPOS="2149"
+                    VPOS="826"
+                    WIDTH="73"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="2152 886 2152 905 2222 890 2222 883 2219 839 2198 826 2197 826 2195 826 2194 826 2193 826 2149 842 2152 886"/></Shape>
+	    <String CONTENT="Ty"
+                    HPOS="2149"
+                    VPOS="826"
+                    WIDTH="73"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

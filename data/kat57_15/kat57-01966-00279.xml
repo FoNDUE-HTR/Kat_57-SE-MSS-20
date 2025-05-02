@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01966-00279.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1488"
+          PHYSICAL_IMG_NR="31"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1488">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1486"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1487 2315 1487 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2093 114 2266 108" 
+                    HPOS="2091"
+                    VPOS="69"
+                    WIDTH="174"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="2092 112 2092 126 2250 131 2251 131 2252 131 2253 131 2253 130 2265 119 2265 107 2263 80 2245 69 2244 69 2242 69 2220 69 2219 69 2218 69 2216 69 2201 83 2162 83 2142 71 2141 71 2139 71 2138 71 2137 71 2091 84 2092 112"/></Shape>
+	    <String CONTENT="Hud."
+                    HPOS="2091"
+                    VPOS="69"
+                    WIDTH="174"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2082 52 2258 52" 
+                    HPOS="2081"
+                    VPOS="4"
+                    WIDTH="176"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="2081 50 2081 60 2107 70 2108 70 2110 70 2139 65 2163 75 2164 75 2165 76 2224 76 2224 75 2225 75 2226 75 2226 74 2241 62 2257 62 2257 50 2256 14 2188 18 2173 9 2163 4 2162 4 2160 4 2081 4 2081 50"/></Shape>
+	    <String CONTENT="Med,"
+                    HPOS="2081"
+                    VPOS="4"
+                    WIDTH="176"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="206 196 1087 200" 
+                    HPOS="204"
+                    VPOS="148"
+                    WIDTH="882"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="205 195 204 204 254 220 255 220 256 220 258 220 286 213 308 220 310 220 311 220 370 214 447 223 449 223 450 223 451 223 471 208 473 207 498 207 502 208 542 226 543 226 544 228 597 228 597 226 599 226 630 214 659 223 661 223 662 223 663 223 699 210 708 208 833 208 838 212 859 228 860 228 862 228 863 229 915 229 915 228 916 228 953 214 955 213 956 214 970 220 971 220 972 220 1009 219 1024 228 1025 228 1027 228 1028 228 1029 228 1054 221 1063 228 1064 228 1065 228 1066 229 1066 228 1068 228 1069 228 1085 215 1086 199 1084 152 1014 173 1007 166 1006 166 1004 166 1003 166 981 166 962 152 961 152 960 152 945 151 874 151 873 151 872 151 870 151 855 164 806 173 752 151 751 151 750 151 746 151 647 162 616 151 614 150 612 150 543 150 542 150 540 150 539 150 499 172 333 172 303 168 281 150 281 148 280 148 279 148 277 148 205 148 205 195"/></Shape>
+	    <String CONTENT="Unna P[aul] G[erson]"
+                    HPOS="204"
+                    VPOS="148"
+                    WIDTH="882"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="204 286 1146 286" 
+                    HPOS="203"
+                    VPOS="249"
+                    WIDTH="941"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="203 285 203 302 241 311 243 311 244 311 262 303 290 311 291 311 292 312 586 312 586 311 587 311 589 311 597 305 600 303 619 305 679 311 681 311 709 306 721 303 1143 307 1144 285 1144 269 1102 266 1079 249 1077 249 1076 249 1046 249 1045 249 1044 249 1043 249 1018 267 966 266 940 252 939 252 937 252 936 252 935 252 920 264 862 267 816 251 815 251 750 249 749 249 748 249 746 249 723 267 674 261 673 261 672 261 653 266 641 259 640 259 638 259 637 259 636 259 602 269 516 269 499 257 498 257 497 257 496 257 466 264 439 249 437 249 387 249 385 249 384 249 383 249 360 267 325 267 287 249 286 249 243 249 241 249 240 249 239 249 215 269 203 269 203 285"/></Shape>
+	    <String CONTENT="Das Ekzem im Kinderalter."
+                    HPOS="203"
+                    VPOS="249"
+                    WIDTH="941"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1685 365 2143 371" 
+                    HPOS="1683"
+                    VPOS="328"
+                    WIDTH="459"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1684 364 1683 379 1958 388 1959 388 2013 381 2017 381 2019 381 2049 389 2050 389 2051 389 2141 381 2142 370 2142 347 2056 333 2055 333 2054 333 2033 344 2031 345 1981 345 1979 344 1967 333 1966 333 1964 333 1963 333 1879 343 1871 343 1869 343 1838 329 1837 329 1790 329 1788 329 1787 329 1786 329 1777 336 1767 328 1766 328 1765 328 1763 328 1684 339 1684 364"/></Shape>
+	    <String CONTENT="8º Berlin 1884"
+                    HPOS="1683"
+                    VPOS="328"
+                    WIDTH="459"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="198 456 2273 451" 
+                    HPOS="195"
+                    VPOS="406"
+                    WIDTH="2077"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="197 455 197 494 332 493 409 478 522 491 523 491 524 491 585 476 702 483 703 483 757 476 913 482 914 482 1034 474 1089 483 1090 483 1234 473 1267 482 1269 482 1270 482 1452 473 1553 486 1554 486 1628 473 1708 492 1709 492 1710 492 1782 492 1956 491 2039 477 2088 478 2122 491 2123 491 2124 492 2271 492 2272 450 2270 422 2177 406 2175 406 2113 419 2049 419 2048 419 2046 419 2041 420 2017 429 1919 420 1865 415 1864 415 1863 415 1849 419 1819 429 1770 419 1762 417 1761 417 1749 419 1703 424 1664 417 1658 417 1657 417 1656 417 1653 417 1622 426 1540 425 1507 416 1474 410 1473 410 1443 416 1384 430 1319 427 1288 415 1286 415 1285 415 1283 415 1280 415 1214 431 1053 425 984 414 960 410 958 410 957 410 945 412 879 430 821 424 819 424 693 432 600 414 599 414 568 420 499 415 498 415 437 425 374 409 364 407 363 407 195 407 197 455"/></Shape>
+	    <String CONTENT="[Separat-Abdruck aus &quot;Deutsche Medizinal-Zeitung&quot;1884.No 43-47.]"
+                    HPOS="195"
+                    VPOS="406"
+                    WIDTH="2077"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="479 700 1285 709" 
+                    HPOS="477"
+                    VPOS="660"
+                    WIDTH="806"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="478 699 477 717 503 729 504 729 506 729 592 719 628 735 630 735 631 735 685 725 703 726 713 737 713 739 714 739 715 739 717 740 805 740 805 739 806 739 807 739 822 725 849 739 850 739 852 739 853 739 893 726 908 737 909 737 910 737 911 737 970 724 1022 741 1023 741 1024 741 1025 741 1061 729 1079 742 1080 742 1081 742 1082 744 1149 744 1149 742 1151 742 1152 742 1172 727 1199 737 1200 737 1202 737 1203 737 1225 726 1282 726 1283 708 1281 680 1270 682 1267 680 1254 668 1252 668 1251 668 1120 667 1118 667 1117 667 1095 679 1089 683 1086 679 1082 677 1082 675 1081 675 1080 675 1079 675 1077 675 1065 679 1059 680 1056 679 1039 665 1038 665 1037 665 993 665 992 665 991 665 955 678 950 680 947 678 942 674 942 673 941 673 940 673 939 673 937 673 936 673 929 678 926 679 915 678 863 673 862 673 860 673 841 678 829 680 827 678 821 673 819 673 818 673 817 673 816 673 815 673 815 674 810 678 808 680 755 680 751 678 731 663 730 663 729 663 728 663 726 663 725 663 702 678 699 679 637 679 633 677 589 660 587 660 586 660 540 670 525 660 524 660 523 660 522 660 521 660 478 675 478 699"/></Shape>
+	    <String CONTENT="8º Hamburg und Leipzig 1886."
+                    HPOS="477"
+                    VPOS="660"
+                    WIDTH="806"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

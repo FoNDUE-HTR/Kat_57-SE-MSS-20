@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01198-00297.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="44"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2311 1477 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="227 196 956 190" 
+                    HPOS="225"
+                    VPOS="149"
+                    WIDTH="730"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="226 195 226 225 461 229 463 229 464 229 465 229 465 227 474 220 484 211 503 218 505 218 506 218 507 218 521 211 534 219 538 220 539 220 540 220 541 220 545 219 562 210 580 218 583 219 585 219 586 219 587 219 592 218 618 210 625 216 626 216 628 216 629 218 704 218 704 216 705 216 707 216 708 215 715 209 724 215 725 215 726 215 727 215 737 214 776 209 792 213 808 218 809 218 810 218 840 211 862 208 868 211 873 215 874 215 875 215 877 215 878 215 879 215 885 211 890 208 895 210 909 219 910 219 911 219 912 219 955 209 955 189 952 160 879 161 877 160 863 149 862 149 860 149 837 149 836 149 835 149 833 149 821 158 763 150 762 150 761 150 759 150 759 151 750 160 747 162 731 160 697 156 695 156 662 161 641 163 636 161 630 156 629 156 628 156 626 156 625 156 624 156 618 161 614 163 608 161 596 156 594 156 593 156 592 156 581 161 576 165 533 165 530 161 521 153 521 152 519 152 518 152 517 152 516 152 495 161 486 166 449 166 444 162 433 152 432 152 431 152 370 152 369 152 368 152 335 161 323 153 322 153 321 153 284 153 283 153 225 162 226 195"/></Shape>
+	    <String CONTENT="MEYNELL, Laurence Walter"
+                    HPOS="225"
+                    VPOS="149"
+                    WIDTH="730"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="214 292 1579 296" 
+                    HPOS="211"
+                    VPOS="241"
+                    WIDTH="1366"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="213 291 211 319 506 326 507 326 583 320 626 316 657 320 718 327 719 327 756 320 763 319 771 320 789 323 790 323 792 323 805 320 815 317 1002 317 1008 320 1019 326 1021 326 1022 326 1063 320 1082 317 1098 320 1143 328 1144 330 1335 330 1335 328 1393 320 1407 319 1423 320 1486 328 1487 328 1576 320 1577 295 1575 245 1377 247 1375 247 1325 264 1285 264 1242 250 1241 250 1240 250 1203 258 1183 252 1182 252 1181 252 1180 252 1156 264 1123 264 1050 256 1049 256 1003 262 952 243 950 243 949 243 808 259 793 253 792 253 646 250 645 250 603 257 566 251 565 251 564 251 538 261 502 254 501 254 500 254 481 262 311 262 274 242 273 242 213 241 213 291"/></Shape>
+	    <String CONTENT="Penny triumferar. Av A. Stephen Tring /pseud./"
+                    HPOS="211"
+                    VPOS="241"
+                    WIDTH="1366"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1977 69 2237 69" 
+                    HPOS="1976"
+                    VPOS="13"
+                    WIDTH="260"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="1976 68 1976 83 2020 86 2028 94 2028 96 2029 96 2031 96 2032 96 2033 96 2050 88 2084 99 2085 99 2086 99 2087 99 2113 93 2165 99 2166 99 2167 99 2169 99 2178 92 2193 99 2194 99 2196 99 2197 99 2198 99 2198 98 2209 87 2236 83 2236 68 2236 34 2224 22 2224 20 2223 20 2222 20 2220 20 2207 22 2206 22 2204 22 2193 32 2176 48 2156 48 2133 27 2132 25 2130 25 2129 25 2128 25 2127 25 2126 25 2100 48 2063 48 2032 18 2028 14 2028 13 2027 13 2026 13 1976 13 1976 68"/></Shape>
+	    <String CONTENT="Underv"
+                    HPOS="1976"
+                    VPOS="13"
+                    WIDTH="260"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1969 157 2189 157" 
+                    HPOS="1968"
+                    VPOS="105"
+                    WIDTH="220"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1968 156 1968 182 2032 188 2033 188 2034 188 2045 184 2055 181 2066 184 2076 188 2077 188 2079 188 2101 185 2132 181 2139 185 2142 188 2143 188 2144 188 2145 188 2156 187 2176 182 2186 187 2188 156 2188 105 2167 105 2166 105 2165 105 2164 105 2162 107 2140 126 2053 126 2039 115 2027 105 2026 105 2025 105 1995 105 1994 105 1992 105 1991 105 1968 119 1968 156"/></Shape>
+	    <String CONTENT="Barnb."
+                    HPOS="1968"
+                    VPOS="105"
+                    WIDTH="220"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="995 393 2085 401" 
+                    HPOS="992"
+                    VPOS="351"
+                    WIDTH="1092"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="992 419 1049 424 1050 424 1074 422 1125 416 1168 424 1184 427 1186 427 1216 426 1265 422 1278 427 1389 469 1390 469 1630 470 1632 470 1633 470 1697 437 1701 436 1751 422 1795 438 1805 442 1806 442 1827 443 1829 443 1830 443 1831 443 1837 439 1864 423 1882 429 1883 429 1884 429 1946 427 1968 438 1969 438 1970 438 1972 438 1996 426 2029 426 2080 444 2084 400 2084 367 2027 353 2026 353 1986 358 1794 352 1793 352 1792 352 1790 352 1777 362 1776 363 1714 365 1689 360 1641 351 1640 351 1572 359 1529 364 1496 358 1458 351 1457 351 1455 351 1454 351 1446 357 1443 359 1372 364 1362 358 1361 358 1359 358 1358 358 1317 363 1283 357 1282 357 1202 363 1170 353 1168 353 1167 353 1166 353 1165 353 1164 353 1133 363 1061 363 1035 353 1034 353 1033 353 1032 353 1008 359 996 351 994 392 992 419"/></Shape>
+	    <String CONTENT="8:o Stockholm /tr. i Uddevalla/ 1957."
+                    HPOS="992"
+                    VPOS="351"
+                    WIDTH="1092"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="219 500 1276 495" 
+                    HPOS="216"
+                    VPOS="453"
+                    WIDTH="1058"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="218 498 218 525 284 525 286 525 312 540 314 540 315 540 316 540 317 540 338 528 357 535 358 535 359 535 360 535 384 529 405 538 406 538 407 538 408 538 428 527 433 524 530 524 539 528 582 551 583 551 585 553 700 553 700 551 702 551 740 530 747 527 843 524 874 533 881 534 883 534 884 534 885 534 891 533 925 523 949 533 971 543 973 543 1017 549 1018 549 1019 549 1056 537 1093 549 1095 549 1096 550 1242 550 1242 549 1244 549 1274 537 1274 493 1269 453 1240 465 1165 459 1164 459 1128 465 1097 455 1095 455 1093 455 1092 455 1087 455 1040 465 1019 459 1018 459 1017 459 948 466 905 460 904 460 828 466 808 460 784 454 783 454 782 454 755 456 753 456 752 456 745 461 737 468 725 463 710 456 709 456 708 456 707 456 684 463 667 469 583 469 577 465 559 455 557 455 493 455 492 455 352 469 346 469 343 469 296 456 295 456 246 456 245 456 243 456 216 469 218 498"/></Shape>
+	    <String CONTENT="/Översättning: Ingegerd Lindström./"
+                    HPOS="216"
+                    VPOS="453"
+                    WIDTH="1058"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

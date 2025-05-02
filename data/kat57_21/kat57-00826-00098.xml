@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00826-00098.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="38"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2323 1471 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="206 223 1212 227" 
+                    HPOS="204"
+                    VPOS="152"
+                    WIDTH="1007"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="204 222 206 245 240 236 398 236 418 245 419 245 420 245 422 245 439 236 501 236 521 237 548 256 571 271 573 271 574 271 575 271 576 271 608 257 636 245 660 258 682 272 683 272 684 272 685 272 687 272 710 260 721 255 728 261 733 264 734 264 736 264 737 264 764 263 781 276 782 276 784 276 785 277 916 277 916 276 917 276 919 276 931 267 942 258 964 264 965 264 966 264 968 264 969 264 998 245 1038 269 1047 277 1049 277 1050 277 1051 278 1068 278 1068 277 1069 277 1082 271 1130 247 1182 274 1188 277 1190 277 1191 277 1209 274 1211 226 1211 160 1197 155 1196 155 1195 155 1193 155 1184 161 1137 187 1119 179 1117 179 1116 179 1092 184 1044 159 1042 159 1041 159 1040 159 1039 159 1038 159 987 190 960 190 937 177 936 177 934 177 933 177 917 185 872 158 866 154 865 154 863 154 847 154 846 154 845 154 838 158 777 188 725 188 677 170 676 170 674 170 673 170 624 184 570 155 566 153 565 153 514 153 512 153 511 153 510 153 509 154 455 186 369 185 323 152 322 152 321 152 204 152 204 222"/></Shape>
+	    <String CONTENT="Jaberg, K[arl] &amp; Jud, J[acob]"
+                    HPOS="204"
+                    VPOS="152"
+                    WIDTH="1007"
+                    HEIGHT="126"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2118 48 2294 53" 
+                    HPOS="2116"
+                    VPOS="1"
+                    WIDTH="177"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="2160 1 2159 1 2117 3 2117 47 2116 87 2163 89 2164 89 2165 89 2166 89 2173 84 2193 68 2290 77 2293 52 2293 9 2276 6 2274 6 2273 6 2251 8 2206 15 2177 6 2162 1 2160 1"/></Shape>
+	    <String CONTENT="Språkv"
+                    HPOS="2116"
+                    VPOS="1"
+                    WIDTH="177"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2162 105 2243 105" 
+                    HPOS="2160"
+                    VPOS="57"
+                    WIDTH="81"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="2160 104 2160 122 2175 130 2176 130 2177 130 2179 130 2192 125 2200 122 2240 128 2241 104 2241 63 2224 57 2223 57 2222 57 2160 69 2160 104"/></Shape>
+	    <String CONTENT="It."
+                    HPOS="2160"
+                    VPOS="57"
+                    WIDTH="81"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="229 325 2313 329" 
+                    HPOS="227"
+                    VPOS="262"
+                    WIDTH="2085"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="228 323 227 349 261 347 287 352 337 360 338 361 550 361 550 360 552 360 580 352 592 348 665 347 707 353 737 356 738 356 768 353 842 343 928 352 930 352 975 342 1169 339 1214 354 1220 356 1222 356 1223 358 1274 358 1274 356 1276 356 1282 355 1310 347 1377 349 1379 349 1380 349 1407 341 1565 347 1566 347 1650 341 1736 348 1737 348 1789 341 1804 347 1806 347 1807 347 1879 342 1938 354 1939 354 2043 348 2079 358 2104 364 2105 364 2106 364 2158 358 2173 356 2310 358 2312 328 2310 267 2265 277 2176 271 2175 271 2105 287 1932 267 1676 266 1674 266 1673 266 1587 293 1543 290 1478 268 1477 268 1425 266 1424 266 1423 266 1341 294 1272 294 1182 293 1131 276 1130 276 1128 276 1127 276 1069 291 963 290 919 274 917 274 916 274 915 274 861 291 752 291 682 277 681 277 679 277 628 290 587 284 586 284 428 290 342 263 341 263 228 262 228 323"/></Shape>
+	    <String CONTENT="Der Sprachatlas als Forschungsinstrument. Kritische Grund-"
+                    HPOS="227"
+                    VPOS="262"
+                    WIDTH="2085"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="243 413 2268 418" 
+                    HPOS="241"
+                    VPOS="359"
+                    WIDTH="2026"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="242 412 241 448 296 442 337 448 338 448 339 448 381 436 407 444 408 444 409 444 411 444 450 433 512 442 514 442 604 433 663 448 707 460 709 460 884 461 885 461 887 461 926 447 965 450 966 450 968 450 980 446 1024 434 1060 434 1093 445 1094 445 1095 445 1096 445 1125 436 1222 440 1223 440 1252 434 1293 445 1355 462 1357 462 1358 463 1558 463 1558 462 1644 442 1679 435 1723 442 1742 445 1743 445 1768 442 1796 439 1811 442 1828 446 1829 446 1830 446 1831 446 1845 441 1851 440 1869 441 1971 452 1973 452 2030 441 2030 440 2266 439 2267 417 2266 364 2128 364 2127 364 2073 371 1912 364 1911 364 1764 396 1657 365 1656 365 1655 365 1654 365 1560 394 1490 394 1457 386 1456 386 1455 386 1454 386 1422 396 1261 396 1245 388 1244 388 1242 388 981 393 898 369 896 369 895 369 833 377 748 360 747 360 639 361 638 361 541 393 403 393 304 360 303 360 242 359 242 412"/></Shape>
+	    <String CONTENT="legung und Einführung in den Sprach- und Sachatlas"
+                    HPOS="241"
+                    VPOS="359"
+                    WIDTH="2026"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="236 517 1368 511" 
+                    HPOS="234"
+                    VPOS="477"
+                    WIDTH="1132"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="235 516 235 556 319 539 468 555 469 555 552 547 571 554 573 554 574 554 575 554 623 538 692 548 693 548 809 537 840 548 841 548 842 548 844 548 874 537 912 543 914 543 915 543 937 536 1011 538 1028 548 1029 548 1030 548 1089 543 1119 550 1120 550 1121 550 1122 550 1152 543 1176 555 1177 555 1179 555 1184 555 1236 549 1249 555 1250 555 1251 555 1252 555 1366 554 1366 510 1363 489 1282 494 1272 489 1263 485 1262 485 1261 485 1260 485 1249 489 1239 493 1230 490 1196 477 1195 477 1138 477 1137 477 1136 477 1135 477 1125 484 1050 478 1049 478 1047 478 1046 478 1025 491 1019 496 1001 496 992 491 960 479 959 479 958 479 957 479 955 479 934 493 928 496 893 496 869 496 865 493 842 479 841 479 840 479 785 479 784 479 782 479 744 494 743 495 742 494 720 479 719 479 717 479 687 479 685 479 684 479 655 495 649 499 473 499 472 498 450 486 449 486 447 486 446 486 445 486 430 498 424 498 398 499 396 498 375 486 374 486 373 486 371 486 328 499 325 500 234 500 235 516"/></Shape>
+	    <String CONTENT="Italiens und der Südschweiz"
+                    HPOS="234"
+                    VPOS="477"
+                    WIDTH="1132"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1510 601 2128 606" 
+                    HPOS="1508"
+                    VPOS="539"
+                    WIDTH="619"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="1509 599 1508 617 1526 618 1536 628 1536 629 1537 629 1538 629 1539 629 1541 629 1560 619 1597 619 1628 619 1639 630 1639 631 1640 631 1641 631 1642 631 1644 631 1645 631 1657 621 1674 636 1676 636 1677 636 1678 636 1679 636 1715 626 1728 636 1730 636 1731 636 1824 637 1825 637 1827 637 1828 637 1828 636 1836 628 1908 623 1914 623 1930 637 1930 639 1931 639 1932 639 2046 640 2047 640 2049 640 2070 630 2079 635 2081 635 2082 635 2126 625 2127 605 2123 549 2070 570 2046 560 2045 560 2044 560 2014 565 2001 552 2000 552 2000 550 1998 550 1997 550 1996 550 1995 550 1989 553 1975 558 1968 553 1960 548 1959 548 1958 548 1957 548 1955 548 1954 548 1947 554 1920 574 1882 574 1867 572 1850 556 1836 545 1836 544 1835 544 1834 544 1833 544 1831 544 1811 550 1803 544 1802 544 1801 544 1800 544 1798 544 1797 544 1780 556 1759 539 1758 539 1757 539 1687 539 1685 539 1684 539 1683 539 1683 540 1662 561 1652 571 1634 571 1582 570 1574 564 1546 542 1544 542 1543 542 1542 542 1541 542 1539 542 1509 561 1509 599"/></Shape>
+	    <String CONTENT="8º Halle 1928."
+                    HPOS="1508"
+                    VPOS="539"
+                    WIDTH="619"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

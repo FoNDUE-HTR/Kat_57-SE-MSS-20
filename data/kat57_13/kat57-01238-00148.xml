@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00148.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1476"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1476">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1474"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1475 2311 1475 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="35 73 359 68" 
+                    HPOS="33"
+                    VPOS="13"
+                    WIDTH="325"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="34 72 34 93 127 86 148 95 150 95 151 95 152 95 177 87 203 97 210 99 211 99 212 99 214 99 215 99 217 97 243 78 280 78 311 98 312 98 313 98 314 99 356 99 358 67 356 47 317 19 316 19 314 19 313 19 312 19 311 19 281 41 271 49 172 41 171 41 169 41 168 41 162 47 141 29 125 14 125 13 124 13 123 13 121 13 33 18 34 72"/></Shape>
+	    <String CONTENT="[Stevens, W."
+                    HPOS="33"
+                    VPOS="13"
+                    WIDTH="325"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1671 89 1748 82" 
+                    HPOS="1667"
+                    VPOS="33"
+                    WIDTH="81"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1670 88 1670 100 1700 107 1701 107 1702 107 1704 107 1712 99 1714 99 1748 99 1747 81 1741 33 1710 33 1709 33 1707 33 1706 33 1706 34 1686 54 1680 60 1667 60 1670 88"/></Shape>
+	    <String CONTENT="/Br."
+                    HPOS="1667"
+                    VPOS="33"
+                    WIDTH="81"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1920 73 2149 68" 
+                    HPOS="1918"
+                    VPOS="24"
+                    WIDTH="230"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="1919 72 1919 87 1947 84 1957 87 1982 95 1983 95 1984 95 1985 95 2006 87 2036 114 2036 115 2037 115 2038 115 2040 116 2089 116 2089 115 2090 115 2091 115 2091 114 2116 92 2148 79 2148 67 2144 43 2086 46 2081 44 2040 25 2038 25 2037 25 2036 25 2035 25 2021 38 1976 24 1974 24 1973 24 1949 25 1947 25 1946 25 1918 45 1919 72"/></Shape>
+	    <String CONTENT="Bibliogr."
+                    HPOS="1918"
+                    VPOS="24"
+                    WIDTH="230"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1942 143 2133 146" 
+                    HPOS="1940"
+                    VPOS="103"
+                    WIDTH="192"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1941 142 1940 166 1950 170 1951 170 1952 170 1976 166 1988 163 1993 167 2033 201 2035 201 2036 201 2037 202 2074 202 2074 201 2075 201 2076 201 2076 200 2107 170 2129 170 2132 145 2132 126 2108 115 2107 115 2106 115 2105 115 2083 126 2083 127 2051 127 2049 126 2014 103 2013 103 2011 103 1976 103 1974 103 1973 103 1972 103 1972 104 1951 125 1950 125 1941 125 1941 142"/></Shape>
+	    <String CONTENT="Monogr"
+                    HPOS="1940"
+                    VPOS="103"
+                    WIDTH="192"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="231 237 848 234" 
+                    HPOS="228"
+                    VPOS="195"
+                    WIDTH="619"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="230 236 230 264 393 269 394 269 396 269 397 269 410 260 423 253 483 259 524 263 525 263 526 263 538 258 545 255 551 258 563 261 564 261 566 261 599 257 631 252 681 252 685 254 692 260 693 260 695 260 696 260 697 260 712 254 718 252 728 254 765 261 766 261 767 261 769 261 778 253 793 259 794 259 796 259 846 250 847 233 846 206 815 196 814 196 813 196 812 196 778 205 740 195 739 195 738 195 706 201 682 195 681 195 680 195 629 205 609 195 607 195 606 195 580 196 579 196 578 196 578 198 569 206 527 206 510 198 509 198 508 198 506 198 484 205 462 196 461 196 460 196 458 196 457 196 441 207 401 207 387 196 386 196 385 196 360 196 359 196 358 196 328 206 312 196 311 196 310 196 308 196 307 196 306 196 306 198 300 202 295 199 294 199 292 199 291 199 228 207 230 236"/></Shape>
+	    <String CONTENT="MORSE, Samuel French"
+                    HPOS="228"
+                    VPOS="195"
+                    WIDTH="619"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="226 338 2241 327" 
+                    HPOS="223"
+                    VPOS="292"
+                    WIDTH="2017"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="225 337 225 355 385 362 386 362 452 355 456 355 465 355 657 361 658 361 713 354 718 354 728 354 841 360 842 360 1118 359 1119 359 1144 353 1149 351 1182 353 1325 357 1326 357 1411 351 1433 350 1450 351 1507 356 1508 356 1509 356 1524 351 1528 350 1561 351 1695 355 1696 355 2240 348 2240 325 2235 292 2217 301 2140 301 2068 293 2047 292 2046 292 2044 292 2038 293 2011 301 1931 295 1923 295 1921 295 1920 295 1919 295 1901 301 1882 295 1876 293 1875 293 1873 293 1730 295 1717 297 1689 302 1574 298 1506 296 1504 296 1503 296 1492 298 1474 303 1332 301 1186 297 1184 297 1146 302 1114 306 1065 303 997 298 996 298 972 303 959 306 946 303 910 298 909 298 908 298 893 305 885 307 831 305 762 302 761 302 604 307 551 308 545 307 510 301 509 301 455 308 442 309 412 308 242 302 241 302 239 302 223 308 225 337"/></Shape>
+	    <String CONTENT="Wallace Stevens. A preliminary checklist of his published writings:"
+                    HPOS="223"
+                    VPOS="292"
+                    WIDTH="2017"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="233 440 2246 426" 
+                    HPOS="231"
+                    VPOS="396"
+                    WIDTH="2014"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="232 439 232 464 1513 451 2245 451 2245 425 2243 399 2099 396 2097 396 2053 400 2035 402 2030 400 2016 396 2015 396 2014 396 2013 396 1999 400 1994 402 1979 400 1928 396 1926 396 1925 396 1909 400 1907 403 1770 403 1759 402 1710 397 1709 397 1675 403 1672 403 1663 403 1589 398 1588 398 1587 398 1571 404 1567 405 1407 405 1397 405 1333 398 1332 398 1331 398 1312 405 1309 408 1230 408 1219 407 1149 399 1148 399 992 408 960 410 851 410 849 409 821 402 820 402 819 402 786 409 780 410 753 409 599 403 597 403 553 412 547 412 534 412 418 404 417 404 415 404 383 413 380 413 370 413 280 405 279 405 231 413 232 439"/></Shape>
+	    <String CONTENT="1898-1954. Published in connection with an exhibition held in honor"
+                    HPOS="231"
+                    VPOS="396"
+                    WIDTH="2014"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="231 539 1522 536" 
+                    HPOS="228"
+                    VPOS="503"
+                    WIDTH="1292"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="230 538 230 573 386 573 387 573 388 573 414 565 500 571 509 571 510 571 514 571 575 560 647 570 664 571 665 571 681 569 724 563 792 567 793 567 794 567 796 567 805 560 849 568 853 568 855 568 856 568 857 568 865 563 872 568 880 571 882 571 883 571 884 571 893 567 909 559 969 560 979 567 989 571 990 571 991 573 1034 573 1034 571 1036 571 1061 565 1090 558 1159 558 1170 564 1172 565 1173 565 1175 565 1176 565 1199 563 1257 558 1271 563 1282 567 1283 567 1284 567 1306 562 1327 558 1344 562 1378 570 1379 570 1380 570 1520 559 1520 535 1519 512 1490 503 1488 503 1487 503 1314 511 1271 503 1269 503 1235 510 1146 503 1145 503 1144 503 1112 511 1092 503 1091 503 1090 503 1088 503 1059 512 988 504 905 504 904 504 903 504 884 511 809 504 808 504 807 504 781 512 765 504 764 504 664 504 663 504 661 504 660 504 644 514 585 506 584 506 583 506 567 514 553 507 552 507 551 507 396 514 371 506 370 506 369 506 228 515 230 538"/></Shape>
+	    <String CONTENT="of the poet&#x27;s 75th birthday 2 October 1954."
+                    HPOS="228"
+                    VPOS="503"
+                    WIDTH="1292"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1508 634 2089 637" 
+                    HPOS="1506"
+                    VPOS="597"
+                    WIDTH="582"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1507 633 1506 656 1535 666 1536 666 1538 666 1577 658 1610 665 1611 665 1613 665 1631 659 1634 658 1635 659 1646 666 1647 666 1648 666 1650 666 1651 666 1677 660 1749 666 1750 666 1752 666 1753 666 1759 661 1764 658 1786 661 1821 667 1822 667 1823 667 1835 662 1838 661 1839 662 1845 667 1846 667 1848 667 1849 667 1850 667 1851 667 1851 666 1855 662 1859 660 1882 664 1902 666 1903 666 1904 666 1908 664 1920 659 1962 659 1972 665 1973 667 1974 667 1976 667 1977 667 1978 667 1983 666 1998 660 2085 667 2088 635 2088 612 2054 599 2053 599 1953 599 1952 599 1951 599 1950 599 1934 612 1933 612 1843 602 1841 602 1840 602 1817 612 1816 612 1796 597 1795 597 1793 597 1769 597 1768 597 1766 597 1765 597 1765 599 1752 611 1731 603 1730 603 1728 603 1727 603 1709 611 1677 597 1675 597 1674 597 1605 611 1602 612 1563 612 1562 611 1545 599 1544 599 1542 599 1541 599 1540 599 1539 599 1524 611 1523 611 1507 611 1507 633"/></Shape>
+	    <String CONTENT="8:o New Haven 1954."
+                    HPOS="1506"
+                    VPOS="597"
+                    WIDTH="582"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

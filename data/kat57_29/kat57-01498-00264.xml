@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01498-00264.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2308"
+          HEIGHT="1470"
+          PHYSICAL_IMG_NR="17"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2308"
+                  HEIGHT="1470">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2306"
+                   HEIGHT="1468"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1469 2307 1469 2307 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="256 58 1618 68" 
+                    HPOS="253"
+                    VPOS="4"
+                    WIDTH="1364"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="254 57 253 78 322 94 323 94 361 85 387 95 388 95 389 95 390 95 418 83 514 101 515 101 594 86 613 83 710 83 757 90 761 90 784 104 785 104 786 104 787 105 864 105 864 104 866 104 893 93 900 90 913 94 959 105 960 105 961 106 1082 106 1082 105 1084 105 1111 98 1154 86 1365 86 1384 94 1385 94 1386 94 1487 89 1543 107 1547 109 1548 109 1549 110 1615 110 1617 67 1615 17 1550 14 1549 14 1548 14 1544 15 1508 28 1389 14 1375 13 1374 13 1373 13 1369 14 1308 30 1107 30 1031 29 997 11 995 11 965 11 964 11 962 11 917 26 873 19 872 19 871 19 846 26 807 9 806 9 804 9 765 15 721 8 719 8 717 8 716 8 677 26 596 26 552 7 551 7 526 7 438 7 437 7 390 18 357 7 356 7 254 4 254 57"/></Shape>
+	    <String CONTENT="Charlotte av Belgien, kejsarinna av Mexiko]"
+                    HPOS="253"
+                    VPOS="4"
+                    WIDTH="1364"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="269 250 1076 250" 
+                    HPOS="268"
+                    VPOS="202"
+                    WIDTH="807"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="268 249 268 271 318 282 319 284 392 284 392 282 393 282 394 282 401 276 410 282 411 282 412 282 414 282 415 282 439 276 488 276 494 281 494 282 496 282 497 282 498 282 568 276 591 282 592 282 594 282 639 276 655 282 656 282 657 282 659 282 684 276 710 282 711 282 712 284 868 284 868 282 869 282 901 271 1075 271 1075 249 1075 216 1055 216 1038 202 1037 202 1036 202 1035 202 999 209 918 202 917 202 916 202 915 202 899 215 815 209 814 209 786 214 752 203 750 203 749 203 748 203 705 215 666 207 665 207 663 207 643 214 592 209 591 209 590 209 570 215 543 202 542 202 516 202 515 202 514 202 513 202 501 210 467 205 466 205 409 215 376 203 374 203 373 203 372 203 345 214 307 202 306 202 305 202 303 202 302 202 284 216 268 216 268 249"/></Shape>
+	    <String CONTENT="REINACH FOUSSEMAGNE, H.de"
+                    HPOS="268"
+                    VPOS="202"
+                    WIDTH="807"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2084 65 2253 71" 
+                    HPOS="2082"
+                    VPOS="15"
+                    WIDTH="170"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="2082 89 2136 90 2136 91 2151 105 2151 106 2152 106 2153 106 2154 106 2156 106 2157 106 2163 100 2176 111 2176 112 2178 112 2179 112 2208 113 2209 115 2225 115 2225 113 2227 113 2228 113 2251 95 2252 69 2251 42 2211 42 2206 35 2197 28 2197 26 2196 26 2195 26 2194 26 2160 29 2149 19 2149 18 2148 18 2147 18 2110 15 2109 15 2108 15 2107 15 2107 17 2102 22 2098 24 2085 19 2083 64 2082 89"/></Shape>
+	    <String CONTENT="Biogr."
+                    HPOS="2082"
+                    VPOS="15"
+                    WIDTH="170"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2081 145 2228 149" 
+                    HPOS="2078"
+                    VPOS="98"
+                    WIDTH="149"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="2080 144 2078 153 2097 165 2098 165 2099 165 2138 166 2140 166 2225 154 2227 148 2227 118 2196 118 2194 116 2179 100 2179 99 2178 99 2176 99 2175 99 2159 100 2158 100 2157 100 2157 101 2146 112 2145 112 2143 112 2123 98 2121 98 2120 98 2119 98 2080 106 2080 144"/></Shape>
+	    <String CONTENT="Belg"
+                    HPOS="2078"
+                    VPOS="98"
+                    WIDTH="149"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2073 221 2264 224" 
+                    HPOS="2071"
+                    VPOS="182"
+                    WIDTH="192"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="2072 220 2071 236 2082 243 2083 243 2085 243 2086 243 2119 236 2123 236 2261 243 2263 222 2262 191 2225 183 2224 183 2223 183 2222 183 2222 184 2212 192 2205 200 2169 200 2152 196 2113 182 2111 182 2110 182 2109 182 2108 182 2108 183 2091 198 2088 199 2072 199 2072 220"/></Shape>
+	    <String CONTENT="Furstl."
+                    HPOS="2071"
+                    VPOS="182"
+                    WIDTH="192"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="266 347 2205 347" 
+                    HPOS="265"
+                    VPOS="309"
+                    WIDTH="1938"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="265 346 265 374 363 383 365 383 483 376 551 385 552 387 820 387 820 385 822 385 862 376 1013 383 1014 383 1078 377 1125 385 1127 387 1247 387 1247 385 1248 385 1282 376 1362 383 1363 383 1413 376 1448 385 1449 385 1450 385 1546 379 1607 384 1608 384 1609 384 1641 377 1678 385 1679 387 1748 387 1748 385 1849 376 1898 383 1900 383 1940 376 1974 384 1976 384 1977 384 2016 376 2203 376 2203 346 2203 322 1971 320 1949 313 1947 313 1946 313 1835 320 1794 309 1793 309 1708 309 1707 309 1659 322 1586 322 1492 309 1490 309 1387 320 1053 309 1052 309 948 322 862 322 831 313 830 313 829 313 710 318 686 311 684 311 683 311 682 311 651 322 546 322 521 312 520 312 519 312 459 318 414 309 412 309 344 322 265 322 265 346"/></Shape>
+	    <String CONTENT="Charlotte de Belgique, impératrice du Mexique. Préface de Pierre"
+                    HPOS="265"
+                    VPOS="309"
+                    WIDTH="1938"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="268 446 859 451" 
+                    HPOS="265"
+                    VPOS="411"
+                    WIDTH="593"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="267 445 265 466 295 477 296 477 297 477 298 477 323 470 356 480 357 480 358 480 456 472 492 470 509 474 540 481 541 481 580 476 617 471 686 478 726 483 727 483 728 483 736 481 757 472 773 478 774 478 775 478 776 478 798 472 812 482 812 483 813 483 814 483 815 485 857 485 858 450 857 412 804 422 795 414 795 412 793 412 792 412 791 412 790 412 786 414 761 421 746 414 742 412 741 412 689 411 688 411 687 411 686 411 686 412 682 415 671 427 632 427 619 416 617 414 616 414 614 414 613 414 599 417 579 421 573 417 567 412 565 412 564 412 563 412 526 418 520 418 516 418 491 412 490 412 488 412 475 418 463 425 436 420 395 412 394 412 393 412 392 412 379 421 374 425 330 425 327 422 314 416 313 416 312 416 267 422 267 445"/></Shape>
+	    <String CONTENT="de La Gorce. (Ill.)"
+                    HPOS="265"
+                    VPOS="411"
+                    WIDTH="593"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1548 548 1993 551" 
+                    HPOS="1546"
+                    VPOS="510"
+                    WIDTH="445"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1547 547 1546 572 1563 579 1564 579 1565 579 1642 573 1663 579 1664 579 1666 579 1811 574 1827 580 1829 580 1830 580 1990 574 1991 550 1991 520 1972 512 1971 512 1969 512 1814 520 1804 520 1803 520 1792 512 1791 512 1789 512 1788 512 1787 512 1772 519 1770 515 1768 515 1768 514 1767 514 1766 514 1765 514 1646 519 1636 519 1635 519 1621 510 1620 510 1619 510 1581 510 1580 510 1579 510 1577 510 1577 512 1570 519 1569 519 1547 519 1547 547"/></Shape>
+	    <String CONTENT="8:o Paris 1925"
+                    HPOS="1546"
+                    VPOS="510"
+                    WIDTH="445"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

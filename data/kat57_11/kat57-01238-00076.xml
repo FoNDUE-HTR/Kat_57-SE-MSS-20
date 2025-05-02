@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00076.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="18"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2315 1479 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="103 234 669 231" 
+                    HPOS="101"
+                    VPOS="172"
+                    WIDTH="567"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="102 233 102 261 133 272 134 272 135 272 165 267 177 273 178 273 180 275 296 275 296 273 297 273 320 266 356 270 357 270 359 270 383 256 392 251 418 255 433 257 434 257 460 255 489 251 513 251 515 254 542 271 544 271 545 271 546 271 547 271 581 252 667 250 668 230 663 187 645 197 509 197 496 189 494 189 493 189 492 189 478 196 415 187 414 187 373 197 354 180 352 178 352 177 351 177 350 177 349 177 347 177 343 178 335 182 326 178 314 173 313 173 275 172 273 172 272 172 271 172 271 173 266 177 264 180 256 177 243 172 241 172 240 172 101 172 102 233"/></Shape>
+	    <String CONTENT="MORRISON, Joseph P"
+                    HPOS="101"
+                    VPOS="172"
+                    WIDTH="567"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1007 237 1047 234" 
+                    HPOS="1003"
+                    VPOS="194"
+                    WIDTH="44"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1006 236 1008 251 1030 262 1031 262 1032 262 1047 259 1046 233 1041 194 1003 197 1006 236"/></Shape>
+	    <String CONTENT="E"
+                    HPOS="1003"
+                    VPOS="194"
+                    WIDTH="44"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="111 335 2158 335" 
+                    HPOS="109"
+                    VPOS="288"
+                    WIDTH="2047"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="109 334 109 356 199 357 236 370 238 370 239 371 471 371 471 370 592 357 631 370 632 370 634 371 852 371 852 370 931 357 1025 357 1090 370 1091 371 1283 371 1283 370 1284 370 1327 357 1435 357 1481 370 1483 370 1484 370 1542 357 1643 357 1690 367 1691 367 1765 357 1810 365 1811 365 1812 365 1838 357 1929 357 1969 368 1970 368 2024 370 2026 370 2087 357 2156 357 2156 334 2155 302 2033 302 2029 302 1990 288 1989 288 1907 288 1906 288 1836 298 1801 293 1800 293 1799 293 1776 302 1773 302 1758 302 1668 294 1666 294 1632 302 1626 302 1620 302 1555 291 1554 291 1476 296 1405 288 1404 288 1257 302 1244 302 1241 302 1195 288 1194 288 1024 288 1022 288 1021 288 984 299 897 289 895 289 798 300 736 289 735 289 447 302 419 302 414 302 368 291 367 291 366 291 328 302 324 302 320 302 281 289 280 289 278 289 277 289 244 302 240 302 109 302 109 334"/></Shape>
+	    <String CONTENT="Se: La Torre,C.de,Bartsch,P. &amp; Morrison,J.P.E.,The cyclophorid oper-"
+                    HPOS="109"
+                    VPOS="288"
+                    WIDTH="2047"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="233 436 1382 436" 
+                    HPOS="231"
+                    VPOS="400"
+                    WIDTH="1150"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="231 435 231 452 286 462 287 462 361 453 366 453 371 453 418 462 419 462 491 455 504 453 514 455 561 462 562 463 732 463 732 462 734 462 751 456 756 455 767 456 804 462 805 462 806 462 826 457 840 453 885 457 921 460 922 460 924 460 932 457 942 455 953 457 972 462 973 462 974 462 1014 458 1052 453 1078 458 1100 462 1101 462 1120 458 1145 453 1226 453 1253 460 1267 462 1268 462 1293 460 1346 453 1379 460 1381 435 1381 411 1343 400 1342 400 1235 400 1233 400 1232 400 1211 410 1111 410 1098 400 1096 400 1095 400 1094 400 1093 400 1075 409 921 400 920 400 842 410 789 400 788 400 787 400 765 408 677 400 676 400 634 410 582 410 556 402 555 402 554 402 507 410 461 400 460 400 459 400 457 400 441 411 399 411 380 400 378 400 377 400 231 410 231 435"/></Shape>
+	    <String CONTENT="culate land mollusks of America. 1942."
+                    HPOS="231"
+                    VPOS="400"
+                    WIDTH="1150"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="143 536 2247 540" 
+                    HPOS="140"
+                    VPOS="494"
+                    WIDTH="2106"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="141 535 140 558 186 568 187 568 188 568 215 561 309 582 310 582 465 561 825 561 906 579 908 579 932 574 1120 588 1121 589 1536 589 1536 588 1596 577 1650 584 1652 584 1724 569 1752 577 1753 577 1754 577 1844 564 1903 575 1905 575 1965 564 2059 578 2060 578 2245 562 2246 538 2245 498 1958 497 1956 497 1929 498 1819 505 1625 505 1600 499 1589 497 1588 497 1575 499 1546 505 1499 499 1469 495 1280 495 1279 495 1259 499 1237 504 1215 499 1193 495 1191 495 1163 500 1142 503 1115 500 1073 495 1072 495 1046 500 1022 505 860 505 837 500 806 495 805 495 804 495 785 500 777 503 766 500 732 494 731 494 658 501 634 504 281 504 268 501 220 497 219 497 141 501 141 535"/></Shape>
+	    <String CONTENT="i: Smithsonian institution.United States national museum.Bulletin 181."
+                    HPOS="140"
+                    VPOS="494"
+                    WIDTH="2106"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1631 669 1774 672" 
+                    HPOS="1628"
+                    VPOS="605"
+                    WIDTH="145"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1629 668 1628 680 1649 689 1650 689 1652 689 1699 685 1715 684 1721 686 1728 690 1729 690 1731 690 1732 690 1733 690 1737 688 1745 683 1769 690 1773 670 1773 637 1748 637 1748 636 1733 622 1733 621 1732 621 1731 621 1729 621 1728 621 1716 626 1695 606 1695 605 1694 605 1692 605 1664 605 1663 605 1662 605 1660 605 1629 630 1629 668"/></Shape>
+	    <String CONTENT="Acta"
+                    HPOS="1628"
+                    VPOS="605"
+                    WIDTH="145"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1625 743 1898 736" 
+                    HPOS="1622"
+                    VPOS="698"
+                    WIDTH="275"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="1623 742 1623 758 1668 767 1669 767 1670 767 1671 767 1671 765 1673 765 1678 759 1686 765 1687 765 1689 765 1690 765 1757 764 1758 764 1759 764 1759 763 1760 763 1764 758 1766 754 1784 758 1805 762 1806 762 1807 762 1817 758 1822 756 1842 758 1860 759 1861 759 1863 759 1864 759 1866 757 1875 752 1894 757 1897 735 1895 716 1844 711 1843 711 1801 717 1790 719 1789 717 1764 701 1763 701 1761 701 1720 698 1718 698 1717 698 1716 698 1706 704 1658 700 1657 700 1655 700 1654 700 1654 701 1634 720 1632 722 1622 721 1623 742"/></Shape>
+	    <String CONTENT="N. Amer."
+                    HPOS="1622"
+                    VPOS="698"
+                    WIDTH="275"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1644 823 2276 823" 
+                    HPOS="1643"
+                    VPOS="773"
+                    WIDTH="632"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1643 822 1643 841 1694 838 1699 842 1702 846 1703 846 1705 846 1760 848 1761 848 1781 847 1782 847 1784 847 1787 843 1799 834 1856 834 1879 844 1890 848 1891 848 1892 849 1940 849 1940 848 1942 848 1943 848 1947 844 1955 837 1968 843 1969 843 1970 843 1971 843 2000 834 2056 834 2063 839 2063 841 2064 841 2065 841 2066 841 2103 834 2139 844 2140 844 2142 844 2174 837 2182 844 2183 844 2185 844 2186 844 2213 838 2220 844 2220 846 2222 846 2223 846 2274 848 2275 822 2275 773 2238 773 2237 773 2235 773 2190 797 2121 773 2119 773 2118 773 2117 773 2116 773 2084 799 1997 799 1975 783 1974 783 1972 783 1971 783 1970 783 1969 783 1947 799 1855 799 1833 783 1832 783 1831 783 1829 783 1828 783 1784 794 1753 789 1733 773 1732 773 1731 773 1643 773 1643 822"/></Shape>
+	    <String CONTENT="Washington. U. S."
+                    HPOS="1643"
+                    VPOS="773"
+                    WIDTH="632"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1625 900 2209 893" 
+                    HPOS="1622"
+                    VPOS="849"
+                    WIDTH="586"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1623 899 1623 916 1690 929 1691 929 1692 929 1694 929 1708 920 1729 926 1731 926 1732 926 1733 926 1754 918 1763 916 1802 916 1811 920 1832 931 1833 931 1834 931 1895 927 1896 927 1897 927 1897 926 1902 921 1907 917 1919 922 1944 929 1945 929 1947 929 1991 923 2019 918 2035 923 2049 928 2050 928 2051 928 2053 928 2054 928 2059 923 2075 913 2207 926 2208 892 2206 874 2162 868 2161 868 2160 868 2159 868 2159 869 2154 873 2151 875 2135 873 2119 870 2118 870 2102 873 2072 876 2049 871 2035 869 2034 869 2033 869 2032 869 2032 870 2030 871 2024 878 1997 878 1987 870 1955 849 1954 849 1953 849 1952 849 1950 849 1949 849 1918 869 1868 858 1866 858 1865 858 1864 858 1858 863 1840 851 1839 851 1838 851 1748 851 1747 851 1745 851 1744 851 1718 868 1699 880 1674 868 1673 868 1671 868 1670 868 1648 875 1622 867 1623 899"/></Shape>
+	    <String CONTENT="national mus."
+                    HPOS="1622"
+                    VPOS="849"
+                    WIDTH="586"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

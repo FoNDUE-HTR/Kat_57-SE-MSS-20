@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01411-00269.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1470"
+          PHYSICAL_IMG_NR="15"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1470">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1468"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1469 2319 1469 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="314 245 876 242" 
+                    HPOS="312"
+                    VPOS="193"
+                    WIDTH="563"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="313 245 313 269 344 281 345 281 346 282 480 282 480 281 589 275 664 280 665 280 666 280 667 280 688 268 790 268 811 275 812 275 813 275 875 265 875 241 872 204 788 196 786 196 785 196 784 196 784 197 778 202 769 194 768 194 767 194 765 194 764 194 751 200 745 194 745 193 743 193 742 193 710 193 709 193 708 193 707 193 707 194 696 204 677 194 676 194 675 194 674 194 637 205 634 205 627 205 529 196 528 196 526 196 498 205 496 207 493 207 473 199 471 199 470 199 469 199 459 203 452 197 452 196 451 196 449 196 384 196 383 196 382 196 357 207 357 208 312 208 313 245"/></Shape>
+	    <String CONTENT="PIETSCHMAN, Käthe"
+                    HPOS="312"
+                    VPOS="193"
+                    WIDTH="563"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1804 288 1953 288" 
+                    HPOS="1802"
+                    VPOS="229"
+                    WIDTH="150"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1802 287 1802 313 1919 313 1919 312 1920 312 1952 302 1952 287 1952 254 1898 247 1873 229 1872 229 1871 229 1833 229 1832 229 1830 229 1829 229 1802 251 1802 287"/></Shape>
+	    <String CONTENT="Naturv"
+                    HPOS="1802"
+                    VPOS="229"
+                    WIDTH="150"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="318 344 1950 350" 
+                    HPOS="316"
+                    VPOS="303"
+                    WIDTH="1633"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="317 343 316 371 665 379 666 379 667 379 691 373 768 376 769 376 770 376 781 371 802 362 835 371 844 373 845 373 846 373 868 371 884 369 900 371 990 380 991 380 1042 371 1076 365 1148 371 1167 372 1169 372 1186 371 1257 363 1304 371 1323 373 1324 373 1341 371 1361 367 1381 371 1397 373 1398 373 1416 371 1444 366 1478 371 1492 372 1493 372 1495 372 1500 371 1514 365 1817 365 1835 371 1883 383 1884 383 1886 383 1887 383 1919 369 1927 367 1947 369 1949 349 1948 314 1830 307 1829 307 1828 307 1810 314 1794 320 1645 320 1622 314 1590 306 1589 306 1469 306 1468 306 1467 306 1448 314 1441 317 1408 314 1327 306 1326 306 1324 306 1296 314 1289 316 1284 314 1261 305 1259 305 1183 305 1182 305 1080 314 1044 317 1036 314 1022 307 1020 307 856 303 855 303 811 314 801 316 773 314 715 309 714 309 685 314 671 316 665 314 645 306 644 306 643 306 589 314 580 316 473 316 470 314 455 307 454 307 453 307 317 313 317 343"/></Shape>
+	    <String CONTENT="Se: Handbuch der biologischen Arbeitsmethoden... { Tekn."
+                    HPOS="316"
+                    VPOS="303"
+                    WIDTH="1633"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="409 446 2304 443" 
+                    HPOS="406"
+                    VPOS="398"
+                    WIDTH="1896"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="408 445 408 470 464 480 465 480 466 480 500 471 754 478 756 478 844 470 852 470 860 470 944 480 946 480 947 480 974 471 1077 478 1078 478 1079 478 1111 470 1118 469 1133 470 1209 478 1210 478 1281 470 1296 469 1311 470 1389 478 1391 478 1507 470 1529 469 1705 469 1708 470 1762 477 1763 477 1848 470 1851 470 1854 470 1948 477 1949 477 2302 469 2302 442 2300 406 2196 400 2194 400 2193 400 2175 406 2166 410 2085 411 2058 407 2003 398 1675 398 1674 398 1672 398 1639 409 1637 409 1596 406 1595 406 1594 406 1585 410 1576 414 1268 414 1263 411 1250 406 1248 406 1247 406 1186 411 1170 412 1160 411 1110 405 1109 405 1107 405 1084 412 1080 414 990 414 976 412 914 405 913 405 827 414 819 414 817 414 789 405 788 405 786 405 734 412 667 401 666 401 616 411 589 406 588 406 485 414 460 407 459 407 458 407 406 415 408 445"/></Shape>
+	    <String CONTENT="Abt. 12.T.2:9. Methoden der Anaerobenzüchtung. Von R.Meyer und K."
+                    HPOS="406"
+                    VPOS="398"
+                    WIDTH="1896"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="827 522 1377 522" 
+                    HPOS="826"
+                    VPOS="482"
+                    WIDTH="550"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="826 521 826 558 854 568 855 568 856 569 964 569 964 568 1031 558 1067 558 1077 567 1077 568 1078 568 1079 568 1080 569 1144 569 1144 568 1145 568 1191 553 1198 552 1278 552 1288 561 1289 561 1290 561 1291 561 1292 561 1294 561 1294 559 1302 552 1304 552 1323 558 1324 558 1326 558 1376 551 1376 521 1376 497 1351 497 1337 483 1337 482 1335 482 1334 482 1333 482 1252 488 1236 482 1235 482 1234 482 1232 482 1231 482 1231 483 1218 497 1167 497 1104 486 1103 486 1065 493 1033 482 1031 482 1030 482 968 496 948 486 947 486 946 486 944 486 913 494 889 483 888 483 854 482 852 482 851 482 826 494 826 521"/></Shape>
+	    <String CONTENT="Pietschmann. 1939."
+                    HPOS="826"
+                    VPOS="482"
+                    WIDTH="550"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

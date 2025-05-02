@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00252.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2332"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="46"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2332"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2330"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2331 1479 2331 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="290 88 612 82" 
+                    HPOS="288"
+                    VPOS="33"
+                    WIDTH="323"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="289 87 289 104 314 115 315 115 317 115 368 108 377 107 383 108 410 118 412 118 413 118 414 118 415 118 425 111 436 103 468 103 498 113 514 118 515 118 516 118 518 118 526 114 533 111 540 114 547 118 549 118 550 118 611 117 611 81 607 37 582 43 565 38 549 33 547 33 546 33 545 33 544 33 544 34 537 39 533 44 518 39 512 38 510 38 509 38 508 38 498 40 479 45 475 41 466 33 465 33 463 33 417 33 415 33 414 33 413 33 394 44 389 48 372 48 366 45 328 35 326 35 325 35 324 35 323 35 307 48 305 49 288 49 289 87"/></Shape>
+	    <String CONTENT="[ N.T. 1813]"
+                    HPOS="288"
+                    VPOS="33"
+                    WIDTH="323"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2159 56 2299 56" 
+                    HPOS="2158"
+                    VPOS="17"
+                    WIDTH="140"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="2158 55 2158 67 2216 78 2217 80 2271 80 2271 78 2272 78 2298 67 2298 55 2297 17 2158 32 2158 55"/></Shape>
+	    <String CONTENT="Teol."
+                    HPOS="2158"
+                    VPOS="17"
+                    WIDTH="140"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2151 100 2295 96" 
+                    HPOS="2149"
+                    VPOS="65"
+                    WIDTH="145"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="2150 99 2150 113 2198 113 2214 117 2239 123 2240 123 2241 123 2294 118 2294 94 2292 72 2183 65 2182 65 2181 65 2149 75 2150 99"/></Shape>
+	    <String CONTENT="Bibel"
+                    HPOS="2149"
+                    VPOS="65"
+                    WIDTH="145"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="221 167 487 172" 
+                    HPOS="219"
+                    VPOS="114"
+                    WIDTH="267"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="220 166 219 198 299 201 301 201 302 201 303 201 312 194 326 186 396 191 423 192 424 192 484 186 486 171 486 123 449 118 447 118 446 118 445 118 434 125 409 141 383 141 371 129 356 115 356 114 355 114 354 114 312 114 310 114 309 114 257 135 250 138 220 138 220 166"/></Shape>
+	    <String CONTENT="Berit"
+                    HPOS="219"
+                    VPOS="114"
+                    WIDTH="267"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2174 146 2297 149" 
+                    HPOS="2171"
+                    VPOS="113"
+                    WIDTH="125"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="2172 145 2171 164 2199 172 2201 172 2202 172 2203 172 2220 166 2223 166 2224 167 2236 176 2238 176 2239 176 2240 176 2294 170 2296 148 2293 124 2278 124 2276 123 2265 114 2264 114 2262 114 2261 114 2260 114 2244 123 2243 124 2240 123 2225 113 2224 113 2223 113 2222 113 2172 122 2172 145"/></Shape>
+	    <String CONTENT="Hebr."
+                    HPOS="2171"
+                    VPOS="113"
+                    WIDTH="125"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1708 354 2244 359" 
+                    HPOS="1706"
+                    VPOS="312"
+                    WIDTH="537"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="1707 353 1706 381 1817 376 1833 384 1839 387 1840 387 1842 387 1843 387 1852 384 1860 382 1870 384 1886 389 1887 389 1889 389 1890 389 1906 386 1937 377 1958 386 1964 388 1965 388 1966 388 1977 386 2008 378 2017 387 2021 389 2021 390 2022 390 2023 390 2024 392 2077 392 2077 390 2079 390 2080 390 2083 387 2096 378 2116 388 2124 392 2125 392 2127 392 2128 392 2129 392 2135 388 2148 381 2190 389 2202 390 2203 390 2204 390 2206 390 2207 389 2220 379 2239 389 2243 358 2243 326 2213 325 2203 316 2203 315 2202 315 2201 315 2138 315 2137 315 2135 315 2134 315 2118 326 2108 334 2056 328 2048 326 2046 326 2045 326 2044 326 2044 328 2039 331 2032 328 2011 314 2009 314 2008 314 1981 314 1980 314 1979 314 1977 314 1960 328 1958 330 1886 331 1882 329 1868 314 1868 313 1866 313 1865 313 1849 313 1848 313 1847 313 1817 329 1815 330 1812 329 1775 312 1774 312 1773 312 1771 312 1770 312 1770 313 1758 325 1749 320 1748 320 1747 320 1707 329 1707 353"/></Shape>
+	    <String CONTENT="8ᵒ Londini 1813."
+                    HPOS="1706"
+                    VPOS="312"
+                    WIDTH="537"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="268 458 1574 453" 
+                    HPOS="266"
+                    VPOS="405"
+                    WIDTH="1307"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="267 457 267 500 387 503 388 503 389 503 396 500 462 473 509 479 510 479 555 473 591 483 592 483 593 483 682 472 777 479 813 498 819 501 820 501 821 503 893 503 893 501 894 501 906 498 987 472 1070 482 1072 482 1073 482 1091 476 1124 490 1125 490 1126 490 1127 490 1182 473 1242 477 1243 477 1357 469 1436 495 1447 499 1448 499 1449 499 1571 494 1573 452 1568 421 1537 435 1505 435 1480 420 1479 420 1478 420 1476 420 1475 420 1474 420 1443 435 1384 435 1347 419 1326 410 1325 410 1279 405 1278 405 1277 405 1275 405 1254 418 1225 436 1189 436 1167 424 1166 424 1164 424 1163 424 1128 432 1093 420 1091 420 1090 420 996 435 948 415 934 409 932 409 931 409 930 409 914 415 856 436 776 416 774 416 697 434 619 436 574 418 573 418 572 418 571 418 552 423 484 413 483 413 421 418 405 410 403 409 402 409 266 409 267 457"/></Shape>
+	    <String CONTENT="[ Nya testamentet öfversatt på hebreiska. ]"
+                    HPOS="266"
+                    VPOS="405"
+                    WIDTH="1307"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="20 602 1670 613" 
+                    HPOS="18"
+                    VPOS="546"
+                    WIDTH="1651"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="19 601 18 632 119 622 156 633 157 633 159 633 196 633 208 637 252 653 254 653 255 654 355 654 355 653 356 653 399 641 454 625 577 625 625 638 626 638 628 638 679 635 760 647 764 647 766 647 769 647 884 627 924 627 940 635 941 635 942 635 1063 629 1105 640 1106 640 1108 640 1158 630 1225 642 1226 642 1227 642 1263 631 1347 657 1359 661 1360 661 1666 662 1669 612 1669 587 1637 588 1628 585 1558 557 1557 557 1523 557 1522 557 1521 557 1448 580 1425 588 1399 579 1332 556 1331 556 1330 556 1328 556 1283 571 1225 556 1223 556 1222 556 1221 556 1163 573 1143 579 1126 573 1106 564 1105 564 1104 564 1054 571 1045 572 1031 571 998 566 996 566 995 566 984 569 938 585 846 585 804 571 803 571 695 566 694 566 693 566 625 583 403 583 346 561 345 561 344 561 343 561 323 567 286 553 285 553 283 553 282 553 228 569 151 548 145 547 144 547 19 546 19 601"/></Shape>
+	    <String CONTENT="2 bd, defekt ; innehåller endast Apos+log. + Evang"
+                    HPOS="18"
+                    VPOS="546"
+                    WIDTH="1651"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

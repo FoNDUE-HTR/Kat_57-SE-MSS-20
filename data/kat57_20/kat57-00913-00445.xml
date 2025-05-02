@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00913-00445.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="41"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2311 1471 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="155 244 503 241" 
+                    HPOS="153"
+                    VPOS="175"
+                    WIDTH="350"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="155 244 155 279 319 287 321 287 503 270 503 241 498 190 420 190 417 190 350 175 348 175 346 175 345 175 319 191 318 191 316 191 284 177 283 177 214 177 212 177 153 191 155 244"/></Shape>
+	    <String CONTENT="KLAMROTH, M"
+                    HPOS="153"
+                    VPOS="175"
+                    WIDTH="350"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="141 346 1061 349" 
+                    HPOS="139"
+                    VPOS="284"
+                    WIDTH="922"
+                    HEIGHT="156">
+            <Shape><Polygon POINTS="141 346 139 386 273 391 292 407 294 407 295 407 297 407 299 407 338 391 345 389 444 389 450 394 464 404 466 404 468 404 469 404 471 404 472 404 472 402 482 394 485 391 549 391 563 396 680 440 682 440 683 440 766 432 774 439 774 440 776 440 777 440 779 440 1025 439 1026 439 1028 439 1028 437 1060 407 1061 349 1061 297 1042 290 1041 290 1039 290 1037 290 1026 297 1005 308 948 305 938 298 918 284 916 284 915 284 796 284 795 284 793 284 760 298 744 284 742 284 741 284 666 284 664 284 662 284 605 302 583 308 562 302 496 284 495 284 493 284 492 284 455 303 445 309 362 309 358 305 353 300 351 300 350 300 348 300 284 305 252 308 247 306 231 298 230 298 228 298 227 298 204 305 177 290 176 290 174 290 172 290 171 290 171 292 155 306 153 308 141 308 141 346"/></Shape>
+	    <String CONTENT="Der Islam in Deutschostafrika."
+                    HPOS="139"
+                    VPOS="284"
+                    WIDTH="922"
+                    HEIGHT="156"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1783 45 2261 35" 
+                    HPOS="1781"
+                    VPOS="1"
+                    WIDTH="480"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="1783 45 1783 75 1818 88 1819 88 1821 88 1910 86 1912 86 1914 86 1934 69 1942 62 1949 69 1958 75 1960 75 1961 75 1963 75 1965 75 1982 67 1992 62 2035 62 2040 64 2060 75 2062 75 2064 75 2127 65 2158 73 2159 73 2161 73 2261 54 2261 35 2257 1 1781 1 1783 45"/></Shape>
+	    <String CONTENT="Br.) Kyrkohist."
+                    HPOS="1781"
+                    VPOS="1"
+                    WIDTH="480"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1949 92 2092 89" 
+                    HPOS="1947"
+                    VPOS="51"
+                    WIDTH="145"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1949 92 1949 115 2092 115 2092 89 2089 64 2024 51 2022 51 1947 65 1949 92"/></Shape>
+	    <String CONTENT="Miss."
+                    HPOS="1947"
+                    VPOS="51"
+                    WIDTH="145"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1968 147 2068 147" 
+                    HPOS="1968"
+                    VPOS="99"
+                    WIDTH="100"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="1968 147 1968 220 2000 220 2000 219 2001 219 2003 219 2003 217 2030 193 2048 179 2068 179 2068 147 2068 108 2027 99 2025 99 2024 99 1968 108 1968 147"/></Shape>
+	    <String CONTENT="Afr."
+                    HPOS="1968"
+                    VPOS="99"
+                    WIDTH="100"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2081 1444 2263 1441" 
+                    HPOS="2080"
+                    VPOS="1399"
+                    WIDTH="183"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="2081 1444 2081 1471 2263 1471 2263 1441 2260 1402 2080 1399 2081 1444"/></Shape>
+	    <String CONTENT="1.2.63"
+                    HPOS="2080"
+                    VPOS="1399"
+                    WIDTH="183"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1574 445 2081 448" 
+                    HPOS="1572"
+                    VPOS="396"
+                    WIDTH="509"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="1574 445 1572 495 1645 487 1660 493 1661 493 1663 493 1665 493 1666 493 1666 491 1681 479 1762 490 1827 499 1829 501 1910 501 1910 499 1912 499 1949 483 1957 480 1963 483 1984 496 1985 496 1987 496 1989 496 1990 496 1992 496 1992 495 2006 482 2006 480 2080 479 2081 448 2080 415 1976 402 1974 402 1880 407 1772 412 1724 400 1720 400 1719 400 1717 400 1716 400 1697 413 1652 413 1623 397 1621 397 1574 396 1574 445"/></Shape>
+	    <String CONTENT="8:o Berlin 1912."
+                    HPOS="1572"
+                    VPOS="396"
+                    WIDTH="509"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01198-00038.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="41"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2319 1471 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="158 225 720 225" 
+                    HPOS="157"
+                    VPOS="184"
+                    WIDTH="561"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="157 224 157 237 176 247 177 247 179 247 439 246 471 242 510 239 563 244 606 249 607 249 718 246 718 224 718 192 700 184 699 184 587 184 586 184 521 192 509 184 507 184 506 184 397 184 396 184 348 192 277 185 276 185 274 185 250 193 157 193 157 224"/></Shape>
+	    <String CONTENT="MEYER-ABICH, Adolf"
+                    HPOS="157"
+                    VPOS="184"
+                    WIDTH="561"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="163 306 1870 303" 
+                    HPOS="160"
+                    VPOS="262"
+                    WIDTH="1709"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="161 305 161 326 1867 328 1869 302 1867 262 1688 262 1686 262 1685 262 1682 263 1656 272 1472 272 1456 264 1455 264 1453 264 1452 264 1451 264 1428 271 1388 264 1366 262 1365 262 1364 262 1356 266 1343 272 1202 272 1118 267 1017 262 1015 262 943 268 895 272 745 269 518 266 517 266 285 272 211 263 209 263 160 273 161 305"/></Shape>
+	    <String CONTENT="Beiträge zur Theorie der Evolution der Organismen. [Ill.]"
+                    HPOS="160"
+                    VPOS="262"
+                    WIDTH="1709"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="177 384 287 381" 
+                    HPOS="174"
+                    VPOS="343"
+                    WIDTH="111"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="176 383 176 407 207 407 208 407 209 407 209 406 219 396 267 396 283 403 285 380 284 355 257 343 256 343 255 343 253 343 230 353 222 356 208 353 188 347 187 347 186 347 185 347 174 350 176 383"/></Shape>
+	    <String CONTENT="1-2."
+                    HPOS="174"
+                    VPOS="343"
+                    WIDTH="111"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2028 57 2260 61" 
+                    HPOS="2025"
+                    VPOS="13"
+                    WIDTH="234"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="2026 56 2025 82 2083 82 2083 80 2084 80 2085 80 2096 73 2175 73 2178 78 2183 83 2183 84 2185 84 2186 84 2187 84 2188 84 2189 84 2198 78 2207 73 2257 77 2259 60 2257 15 2227 30 2169 30 2145 20 2144 20 2143 20 2142 20 2118 29 2101 22 2079 13 2078 13 2047 13 2046 13 2045 13 2043 13 2026 23 2026 56"/></Shape>
+	    <String CONTENT="Naturv"
+                    HPOS="2025"
+                    VPOS="13"
+                    WIDTH="234"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2054 112 2220 115" 
+                    HPOS="2052"
+                    VPOS="72"
+                    WIDTH="167"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="2053 111 2052 153 2093 154 2094 154 2095 154 2110 148 2127 139 2143 144 2153 147 2154 147 2155 147 2156 147 2158 147 2158 145 2162 142 2174 132 2216 136 2219 114 2219 83 2188 76 2187 76 2186 76 2155 83 2153 83 2137 72 2135 72 2134 72 2133 72 2053 80 2053 111"/></Shape>
+	    <String CONTENT="Biol."
+                    HPOS="2052"
+                    VPOS="72"
+                    WIDTH="167"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1535 378 2119 378" 
+                    HPOS="1534"
+                    VPOS="337"
+                    WIDTH="584"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1534 377 1534 392 1554 401 1555 401 1556 402 1628 402 1628 401 1629 401 1630 401 1640 393 1642 393 1680 401 1682 402 1824 402 1824 401 1850 396 1861 393 1870 396 1896 401 1897 402 1947 402 1947 401 1948 401 1958 396 1962 393 1966 396 1971 401 1972 401 1974 401 1975 401 1976 401 1987 397 1996 393 2025 393 2030 397 2035 401 2036 401 2037 401 2039 401 2118 397 2118 377 2118 352 2095 352 2079 337 2078 337 2077 337 2075 337 1904 343 1895 337 1894 337 1893 337 1891 337 1890 337 1889 337 1873 352 1809 352 1765 337 1764 337 1763 337 1761 337 1712 350 1682 337 1680 337 1679 337 1678 337 1677 337 1661 352 1586 352 1565 338 1564 338 1563 338 1561 338 1560 338 1534 350 1534 377"/></Shape>
+	    <String CONTENT="8:o Leiden 1943-50."
+                    HPOS="1534"
+                    VPOS="337"
+                    WIDTH="584"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="287 456 2266 450" 
+                    HPOS="284"
+                    VPOS="412"
+                    WIDTH="1980"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="285 455 285 483 407 483 407 482 408 482 409 482 426 475 441 482 444 482 445 482 446 482 463 480 544 475 591 480 610 482 612 482 630 479 683 473 707 479 709 479 710 479 711 479 722 479 812 473 828 478 834 480 835 480 836 482 1044 482 1044 480 1090 477 1139 472 1261 472 1267 475 1279 479 1280 479 1282 479 1434 473 1524 471 1543 473 1581 478 1582 478 1629 472 1645 471 1712 472 1958 477 1959 477 2001 469 2004 469 2016 469 2218 477 2219 477 2264 467 2264 448 2262 423 2213 423 2213 421 2181 412 2180 412 2117 412 2116 412 2115 412 2081 421 2077 423 2007 421 1797 417 1796 417 1794 417 1777 421 1764 424 1724 420 1662 415 1661 415 1631 420 1612 424 1462 420 1363 418 1361 418 1344 420 1305 425 1121 419 1098 419 1096 419 1093 419 1057 425 976 420 975 420 974 420 955 428 814 428 779 420 777 420 712 426 690 420 689 420 688 420 687 420 655 428 590 420 588 420 452 425 284 418 285 455"/></Shape>
+	    <String CONTENT="[Geschriften van de prof. dr. Jan van der Hoeven stichting voor theo-"
+                    HPOS="284"
+                    VPOS="412"
+                    WIDTH="1980"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="166 507 2242 499" 
+                    HPOS="164"
+                    VPOS="467"
+                    WIDTH="2077"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="165 506 165 528 453 537 455 537 545 536 547 536 568 529 572 528 580 529 624 536 625 536 676 529 705 526 749 529 772 531 774 531 775 531 782 529 802 523 1074 523 1112 529 1137 533 1138 534 1307 534 1307 533 1326 529 1355 523 1388 529 1403 532 1404 532 1419 529 1442 526 1502 529 1542 532 1543 532 1558 529 1594 523 1659 527 1661 527 1690 521 1724 528 1726 528 1785 521 1920 529 1940 531 1942 531 2107 529 2108 529 2178 520 2237 529 2241 498 2239 474 2048 467 2047 467 1940 474 1706 468 1705 468 1704 468 1680 475 1502 475 1475 469 1474 469 1473 469 1402 475 1378 469 1377 469 1376 469 1342 477 1219 471 1218 471 1051 478 461 473 460 473 164 482 165 506"/></Shape>
+	    <String CONTENT="retische biologie van dier en mensch, verbonden aan de universiteit te"
+                    HPOS="164"
+                    VPOS="467"
+                    WIDTH="2077"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="166 557 1042 562" 
+                    HPOS="164"
+                    VPOS="520"
+                    WIDTH="877"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="165 556 164 572 188 582 190 582 191 583 369 583 369 582 370 582 371 582 382 576 384 575 385 576 401 583 402 583 403 583 445 577 548 583 549 583 550 583 552 583 560 577 564 576 601 576 603 578 609 583 609 585 610 585 612 585 613 585 662 580 680 577 693 580 718 585 720 586 776 586 776 585 777 585 779 585 783 581 788 577 808 581 823 583 824 585 1040 585 1041 561 1040 537 1002 537 1002 536 985 521 983 521 982 521 961 521 960 521 959 521 931 536 906 522 905 522 904 522 873 527 821 520 782 520 781 520 780 520 779 520 760 532 743 520 742 520 741 520 690 520 689 520 688 520 662 534 661 534 641 525 640 525 592 522 591 522 555 523 554 523 553 523 553 525 543 533 522 522 521 522 520 522 518 522 517 522 505 533 504 533 501 533 441 527 440 527 439 527 428 533 426 533 399 521 398 521 397 521 396 521 395 521 377 532 278 523 277 523 276 523 242 532 240 532 236 532 199 526 198 526 165 531 165 556"/></Shape>
+	    <String CONTENT="Leiden. Ser. A[Vol. 7], D[Vol.5]."
+                    HPOS="164"
+                    VPOS="520"
+                    WIDTH="877"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="109 635 1042 632" 
+                    HPOS="106"
+                    VPOS="592"
+                    WIDTH="935"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="107 634 107 658 168 651 191 658 193 658 195 658 196 658 197 658 198 658 213 652 247 657 256 658 257 658 258 658 260 658 261 657 272 651 283 657 285 658 287 658 288 659 342 659 342 658 343 658 344 658 347 656 355 651 521 655 647 657 649 657 650 657 651 657 657 653 663 650 689 652 725 657 726 657 727 657 738 652 743 650 748 652 758 657 759 657 760 657 785 652 795 650 803 651 823 657 824 657 825 657 987 651 994 657 996 657 997 657 998 657 1040 648 1041 631 1039 602 994 593 993 593 992 593 963 602 960 602 958 602 928 593 927 593 926 593 925 593 909 601 900 594 899 594 898 594 896 594 796 598 753 592 752 592 698 602 696 602 667 593 666 593 664 593 663 593 633 602 631 602 447 593 446 593 396 602 372 594 371 594 370 594 369 594 368 594 357 602 343 593 342 593 341 593 305 593 304 593 303 593 301 593 290 603 289 604 106 604 107 634"/></Shape>
+	    <String CONTENT="1 se: Acta biotheoretica. Vol.7."
+                    HPOS="106"
+                    VPOS="592"
+                    WIDTH="935"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="1302 651 1575 646" 
+                    HPOS="1300"
+                    VPOS="602"
+                    WIDTH="274"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1301 650 1301 667 1435 670 1436 670 1437 670 1439 670 1442 668 1450 663 1488 668 1504 669 1505 669 1518 668 1561 662 1570 668 1574 645 1570 625 1507 625 1506 625 1472 602 1471 602 1469 602 1435 602 1434 602 1432 602 1399 610 1382 604 1381 604 1380 604 1378 604 1336 628 1333 629 1300 629 1301 650"/></Shape>
+	    <String CONTENT="Naturv."
+                    HPOS="1300"
+                    VPOS="602"
+                    WIDTH="274"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    
+                    BASELINE="107 708 1277 703" 
+                    HPOS="105"
+                    VPOS="666"
+                    WIDTH="1170"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="106 707 106 727 184 727 187 728 213 739 214 739 288 740 289 740 630 739 631 739 633 739 644 732 655 724 691 724 1132 724 1274 736 1275 702 1269 666 1253 675 1217 667 1126 667 1090 667 1089 667 1088 667 1062 675 933 668 932 668 931 668 909 677 705 668 699 668 698 668 696 668 644 679 533 679 493 669 491 669 490 669 469 678 358 672 357 672 355 672 332 678 312 670 311 670 310 670 309 670 277 680 166 680 105 670 106 707"/></Shape>
+	    <String CONTENT="2 se: Bibliotheca biotheoretica. Vol.5."
+                    HPOS="105"
+                    VPOS="666"
+                    WIDTH="1170"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    
+                    BASELINE="172 807 2183 798" 
+                    HPOS="170"
+                    VPOS="759"
+                    WIDTH="2012"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="171 805 171 834 240 839 241 839 242 839 257 834 268 831 288 834 301 836 303 836 322 834 368 829 387 834 403 839 404 839 406 839 429 834 463 828 496 834 509 836 510 836 530 834 583 826 878 826 925 834 948 837 949 837 950 837 963 834 976 830 1014 834 1019 834 1020 834 1021 834 1046 825 1176 825 1237 834 1250 835 1251 835 1259 834 1284 829 1442 834 1501 835 1502 835 1513 834 1570 824 1652 834 1659 834 1661 835 1764 835 1764 834 1765 834 1767 834 1798 824 1900 832 1901 834 2180 834 2182 797 2178 765 2053 766 2041 765 1992 759 1991 759 1604 767 1500 770 1495 769 1478 762 1477 762 1475 762 1267 770 1221 771 1217 770 1193 764 1192 764 753 764 752 764 170 776 171 805"/></Shape>
+	    <String CONTENT="1. Das typologische Grundgesetz und seine Folgerungen für Phylogenie"
+                    HPOS="170"
+                    VPOS="759"
+                    WIDTH="2012"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13"
+                    
+                    BASELINE="228 855 1219 855" 
+                    HPOS="226"
+                    VPOS="821"
+                    WIDTH="992"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="226 854 226 875 1217 879 1218 854 1218 830 1192 821 1191 821 1080 821 1079 821 1078 821 1061 831 1019 831 1002 821 1001 821 999 821 928 830 900 821 899 821 898 821 896 821 873 830 852 821 851 821 850 821 848 821 829 831 771 831 748 821 747 821 745 821 744 821 723 831 598 831 569 821 568 821 566 821 518 830 429 824 428 824 398 830 363 821 361 821 360 821 359 821 358 821 347 830 314 824 312 824 311 824 310 824 301 831 226 831 226 854"/></Shape>
+	    <String CONTENT="und Entwicklungsphysiologie. 1943."
+                    HPOS="226"
+                    VPOS="821"
+                    WIDTH="992"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_14"
+                    
+                    BASELINE="169 929 1282 933" 
+                    HPOS="166"
+                    VPOS="893"
+                    WIDTH="1114"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="168 928 166 972 224 962 246 973 265 982 266 982 267 982 307 981 318 987 320 987 321 987 322 987 323 987 379 972 407 965 429 972 450 978 451 978 574 988 575 988 576 988 631 970 651 964 714 964 753 964 764 969 817 988 818 988 979 989 980 989 981 989 1010 977 1028 985 1029 985 1030 985 1031 985 1066 966 1069 965 1279 965 1280 932 1280 906 1245 896 1244 896 1242 896 1073 904 1021 905 1001 902 958 896 956 896 955 896 943 901 936 905 928 901 917 896 916 896 856 895 855 895 853 895 837 900 825 904 804 900 783 896 782 896 781 896 774 900 764 905 689 905 674 899 668 896 667 896 666 896 664 896 663 896 661 899 652 905 539 905 501 896 493 895 491 895 490 895 488 896 474 902 387 896 386 896 385 896 371 904 278 904 240 896 239 896 238 896 212 902 168 893 168 928"/></Shape>
+	    <String CONTENT="2. Typensynthese durch Holobiose. 1950."
+                    HPOS="166"
+                    VPOS="893"
+                    WIDTH="1114"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

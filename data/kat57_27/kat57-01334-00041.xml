@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01334-00041.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="48"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2315 1477 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="205 118 671 113" 
+                    HPOS="203"
+                    VPOS="65"
+                    WIDTH="467"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="204 117 204 142 231 145 261 161 262 161 263 161 264 161 266 161 289 146 321 158 322 158 323 158 325 158 358 147 359 147 368 147 421 152 422 152 423 152 432 150 458 141 489 147 490 147 491 147 512 141 523 152 539 167 539 168 540 168 542 168 543 168 661 167 662 167 664 167 664 166 665 166 670 160 670 112 667 73 620 65 619 65 618 65 601 75 587 82 574 75 553 65 551 65 550 65 533 66 532 66 530 66 530 67 521 77 513 84 461 84 457 78 450 73 450 72 449 72 448 72 447 72 445 72 432 78 427 82 421 80 400 67 399 67 397 67 343 77 322 68 321 68 320 68 319 68 277 83 267 86 258 83 220 72 219 72 218 72 216 72 215 72 203 80 204 117"/></Shape>
+	    <String CONTENT="O´ KELLY , J. J."
+                    HPOS="203"
+                    VPOS="65"
+                    WIDTH="467"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="197 211 1338 232" 
+                    HPOS="194"
+                    VPOS="172"
+                    WIDTH="1143"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="195 210 194 238 222 248 224 248 225 250 330 250 362 266 363 266 507 268 508 268 510 268 554 253 577 245 602 254 603 254 604 254 606 254 641 247 667 256 668 256 670 256 718 247 735 253 736 253 737 253 789 248 808 259 809 259 810 259 811 259 813 259 841 250 896 262 898 262 899 262 935 251 987 257 989 257 1066 253 1122 275 1135 280 1137 280 1212 282 1213 282 1214 282 1224 279 1250 272 1335 283 1337 231 1337 206 1287 206 1284 204 1267 194 1266 194 1265 194 1263 194 1135 200 1100 201 1081 199 1002 184 1001 184 931 194 905 198 890 193 851 181 850 181 781 179 779 179 778 179 777 179 761 189 716 183 715 183 714 183 704 188 692 195 668 195 613 185 609 185 608 185 606 185 582 189 570 184 555 178 554 178 553 178 524 183 522 183 521 183 502 174 501 174 500 174 498 174 473 182 466 183 458 182 431 173 429 173 341 172 340 172 338 172 326 177 305 188 271 188 250 176 247 173 246 173 245 173 243 173 195 173 195 210"/></Shape>
+	    <String CONTENT="Se: EACHTRA an Amadáin Mhóir. 1911."
+                    HPOS="194"
+                    VPOS="172"
+                    WIDTH="1143"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1370 209 1525 204" 
+                    HPOS="1367"
+                    VPOS="144"
+                    WIDTH="156"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1369 208 1369 221 1483 229 1484 229 1485 229 1523 216 1523 203 1520 155 1496 155 1483 144 1481 144 1480 144 1479 144 1478 144 1448 153 1403 145 1401 145 1400 145 1367 157 1369 208"/></Shape>
+	    <String CONTENT="Vitt."
+                    HPOS="1367"
+                    VPOS="144"
+                    WIDTH="156"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1356 283 1767 273" 
+                    HPOS="1353"
+                    VPOS="221"
+                    WIDTH="413"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="1355 282 1357 322 1383 302 1406 300 1429 302 1451 319 1453 321 1454 321 1456 321 1457 321 1509 316 1510 316 1511 316 1530 302 1546 307 1547 307 1548 307 1549 307 1550 307 1550 306 1563 295 1613 295 1635 311 1640 316 1642 316 1643 316 1644 316 1684 315 1685 315 1686 315 1686 314 1691 310 1695 306 1703 309 1717 314 1718 314 1719 314 1766 306 1766 272 1761 224 1728 237 1703 226 1692 221 1691 221 1664 221 1663 221 1661 221 1660 221 1660 222 1659 222 1654 229 1643 225 1642 225 1640 225 1639 225 1638 225 1633 230 1617 243 1546 245 1533 235 1526 229 1526 227 1525 227 1523 227 1522 227 1521 227 1520 227 1507 235 1479 222 1478 222 1477 222 1475 222 1456 231 1443 224 1442 224 1441 224 1440 224 1438 224 1424 230 1403 224 1401 224 1400 224 1368 230 1367 230 1366 230 1353 238 1355 282"/></Shape>
+	    <String CONTENT="Kelt. (Br.)"
+                    HPOS="1353"
+                    VPOS="221"
+                    WIDTH="413"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1357 360 1620 363" 
+                    HPOS="1355"
+                    VPOS="307"
+                    WIDTH="264"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="1356 359 1355 384 1461 389 1470 396 1496 413 1498 413 1499 413 1500 413 1563 412 1564 412 1565 412 1565 411 1571 406 1573 405 1575 406 1586 413 1587 413 1589 413 1590 413 1618 410 1619 362 1619 326 1592 309 1591 309 1590 309 1570 309 1569 309 1568 309 1566 309 1566 310 1548 328 1539 328 1520 310 1520 309 1518 309 1517 309 1480 307 1479 307 1478 307 1477 307 1451 328 1449 330 1449 328 1419 309 1417 309 1416 309 1415 309 1414 309 1413 309 1389 328 1388 330 1356 330 1356 359"/></Shape>
+	    <String CONTENT="Folkd."
+                    HPOS="1355"
+                    VPOS="307"
+                    WIDTH="264"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

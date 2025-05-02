@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00730-00191.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2332"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="7"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2332"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2330"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2331 1479 2331 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="204 168 609 165" 
+                    HPOS="202"
+                    VPOS="125"
+                    WIDTH="406"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="203 167 203 197 252 207 254 207 419 205 420 205 421 205 445 191 449 189 502 189 577 189 586 196 587 196 588 196 589 196 591 196 608 186 608 164 605 138 550 129 549 129 547 129 534 135 520 125 519 125 518 125 516 125 515 125 497 131 489 127 488 127 487 127 486 127 484 127 483 127 471 136 467 140 428 140 423 136 403 127 402 127 401 127 345 129 344 129 343 129 334 136 330 139 326 136 324 134 323 134 322 134 320 134 246 134 240 129 240 128 239 128 238 128 236 128 202 135 203 167"/></Shape>
+	    <String CONTENT="HERLITZ, Nils"
+                    HPOS="202"
+                    VPOS="125"
+                    WIDTH="406"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="189 271 1854 264" 
+                    HPOS="187"
+                    VPOS="226"
+                    WIDTH="1666"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="188 270 188 298 387 298 392 298 471 313 472 313 715 303 753 312 755 312 872 302 1089 310 1090 310 1127 302 1148 296 1236 296 1259 302 1263 303 1264 303 1265 303 1273 302 1318 293 1538 293 1607 304 1636 308 1637 308 1853 304 1853 263 1850 234 1632 234 1590 226 1589 226 1285 234 1267 226 1265 226 1188 226 1186 226 1185 226 1173 233 1083 228 1082 228 1080 228 1051 235 1001 228 1000 228 999 228 984 234 969 229 968 229 967 229 846 236 840 236 831 236 588 229 587 229 387 238 386 238 384 238 323 230 322 230 262 238 203 230 202 230 201 230 187 236 188 270"/></Shape>
+	    <String CONTENT="Svensk författningsliv. Debattinlägg i brytningstider."
+                    HPOS="187"
+                    VPOS="226"
+                    WIDTH="1666"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2084 79 2255 79" 
+                    HPOS="2083"
+                    VPOS="38"
+                    WIDTH="171"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="2083 78 2083 93 2098 102 2100 102 2101 102 2102 102 2122 93 2153 103 2154 103 2155 104 2217 104 2217 103 2218 103 2219 103 2232 93 2254 93 2254 78 2254 38 2224 38 2223 38 2222 38 2220 38 2212 44 2190 59 2164 55 2162 55 2161 55 2145 64 2132 56 2127 54 2125 54 2124 54 2123 54 2083 64 2083 78"/></Shape>
+	    <String CONTENT="Hist."
+                    HPOS="2083"
+                    VPOS="38"
+                    WIDTH="171"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2068 146 2303 154" 
+                    HPOS="2066"
+                    VPOS="94"
+                    WIDTH="236"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="2067 145 2066 189 2081 183 2124 192 2146 197 2148 197 2149 197 2150 197 2153 194 2172 178 2185 189 2185 191 2186 191 2187 191 2188 191 2190 191 2223 177 2246 177 2272 199 2272 201 2274 201 2275 201 2276 202 2299 202 2302 152 2302 124 2265 124 2262 122 2248 113 2246 113 2245 113 2244 113 2208 115 2188 97 2188 96 2187 96 2186 96 2185 96 2150 101 2107 94 2106 94 2104 94 2067 112 2067 145"/></Shape>
+	    <String CONTENT="Författn"
+                    HPOS="2066"
+                    VPOS="94"
+                    WIDTH="236"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2124 224 2223 224" 
+                    HPOS="2123"
+                    VPOS="178"
+                    WIDTH="99"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="2123 223 2123 246 2222 241 2222 223 2222 197 2181 178 2180 178 2159 178 2158 178 2156 178 2155 178 2155 180 2137 198 2123 198 2123 223"/></Shape>
+	    <String CONTENT="Sv."
+                    HPOS="2123"
+                    VPOS="178"
+                    WIDTH="99"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1591 367 2215 364" 
+                    HPOS="1589"
+                    VPOS="328"
+                    WIDTH="625"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1590 366 1590 394 1624 394 1644 410 1645 410 1647 410 1648 410 1691 408 1692 408 1694 408 1694 407 1703 399 1742 400 1749 408 1749 409 1750 409 1752 409 1753 409 1754 409 1792 394 1813 410 1815 410 1816 410 1817 411 1901 411 1901 410 1902 410 1903 410 1917 402 1969 402 1969 400 1970 400 1971 400 1984 393 2143 409 2144 409 2145 409 2214 390 2214 363 2213 339 2192 328 2191 328 2190 328 2137 334 2130 329 2130 328 2129 328 2128 328 2075 328 2074 328 1998 337 1961 328 1960 328 1959 328 1958 328 1919 337 1903 328 1902 328 1901 328 1900 328 1898 328 1873 339 1854 331 1853 331 1852 331 1850 331 1849 331 1838 340 1787 340 1779 333 1777 333 1776 333 1775 333 1774 333 1773 333 1764 339 1738 330 1737 330 1736 330 1694 339 1675 329 1674 329 1620 329 1618 329 1617 329 1589 339 1590 366"/></Shape>
+	    <String CONTENT="8:o Stockholm 1947."
+                    HPOS="1589"
+                    VPOS="328"
+                    WIDTH="625"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

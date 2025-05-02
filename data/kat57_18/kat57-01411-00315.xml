@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01411-00315.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="38"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2327 1471 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="187 203 1479 206" 
+                    HPOS="185"
+                    VPOS="163"
+                    WIDTH="1293"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="186 202 185 224 197 231 198 231 200 233 695 233 695 231 697 231 708 226 710 225 715 226 736 231 737 231 738 231 784 226 801 225 820 226 871 231 872 231 897 226 909 225 1476 229 1478 204 1475 164 1441 174 1300 174 1281 164 1279 164 1203 164 1202 164 1201 164 1200 164 1184 174 852 174 830 165 829 165 828 165 827 165 807 171 789 165 782 163 781 163 666 163 665 163 663 163 659 165 646 172 617 172 605 165 600 163 598 163 597 163 186 165 186 202"/></Shape>
+	    <String CONTENT="PIGAULT-LEBRUN, [Charles Antoine Guillaume]"
+                    HPOS="185"
+                    VPOS="163"
+                    WIDTH="1293"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1748 61 2067 56" 
+                    HPOS="1746"
+                    VPOS="7"
+                    WIDTH="320"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1747 60 1747 74 1768 84 1769 84 1770 84 1772 84 1773 84 1788 73 1789 73 1790 73 1813 84 1815 84 1816 84 1817 84 1838 77 1896 83 1897 83 1898 83 1914 77 1947 82 1948 82 1950 82 1951 82 1967 71 2013 79 2015 79 2016 79 2017 79 2017 78 2027 68 2066 67 2066 55 2062 31 1980 31 1977 30 1946 7 1945 7 1943 7 1942 7 1884 11 1883 11 1882 11 1857 29 1854 31 1850 29 1815 9 1813 9 1789 9 1788 9 1786 9 1746 25 1747 60"/></Shape>
+	    <String CONTENT="Teaterpj."
+                    HPOS="1746"
+                    VPOS="7"
+                    WIDTH="320"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2113 54 2271 48" 
+                    HPOS="2109"
+                    VPOS="1"
+                    WIDTH="161"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="2259 1 2234 6 2194 1 2184 1 2183 1 2181 1 2180 1 2179 2 2170 8 2157 2 2156 2 2154 2 2153 2 2152 2 2150 3 2136 9 2109 4 2112 53 2112 73 2119 78 2120 78 2121 78 2123 78 2185 71 2211 68 2269 71 2270 47 2265 1 2259 1"/></Shape>
+	    <String CONTENT="Vitt"
+                    HPOS="2109"
+                    VPOS="1"
+                    WIDTH="161"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2115 129 2242 124" 
+                    HPOS="2112"
+                    VPOS="71"
+                    WIDTH="128"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="2114 128 2114 142 2240 142 2240 123 2238 89 2175 71 2174 71 2173 71 2157 72 2156 72 2154 72 2154 73 2134 94 2132 95 2112 95 2114 128"/></Shape>
+	    <String CONTENT="Fr."
+                    HPOS="2112"
+                    VPOS="71"
+                    WIDTH="128"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="174 274 2297 282" 
+                    HPOS="171"
+                    VPOS="233"
+                    WIDTH="2125"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="173 273 171 301 456 306 457 306 537 302 587 300 632 302 715 307 716 307 740 302 752 300 872 300 920 302 1013 309 1014 309 1113 302 1148 301 1173 302 1251 310 1252 311 1468 311 1468 310 1537 304 1552 302 1560 304 1606 311 1607 311 1608 311 1638 304 1639 304 1640 304 1677 311 1678 311 1731 304 1735 304 1907 304 1914 304 2002 312 2004 314 2242 314 2242 312 2294 304 2296 280 2294 250 2251 240 2191 240 2190 240 2189 240 2162 249 2151 251 2109 247 2015 240 2013 240 1910 246 1848 250 1810 245 1757 239 1756 239 1711 245 1671 250 1653 244 1648 242 1646 242 1494 237 1493 237 1492 237 1475 242 1454 250 1342 250 1310 241 1303 240 1302 240 1292 241 1246 249 1212 240 1194 236 854 235 852 235 851 235 841 237 807 246 267 246 173 233 173 273"/></Shape>
+	    <String CONTENT="Dragoner och nunnor. Ett klosteräfventyr i 2 akter. Öfversättning från"
+                    HPOS="171"
+                    VPOS="233"
+                    WIDTH="2125"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="177 354 465 354" 
+                    HPOS="176"
+                    VPOS="322"
+                    WIDTH="287"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="176 353 176 371 309 380 310 380 463 375 463 353 463 333 343 322 342 322 341 322 319 333 281 333 272 325 272 323 271 323 269 323 207 322 206 322 204 322 176 332 176 353"/></Shape>
+	    <String CONTENT="franskan."
+                    HPOS="176"
+                    VPOS="322"
+                    WIDTH="287"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="185 504 937 507" 
+                    HPOS="182"
+                    VPOS="458"
+                    WIDTH="754"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="184 502 182 533 235 534 236 534 238 534 239 534 240 533 256 523 293 523 316 533 320 534 321 534 322 536 354 536 354 534 355 534 360 533 382 523 418 532 434 536 435 537 575 537 575 536 576 536 590 531 602 527 611 531 616 533 617 533 618 533 619 533 625 531 641 525 697 526 700 531 706 536 706 537 708 537 709 537 710 537 711 537 736 531 752 526 757 529 760 533 762 533 763 533 764 533 765 533 774 529 781 526 889 526 894 529 900 534 901 534 903 534 904 534 935 528 936 506 935 461 888 471 859 461 857 461 856 461 855 461 854 461 835 473 779 473 767 462 767 461 765 461 764 461 738 461 737 461 736 461 735 461 735 462 724 473 689 473 656 463 655 463 654 463 595 471 578 460 576 460 575 460 574 460 522 471 498 463 497 463 495 463 494 463 465 471 452 464 451 464 450 464 413 469 390 458 389 458 387 458 369 458 368 458 366 458 365 458 365 460 355 468 316 461 315 461 314 461 312 461 299 471 265 471 247 458 246 458 245 458 184 458 184 502"/></Shape>
+	    <String CONTENT="[Teater-biblioteket N:o 6.]"
+                    HPOS="182"
+                    VPOS="458"
+                    WIDTH="754"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1494 431 2196 436" 
+                    HPOS="1492"
+                    VPOS="392"
+                    WIDTH="703"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1493 430 1492 453 1526 466 1527 466 1529 466 1530 466 1560 456 1594 456 1643 456 1645 456 1667 468 1668 468 1670 469 1703 469 1703 468 1704 468 1722 458 1732 467 1732 468 1734 468 1735 468 1736 469 1758 469 1758 468 1759 468 1761 468 1778 458 1779 457 1781 458 1806 468 1807 468 1808 468 1810 468 1822 463 1845 469 1846 469 1848 469 1930 462 1954 469 1956 469 1957 469 1958 469 1978 461 1984 458 2008 458 2012 461 2022 469 2022 471 2023 471 2024 471 2026 471 2027 471 2028 471 2043 462 2048 460 2065 460 2067 462 2076 469 2076 471 2077 471 2078 471 2080 471 2081 471 2082 471 2093 462 2098 460 2105 462 2127 471 2129 471 2130 471 2194 463 2195 435 2195 410 2175 410 2175 409 2154 394 2153 394 2152 394 2080 394 2078 394 2077 394 2039 408 2035 409 1936 408 1936 407 1916 399 1915 399 1914 399 1913 399 1911 399 1911 401 1907 404 1881 394 1880 394 1878 394 1877 394 1845 406 1808 392 1807 392 1806 392 1805 392 1778 404 1735 392 1734 392 1732 392 1731 392 1730 392 1713 404 1710 407 1708 404 1693 396 1692 396 1691 396 1689 396 1646 404 1637 407 1595 407 1590 403 1575 397 1574 397 1573 397 1572 397 1549 403 1547 404 1545 403 1535 394 1535 393 1534 393 1532 393 1531 393 1493 402 1493 430"/></Shape>
+	    <String CONTENT="8:o Helsingfors 1881."
+                    HPOS="1492"
+                    VPOS="392"
+                    WIDTH="703"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

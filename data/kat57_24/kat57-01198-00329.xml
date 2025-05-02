@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01198-00329.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1476"
+          PHYSICAL_IMG_NR="20"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1476">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1474"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1475 2311 1475 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="277 274 953 266" 
+                    HPOS="275"
+                    VPOS="204"
+                    WIDTH="677"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="276 273 276 282 388 282 398 290 399 290 401 290 402 290 403 290 431 282 444 291 445 291 446 291 447 291 449 291 466 282 513 291 514 291 515 291 534 281 546 291 547 291 548 291 578 292 579 292 580 292 581 292 599 281 610 291 611 291 612 291 613 292 655 292 655 291 657 291 658 291 658 290 669 280 681 280 700 280 722 291 723 291 724 291 770 285 791 290 792 290 793 290 794 290 808 282 814 289 814 290 815 290 817 290 818 290 852 284 938 289 940 289 941 289 942 289 942 287 952 277 952 265 946 215 917 234 896 236 877 218 866 209 866 207 865 207 863 207 862 207 861 207 836 220 834 221 833 220 791 204 789 204 788 204 787 204 786 204 759 223 730 244 659 244 653 239 653 238 652 238 650 238 649 238 601 246 580 238 579 238 578 238 535 243 520 234 511 231 510 231 509 231 508 231 506 231 499 236 492 241 486 237 444 207 442 207 441 207 440 207 339 209 338 209 337 209 337 210 319 226 313 221 312 221 311 221 310 221 308 221 307 221 307 222 281 246 279 248 275 247 276 273"/></Shape>
+	    <String CONTENT="Meyrac Albert"
+                    HPOS="275"
+                    VPOS="204"
+                    WIDTH="677"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2078 57 2257 57" 
+                    HPOS="2076"
+                    VPOS="2"
+                    WIDTH="180"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="2076 56 2076 76 2256 76 2256 56 2256 13 2244 6 2243 6 2241 6 2240 6 2200 13 2172 2 2171 2 2126 2 2124 2 2123 2 2122 2 2102 15 2102 17 2076 17 2076 56"/></Shape>
+	    <String CONTENT="Hist."
+                    HPOS="2076"
+                    VPOS="2"
+                    WIDTH="180"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2141 129 2225 132" 
+                    HPOS="2139"
+                    VPOS="72"
+                    WIDTH="85"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="2140 127 2139 151 2222 153 2224 131 2224 92 2207 92 2201 88 2170 72 2169 72 2168 72 2166 72 2142 78 2140 127"/></Shape>
+	    <String CONTENT="Fr."
+                    HPOS="2139"
+                    VPOS="72"
+                    WIDTH="85"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2126 207 2227 213" 
+                    HPOS="2123"
+                    VPOS="145"
+                    WIDTH="105"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="2124 206 2123 223 2175 223 2182 230 2184 230 2185 230 2186 230 2187 230 2188 230 2200 221 2203 220 2223 220 2225 212 2228 157 2190 145 2188 145 2187 145 2186 145 2185 145 2155 162 2149 166 2126 166 2124 206"/></Shape>
+	    <String CONTENT="Ny"
+                    HPOS="2123"
+                    VPOS="145"
+                    WIDTH="105"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="241 367 2278 357" 
+                    HPOS="238"
+                    VPOS="298"
+                    WIDTH="2039"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="239 366 239 380 271 389 273 389 274 389 499 380 502 380 504 380 738 386 739 386 772 378 773 378 781 378 992 387 994 387 995 387 1021 377 1022 377 1037 377 1197 383 1198 383 1330 378 1352 384 1353 384 1354 384 1475 378 1509 384 1510 384 1567 377 1600 383 1602 383 1898 382 1955 373 1961 373 1967 373 2019 382 2020 382 2277 372 2277 356 2275 311 2145 298 2144 298 2074 312 2016 324 1850 324 1798 314 1775 311 1774 311 1748 314 1700 323 1626 322 1611 316 1566 301 1565 301 1563 301 1513 302 1512 302 1460 318 1432 327 1269 327 1246 319 1189 303 1188 303 1055 303 1054 303 1053 303 1020 314 889 305 888 305 887 305 818 323 799 328 764 324 685 314 684 314 682 314 647 325 636 328 626 325 561 306 559 306 558 306 481 319 423 307 328 307 327 307 238 328 239 366"/></Shape>
+	    <String CONTENT="Hovskvaller från Fontainebleau. Urbal ur &quot;Krö-"
+                    HPOS="238"
+                    VPOS="298"
+                    WIDTH="2039"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="269 448 1748 451 2273 440" 
+                    HPOS="267"
+                    VPOS="404"
+                    WIDTH="2005"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="268 447 268 464 355 476 356 476 548 464 579 463 585 464 621 474 622 474 623 474 625 474 657 467 760 472 798 483 799 483 801 484 978 484 978 483 979 483 1039 463 1042 463 1058 463 1397 482 1399 482 1582 478 1645 467 1680 477 1682 477 1683 477 1711 471 1731 477 1732 477 1733 477 1803 472 1896 478 1897 478 1984 462 1987 462 1992 462 2083 468 2084 468 2172 462 2174 462 2223 469 2224 469 2271 461 2272 439 2270 423 2203 420 2152 404 2150 404 2104 404 2102 404 2101 404 2048 423 2046 423 2042 423 1950 405 1949 405 1947 405 1902 423 1843 423 1809 423 1808 423 1757 404 1755 404 1712 404 1711 404 1710 404 1664 415 1625 412 1624 412 1622 412 1588 424 1586 424 1583 424 1550 412 1549 412 1547 412 1496 424 1491 425 1325 425 1322 424 1245 405 1243 405 1242 405 1175 424 1173 424 1102 405 1101 405 1024 405 1023 405 1022 405 980 419 946 409 944 409 830 405 829 405 828 405 776 425 723 425 668 405 666 405 637 405 636 405 634 405 579 425 550 425 494 405 493 405 430 405 429 405 345 424 267 425 268 447"/></Shape>
+	    <String CONTENT="nikor fran Oxögat&quot;- L´oeuil de boeuf - Over-"
+                    HPOS="267"
+                    VPOS="404"
+                    WIDTH="2005"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="281 536 2296 531" 
+                    HPOS="279"
+                    VPOS="489"
+                    WIDTH="2015"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="280 535 280 555 407 559 493 583 494 583 495 584 684 584 684 583 685 583 754 559 789 559 852 581 853 581 855 583 888 583 888 581 889 581 965 559 979 555 1129 559 1176 560 1177 560 1236 560 1609 554 1631 562 1685 580 1686 580 1688 580 1741 569 1803 574 1805 574 1844 565 1872 573 1873 573 1875 573 1934 569 1963 579 1965 579 1966 580 2036 580 2036 579 2037 579 2067 570 2097 579 2099 579 2100 580 2177 580 2177 579 2179 579 2224 567 2270 574 2271 574 2272 574 2294 564 2294 530 2293 505 2244 489 2243 489 2084 489 2083 489 2011 506 1989 512 1685 512 1670 509 1609 490 1608 490 1517 490 1515 490 1514 490 1460 510 1451 514 1305 514 1298 511 1240 492 1239 492 1204 492 1203 492 1202 492 1148 511 1140 515 1068 515 1061 512 1005 492 1004 492 932 492 931 492 930 492 878 511 837 514 825 514 823 514 760 493 759 493 728 493 727 493 725 493 659 515 657 516 543 516 542 515 481 493 479 493 392 493 391 493 390 493 338 512 279 516 280 535"/></Shape>
+	    <String CONTENT="sättning fran franskan av Karin Jensen f. Lidforss."
+                    HPOS="279"
+                    VPOS="489"
+                    WIDTH="2015"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1447 610 2118 614" 
+                    HPOS="1445"
+                    VPOS="573"
+                    WIDTH="672"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="1446 608 1445 623 1462 630 1464 630 1465 630 1501 624 1520 638 1522 638 1523 638 1524 638 1525 638 1556 628 1603 637 1604 637 1631 632 1638 638 1638 639 1640 639 1641 639 1642 639 1643 639 1672 632 1688 639 1689 639 1690 639 1691 639 1693 639 1702 632 1748 638 1749 638 1750 638 1752 638 1752 637 1758 632 1805 640 1806 642 1934 642 1934 640 1935 640 1936 640 1936 639 1950 627 1974 627 1987 638 1987 639 1988 639 1989 639 1990 639 1992 639 1993 639 2006 628 2116 628 2117 613 2112 580 2100 587 2092 580 2090 579 2090 578 2089 578 2088 578 2086 578 2085 578 2078 580 2072 583 2062 581 2036 576 2035 576 2033 576 2032 576 2025 581 2005 594 1915 594 1898 583 1897 583 1896 583 1894 583 1893 583 1892 584 1873 594 1825 594 1816 584 1806 576 1806 575 1805 575 1803 575 1802 575 1764 581 1733 574 1732 574 1731 574 1730 574 1702 586 1690 592 1645 592 1637 586 1616 573 1615 573 1614 573 1557 573 1556 573 1555 573 1554 573 1533 589 1513 573 1512 573 1510 573 1493 573 1492 573 1491 573 1490 573 1462 589 1461 590 1446 590 1446 608"/></Shape>
+	    <String CONTENT="8º Stockholm 1921."
+                    HPOS="1445"
+                    VPOS="573"
+                    WIDTH="672"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="292 699 2273 696" 
+                    HPOS="290"
+                    VPOS="645"
+                    WIDTH="1982"
+                    HEIGHT="343">
+            <Shape><Polygon POINTS="291 698 291 988 719 987 721 987 924 915 1230 805 1303 794 1304 794 1451 746 1560 734 1561 734 1613 718 1800 724 1801 724 1965 718 2149 772 2159 774 2160 774 2161 774 2270 757 2272 694 2268 646 2201 656 2171 646 2169 645 2168 645 2075 645 2074 645 2063 646 1891 670 1817 646 1816 646 1814 646 1813 646 1812 646 1811 646 1790 654 1759 650 1758 650 1757 650 1698 667 1656 659 1654 659 1653 659 1609 674 1349 674 1271 648 1268 646 1267 646 1237 646 1236 646 1235 646 1232 648 1160 674 1124 674 1063 650 1061 650 1060 650 1026 656 989 648 983 646 981 646 980 646 976 648 925 666 892 655 890 655 889 655 888 655 824 671 770 658 769 658 767 658 766 658 721 675 514 675 444 648 442 648 441 648 440 648 290 648 291 698"/></Shape>
+	    <String CONTENT="[Efter G. Touchard-Lafosse, Chroniques de l´Oeuil-de Boeuf.]"
+                    HPOS="290"
+                    VPOS="645"
+                    WIDTH="1982"
+                    HEIGHT="343"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

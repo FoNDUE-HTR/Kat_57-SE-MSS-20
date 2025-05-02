@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01411-00054.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="36"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2323 1471 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="192 187 632 182" 
+                    HPOS="190"
+                    VPOS="132"
+                    WIDTH="441"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="191 186 191 219 409 223 411 223 412 223 413 223 434 210 442 206 495 208 585 212 586 212 631 202 631 181 628 141 597 144 585 139 570 134 569 134 568 134 566 134 548 139 544 141 542 139 525 132 523 132 522 132 521 132 503 139 480 149 397 149 387 142 387 141 386 141 385 141 384 141 382 141 354 149 339 138 337 136 336 136 334 136 333 136 315 138 292 142 190 138 191 186"/></Shape>
+	    <String CONTENT="PIÉRARD, Louis"
+                    HPOS="190"
+                    VPOS="132"
+                    WIDTH="441"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="177 281 1536 289" 
+                    HPOS="175"
+                    VPOS="241"
+                    WIDTH="1360"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="176 280 175 302 230 315 231 315 550 307 627 306 656 309 741 317 742 317 792 310 815 307 829 311 855 318 856 318 857 320 1054 320 1054 318 1055 318 1067 314 1077 310 1108 314 1132 317 1133 317 1154 315 1186 310 1208 315 1227 320 1228 320 1229 320 1252 316 1285 310 1343 317 1380 321 1381 321 1382 321 1392 317 1411 311 1532 318 1535 288 1535 251 1360 245 1359 245 1358 245 1338 251 1311 258 1256 251 1252 251 1251 251 1246 251 1175 257 1163 251 1158 249 1157 249 1155 249 1131 251 1082 257 1033 251 980 245 979 245 977 245 964 251 959 253 952 251 922 244 921 244 920 244 858 251 825 242 824 242 823 242 822 242 804 251 779 246 777 246 707 252 672 255 660 252 613 241 612 241 549 252 541 253 533 252 492 244 490 244 489 244 463 252 458 253 446 252 376 245 375 245 326 252 311 246 310 246 309 246 256 252 203 246 202 246 201 246 176 252 176 280"/></Shape>
+	    <String CONTENT="Rimouski-Puebla. Du Canada au Mexique.[Ill.]"
+                    HPOS="175"
+                    VPOS="241"
+                    WIDTH="1360"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="182 491 537 488" 
+                    HPOS="180"
+                    VPOS="441"
+                    WIDTH="356"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="181 490 184 526 198 516 215 525 218 526 219 526 220 527 246 527 246 526 247 526 249 526 249 525 250 525 260 516 301 523 311 525 312 525 314 525 319 523 346 515 403 520 404 520 406 520 407 520 417 513 435 521 441 523 442 523 444 523 534 518 536 486 533 452 346 441 344 441 288 455 284 455 280 455 207 442 206 442 204 442 180 453 181 490"/></Shape>
+	    <String CONTENT="[Enquêtes.]"
+                    HPOS="180"
+                    VPOS="441"
+                    WIDTH="356"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1402 384 1877 384" 
+                    HPOS="1401"
+                    VPOS="343"
+                    WIDTH="475"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1401 383 1401 407 1505 418 1506 418 1508 418 1541 409 1546 408 1548 409 1568 419 1569 419 1570 419 1629 412 1698 419 1699 419 1700 419 1701 419 1711 412 1715 408 1732 412 1757 417 1758 417 1759 417 1771 412 1781 408 1786 413 1795 419 1796 419 1797 419 1798 419 1876 413 1876 383 1876 356 1798 343 1797 343 1796 343 1780 349 1771 343 1770 343 1769 343 1704 343 1703 343 1701 343 1679 349 1657 343 1656 343 1655 343 1654 343 1607 355 1570 343 1569 343 1568 343 1566 343 1538 355 1512 349 1511 349 1510 349 1455 355 1442 347 1441 347 1440 347 1439 347 1401 355 1401 383"/></Shape>
+	    <String CONTENT="8:o Paris 1931."
+                    HPOS="1401"
+                    VPOS="343"
+                    WIDTH="475"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2093 57 2232 54" 
+                    HPOS="2090"
+                    VPOS="1"
+                    WIDTH="141"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="2164 1 2152 1 2139 1 2133 1 2132 1 2131 1 2090 26 2092 56 2092 68 2126 69 2143 82 2144 82 2146 82 2147 82 2148 82 2174 73 2181 80 2182 80 2184 80 2185 82 2218 82 2218 80 2219 80 2220 80 2231 72 2231 53 2229 28 2202 28 2175 1 2164 1"/></Shape>
+	    <String CONTENT="Res."
+                    HPOS="2090"
+                    VPOS="1"
+                    WIDTH="141"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2077 134 2296 134" 
+                    HPOS="2076"
+                    VPOS="90"
+                    WIDTH="219"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="2076 133 2076 153 2100 161 2101 161 2103 161 2295 157 2295 133 2295 115 2263 115 2230 94 2229 94 2228 94 2227 94 2225 94 2208 100 2136 90 2135 90 2133 90 2132 90 2132 92 2109 115 2076 115 2076 133"/></Shape>
+	    <String CONTENT="Amer."
+                    HPOS="2076"
+                    VPOS="90"
+                    WIDTH="219"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

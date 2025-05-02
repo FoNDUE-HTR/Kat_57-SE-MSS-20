@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00207.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="29"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2327 1479 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="112 261 612 253" 
+                    HPOS="109"
+                    VPOS="212"
+                    WIDTH="502"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="111 260 111 282 130 296 132 296 133 296 134 296 231 289 276 294 277 294 340 293 341 293 342 293 366 276 367 276 420 276 510 276 535 288 536 288 537 288 539 288 540 288 560 275 610 272 611 252 606 212 581 225 481 225 450 215 446 214 445 214 444 214 442 214 441 214 440 215 428 224 404 217 403 217 402 217 400 217 399 217 386 228 356 228 312 219 299 217 298 217 297 217 288 219 268 225 257 220 254 218 252 218 251 218 109 223 111 260"/></Shape>
+	    <String CONTENT="MORTARA, Giorgio"
+                    HPOS="109"
+                    VPOS="212"
+                    WIDTH="502"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2018 71 2292 74" 
+                    HPOS="2015"
+                    VPOS="18"
+                    WIDTH="275"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="2017 70 2015 99 2097 99 2097 98 2136 90 2149 96 2150 96 2151 96 2198 90 2214 97 2215 97 2216 97 2266 91 2287 98 2290 74 2290 38 2272 22 2272 20 2271 20 2270 20 2268 20 2267 20 2266 20 2241 39 2237 40 2197 40 2195 38 2179 24 2179 23 2178 23 2177 23 2176 23 2175 23 2141 38 2138 39 2134 38 2103 18 2102 18 2100 18 2099 18 2043 20 2041 20 2017 33 2017 70"/></Shape>
+	    <String CONTENT="Statist"
+                    HPOS="2015"
+                    VPOS="18"
+                    WIDTH="275"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2052 138 2271 138" 
+                    HPOS="2051"
+                    VPOS="91"
+                    WIDTH="219"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="2051 136 2051 166 2146 151 2171 157 2197 164 2198 164 2199 164 2270 149 2270 136 2270 118 2204 118 2167 91 2166 91 2165 91 2097 91 2096 91 2094 91 2093 91 2093 92 2065 118 2051 118 2051 136"/></Shape>
+	    <String CONTENT="Allm."
+                    HPOS="2051"
+                    VPOS="91"
+                    WIDTH="219"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="108 360 2255 357" 
+                    HPOS="106"
+                    VPOS="320"
+                    WIDTH="2147"
+                    HEIGHT="465">
+            <Shape><Polygon POINTS="107 358 107 785 578 784 579 784 1042 627 1301 540 1676 424 2252 424 2253 356 2251 330 2141 323 2140 323 1869 326 1822 320 1820 320 1746 329 1739 330 1543 330 1539 329 1512 320 1511 320 1510 320 1437 328 1424 329 1395 328 1275 323 1274 323 1230 328 1217 329 1211 328 1194 323 1192 323 1191 323 1190 323 1178 328 1170 330 1136 328 1074 323 1073 323 1038 328 1017 330 1000 328 967 321 965 321 822 328 795 328 771 326 681 323 679 323 660 326 643 331 516 331 503 326 486 321 484 321 281 321 280 321 278 321 261 326 244 330 106 326 107 358"/></Shape>
+	    <String CONTENT="La mortalità secondo l&#x27;età e la durata della vita economicamente produt-"
+                    HPOS="106"
+                    VPOS="320"
+                    WIDTH="2147"
+                    HEIGHT="465"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="116 456 282 460" 
+                    HPOS="114"
+                    VPOS="423"
+                    WIDTH="167"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="115 455 114 483 280 482 281 458 281 436 170 423 169 423 115 431 115 455"/></Shape>
+	    <String CONTENT="tiva."
+                    HPOS="114"
+                    VPOS="423"
+                    WIDTH="167"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1364 554 1804 557" 
+                    HPOS="1362"
+                    VPOS="516"
+                    WIDTH="441"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="1363 553 1362 582 1381 582 1385 584 1397 593 1399 593 1400 593 1401 594 1484 594 1484 593 1485 593 1486 593 1486 592 1494 585 1498 580 1513 585 1534 592 1535 592 1537 592 1574 585 1609 580 1680 584 1682 587 1688 593 1688 594 1690 594 1691 594 1692 594 1693 594 1707 588 1721 580 1738 588 1745 590 1746 590 1748 590 1749 590 1750 590 1754 588 1764 582 1801 588 1803 556 1803 529 1769 518 1767 518 1729 518 1728 518 1727 518 1725 518 1725 519 1718 525 1713 521 1713 520 1712 520 1711 520 1626 519 1624 519 1585 527 1572 518 1571 518 1570 518 1569 518 1568 518 1547 527 1521 518 1519 518 1518 518 1517 518 1516 518 1497 529 1496 530 1428 530 1427 529 1407 516 1406 516 1405 516 1403 516 1402 516 1363 527 1363 553"/></Shape>
+	    <String CONTENT="8:o Roma 1908."
+                    HPOS="1362"
+                    VPOS="516"
+                    WIDTH="441"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

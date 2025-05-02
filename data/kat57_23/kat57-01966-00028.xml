@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01966-00028.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="11"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2315 1479 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="64 72 575 64" 
+                    HPOS="61"
+                    VPOS="19"
+                    WIDTH="513"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="62 71 62 97 98 91 111 101 119 107 120 107 122 107 123 107 124 107 140 101 170 90 208 92 223 103 246 120 248 120 249 120 250 120 330 119 331 119 333 119 349 107 378 86 412 93 413 93 414 93 436 85 442 91 444 91 445 91 446 91 505 91 533 113 536 115 537 115 539 115 540 115 574 113 574 62 568 30 551 45 492 39 491 39 489 39 472 44 459 35 436 19 435 19 434 19 433 19 408 20 407 20 405 20 386 38 376 46 292 49 282 40 264 24 264 23 262 23 261 23 241 23 240 23 239 23 238 23 238 24 217 43 212 46 207 44 181 24 180 24 178 24 134 24 133 24 119 25 118 25 117 25 117 27 95 48 88 53 61 49 62 71"/></Shape>
+	    <String CONTENT="[Bombay, Univ.]"
+                    HPOS="61"
+                    VPOS="19"
+                    WIDTH="513"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="196 239 1198 236" 
+                    HPOS="193"
+                    VPOS="197"
+                    WIDTH="1003"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="194 238 194 276 261 276 287 284 288 284 289 284 291 284 312 276 317 276 414 283 415 283 486 276 494 276 496 276 508 286 509 286 510 286 512 286 513 286 514 286 525 278 535 286 536 286 537 286 539 286 609 278 646 286 647 286 771 284 772 284 773 284 782 277 787 275 853 276 856 277 869 284 871 284 872 286 957 286 957 284 958 284 971 278 974 276 978 278 987 284 988 284 989 284 990 284 1037 278 1041 278 1045 278 1075 284 1077 284 1078 284 1079 284 1087 278 1093 275 1194 278 1196 235 1193 202 864 204 860 203 839 197 837 197 836 197 835 197 810 203 806 204 802 203 778 197 777 197 776 197 774 197 751 204 748 204 747 204 723 197 721 197 720 197 719 197 705 204 704 204 702 204 663 198 662 198 593 204 582 205 579 205 563 198 562 198 561 198 560 198 542 205 540 207 463 207 463 205 446 198 445 198 371 198 370 198 299 205 273 198 272 198 271 198 270 198 268 198 259 205 203 198 202 198 201 198 199 198 193 202 194 238"/></Shape>
+	    <String CONTENT="UNIVERSITY OF BOMBAY PUBLICATIONS"
+                    HPOS="193"
+                    VPOS="197"
+                    WIDTH="1003"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="192 343 695 343" 
+                    HPOS="191"
+                    VPOS="312"
+                    WIDTH="503"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="191 342 191 365 229 372 230 372 308 367 317 374 317 376 318 376 319 376 320 376 322 376 323 376 339 366 415 366 425 374 425 376 426 376 428 376 429 377 466 377 466 376 467 376 468 376 484 366 499 373 500 373 502 373 530 367 540 376 541 376 542 376 544 376 545 376 568 366 583 373 584 373 586 373 587 373 600 368 608 374 608 376 609 376 610 376 612 377 667 377 667 376 668 376 694 363 694 342 694 323 662 323 641 312 640 312 639 312 637 312 624 318 579 312 578 312 577 312 555 320 451 321 373 312 372 312 371 312 370 312 370 313 361 320 352 313 352 312 351 312 350 312 349 312 246 319 239 313 239 312 238 312 236 312 210 312 209 312 208 312 191 320 191 342"/></Shape>
+	    <String CONTENT="Politics series."
+                    HPOS="191"
+                    VPOS="312"
+                    WIDTH="503"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1974 64 2115 64" 
+                    HPOS="1972"
+                    VPOS="11"
+                    WIDTH="142"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1972 62 1972 87 2019 99 2021 99 2022 99 2038 93 2051 88 2113 99 2114 62 2114 17 2090 11 2088 11 2087 11 2086 11 2085 11 2069 22 2043 11 2042 11 2040 11 2039 11 2038 11 2038 12 2016 32 2009 38 1972 38 1972 62"/></Shape>
+	    <String CONTENT="Acta"
+                    HPOS="1972"
+                    VPOS="11"
+                    WIDTH="142"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1503 437 1980 442" 
+                    HPOS="1501"
+                    VPOS="400"
+                    WIDTH="478"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1502 436 1501 468 1583 473 1584 473 1585 473 1586 473 1592 469 1605 462 1617 469 1625 474 1626 474 1627 474 1628 476 1662 476 1662 474 1663 474 1664 474 1664 473 1668 469 1674 463 1691 469 1697 472 1699 472 1700 472 1701 472 1706 469 1721 463 1778 463 1786 471 1792 476 1794 476 1795 476 1796 477 1816 477 1816 476 1817 476 1818 476 1818 474 1823 471 1831 464 1903 467 1910 471 1923 477 1924 477 1926 477 1977 471 1979 441 1979 408 1859 402 1858 402 1856 402 1855 402 1855 403 1850 407 1848 410 1755 411 1748 407 1739 400 1738 400 1737 400 1736 400 1734 400 1721 407 1712 410 1697 407 1674 400 1673 400 1671 400 1670 400 1648 407 1636 409 1502 407 1502 436"/></Shape>
+	    <String CONTENT="8:o Bombay 1955"
+                    HPOS="1501"
+                    VPOS="400"
+                    WIDTH="478"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1986 127 2094 130" 
+                    HPOS="1984"
+                    VPOS="86"
+                    WIDTH="109"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="1985 125 1984 159 2009 160 2014 165 2032 182 2032 183 2033 183 2034 183 2035 183 2091 180 2093 129 2093 107 2061 86 2060 86 2059 86 2058 86 1985 103 1985 125"/></Shape>
+	    <String CONTENT="As."
+                    HPOS="1984"
+                    VPOS="86"
+                    WIDTH="109"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

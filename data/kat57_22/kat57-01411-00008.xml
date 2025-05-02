@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01411-00008.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1468"
+          PHYSICAL_IMG_NR="14"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1468">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1466"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1467 2315 1467 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="189 214 775 214" 
+                    HPOS="188"
+                    VPOS="140"
+                    WIDTH="586"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="188 212 188 229 221 236 222 236 223 236 236 231 247 226 253 231 256 234 258 234 259 234 260 234 261 234 270 231 276 228 287 231 305 236 307 236 308 236 309 236 324 231 343 226 368 232 371 232 373 232 379 232 429 226 440 232 441 233 442 233 444 233 445 233 464 232 512 229 546 233 571 236 572 236 573 236 575 236 575 234 577 233 584 226 638 226 647 234 648 234 648 236 649 236 650 236 652 236 774 234 774 212 774 173 703 149 702 149 701 149 699 149 698 149 676 168 666 176 647 173 645 173 644 173 643 173 621 188 583 188 551 171 550 171 549 171 548 171 527 179 512 173 511 173 510 173 508 173 474 185 458 177 457 177 456 177 412 187 393 174 392 174 391 174 390 174 389 174 387 174 379 182 325 167 303 146 297 141 297 140 296 140 294 140 188 140 188 212"/></Shape>
+	    <String CONTENT="Pienaar, Wet"
+                    HPOS="188"
+                    VPOS="140"
+                    WIDTH="586"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="176 311 777 314" 
+                    HPOS="173"
+                    VPOS="265"
+                    WIDTH="603"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="174 310 173 343 287 344 293 348 321 363 322 363 324 363 393 352 400 357 401 357 402 357 403 357 404 357 406 357 411 352 412 351 414 352 424 362 424 363 425 363 426 363 428 363 466 355 490 364 491 364 493 364 540 357 541 357 556 363 557 363 559 363 560 363 561 363 561 362 566 358 567 357 575 358 603 362 604 362 605 362 610 359 616 355 620 359 622 362 623 362 625 362 626 362 627 362 628 362 631 359 636 355 663 360 682 364 683 364 685 364 693 362 725 352 773 364 776 313 776 291 627 282 626 282 587 289 586 289 584 289 561 267 561 266 560 266 559 266 500 266 499 266 497 266 457 286 437 269 436 269 435 269 434 269 433 269 424 274 408 265 407 265 332 265 331 265 330 265 329 265 329 266 304 288 303 289 266 289 265 288 212 265 211 265 210 265 209 265 207 265 207 266 185 288 184 288 174 288 174 310"/></Shape>
+	    <String CONTENT="Se: Wet Pienaar"
+                    HPOS="173"
+                    VPOS="265"
+                    WIDTH="603"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

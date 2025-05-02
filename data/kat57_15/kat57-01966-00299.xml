@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01966-00299.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="40"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2327 1479 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="205 215 1341 215" 
+                    HPOS="204"
+                    VPOS="162"
+                    WIDTH="1135"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="204 214 204 241 505 244 507 244 508 244 515 241 548 230 598 230 629 241 635 244 636 244 637 244 639 244 643 241 658 234 711 236 713 236 714 236 730 230 872 230 899 239 900 239 901 239 903 239 926 230 974 230 1000 240 1001 240 1003 240 1004 240 1031 230 1049 241 1053 244 1054 244 1056 244 1057 244 1073 241 1125 230 1160 230 1178 240 1179 240 1180 240 1181 240 1273 230 1301 241 1306 242 1307 242 1308 242 1338 240 1339 214 1338 162 1252 162 1250 162 1249 162 1201 178 1131 178 1093 168 1091 168 1014 177 968 168 967 168 965 168 964 168 951 177 766 171 764 171 719 177 682 167 681 167 679 167 678 167 650 177 625 167 624 167 623 167 556 176 497 162 415 162 414 162 413 162 368 176 328 162 326 162 204 162 204 214"/></Shape>
+	    <String CONTENT="[UNNERSTAD, Edith Alice, f. Tötterman]"
+                    HPOS="204"
+                    VPOS="162"
+                    WIDTH="1135"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="192 306 1634 312" 
+                    HPOS="189"
+                    VPOS="265"
+                    WIDTH="1444"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="191 305 189 330 270 331 286 340 287 340 288 340 289 340 308 333 352 339 354 339 442 334 466 333 471 334 497 344 498 344 499 344 550 335 557 334 719 334 734 336 777 346 778 346 825 337 847 334 868 339 938 355 940 355 1190 350 1390 356 1391 356 1392 356 1422 344 1426 342 1431 345 1454 356 1455 356 1457 357 1563 357 1563 356 1564 356 1595 346 1611 341 1629 346 1633 310 1632 270 1559 270 1558 270 1556 270 1519 283 1471 286 1386 286 1347 270 1345 270 1295 270 1294 270 1292 270 1260 284 1153 284 1105 272 1104 272 1014 283 910 267 909 267 868 270 867 270 835 282 776 272 774 272 773 272 746 283 600 283 556 268 555 268 553 268 552 268 531 276 430 272 429 272 428 272 393 281 359 266 357 266 191 265 191 305"/></Shape>
+	    <String CONTENT="Fallet Bengtsson. Av Alice Totterman [pseud.]."
+                    HPOS="189"
+                    VPOS="265"
+                    WIDTH="1444"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2080 82 2216 79" 
+                    HPOS="2077"
+                    VPOS="28"
+                    WIDTH="138"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="2078 81 2078 101 2213 109 2215 78 2212 28 2172 29 2171 29 2170 29 2151 41 2124 59 2077 59 2078 81"/></Shape>
+	    <String CONTENT="Vitt"
+                    HPOS="2077"
+                    VPOS="28"
+                    WIDTH="138"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1509 431 2090 442" 
+                    HPOS="1507"
+                    VPOS="388"
+                    WIDTH="582"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="1508 430 1507 464 1569 456 1585 464 1586 464 1587 464 1589 464 1618 457 1629 467 1637 473 1637 474 1638 474 1639 474 1769 477 1770 477 1771 477 1772 477 1782 468 1793 461 1902 469 1922 471 1923 471 1924 471 1928 469 1954 463 1965 471 1980 481 1981 481 1982 481 1983 481 1985 481 1986 481 1996 474 2045 478 2046 478 2047 478 2049 478 2056 471 2063 466 2087 471 2089 441 2089 408 2025 394 2024 394 1986 402 1961 393 1960 393 1959 393 1906 394 1904 394 1886 403 1855 392 1854 392 1853 392 1851 392 1824 402 1824 403 1770 403 1765 402 1703 388 1702 388 1655 399 1654 399 1653 399 1634 392 1633 392 1632 392 1630 392 1629 392 1621 398 1560 398 1559 397 1548 389 1547 389 1545 389 1544 389 1508 395 1508 430"/></Shape>
+	    <String CONTENT="8:o Stockholm 1933."
+                    HPOS="1507"
+                    VPOS="388"
+                    WIDTH="582"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2098 172 2208 167" 
+                    HPOS="2093"
+                    VPOS="97"
+                    WIDTH="114"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="2097 171 2098 215 2207 192 2207 166 2202 118 2187 118 2186 118 2162 97 2161 97 2160 97 2147 97 2146 97 2128 98 2126 98 2125 98 2125 99 2102 122 2102 123 2093 123 2097 171"/></Shape>
+	    <String CONTENT="Sv."
+                    HPOS="2093"
+                    VPOS="97"
+                    WIDTH="114"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

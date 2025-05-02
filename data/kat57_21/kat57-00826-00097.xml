@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00826-00097.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1476"
+          PHYSICAL_IMG_NR="37"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1476">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1474"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1475 2319 1475 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="182 213 522 213" 
+                    HPOS="180"
+                    VPOS="172"
+                    WIDTH="341"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="180 230 520 236 521 212 521 178 494 172 493 172 492 172 490 172 490 173 485 177 483 180 446 180 433 175 418 172 417 172 415 172 414 172 403 175 391 179 378 175 367 172 366 172 365 172 364 172 362 172 359 174 351 180 321 180 286 173 274 172 273 172 271 172 270 172 269 173 263 179 196 179 182 172 180 212 180 230"/></Shape>
+	    <String CONTENT="JABERG, Karl"
+                    HPOS="180"
+                    VPOS="172"
+                    WIDTH="341"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="178 311 2320 314" 
+                    HPOS="177"
+                    VPOS="271"
+                    WIDTH="2143"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="178 311 177 333 653 333 669 338 683 341 685 341 687 341 731 338 786 333 813 338 832 341 834 341 886 338 968 333 981 338 987 341 989 341 990 341 1049 340 1140 335 1321 340 1434 343 1436 343 1465 341 1521 335 1535 341 1540 343 1541 343 1543 344 1783 344 1783 343 1821 341 1981 335 2045 343 2053 343 2054 343 2061 343 2129 335 2316 343 2320 314 2316 271 178 271 178 311"/></Shape>
+	    <String CONTENT="Se: ZEITSCHRIFT für romanische Philologie. Bd 57. 1937:H.2-4. Festschrift"
+                    HPOS="177"
+                    VPOS="271"
+                    WIDTH="2143"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="301 412 1481 415" 
+                    HPOS="298"
+                    VPOS="377"
+                    WIDTH="1181"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="300 410 298 428 317 436 318 436 387 437 388 439 512 439 512 437 546 430 548 430 557 430 695 439 696 440 745 440 745 439 746 439 761 431 762 431 771 432 830 439 831 439 884 432 902 431 947 431 953 434 963 439 964 439 965 440 965 439 966 439 976 434 981 431 1128 431 1135 435 1147 440 1148 440 1150 440 1227 436 1294 432 1477 437 1479 414 1478 388 1428 380 1426 380 1381 386 1300 380 1299 380 1297 380 1296 380 1284 387 1280 389 1262 387 1233 383 1232 383 1231 383 1230 383 1225 387 1219 391 1120 391 1097 387 1050 380 1049 380 1000 386 981 388 971 386 943 378 942 378 941 378 939 378 915 384 900 378 899 378 792 378 790 378 789 378 788 378 778 386 773 388 752 386 728 382 726 382 711 386 696 388 682 384 661 380 660 380 659 380 583 384 547 387 541 384 522 377 521 377 520 377 478 384 461 387 442 384 410 380 409 380 408 380 398 384 392 387 300 384 300 410"/></Shape>
+	    <String CONTENT="Karl Jaberg zum 60. Geburtstag gewidmet."
+                    HPOS="298"
+                    VPOS="377"
+                    WIDTH="1181"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1516 381 1767 386" 
+                    HPOS="1514"
+                    VPOS="339"
+                    WIDTH="252"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1515 380 1514 393 1536 404 1537 404 1578 407 1579 407 1695 398 1727 405 1728 405 1729 405 1730 405 1765 396 1766 384 1766 361 1701 341 1700 341 1685 341 1684 341 1682 341 1681 341 1681 343 1668 355 1661 360 1591 360 1583 349 1573 340 1573 339 1572 339 1570 339 1569 339 1515 344 1515 380"/></Shape>
+	    <String CONTENT="Språkv."
+                    HPOS="1514"
+                    VPOS="339"
+                    WIDTH="252"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1516 440 1767 444" 
+                    HPOS="1514"
+                    VPOS="404"
+                    WIDTH="252"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1515 439 1514 448 1600 463 1601 463 1681 457 1722 463 1723 463 1724 463 1765 452 1766 442 1766 415 1735 407 1734 407 1733 407 1658 414 1649 407 1649 405 1648 405 1647 405 1645 405 1644 405 1616 414 1615 414 1613 414 1596 404 1595 404 1594 404 1515 412 1515 439"/></Shape>
+	    <String CONTENT="Tidskr"
+                    HPOS="1514"
+                    VPOS="404"
+                    WIDTH="252"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="178 512 2281 523" 
+                    HPOS="175"
+                    VPOS="466"
+                    WIDTH="2105"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="177 511 175 530 242 539 243 539 570 533 605 533 635 535 836 542 837 542 1028 537 1100 536 1125 538 1184 544 1185 544 1289 539 1343 537 1380 541 1417 543 1418 543 1517 541 1610 539 1620 542 1637 547 1638 547 1639 547 1693 543 1738 539 1805 543 1878 548 1879 548 1943 544 1997 542 2027 546 2050 548 2051 548 2065 546 2086 542 2278 547 2280 522 2279 488 2160 479 2158 479 2130 485 2119 488 2078 485 2044 483 2043 483 2018 484 1959 489 1939 484 1936 483 1934 483 1933 483 1918 483 1816 490 1739 483 1738 483 1679 490 1632 480 1612 477 1611 477 1610 477 1597 480 1583 484 1468 480 1467 480 1355 490 1161 490 1105 476 1104 476 1103 476 1006 485 950 476 949 476 858 482 786 474 784 474 696 487 621 477 619 477 414 485 346 483 302 467 301 467 177 466 177 511"/></Shape>
+	    <String CONTENT="Se: Donum natalicium Carolo Jaberg messori indefesso sexagenario. 1937."
+                    HPOS="175"
+                    VPOS="466"
+                    WIDTH="2105"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="191 614 1787 621" 
+                    HPOS="189"
+                    VPOS="578"
+                    WIDTH="1597"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="190 613 189 651 531 656 532 656 556 653 616 644 667 654 686 656 869 658 870 658 931 654 1075 645 1126 655 1150 659 1151 659 1152 659 1162 655 1180 648 1239 655 1243 655 1244 655 1251 655 1364 646 1536 653 1537 653 1751 648 1782 656 1786 619 1786 591 1762 583 1761 583 1760 583 1724 591 1711 594 1697 590 1666 583 1665 583 1580 583 1579 583 1578 583 1557 590 1545 594 1509 590 1445 583 1444 583 1329 584 1328 584 1316 589 1307 594 1255 594 1243 589 1225 583 1223 583 1222 583 1174 589 1148 591 1105 589 1003 580 1002 580 1001 580 975 587 961 592 830 592 818 587 797 579 795 579 794 579 725 586 713 587 708 586 682 579 681 579 603 579 602 579 601 579 573 586 556 590 468 589 463 585 451 580 450 580 448 580 365 585 340 586 337 585 318 578 317 578 316 578 285 585 268 589 190 585 190 613"/></Shape>
+	    <String CONTENT="i: Romanica helvetica... Series linguistica. Vol. 4."
+                    HPOS="189"
+                    VPOS="578"
+                    WIDTH="1597"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1837 584 2091 581" 
+                    HPOS="1836"
+                    VPOS="542"
+                    WIDTH="253"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1836 599 1859 607 1861 607 1862 607 1863 607 1864 607 1872 600 1879 595 1918 601 1920 601 1921 601 1942 595 1996 605 2013 607 2014 607 2016 607 2017 607 2018 606 2026 601 2088 607 2089 580 2087 560 2043 560 2041 558 2024 543 2024 542 2023 542 2022 542 1976 542 1975 542 1974 542 1973 542 1955 555 1948 560 1912 559 1904 554 1884 543 1883 543 1863 543 1862 543 1861 543 1859 543 1859 544 1851 553 1845 558 1837 552 1836 583 1836 599"/></Shape>
+	    <String CONTENT="Språkv"
+                    HPOS="1836"
+                    VPOS="542"
+                    WIDTH="253"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1840 648 2121 648" 
+                    HPOS="1839"
+                    VPOS="600"
+                    WIDTH="281"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1839 646 1839 672 1867 671 1872 674 1883 681 1884 681 1885 681 1886 681 1888 681 1909 674 1910 674 1920 681 1921 681 1922 681 1923 682 1990 682 1990 681 1991 681 2003 675 2012 671 2035 671 2044 676 2051 681 2053 681 2054 681 2055 681 2120 676 2120 646 2117 621 2099 632 1992 632 1978 621 1976 621 1975 621 1974 621 1943 624 1923 606 1917 601 1917 600 1916 600 1915 600 1839 600 1839 646"/></Shape>
+	    <String CONTENT="Roman."
+                    HPOS="1839"
+                    VPOS="600"
+                    WIDTH="281"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

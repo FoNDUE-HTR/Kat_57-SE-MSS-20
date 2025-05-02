@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00168.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2319 1479 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="151 223 407 226" 
+                    HPOS="149"
+                    VPOS="188"
+                    WIDTH="256"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="150 222 149 252 186 260 187 260 188 260 189 260 201 252 205 250 208 252 215 259 215 260 217 260 218 260 245 261 246 261 247 261 249 261 262 252 266 250 270 252 288 261 289 261 291 261 292 261 315 251 320 250 324 251 352 262 353 262 355 262 356 262 377 251 378 251 404 251 405 225 404 192 150 188 150 222"/></Shape>
+	    <String CONTENT="BERICHTE"
+                    HPOS="149"
+                    VPOS="188"
+                    WIDTH="256"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1642 85 1893 80" 
+                    HPOS="1639"
+                    VPOS="18"
+                    WIDTH="253"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="1641 83 1641 104 1690 99 1740 104 1747 104 1748 104 1750 104 1751 104 1767 97 1890 101 1892 78 1889 18 1871 18 1869 18 1868 18 1867 18 1867 19 1866 19 1847 38 1793 33 1783 25 1777 20 1776 20 1774 20 1773 20 1772 20 1771 20 1761 27 1740 41 1705 41 1697 32 1686 23 1686 22 1684 22 1683 22 1658 22 1657 22 1656 22 1655 22 1639 33 1641 83"/></Shape>
+	    <String CONTENT="DEPÅ 1"
+                    HPOS="1639"
+                    VPOS="18"
+                    WIDTH="253"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1732 197 1783 194" 
+                    HPOS="1726"
+                    VPOS="119"
+                    WIDTH="56"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="1731 196 1731 213 1781 220 1782 193 1777 119 1726 119 1731 196"/></Shape>
+	    <String CONTENT="88"
+                    HPOS="1726"
+                    VPOS="119"
+                    WIDTH="56"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1983 71 2124 64" 
+                    HPOS="1979"
+                    VPOS="7"
+                    WIDTH="144"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="1982 70 1983 107 2011 107 2012 107 2014 107 2017 103 2051 78 2122 87 2123 62 2120 17 2075 7 2074 7 2073 7 2072 7 2072 8 2062 18 2033 8 2032 8 2031 8 2030 8 2028 8 2001 29 1998 32 1979 32 1982 70"/></Shape>
+	    <String CONTENT="Geogr"
+                    HPOS="1979"
+                    VPOS="7"
+                    WIDTH="144"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1984 138 2168 141" 
+                    HPOS="1982"
+                    VPOS="91"
+                    WIDTH="185"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1983 136 1982 157 2044 171 2046 171 2047 171 2048 171 2057 165 2063 161 2075 167 2090 173 2091 173 2164 175 2167 140 2167 114 2088 101 2086 101 2085 101 2065 106 2047 91 2046 91 2044 91 2020 91 2019 91 2017 91 2016 91 2016 92 1998 111 1996 111 1983 111 1983 136"/></Shape>
+	    <String CONTENT="Tidskr."
+                    HPOS="1982"
+                    VPOS="91"
+                    WIDTH="185"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="138 328 2164 333" 
+                    HPOS="135"
+                    VPOS="234"
+                    WIDTH="2028"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="136 326 135 347 245 356 246 356 390 350 424 356 425 356 522 351 541 357 542 357 543 357 615 351 948 358 949 358 1006 352 1420 360 1422 361 1554 361 1554 360 1555 360 1571 353 1575 353 1618 355 1850 361 1851 361 1903 356 1915 355 2160 356 2163 333 2162 309 2107 297 2106 297 2043 304 2038 304 2028 304 1935 294 1933 294 1904 299 1879 303 1776 294 1756 293 1755 293 1747 293 1641 302 1612 293 1610 293 1609 293 1608 293 1570 305 1499 291 1498 291 1434 303 1361 294 1360 294 1359 294 1333 303 1206 304 1172 293 1171 293 1170 293 1169 293 1123 304 1043 296 1042 296 1040 296 1001 307 874 303 821 293 820 293 772 300 648 287 548 249 511 235 510 235 136 234 136 326"/></Shape>
+	    <String CONTENT="Geographische,. Mitteilungen der Geographischen Gesellschaft in der"
+                    HPOS="135"
+                    VPOS="234"
+                    WIDTH="2028"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="138 429 1176 434" 
+                    HPOS="135"
+                    VPOS="398"
+                    WIDTH="1040"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="136 427 135 447 398 457 399 457 621 451 633 451 641 451 753 458 754 458 795 452 796 452 800 452 955 460 957 460 1174 453 1175 432 1174 410 1133 402 1026 402 1024 402 1023 402 1005 408 915 400 913 400 912 400 888 408 888 409 814 409 812 408 802 400 801 400 800 400 799 400 767 408 764 408 762 408 719 400 717 400 645 407 593 399 592 399 527 407 525 407 522 407 478 399 477 399 476 399 450 407 447 407 362 407 362 405 351 398 350 398 349 398 347 398 307 405 305 405 267 398 266 398 265 398 247 405 246 407 192 407 191 405 173 398 172 398 171 398 136 404 136 427"/></Shape>
+	    <String CONTENT="Deutschen Demokratischen Republik."
+                    HPOS="135"
+                    VPOS="398"
+                    WIDTH="1040"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="170 532 213 532" 
+                    HPOS="168"
+                    VPOS="501"
+                    WIDTH="44"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="168 557 212 546 212 531 210 513 192 514 171 501 168 531 168 557"/></Shape>
+	    <String CONTENT="1"
+                    HPOS="168"
+                    VPOS="501"
+                    WIDTH="44"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="141 680 724 677" 
+                    HPOS="139"
+                    VPOS="645"
+                    WIDTH="584"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="140 679 140 699 582 703 583 703 584 703 603 696 610 703 611 703 612 703 614 704 709 704 709 703 710 703 723 695 723 675 721 654 610 645 609 645 608 645 606 645 606 646 596 654 483 646 482 646 481 646 479 646 467 656 467 657 431 657 430 656 361 646 360 646 358 646 357 646 357 647 351 652 324 648 323 648 256 657 230 647 229 647 228 647 192 653 151 647 150 647 149 647 148 647 139 653 140 679"/></Shape>
+	    <String CONTENT="Hela serien: Kat. 1958-"
+                    HPOS="139"
+                    VPOS="645"
+                    WIDTH="584"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="1364 536 1855 536" 
+                    HPOS="1362"
+                    VPOS="500"
+                    WIDTH="491"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1362 535 1362 552 1428 563 1429 563 1476 553 1518 562 1519 563 1681 563 1681 562 1682 562 1705 553 1718 563 1719 563 1720 563 1721 564 1810 564 1810 563 1853 552 1853 535 1853 510 1835 500 1834 500 1832 500 1831 500 1721 501 1720 501 1719 501 1719 503 1708 513 1677 513 1649 500 1647 500 1646 500 1645 500 1625 510 1603 501 1602 501 1600 501 1599 501 1578 511 1536 511 1510 500 1509 500 1508 500 1507 500 1505 500 1505 501 1493 513 1470 513 1447 503 1446 503 1445 503 1444 503 1420 510 1410 501 1410 500 1409 500 1408 500 1388 500 1387 500 1386 500 1362 511 1362 535"/></Shape>
+	    <String CONTENT="8:o Berlin 1956-"
+                    HPOS="1362"
+                    VPOS="500"
+                    WIDTH="491"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="468 727 2186 733" 
+                    HPOS="466"
+                    VPOS="690"
+                    WIDTH="1719"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="467 726 466 757 825 762 826 762 855 757 892 752 1117 752 1155 757 1163 758 1164 758 1182 757 1258 753 1290 757 1320 762 1322 762 1323 762 1334 757 1345 753 1496 753 1508 757 1514 759 1515 759 1517 759 1530 757 1550 754 1560 757 1581 764 1582 764 1583 764 1805 757 1879 756 1901 757 1979 765 1980 765 2041 757 2058 756 2183 757 2185 732 2183 706 2117 695 2116 695 2058 705 2057 705 2056 705 2009 695 2007 695 2006 695 1975 705 1973 706 1922 706 1912 705 1790 694 1789 694 1788 694 1758 704 1723 694 1721 694 1720 694 1652 704 1649 704 1573 704 1544 704 1517 695 1515 695 1514 695 1466 703 1390 694 1388 694 1387 694 1364 703 1362 704 1309 704 1306 703 1249 693 1248 693 985 698 969 691 968 691 966 691 837 701 823 701 807 701 649 690 648 690 647 690 621 700 620 700 610 700 504 694 503 694 467 699 467 726"/></Shape>
+	    <String CONTENT="Geographische Berichte. Mitteilungen der Geographischen Gesellschaft"
+                    HPOS="466"
+                    VPOS="690"
+                    WIDTH="1719"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    
+                    BASELINE="463 776 1431 781" 
+                    HPOS="461"
+                    VPOS="751"
+                    WIDTH="969"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="462 775 461 800 513 812 514 812 582 802 608 812 609 812 610 812 651 806 674 815 675 815 677 815 730 805 762 821 763 821 764 822 847 822 847 821 848 821 849 821 863 811 876 821 878 821 879 821 880 821 923 812 939 821 941 821 942 821 943 821 973 805 974 805 976 805 1017 814 1018 814 1064 806 1073 805 1126 805 1128 806 1138 814 1139 814 1140 814 1142 814 1143 814 1156 807 1158 806 1159 807 1186 823 1187 823 1188 823 1190 823 1191 823 1225 814 1245 823 1246 823 1248 825 1330 825 1330 823 1332 823 1333 823 1356 810 1429 810 1430 780 1429 762 1393 753 1392 753 1265 760 1254 760 1249 760 1203 753 1202 753 1201 753 1200 753 1188 760 1187 760 1180 760 1121 752 1119 752 1061 759 1059 759 1058 759 1048 752 1047 752 1045 752 1044 752 1043 752 1027 758 1017 753 1016 753 1015 753 1013 753 1000 759 999 759 955 759 953 759 944 751 943 751 942 751 941 751 939 751 909 758 909 759 864 759 863 758 854 751 853 751 852 751 851 751 849 751 822 758 820 758 814 758 742 752 741 752 740 752 727 758 725 758 717 758 669 752 668 752 614 757 610 757 609 757 594 751 593 751 592 751 590 751 574 757 573 757 462 757 462 775"/></Shape>
+	    <String CONTENT="der Deutschen Demokratischen Republik."
+                    HPOS="461"
+                    VPOS="751"
+                    WIDTH="969"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

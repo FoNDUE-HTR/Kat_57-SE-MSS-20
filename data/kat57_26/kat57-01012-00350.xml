@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01012-00350.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="21"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2315 1471 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="221 145 600 142" 
+                    HPOS="219"
+                    VPOS="99"
+                    WIDTH="380"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="220 144 220 172 226 179 228 179 229 179 230 179 414 177 415 177 417 177 437 164 441 163 462 163 543 166 544 166 599 159 599 141 597 110 543 100 542 100 540 100 506 110 482 99 480 99 479 99 478 99 477 99 458 111 456 112 426 112 425 111 413 100 412 100 410 100 409 100 408 100 369 110 345 100 344 100 343 100 342 100 322 110 245 101 244 101 242 101 219 111 220 144"/></Shape>
+	    <String CONTENT="LEFLON, Jean"
+                    HPOS="219"
+                    VPOS="99"
+                    WIDTH="380"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="214 246 1585 236" 
+                    HPOS="212"
+                    VPOS="187"
+                    WIDTH="1372"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="213 245 213 273 290 273 342 288 343 288 344 289 383 289 383 288 614 280 674 285 675 285 677 285 700 274 740 279 742 279 743 279 763 269 823 280 935 283 937 283 938 283 971 271 1101 279 1102 279 1140 271 1169 282 1170 282 1171 283 1215 283 1215 282 1250 280 1251 280 1292 264 1584 262 1584 235 1582 196 1537 191 1535 191 1534 191 1522 196 1499 206 1478 197 1458 188 1457 188 1241 187 1240 187 1238 187 1189 201 1176 204 1156 202 1145 201 1144 201 1143 201 1139 202 1117 210 896 212 878 206 853 198 852 198 851 198 786 204 727 195 726 195 662 206 484 193 483 193 421 202 383 197 382 197 381 197 345 214 342 215 329 214 251 206 250 206 249 206 212 215 213 245"/></Shape>
+	    <String CONTENT="Se: Histoire de l´église ... 20. |Kyrkohist."
+                    HPOS="212"
+                    VPOS="187"
+                    WIDTH="1372"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1268 330 1451 330" 
+                    HPOS="1267"
+                    VPOS="289"
+                    WIDTH="182"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1267 329 1267 353 1291 361 1292 361 1294 361 1350 354 1351 354 1367 361 1368 361 1370 363 1431 363 1431 361 1432 361 1449 354 1449 329 1449 310 1400 310 1399 309 1373 289 1372 289 1371 289 1308 289 1307 289 1306 289 1267 306 1267 329"/></Shape>
+	    <String CONTENT="Allm."
+                    HPOS="1267"
+                    VPOS="289"
+                    WIDTH="182"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2163 1417 2267 1412" 
+                    HPOS="2157"
+                    VPOS="1321"
+                    WIDTH="109"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="2162 1416 2162 1437 2177 1445 2178 1445 2179 1445 2199 1441 2222 1435 2235 1445 2239 1448 2241 1448 2242 1448 2243 1448 2266 1447 2266 1411 2262 1323 2157 1321 2162 1416"/></Shape>
+	    <String CONTENT="1949"
+                    HPOS="2157"
+                    VPOS="1321"
+                    WIDTH="109"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

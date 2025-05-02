@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01411-00059.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2308"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="39"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2308"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2306"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2307 1471 2307 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="158 249 450 249" 
+                    HPOS="157"
+                    VPOS="201"
+                    WIDTH="292"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="157 247 157 272 174 287 175 287 176 287 177 288 326 288 326 287 370 278 371 278 373 278 373 277 384 267 449 267 449 247 446 201 411 220 360 220 331 208 328 207 327 207 326 207 317 208 292 214 285 210 273 201 272 201 271 201 269 201 226 209 185 201 184 201 182 201 181 201 157 215 157 247"/></Shape>
+	    <String CONTENT="PIERCE, C"
+                    HPOS="157"
+                    VPOS="201"
+                    WIDTH="292"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="615 249 806 246" 
+                    HPOS="613"
+                    VPOS="212"
+                    WIDTH="191"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="614 247 614 251 719 250 741 262 749 268 750 268 752 268 753 268 804 267 804 245 801 212 757 214 755 214 754 214 752 217 733 229 692 223 682 222 680 222 679 222 678 222 678 223 676 224 669 230 655 226 645 224 644 224 642 224 613 230 614 247"/></Shape>
+	    <String CONTENT="A"
+                    HPOS="613"
+                    VPOS="212"
+                    WIDTH="191"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="153 351 1485 346" 
+                    HPOS="150"
+                    VPOS="300"
+                    WIDTH="1334"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="152 350 152 370 271 371 316 386 317 386 479 387 480 387 531 386 532 386 569 370 672 370 736 386 737 386 738 387 807 387 807 386 920 381 921 381 955 369 1112 369 1158 383 1159 383 1160 385 1333 385 1333 383 1334 383 1377 369 1445 375 1446 375 1484 365 1484 345 1480 300 1357 301 1355 301 1321 312 1144 311 1132 304 1128 302 1127 302 1126 302 1109 304 1035 314 1020 305 1014 302 1013 302 975 302 974 302 973 302 958 306 928 314 914 306 904 302 903 302 856 302 855 302 797 309 732 315 629 310 526 306 525 306 493 312 472 317 429 317 422 314 409 307 408 307 407 307 363 314 347 316 339 315 312 305 311 305 310 305 309 305 272 315 267 316 261 315 213 306 212 306 150 316 152 350"/></Shape>
+	    <String CONTENT="Se: Morkovin,M.V., Pierce, C.A. &amp; Craven, C.E."
+                    HPOS="150"
+                    VPOS="300"
+                    WIDTH="1334"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="276 451 2149 455" 
+                    HPOS="273"
+                    VPOS="410"
+                    WIDTH="1875"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="274 450 273 471 325 483 326 483 436 477 455 483 456 483 457 484 641 484 641 483 721 473 722 473 828 473 831 473 921 484 922 484 1023 482 1024 482 1051 474 1143 484 1144 484 1200 475 1240 484 1241 485 1476 485 1476 484 1477 484 1500 478 1543 484 1544 484 1546 484 1573 477 1656 477 1683 485 1684 485 1685 485 1808 477 1825 475 2146 477 2148 453 2147 417 1903 413 1901 413 1874 415 1830 419 1764 414 1731 413 1730 413 1694 414 1593 420 1490 414 1450 412 1449 412 1447 412 1441 414 1420 423 1369 423 1333 413 1328 413 1327 413 1326 413 1323 413 1299 420 1250 414 1249 414 1191 420 1128 413 1126 413 1125 413 1122 413 1053 421 1030 414 1029 414 1028 414 982 419 955 413 954 413 953 413 900 421 865 413 863 413 862 413 773 420 746 413 744 413 743 413 690 420 522 414 521 414 520 414 496 421 336 421 274 410 274 450"/></Shape>
+	    <String CONTENT="Interaction of a side jet with a supersonic main stream. 1952."
+                    HPOS="273"
+                    VPOS="410"
+                    WIDTH="1875"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="185 555 1550 563" 
+                    HPOS="182"
+                    VPOS="506"
+                    WIDTH="1367"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="184 554 182 578 228 587 229 587 230 587 253 581 334 604 336 604 337 604 400 593 435 607 436 607 438 607 439 607 458 597 520 615 521 615 723 617 725 617 726 617 752 610 766 617 768 617 868 618 869 618 871 618 896 609 939 615 941 615 942 615 1009 593 1036 601 1038 601 1039 601 1040 601 1062 593 1071 591 1098 593 1136 598 1137 598 1138 598 1148 594 1171 586 1241 592 1242 592 1298 586 1317 596 1319 596 1320 596 1321 596 1352 587 1488 587 1547 601 1549 561 1548 522 1527 520 1526 520 1525 520 1521 521 1494 536 1441 529 1440 529 1439 529 1424 536 1398 529 1397 529 1396 529 1395 529 1380 536 1307 536 1277 518 1265 512 1263 512 1236 512 1235 512 1234 512 1222 517 1185 534 1121 517 1120 517 1119 517 1117 517 1099 526 1082 517 1080 517 1079 517 1078 517 1051 526 1033 517 1031 517 1030 517 1006 522 988 516 987 516 986 516 985 516 964 526 931 518 930 518 928 518 905 526 871 516 869 516 868 516 867 516 844 527 766 531 730 521 728 521 727 521 677 529 617 521 615 521 585 527 549 518 548 518 547 518 471 531 407 518 406 518 353 527 317 511 316 511 315 511 314 511 295 518 274 507 273 507 184 506 184 554"/></Shape>
+	    <String CONTENT="i: Engineering research bulletin. 35. { Teknol."
+                    HPOS="182"
+                    VPOS="506"
+                    WIDTH="1367"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1354 609 1478 608" 
+                    HPOS="1352"
+                    VPOS="574"
+                    WIDTH="125"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="1353 608 1353 631 1476 630 1477 607 1473 574 1352 582 1353 608"/></Shape>
+	    <String CONTENT="Inst"
+                    HPOS="1352"
+                    VPOS="574"
+                    WIDTH="125"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1323 664 1643 657" 
+                    HPOS="1321"
+                    VPOS="621"
+                    WIDTH="321"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="1322 663 1322 700 1352 705 1353 705 1354 705 1363 701 1377 694 1395 701 1402 704 1403 704 1404 704 1434 701 1452 700 1455 701 1463 709 1463 710 1465 710 1466 710 1467 710 1512 709 1514 709 1515 709 1515 707 1521 702 1532 690 1581 690 1596 702 1600 706 1601 706 1602 706 1603 706 1642 702 1642 656 1640 634 1593 629 1592 629 1591 629 1577 632 1570 635 1568 632 1557 623 1557 621 1555 621 1554 621 1537 621 1536 621 1534 621 1533 621 1533 623 1526 631 1505 621 1504 621 1503 621 1501 621 1500 621 1485 632 1477 639 1440 639 1423 631 1402 624 1401 624 1400 624 1321 630 1322 663"/></Shape>
+	    <String CONTENT="[Ann Arbor]"
+                    HPOS="1321"
+                    VPOS="621"
+                    WIDTH="321"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

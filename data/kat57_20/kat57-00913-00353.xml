@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00913-00353.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2311 1471 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1952 64 2155 64" 
+                    HPOS="1952"
+                    VPOS="1"
+                    WIDTH="203"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1952 64 1952 83 1982 92 1984 92 1985 92 1987 92 2003 85 2006 85 2011 86 2035 92 2036 92 2038 92 2155 89 2155 64 2155 1 1952 1 1952 64"/></Shape>
+	    <String CONTENT="Arkeol."
+                    HPOS="1952"
+                    VPOS="1"
+                    WIDTH="203"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1977 128 2123 128" 
+                    HPOS="1977"
+                    VPOS="77"
+                    WIDTH="146"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1977 128 1979 160 2059 139 2119 155 2123 128 2123 100 2078 100 2068 96 2035 77 2033 77 2032 77 1977 86 1977 128"/></Shape>
+	    <String CONTENT="Epigr"
+                    HPOS="1977"
+                    VPOS="77"
+                    WIDTH="146"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="233 231 838 227" 
+                    HPOS="230"
+                    VPOS="1"
+                    WIDTH="608"
+                    HEIGHT="269">
+            <Shape><Polygon POINTS="233 231 233 270 836 249 838 227 832 1 230 1 233 231"/></Shape>
+	    <String CONTENT="KLAFFENBACH, Günther"
+                    HPOS="230"
+                    VPOS="1"
+                    WIDTH="608"
+                    HEIGHT="269"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1985 191 2113 188" 
+                    HPOS="1984"
+                    VPOS="134"
+                    WIDTH="129"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1985 191 1985 230 2113 220 2113 188 2110 160 2080 160 2051 134 2049 134 2048 134 2046 134 2019 136 2017 136 2016 136 1984 158 1985 191"/></Shape>
+	    <String CONTENT="Grek."
+                    HPOS="1984"
+                    VPOS="134"
+                    WIDTH="129"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="217 327 1521 333" 
+                    HPOS="216"
+                    VPOS="271"
+                    WIDTH="1305"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="216 345 275 357 276 359 516 359 516 357 517 357 533 349 535 349 538 349 591 359 592 359 594 359 622 351 627 349 634 351 656 359 658 359 659 359 661 359 680 351 685 349 688 351 694 357 696 357 697 357 699 357 701 357 712 353 715 351 729 353 790 359 792 359 793 359 795 359 801 353 806 349 824 354 849 359 851 359 873 354 889 351 943 356 996 359 998 359 1037 356 1109 351 1128 357 1136 361 1138 361 1140 361 1154 357 1187 351 1274 359 1275 359 1277 359 1278 359 1337 353 1358 361 1363 362 1365 362 1366 362 1385 361 1475 353 1516 362 1521 333 1518 276 1489 286 1459 276 1457 276 1342 276 1341 276 1339 276 1337 276 1280 295 1092 295 1068 282 1066 282 1065 282 1063 282 1018 295 919 295 891 278 886 274 884 274 883 274 852 273 851 273 849 273 836 278 803 294 658 294 635 279 626 273 624 273 622 273 501 271 500 271 450 279 388 292 243 292 219 281 217 327 216 345"/></Shape>
+	    <String CONTENT="Die Astynomeninschrift von Pergamon. [Ill.]"
+                    HPOS="216"
+                    VPOS="271"
+                    WIDTH="1305"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1505 423 1997 429" 
+                    HPOS="1503"
+                    VPOS="372"
+                    WIDTH="494"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1505 423 1503 440 1521 451 1523 451 1524 451 1526 451 1574 440 1588 450 1590 450 1591 450 1593 450 1594 450 1625 440 1628 440 1631 440 1677 453 1679 453 1681 453 1733 447 1808 455 1810 455 1811 455 1813 455 1813 453 1821 447 1824 444 1835 447 1859 455 1861 455 1862 455 1995 451 1997 429 1995 377 1942 386 1891 377 1866 373 1803 373 1802 373 1800 373 1799 373 1792 378 1783 386 1757 378 1743 375 1741 375 1740 375 1738 375 1736 375 1730 380 1724 383 1719 380 1711 373 1711 372 1709 372 1708 372 1706 372 1704 372 1679 380 1663 384 1505 383 1505 423"/></Shape>
+	    <String CONTENT="4:o Berlin 1954."
+                    HPOS="1503"
+                    VPOS="372"
+                    WIDTH="494"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="220 531 2297 531" 
+                    HPOS="220"
+                    VPOS="488"
+                    WIDTH="2077"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="220 531 220 552 284 565 286 565 287 565 318 554 351 566 353 566 354 568 690 568 690 566 691 566 725 554 726 554 792 562 793 562 927 555 974 566 975 566 977 566 1143 554 1149 554 1154 554 1256 566 1258 566 1412 555 1495 563 1497 563 1499 563 1519 554 1521 554 1532 554 1685 565 1687 565 2297 554 2297 531 2295 493 1901 496 1842 491 1805 488 1803 488 1733 491 1612 496 1475 490 1414 488 1412 488 1401 490 1376 496 1361 490 1357 488 1355 488 1353 488 1266 490 1012 496 961 490 950 488 948 488 927 490 828 496 787 488 780 488 779 488 750 488 565 496 544 488 543 488 541 488 369 488 367 488 362 488 268 496 220 488 220 531"/></Shape>
+	    <String CONTENT="Se: Abhandlungen der Deutschen Akademie der Wissenschaften zu Berlin."
+                    HPOS="220"
+                    VPOS="488"
+                    WIDTH="2077"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="338 630 1816 633" 
+                    HPOS="337"
+                    VPOS="592"
+                    WIDTH="1479"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="338 630 337 673 418 688 420 688 468 678 520 697 522 697 524 697 613 689 694 697 696 697 697 697 699 697 729 680 844 680 844 678 846 678 847 678 859 670 870 664 929 664 964 670 1108 699 1109 700 1323 700 1323 699 1325 699 1387 667 1388 667 1393 667 1457 676 1459 676 1460 676 1487 667 1492 665 1583 665 1586 665 1617 678 1618 678 1620 678 1815 664 1816 633 1815 598 1776 593 1775 593 1773 593 1765 597 1754 603 1741 597 1733 593 1732 593 1645 593 1644 593 1617 597 1561 605 1535 597 1531 595 1529 595 1527 595 1510 597 1443 605 1420 597 1412 593 1411 593 1409 593 1408 593 1401 597 1381 605 1361 597 1358 595 1357 595 1355 595 1353 595 1352 595 1352 597 1334 606 1248 606 1170 595 1162 595 1160 595 1159 595 1157 595 1130 605 1104 595 1103 595 1101 595 978 592 977 592 975 592 969 595 954 603 833 595 832 595 784 603 726 593 709 592 707 592 705 592 701 593 678 603 622 593 618 593 616 593 605 593 466 603 338 593 338 630"/></Shape>
+	    <String CONTENT="Klasse für Sprachen, Literatur und Kunst. 1953:6."
+                    HPOS="337"
+                    VPOS="592"
+                    WIDTH="1479"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1607 707 1698 704" 
+                    HPOS="1606"
+                    VPOS="664"
+                    WIDTH="92"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1607 707 1607 723 1698 723 1698 704 1690 664 1679 673 1663 668 1652 665 1650 665 1649 665 1647 665 1606 678 1607 707"/></Shape>
+	    <String CONTENT="Acta"
+                    HPOS="1606"
+                    VPOS="664"
+                    WIDTH="92"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="1741 927 1944 924" 
+                    HPOS="1740"
+                    VPOS="884"
+                    WIDTH="204"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="1741 927 1741 972 1819 976 1832 988 1834 988 1835 988 1837 988 1944 981 1944 924 1941 900 1840 884 1839 884 1837 884 1835 884 1827 892 1816 901 1799 901 1784 889 1783 887 1781 887 1779 887 1740 887 1741 927"/></Shape>
+	    <String CONTENT="o. Wiss."
+                    HPOS="1740"
+                    VPOS="884"
+                    WIDTH="204"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    
+                    BASELINE="1990 1439 2177 1433" 
+                    HPOS="1985"
+                    VPOS="1313"
+                    WIDTH="192"
+                    HEIGHT="158">
+            <Shape><Polygon POINTS="1990 1439 1992 1471 2177 1471 2177 1433 2170 1316 2116 1313 2115 1313 2113 1313 2062 1334 2035 1347 1985 1347 1990 1439"/></Shape>
+	    <String CONTENT="22.11.54"
+                    HPOS="1985"
+                    VPOS="1313"
+                    WIDTH="192"
+                    HEIGHT="158"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

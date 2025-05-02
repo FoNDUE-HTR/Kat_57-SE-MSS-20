@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00224.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="29"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2327 1479 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="319 184 1109 192" 
+                    HPOS="317"
+                    VPOS="108"
+                    WIDTH="790"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="318 183 317 191 346 209 347 209 349 209 350 209 399 199 423 209 424 209 425 209 426 209 449 201 479 210 481 210 482 210 518 203 609 209 610 209 611 209 613 209 623 201 625 199 627 202 639 209 640 209 641 209 693 213 694 213 695 213 697 213 697 212 705 204 716 196 843 196 868 207 869 207 870 207 872 207 904 197 924 213 925 213 926 213 927 213 935 213 982 212 993 215 1010 222 1011 222 1012 222 1106 219 1107 191 1107 152 1073 140 1072 140 1070 140 1069 140 1038 152 1026 157 1021 152 982 115 982 114 980 114 979 114 893 113 891 113 890 113 819 152 806 160 729 160 716 154 695 144 694 144 667 144 666 144 664 144 663 144 652 154 646 159 614 159 606 154 594 148 593 148 592 148 590 148 589 148 582 154 579 156 569 154 555 150 509 109 508 109 507 109 420 108 419 108 418 108 416 108 349 154 346 155 318 155 318 183"/></Shape>
+	    <String CONTENT="Bering J[ens]"
+                    HPOS="317"
+                    VPOS="108"
+                    WIDTH="790"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1895 55 2242 58" 
+                    HPOS="1893"
+                    VPOS="8"
+                    WIDTH="348"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="1894 54 1893 71 1929 74 1938 82 1939 82 1940 82 2061 83 2062 83 2063 83 2065 83 2065 82 2072 76 2073 75 2077 76 2098 83 2099 83 2100 83 2240 80 2241 57 2240 11 2173 11 2172 11 2171 11 2170 11 2168 13 2154 25 2126 14 2125 14 2124 14 2123 14 2100 27 2075 27 2063 17 2059 12 2057 12 2056 12 2055 12 2054 12 2052 12 2046 17 2035 27 2010 27 1996 19 1976 11 1975 11 1928 8 1927 8 1925 8 1894 22 1894 54"/></Shape>
+	    <String CONTENT="Undervisn."
+                    HPOS="1893"
+                    VPOS="8"
+                    WIDTH="348"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2020 135 2242 141" 
+                    HPOS="2018"
+                    VPOS="88"
+                    WIDTH="223"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="2019 134 2018 150 2041 151 2043 152 2061 166 2062 166 2063 166 2065 166 2112 159 2138 167 2139 167 2140 167 2141 167 2154 160 2157 159 2239 166 2241 140 2241 113 2230 104 2229 104 2228 104 2226 104 2225 104 2224 104 2208 114 2203 117 2145 114 2140 111 2100 90 2099 90 2055 88 2054 88 2052 88 2051 88 2051 90 2033 106 2019 106 2019 134"/></Shape>
+	    <String CONTENT="Danm."
+                    HPOS="2018"
+                    VPOS="88"
+                    WIDTH="223"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="298 298 2202 295" 
+                    HPOS="296"
+                    VPOS="229"
+                    WIDTH="1904"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="297 297 298 316 557 314 599 318 655 324 656 324 767 319 842 315 895 319 959 324 961 324 962 324 980 319 1003 314 1068 314 1128 320 1173 324 1174 324 1201 320 1248 313 1279 320 1289 323 1290 323 1291 323 1338 320 1480 313 1523 321 1534 323 1535 323 1547 321 1576 316 1606 321 1617 323 1618 323 1633 321 1712 313 1759 321 1766 323 1767 324 2198 324 2200 294 2198 238 2173 235 2172 235 2160 238 2051 265 1989 262 1924 241 1882 229 1881 229 1783 229 1782 229 1781 229 1740 245 1700 260 1656 246 1603 229 1602 229 1473 229 1471 229 1470 229 1411 250 1376 262 1345 251 1289 229 1287 229 1250 229 1249 229 1141 230 1035 256 1011 261 989 256 910 240 909 240 817 251 816 251 788 260 767 267 558 267 547 263 531 260 530 260 529 260 296 267 297 297"/></Shape>
+	    <String CONTENT="Den christelige Almueskole i Danmark"
+                    HPOS="296"
+                    VPOS="229"
+                    WIDTH="1904"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="333 397 2208 404" 
+                    HPOS="331"
+                    VPOS="331"
+                    WIDTH="1876"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="2207 352 2175 342 2173 342 2172 342 2171 342 2134 352 2124 355 2117 352 2072 336 2071 336 2070 336 2004 350 1975 341 1973 341 1972 341 1971 341 1944 349 1877 335 1876 335 1875 335 1811 355 1760 371 1582 371 1549 356 1494 334 1492 334 1491 334 1490 334 1401 357 1400 357 1331 337 1329 337 1328 337 1234 358 1228 361 1167 361 1162 360 1090 333 1089 333 1088 333 993 339 954 331 764 331 763 331 762 331 640 363 631 366 333 366 331 395 333 419 414 419 414 418 415 418 439 409 484 418 486 418 952 410 1142 410 1186 420 1188 420 1262 414 1311 421 1315 421 1316 421 1318 421 1360 413 1522 413 1576 423 1581 423 1582 423 1589 423 1642 415 1737 423 1741 423 1743 423 1745 423 1809 414 1836 423 1838 423 1907 424 1908 424 1909 424 1912 424 1939 416 1957 424 1959 424 1960 424 1961 425 2115 425 2115 424 2118 424 2167 415 2203 424 2207 403 2207 352"/></Shape>
+	    <String CONTENT="og dens Reformbevægelse før og nu. En histo="
+                    HPOS="331"
+                    VPOS="331"
+                    WIDTH="1876"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="338 496 2092 503" 
+                    HPOS="335"
+                    VPOS="436"
+                    WIDTH="1756"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="336 495 335 519 389 529 391 529 392 529 424 520 429 519 539 519 542 520 652 534 699 552 700 552 1040 553 1041 553 1094 552 1095 552 1167 527 1249 521 1302 518 1368 519 1374 521 1394 529 1395 529 1396 529 1505 521 1576 518 1590 522 1630 536 1632 536 1633 536 1804 524 1835 532 1836 532 1838 532 1939 522 1960 521 1967 522 1985 527 1986 527 1987 527 2015 522 2043 519 2088 522 2091 501 2087 441 1986 477 1867 477 1783 446 1770 441 1769 441 1739 440 1634 440 1633 440 1632 440 1609 448 1548 474 1490 474 1438 452 1427 447 1426 447 1424 447 1392 452 1391 452 1360 439 1359 439 1306 439 1305 439 1304 439 1264 455 1217 473 1116 467 1115 467 1114 467 1097 473 973 473 941 460 895 442 894 442 893 442 891 442 848 456 792 456 750 439 748 439 687 436 627 436 626 436 625 436 551 462 446 460 445 460 405 469 396 471 336 471 336 495"/></Shape>
+	    <String CONTENT="risk Betragtning fra Skolens Standpunct."
+                    HPOS="335"
+                    VPOS="436"
+                    WIDTH="1756"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1416 602 2261 610" 
+                    HPOS="1413"
+                    VPOS="540"
+                    WIDTH="847"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="1415 601 1413 616 1438 626 1439 626 1440 626 1442 626 1450 622 1512 652 1513 652 1556 653 1558 654 1661 654 1661 653 1663 653 1718 630 1755 638 1756 638 1816 629 1864 636 1865 636 1866 636 1867 636 1867 635 1877 627 1936 636 1938 636 1939 636 1971 625 1976 622 1983 625 2003 632 2004 632 2006 632 2007 632 2008 632 2015 625 2017 624 2076 622 2094 626 2115 631 2117 631 2155 629 2166 636 2167 636 2168 636 2170 636 2171 636 2188 627 2192 626 2195 629 2214 637 2215 637 2216 637 2258 629 2260 609 2258 545 2182 547 2181 547 2156 559 2130 559 2129 559 2128 559 2126 559 2103 580 1982 580 1946 555 1928 542 1927 542 1925 542 1908 542 1907 542 1906 542 1904 542 1904 543 1888 557 1864 579 1839 579 1756 578 1733 562 1701 541 1700 541 1698 541 1697 541 1696 541 1695 541 1686 547 1679 540 1677 540 1676 540 1600 540 1598 540 1597 540 1596 540 1558 567 1481 541 1480 541 1479 541 1477 541 1476 541 1440 573 1438 574 1415 574 1415 601"/></Shape>
+	    <String CONTENT="8ᵒ Kjøbenhavn 1862."
+                    HPOS="1413"
+                    VPOS="540"
+                    WIDTH="847"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

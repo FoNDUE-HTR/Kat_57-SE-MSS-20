@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00219.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1476"
+          PHYSICAL_IMG_NR="26"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1476">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1474"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1475 2327 1475 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="207 229 707 229" 
+                    HPOS="206"
+                    VPOS="179"
+                    WIDTH="500"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="206 228 206 246 705 249 706 228 705 191 611 191 607 190 591 179 590 179 589 179 588 179 586 179 557 189 548 193 451 193 444 188 431 179 430 179 429 179 428 179 364 180 362 180 361 180 361 182 355 186 351 190 345 186 337 182 335 182 334 182 333 182 332 182 326 186 318 191 290 185 257 179 255 179 206 184 206 228"/></Shape>
+	    <String CONTENT="BERIGER,Leonhard"
+                    HPOS="206"
+                    VPOS="179"
+                    WIDTH="500"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="204 327 2312 336" 
+                    HPOS="201"
+                    VPOS="200"
+                    WIDTH="2109"
+                    HEIGHT="173">
+            <Shape><Polygon POINTS="203 325 201 367 712 370 713 370 714 370 729 365 773 353 984 353 1069 364 1132 372 1133 372 1230 367 1279 373 1280 373 1282 373 1317 362 1341 355 1418 355 1608 355 1638 361 1682 369 1683 369 1770 361 1809 357 1854 360 1956 367 1957 367 2025 360 2046 357 2101 359 2107 359 2145 372 2147 372 2148 372 2149 372 2196 360 2216 366 2217 366 2218 366 2309 357 2310 335 2308 316 2238 316 2216 309 2147 295 2145 295 2113 301 2044 295 2043 295 1997 298 1953 301 1887 292 1834 285 1833 285 1814 287 1776 295 1675 292 1609 277 1608 277 1456 301 1374 293 1373 293 1287 303 1194 291 1193 291 1119 302 1050 292 1049 292 1016 297 823 233 729 202 728 202 203 200 203 325"/></Shape>
+	    <String CONTENT="Se: Carl Spitteler in der Erinnerung seiner Freunde und Weggefährten..."
+                    HPOS="201"
+                    VPOS="200"
+                    WIDTH="2109"
+                    HEIGHT="173"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="293 429 1695 437" 
+                    HPOS="291"
+                    VPOS="388"
+                    WIDTH="1403"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="292 428 291 490 332 488 344 493 375 506 376 506 644 507 645 507 647 507 671 498 740 467 783 466 814 471 815 471 868 463 896 476 898 476 899 476 933 469 991 487 992 487 994 488 1038 488 1038 487 1039 487 1066 477 1087 483 1088 483 1090 483 1172 471 1213 473 1214 473 1215 473 1230 466 1300 473 1301 473 1482 467 1602 509 1603 509 1604 509 1645 504 1691 510 1694 436 1693 412 1653 412 1653 410 1616 399 1615 399 1614 399 1551 410 1547 410 1545 410 1493 391 1492 391 1368 391 1367 391 1365 391 1339 404 1314 391 1312 391 1311 391 1310 391 1266 402 1246 392 1245 392 1243 392 1242 392 1188 408 1187 408 1066 408 1066 407 1042 397 1040 397 1039 397 1012 402 954 394 953 394 952 394 919 407 917 407 915 407 893 397 892 397 890 397 837 404 804 396 803 396 764 396 762 396 761 396 740 405 739 405 735 405 679 396 677 396 629 404 591 391 590 391 543 388 542 388 541 388 498 402 462 394 461 394 366 403 361 403 360 403 328 393 327 393 326 393 324 393 292 402 292 428"/></Shape>
+	    <String CONTENT="herausg.von Leonhard Beriger. 1947. ( Biogr."
+                    HPOS="291"
+                    VPOS="388"
+                    WIDTH="1403"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

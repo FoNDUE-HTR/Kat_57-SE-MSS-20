@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01012-00306.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="5"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2319 1471 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="228 158 1200 147" 
+                    HPOS="225"
+                    VPOS="85"
+                    WIDTH="974"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="226 157 226 169 252 179 253 179 255 179 284 172 303 184 304 184 305 184 306 184 372 176 385 185 386 185 387 185 388 185 390 185 428 174 483 180 484 180 485 180 487 180 499 170 531 175 532 175 533 175 544 170 552 165 658 165 668 170 707 190 709 190 710 190 711 190 745 174 791 188 792 188 793 190 872 190 872 188 873 188 874 188 899 170 902 166 921 170 932 171 933 171 934 171 939 170 956 164 967 170 990 182 991 182 992 182 993 182 1041 170 1061 165 1072 170 1105 185 1106 185 1107 186 1174 186 1174 185 1175 185 1199 170 1199 145 1194 94 1154 115 1058 116 1012 95 991 85 990 85 988 85 960 87 959 87 943 95 907 115 869 100 868 100 867 100 866 100 821 121 775 121 729 96 720 92 718 92 658 89 657 89 656 89 655 89 644 98 604 123 547 125 482 125 420 99 406 93 404 93 403 93 402 93 391 99 384 103 375 99 364 93 363 93 361 93 225 99 226 157"/></Shape>
+	    <String CONTENT="Leffler, Karl] P[eter]"
+                    HPOS="225"
+                    VPOS="85"
+                    WIDTH="974"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="217 242 2319 234" 
+                    HPOS="216"
+                    VPOS="164"
+                    WIDTH="2103"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="217 242 219 270 230 265 251 270 324 287 326 287 397 279 458 290 460 290 994 287 1074 271 1124 262 1187 271 1200 273 1202 273 1203 273 1210 271 1246 262 1484 262 1548 273 1556 273 1558 273 1564 273 1623 260 1819 260 1870 273 1885 276 1886 276 1888 276 1904 273 1968 258 2068 258 2139 273 2196 284 2198 284 2319 273 2319 234 2319 196 2103 196 2094 193 2035 175 2033 175 2032 175 1885 183 1780 164 1698 164 1697 164 1695 164 1626 182 1554 174 1553 174 1551 174 1516 185 1515 185 1513 185 1428 166 1256 166 1254 166 1253 166 1216 182 1173 201 982 201 905 180 903 180 902 180 900 180 846 203 686 203 645 185 643 185 642 185 640 185 602 195 527 172 516 169 514 169 216 169 217 242"/></Shape>
+	    <String CONTENT="Se: Folkmusiken i Norrland... 1 8:o Härnösand 1911-14"
+                    HPOS="216"
+                    VPOS="164"
+                    WIDTH="2103"
+                    HEIGHT="126"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1248 313 1478 313" 
+                    HPOS="1247"
+                    VPOS="260"
+                    WIDTH="230"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="1247 312 1247 363 1288 363 1288 361 1289 361 1290 361 1299 355 1328 333 1363 345 1364 345 1365 345 1366 345 1367 345 1383 336 1393 342 1398 344 1399 344 1401 344 1436 337 1442 342 1444 342 1445 342 1446 342 1447 342 1477 329 1477 312 1473 267 1436 291 1364 291 1332 263 1332 262 1331 262 1329 262 1328 262 1327 262 1313 269 1298 261 1295 260 1294 260 1247 260 1247 312"/></Shape>
+	    <String CONTENT="Musik."
+                    HPOS="1247"
+                    VPOS="260"
+                    WIDTH="230"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1264 375 1425 375" 
+                    HPOS="1263"
+                    VPOS="341"
+                    WIDTH="161"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1263 374 1263 388 1291 388 1299 391 1338 408 1339 408 1340 409 1371 409 1371 408 1372 408 1374 408 1385 399 1387 398 1423 402 1424 374 1424 344 1407 341 1405 341 1404 341 1391 345 1374 352 1369 347 1363 342 1363 341 1361 341 1360 341 1359 341 1320 347 1305 342 1304 342 1302 342 1301 342 1300 342 1300 343 1290 350 1289 353 1263 353 1263 374"/></Shape>
+	    <String CONTENT="Not."
+                    HPOS="1263"
+                    VPOS="341"
+                    WIDTH="161"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01334-00237.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="38"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2327 1471 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="216 250 975 250" 
+                    HPOS="215"
+                    VPOS="202"
+                    WIDTH="759"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="215 249 215 289 434 289 434 288 435 288 436 288 443 283 472 266 526 273 527 273 571 269 590 278 591 278 592 278 593 278 619 269 657 274 659 274 660 274 661 274 661 273 670 266 697 266 724 277 733 282 735 282 736 282 737 282 738 282 743 277 755 267 789 266 824 266 836 274 838 274 839 274 840 274 841 274 883 266 926 273 931 273 932 273 933 273 935 273 941 268 946 272 954 280 954 282 955 282 957 282 958 282 959 282 960 282 974 273 974 249 973 202 852 219 823 207 822 207 820 207 744 213 732 206 727 202 726 202 725 202 724 202 722 202 721 202 716 206 695 219 624 219 593 208 592 208 591 208 590 208 589 208 574 219 531 213 530 213 433 219 423 210 420 209 420 208 419 208 418 208 417 208 416 208 409 210 397 215 389 210 375 202 374 202 373 202 310 202 309 202 308 202 306 202 292 213 281 219 269 213 267 212 266 212 265 212 215 213 215 249"/></Shape>
+	    <String CONTENT="OLANDER, Gunnar [Fritiof]"
+                    HPOS="215"
+                    VPOS="202"
+                    WIDTH="759"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="224 349 2327 341" 
+                    HPOS="222"
+                    VPOS="301"
+                    WIDTH="2104"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="223 348 223 408 484 407 485 407 497 403 544 387 659 379 763 398 785 402 786 402 819 397 933 380 1040 382 1092 392 1138 399 1140 399 1211 390 1289 379 1332 387 1352 391 1353 391 1354 391 1368 387 1385 381 1422 386 1448 388 1449 388 1471 385 1529 374 1601 376 1602 376 1662 365 1724 365 1794 376 1795 376 1859 365 1903 371 1904 371 2067 364 2114 372 2137 376 2139 376 2163 371 2188 366 2324 368 2326 339 2324 310 2282 302 2281 302 2247 310 2243 311 1984 311 1979 311 1929 301 1791 301 1790 301 1789 301 1765 307 1557 302 1556 302 1554 302 1521 312 1520 314 1378 314 1358 314 1174 305 1173 305 1032 315 1021 315 1016 315 953 305 952 305 883 315 882 315 881 315 781 306 571 306 570 306 462 307 409 317 406 318 222 318 223 348"/></Shape>
+	    <String CONTENT="Se: HAGNELL, Axel [Linus] &amp; OLANDER, Gunnar [Fritiof], Allmän historia"
+                    HPOS="222"
+                    VPOS="301"
+                    WIDTH="2104"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="338 450 527 447" 
+                    HPOS="336"
+                    VPOS="410"
+                    WIDTH="190"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="337 448 337 461 375 480 376 480 377 482 430 482 430 480 431 480 477 456 526 455 526 446 522 424 490 424 489 424 473 412 472 412 471 412 454 410 452 410 451 410 450 410 450 412 436 423 357 410 355 410 354 410 353 410 336 421 337 448"/></Shape>
+	    <String CONTENT="1946."
+                    HPOS="336"
+                    VPOS="410"
+                    WIDTH="190"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="581 444 742 439" 
+                    HPOS="578"
+                    VPOS="381"
+                    WIDTH="163"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="580 442 580 456 614 468 616 468 617 468 618 468 619 468 619 467 628 460 652 467 654 467 655 467 656 467 657 467 673 455 681 461 682 461 683 461 684 461 686 461 705 453 721 462 722 462 724 462 725 462 726 462 741 452 741 437 735 381 695 392 679 388 659 383 657 383 578 402 580 442"/></Shape>
+	    <String CONTENT="Hist"
+                    HPOS="578"
+                    VPOS="381"
+                    WIDTH="163"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="570 526 827 522" 
+                    HPOS="566"
+                    VPOS="452"
+                    WIDTH="259"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="569 525 570 553 596 542 635 549 652 553 654 553 684 547 726 539 824 539 825 521 822 480 807 480 802 478 785 463 784 463 782 463 781 463 780 463 757 473 732 483 709 483 690 466 681 457 681 456 679 456 678 456 677 456 676 456 659 462 635 471 606 456 597 452 596 452 566 452 569 525"/></Shape>
+	    <String CONTENT="Skolb."
+                    HPOS="566"
+                    VPOS="452"
+                    WIDTH="259"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="204 613 2201 622" 
+                    HPOS="202"
+                    VPOS="570"
+                    WIDTH="1998"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="203 612 202 641 269 655 271 655 325 650 454 662 455 663 638 663 638 662 700 653 740 661 741 661 742 661 771 651 808 663 809 663 994 664 995 664 996 664 1046 647 1049 647 1201 647 1217 648 1324 661 1325 661 1326 661 1345 655 1464 662 1465 662 1521 651 1556 663 1557 663 1558 663 1559 663 1581 657 1677 664 1678 664 1754 657 1828 668 1829 668 1830 668 1877 653 1886 651 2018 651 2028 655 2058 661 2059 661 2091 655 2098 653 2103 655 2126 662 2127 662 2129 662 2199 655 2200 621 2200 580 2130 578 2129 578 2123 580 2078 588 1900 582 1899 582 1743 587 1704 580 1684 576 1683 576 1661 580 1624 586 1589 580 1587 580 1586 580 1583 580 1527 585 1513 580 1505 577 1504 577 1503 577 1464 580 1421 582 1411 580 1399 576 1397 576 1396 576 1315 580 1208 585 1195 580 1179 574 1178 574 1039 574 1038 574 986 580 954 583 719 583 705 580 659 571 489 571 488 571 487 571 458 580 416 570 414 570 376 578 354 574 353 574 352 574 350 574 328 580 328 581 203 581 203 612"/></Shape>
+	    <String CONTENT="Se: Hagnell, A.L. &amp; OLANDER, G.F., Svensk och allmän historia. För"
+                    HPOS="202"
+                    VPOS="570"
+                    WIDTH="1998"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="329 715 1178 710" 
+                    HPOS="327"
+                    VPOS="658"
+                    WIDTH="849"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="328 713 328 737 354 753 355 753 357 753 382 755 384 755 385 755 418 747 451 755 452 755 454 755 455 755 456 755 482 736 522 744 524 744 596 734 600 734 625 734 627 734 650 751 651 751 652 751 654 751 700 745 716 754 717 754 719 754 720 754 753 740 785 753 786 753 787 754 957 754 957 753 958 753 959 753 981 733 991 732 998 732 1073 732 1105 747 1106 747 1108 747 1109 747 1110 747 1131 732 1175 732 1176 709 1174 658 1013 658 1012 658 1011 658 1009 658 1000 666 960 693 920 693 899 677 898 677 897 677 895 677 894 677 877 685 839 675 838 675 836 675 835 675 834 675 822 685 808 674 807 674 806 674 805 674 803 674 802 674 779 693 735 693 708 680 706 680 705 680 704 680 674 693 659 682 646 672 645 672 644 672 623 672 622 672 620 672 593 684 580 691 514 691 510 688 501 682 500 682 499 682 498 682 497 682 479 686 465 680 463 680 462 680 402 690 381 677 380 677 379 677 377 677 376 677 375 677 363 686 352 678 350 678 349 678 348 678 347 678 346 678 327 691 328 713"/></Shape>
+	    <String CONTENT="klasserna 4-7. 1957. { Hist"
+                    HPOS="327"
+                    VPOS="658"
+                    WIDTH="849"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="958 804 1170 801" 
+                    HPOS="955"
+                    VPOS="728"
+                    WIDTH="214"
+                    HEIGHT="139">
+            <Shape><Polygon POINTS="957 803 957 851 976 848 994 854 1024 867 1025 867 1027 867 1028 867 1029 867 1040 857 1046 852 1099 846 1125 862 1127 864 1129 864 1130 864 1131 866 1169 866 1169 799 1164 733 1115 754 1099 740 1083 728 1082 728 1081 728 1045 728 1044 728 1043 728 1017 736 1016 736 1016 737 997 753 992 759 955 759 957 803"/></Shape>
+	    <String CONTENT="Skolb."
+                    HPOS="955"
+                    VPOS="728"
+                    WIDTH="214"
+                    HEIGHT="139"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

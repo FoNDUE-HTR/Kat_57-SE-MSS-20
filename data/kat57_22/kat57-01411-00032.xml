@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01411-00032.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="25"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2323 1471 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="171 211 524 211" 
+                    HPOS="170"
+                    VPOS="171"
+                    WIDTH="353"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="170 210 170 241 179 249 180 249 181 249 182 250 344 250 344 249 370 246 371 246 373 246 387 234 391 233 523 233 523 210 522 182 467 182 466 182 455 172 455 171 454 171 452 171 428 171 427 171 364 182 361 182 346 174 344 174 343 174 295 177 265 171 263 171 262 171 261 171 253 179 170 182 170 210"/></Shape>
+	    <String CONTENT="PIEPER, Max"
+                    HPOS="170"
+                    VPOS="171"
+                    WIDTH="353"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1906 72 2163 72" 
+                    HPOS="1905"
+                    VPOS="15"
+                    WIDTH="257"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="1905 71 1905 100 1982 88 2024 95 2035 96 2036 96 2052 94 2079 88 2084 92 2094 100 2095 100 2096 100 2098 101 2121 101 2121 100 2122 100 2162 88 2162 71 2162 42 2106 28 2105 28 2104 28 2103 28 2101 28 2093 35 2083 44 2040 44 2025 29 2025 28 2024 28 2023 28 2022 28 2019 28 2002 30 1992 24 1977 15 1976 15 1975 15 1905 15 1905 71"/></Shape>
+	    <String CONTENT="Arkeol."
+                    HPOS="1905"
+                    VPOS="15"
+                    WIDTH="257"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1944 132 2166 129" 
+                    HPOS="1942"
+                    VPOS="90"
+                    WIDTH="223"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="1943 131 1943 150 1964 160 1965 160 1966 160 1985 158 2013 182 2013 184 2014 184 2016 184 2051 185 2052 185 2099 180 2100 180 2101 180 2142 149 2165 148 2165 128 2162 99 2148 100 2144 98 2136 90 2135 90 2133 90 2132 90 2131 90 2114 98 2093 109 2022 109 1997 96 1986 92 1985 92 1984 92 1942 95 1943 131"/></Shape>
+	    <String CONTENT="Egypt"
+                    HPOS="1942"
+                    VPOS="90"
+                    WIDTH="223"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="165 313 2276 306" 
+                    HPOS="163"
+                    VPOS="272"
+                    WIDTH="2111"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="164 312 164 345 592 345 592 344 625 342 695 336 828 336 846 341 857 343 858 343 860 343 861 343 869 339 882 334 961 334 982 339 996 342 1182 343 1184 343 1222 337 1251 333 1406 336 1619 341 1620 341 1665 334 1677 333 1703 334 1781 338 1782 338 1912 333 1939 332 1946 332 1990 339 1991 339 2045 332 2047 332 2051 332 2165 338 2166 338 2168 338 2190 331 2191 331 2272 331 2274 305 2271 277 2108 279 2077 277 2036 272 2035 272 2034 272 2019 277 2007 279 1965 277 1938 274 1937 274 1904 277 1836 280 1820 277 1809 273 1808 273 1807 273 1785 277 1755 280 1739 277 1728 273 1727 273 1726 273 1649 277 1520 282 1481 277 1450 272 1449 272 1447 272 1433 277 1413 282 1309 277 1224 272 1223 272 1202 277 1170 283 948 277 911 276 910 276 895 277 788 284 761 277 754 274 753 274 517 274 516 274 458 277 229 285 201 277 198 276 197 276 196 276 163 276 164 312"/></Shape>
+	    <String CONTENT="Das ägyptische Märchen. Ursprung und Nachwirkung ältester Märchendich-"
+                    HPOS="163"
+                    VPOS="272"
+                    WIDTH="2111"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="169 415 869 415" 
+                    HPOS="168"
+                    VPOS="383"
+                    WIDTH="700"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="168 414 168 433 273 442 274 442 322 436 404 441 406 441 407 441 420 434 422 434 428 434 499 442 500 444 531 444 531 442 532 442 533 442 543 435 546 434 552 435 607 442 608 442 682 435 688 435 693 435 768 442 769 442 801 435 809 434 867 435 868 414 868 392 836 383 835 383 834 383 761 391 753 385 752 385 750 385 749 385 748 385 732 391 721 383 720 383 719 383 717 383 635 390 581 383 580 383 579 383 577 383 577 385 569 392 469 386 468 386 429 392 404 383 403 383 338 383 337 383 336 383 319 393 239 393 197 383 196 383 195 383 168 392 168 414"/></Shape>
+	    <String CONTENT="tung bis zur Gegenwart."
+                    HPOS="168"
+                    VPOS="383"
+                    WIDTH="700"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="166 619 1082 624" 
+                    HPOS="164"
+                    VPOS="580"
+                    WIDTH="917"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="165 618 164 639 260 652 261 652 262 652 287 644 314 663 315 663 316 663 395 664 396 666 585 666 585 664 586 664 622 652 644 659 645 659 646 659 647 659 678 646 684 644 706 646 739 651 741 651 777 647 818 644 827 648 836 653 838 653 839 653 840 653 841 653 847 648 850 646 856 648 890 662 892 662 893 662 894 662 895 662 915 650 923 645 976 645 985 650 996 657 997 657 998 657 1000 657 1001 657 1002 657 1013 651 1023 645 1078 651 1081 623 1079 591 943 583 942 583 941 583 928 590 920 594 908 590 892 583 890 583 889 583 888 583 887 583 878 590 872 593 867 590 855 582 854 582 852 582 851 582 792 583 791 583 777 590 774 591 764 590 725 582 723 582 722 582 721 582 712 590 704 596 624 596 612 590 593 581 592 581 591 581 590 581 565 588 558 591 542 588 488 581 487 581 485 581 484 581 476 588 469 594 395 594 375 588 342 580 341 580 339 580 338 580 307 588 293 593 219 593 208 588 195 582 193 582 192 582 165 587 165 618"/></Shape>
+	    <String CONTENT="Se: Morgenland... H.27. {Hist"
+                    HPOS="164"
+                    VPOS="580"
+                    WIDTH="917"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="945 686 1127 689" 
+                    HPOS="943"
+                    VPOS="644"
+                    WIDTH="183"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="944 685 943 717 1125 717 1126 688 1125 659 1114 661 1109 658 1094 646 1093 646 1092 646 1090 646 1089 646 1088 646 1076 655 1067 662 1039 662 1030 653 1030 652 1029 652 1028 652 1027 652 1025 652 1006 659 993 648 988 644 987 644 986 644 985 644 944 644 944 685"/></Shape>
+	    <String CONTENT="Saml"
+                    HPOS="943"
+                    VPOS="644"
+                    WIDTH="183"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1475 514 2004 517" 
+                    HPOS="1473"
+                    VPOS="478"
+                    WIDTH="530"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="1474 513 1473 540 1504 550 1505 550 1506 550 1508 550 1509 550 1522 543 1558 543 1559 543 1569 553 1569 554 1570 554 1571 554 1573 554 1627 545 1628 545 1646 554 1647 554 1649 554 1725 553 1726 553 1735 548 1742 544 1768 549 1793 554 1795 554 1812 550 1840 544 1847 552 1851 554 1851 555 1852 555 1854 555 1855 556 1898 556 1898 555 1899 555 1905 553 1926 544 1943 554 1944 555 1946 555 1947 555 1948 556 2002 556 2003 516 2003 491 1987 491 1987 490 1975 480 1975 479 1974 479 1973 479 1865 479 1863 479 1862 479 1861 479 1861 480 1850 490 1850 491 1803 491 1801 490 1787 480 1786 480 1785 480 1784 480 1782 480 1755 490 1754 490 1738 478 1737 478 1736 478 1735 478 1733 478 1703 485 1666 480 1665 480 1663 480 1662 480 1662 482 1656 488 1630 478 1629 478 1628 478 1627 478 1601 489 1600 489 1593 489 1506 482 1505 482 1504 482 1503 482 1503 483 1496 489 1495 489 1474 489 1474 513"/></Shape>
+	    <String CONTENT="8:o Leipzig 1935."
+                    HPOS="1473"
+                    VPOS="478"
+                    WIDTH="530"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

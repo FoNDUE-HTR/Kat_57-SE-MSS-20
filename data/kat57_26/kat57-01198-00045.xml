@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01198-00045.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1470"
+          PHYSICAL_IMG_NR="46"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1470">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1468"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1469 2315 1469 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="217 52 481 49" 
+                    HPOS="215"
+                    VPOS="18"
+                    WIDTH="265"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="216 51 216 69 300 69 311 74 332 83 333 83 334 83 362 77 383 73 477 83 480 49 477 30 452 30 441 19 441 18 439 18 438 18 437 18 382 29 334 19 333 19 332 19 307 30 238 19 237 19 236 19 235 19 215 29 216 51"/></Shape>
+	    <String CONTENT="Marburg"
+                    HPOS="215"
+                    VPOS="18"
+                    WIDTH="265"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2008 30 2210 27" 
+                    HPOS="2005"
+                    VPOS="1"
+                    WIDTH="204"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="2177 1 2165 1 2153 1 2149 1 2143 7 2052 1 2042 1 2030 1 2029 1 2005 9 2007 29 2007 56 2156 49 2206 53 2209 26 2208 8 2181 1 2177 1"/></Shape>
+	    <String CONTENT="Bild. k."
+                    HPOS="2005"
+                    VPOS="1"
+                    WIDTH="204"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="2004 73 2121 70" 
+                    HPOS="2002"
+                    VPOS="41"
+                    WIDTH="117"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="2003 72 2003 107 2118 109 2119 69 2116 41 2002 50 2003 72"/></Shape>
+	    <String CONTENT="Ort."
+                    HPOS="2002"
+                    VPOS="41"
+                    WIDTH="117"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="189 237 926 243" 
+                    HPOS="187"
+                    VPOS="183"
+                    WIDTH="738"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="188 236 187 270 205 279 207 279 208 279 297 273 335 280 336 280 421 274 490 281 491 281 564 275 586 281 588 281 589 281 590 281 591 281 601 275 691 282 692 282 693 282 694 282 694 281 710 268 711 267 922 267 925 242 925 211 887 210 856 194 855 194 854 194 852 194 823 210 787 210 762 194 760 194 759 194 758 194 757 194 727 209 669 209 624 196 623 196 622 196 621 196 606 203 594 192 593 192 591 192 590 192 589 192 588 192 588 193 578 203 536 207 507 203 485 184 484 184 482 184 481 184 386 189 269 183 268 183 267 183 265 183 229 205 188 205 188 236"/></Shape>
+	    <String CONTENT="MEYER-BARKHAUSEN, Werner"
+                    HPOS="187"
+                    VPOS="183"
+                    WIDTH="738"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="181 341 1901 350" 
+                    HPOS="178"
+                    VPOS="302"
+                    WIDTH="1722"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="178 361 275 368 276 368 523 363 568 363 572 365 588 369 589 369 590 369 635 365 649 363 656 365 683 371 684 371 789 366 813 365 835 366 917 372 919 372 1035 367 1072 366 1096 367 1165 373 1166 373 1235 368 1257 367 1274 368 1314 373 1316 373 1899 372 1900 349 1900 322 1861 313 1860 313 1786 318 1755 309 1754 309 1657 309 1656 309 1610 319 1605 319 1599 319 1536 309 1535 309 1444 317 1423 318 1396 317 1281 307 1280 307 1279 307 1256 314 1248 317 1229 314 1202 311 1200 311 1184 313 1162 318 1106 313 1080 311 1079 311 1041 312 932 317 917 311 912 308 911 308 910 308 909 308 903 311 888 316 854 309 843 308 841 308 840 308 836 309 822 317 763 317 726 308 719 307 718 307 716 307 713 308 691 314 666 307 660 306 659 306 658 306 647 307 605 314 566 306 550 303 548 303 547 303 539 306 512 316 427 316 362 303 350 302 181 302 180 340 178 361"/></Shape>
+	    <String CONTENT="Marburg an der Lahn. Aufgenommen vom Archiv Foto Marburg."
+                    HPOS="178"
+                    VPOS="302"
+                    WIDTH="1722"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1403 449 1964 454" 
+                    HPOS="1400"
+                    VPOS="410"
+                    WIDTH="563"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1401 448 1400 476 1431 490 1432 490 1433 490 1434 490 1468 477 1485 486 1486 486 1487 486 1557 485 1564 491 1564 492 1566 492 1567 492 1568 492 1667 482 1683 481 1688 482 1713 493 1714 493 1715 494 1771 494 1771 493 1773 493 1787 486 1798 480 1892 480 1904 488 1910 493 1911 493 1912 493 1914 493 1915 493 1916 493 1922 490 1932 482 1959 490 1963 453 1963 412 1916 412 1915 412 1914 412 1912 412 1901 421 1856 414 1844 412 1842 412 1841 412 1834 415 1809 422 1800 415 1796 412 1795 412 1793 412 1792 412 1791 412 1790 412 1786 415 1770 426 1695 421 1693 417 1686 411 1686 410 1684 410 1683 410 1682 410 1659 412 1657 412 1656 412 1650 418 1640 426 1608 426 1597 418 1583 410 1581 410 1580 410 1579 410 1578 410 1558 420 1548 425 1510 425 1507 421 1499 415 1499 414 1498 414 1497 414 1496 414 1494 414 1476 421 1470 423 1463 422 1436 415 1434 415 1433 415 1432 415 1401 422 1401 448"/></Shape>
+	    <String CONTENT="8:o /Berlin 1951/."
+                    HPOS="1400"
+                    VPOS="410"
+                    WIDTH="563"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="183 542 1257 548" 
+                    HPOS="181"
+                    VPOS="503"
+                    WIDTH="1075"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="182 541 181 574 209 575 237 591 238 591 240 591 301 579 305 578 306 578 332 564 443 564 470 583 471 583 473 583 474 583 508 578 530 588 552 597 553 597 555 597 556 597 578 589 610 576 643 591 648 594 649 594 650 594 659 592 675 589 687 594 698 597 699 597 700 597 702 597 713 594 743 584 865 575 901 575 939 590 941 590 942 590 943 590 976 574 991 579 992 579 993 579 995 579 1018 573 1055 597 1056 597 1057 597 1058 597 1095 594 1121 610 1123 611 1124 611 1126 611 1253 613 1256 547 1256 521 1219 520 1204 509 1203 509 1202 509 1200 509 1199 509 1187 515 1091 507 1090 507 1010 514 941 505 939 505 938 505 900 515 889 519 839 519 738 518 730 513 713 504 711 504 645 504 644 504 643 504 642 504 631 512 624 515 604 512 591 509 590 509 572 510 525 515 508 509 498 507 497 507 496 507 495 507 487 509 473 515 449 509 428 503 427 503 426 503 425 503 412 508 398 514 362 508 341 504 340 504 322 507 285 513 182 505 182 541"/></Shape>
+	    <String CONTENT="Se: Deutsche Lande, deutsche Kunst."
+                    HPOS="181"
+                    VPOS="503"
+                    WIDTH="1075"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

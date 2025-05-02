@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00826-00102.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="40"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2315 1477 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2069 51 2210 56" 
+                    HPOS="2067"
+                    VPOS="3"
+                    WIDTH="141"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="2068 50 2067 65 2122 77 2123 77 2125 77 2126 77 2131 73 2132 73 2142 82 2142 83 2143 83 2144 83 2178 84 2179 84 2180 84 2181 84 2186 80 2192 76 2205 82 2208 55 2207 28 2187 28 2186 27 2168 9 2168 8 2166 8 2165 8 2138 3 2118 3 2117 3 2116 3 2115 3 2088 24 2086 24 2068 24 2068 50"/></Shape>
+	    <String CONTENT="Res."
+                    HPOS="2067"
+                    VPOS="3"
+                    WIDTH="141"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2080 118 2195 121" 
+                    HPOS="2077"
+                    VPOS="68"
+                    WIDTH="117"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="2079 117 2077 161 2117 165 2118 165 2120 165 2121 165 2133 155 2148 146 2191 149 2194 120 2192 92 2165 92 2163 88 2153 78 2153 77 2152 77 2120 68 2118 68 2117 68 2116 68 2079 78 2079 117"/></Shape>
+	    <String CONTENT="Afr."
+                    HPOS="2077"
+                    VPOS="68"
+                    WIDTH="117"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="152 193 838 193" 
+                    HPOS="151"
+                    VPOS="140"
+                    WIDTH="686"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="151 192 151 232 165 240 166 240 167 240 236 234 277 240 278 240 279 240 303 230 311 237 312 237 314 237 315 237 346 232 357 240 358 240 359 240 360 240 362 240 389 232 548 240 549 240 593 234 595 234 596 234 609 221 615 218 837 218 837 192 837 167 797 167 797 166 777 155 776 155 774 155 773 155 772 155 741 165 710 140 709 140 708 140 671 140 670 140 668 140 667 140 644 158 606 158 604 158 603 158 602 158 592 166 592 167 569 167 569 166 537 141 535 141 534 141 533 141 532 141 482 166 482 167 395 167 395 166 385 158 384 158 383 158 381 158 380 158 369 162 346 141 346 140 344 140 343 140 342 140 341 140 323 147 304 140 303 140 301 140 300 140 280 150 272 141 272 140 271 140 269 140 194 140 193 140 192 140 190 140 151 163 151 192"/></Shape>
+	    <String CONTENT="Jablonowska, Louise"
+                    HPOS="151"
+                    VPOS="140"
+                    WIDTH="686"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="181 275 796 281" 
+                    HPOS="178"
+                    VPOS="234"
+                    WIDTH="617"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="178 301 230 295 278 301 279 301 280 301 282 301 290 295 306 305 335 322 336 322 337 322 338 322 416 316 417 316 438 306 457 298 528 298 550 307 586 325 587 325 588 326 670 326 670 325 671 325 672 325 696 310 707 317 708 317 709 317 710 317 712 317 729 310 734 307 736 310 741 315 742 315 744 315 745 315 794 310 795 280 795 263 746 241 745 241 744 241 742 241 741 241 714 262 707 262 677 263 675 261 651 238 651 237 650 237 649 237 540 236 539 236 538 236 537 236 510 257 503 261 291 259 283 251 266 235 266 234 264 234 263 234 221 234 220 234 219 234 218 234 199 248 193 254 181 248 179 274 178 301"/></Shape>
+	    <String CONTENT="Souvenir l´Égypte."
+                    HPOS="178"
+                    VPOS="234"
+                    WIDTH="617"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1309 371 1740 376" 
+                    HPOS="1307"
+                    VPOS="321"
+                    WIDTH="432"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="1308 370 1307 384 1344 394 1345 394 1346 394 1347 394 1358 386 1360 386 1432 386 1438 389 1485 400 1486 400 1521 392 1564 405 1565 405 1566 405 1619 395 1643 406 1644 406 1645 407 1713 407 1713 406 1714 406 1738 397 1739 375 1738 344 1707 337 1706 337 1682 342 1654 332 1653 332 1651 332 1650 332 1649 332 1633 343 1631 343 1584 343 1584 342 1575 335 1574 335 1573 335 1571 335 1570 335 1569 335 1560 342 1536 323 1534 323 1533 323 1509 322 1507 322 1424 328 1392 322 1390 322 1389 322 1388 322 1376 331 1364 322 1364 321 1363 321 1362 321 1361 321 1360 321 1358 321 1341 336 1308 338 1308 370"/></Shape>
+	    <String CONTENT="8º Paris 1871."
+                    HPOS="1307"
+                    VPOS="321"
+                    WIDTH="432"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01198-00233.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1476"
+          PHYSICAL_IMG_NR="11"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1476">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1474"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1475 2315 1475 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="220 231 832 236" 
+                    HPOS="217"
+                    VPOS="184"
+                    WIDTH="614"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="217 247 226 253 227 253 228 253 230 253 342 250 370 258 371 258 372 258 374 258 375 258 375 257 385 249 386 248 406 248 409 249 422 258 423 258 424 258 425 258 461 252 541 259 542 259 543 259 545 259 552 253 559 249 578 249 583 254 588 258 588 259 589 259 590 259 591 259 697 258 698 258 700 258 711 250 721 258 722 258 723 258 724 258 728 258 785 252 829 260 831 234 830 188 735 188 734 188 733 188 700 204 659 202 631 186 630 186 628 186 627 186 553 201 537 194 536 194 535 194 534 194 532 194 532 195 526 200 500 195 499 195 498 195 497 195 488 202 372 202 340 190 339 190 338 190 237 198 221 184 219 230 217 247"/></Shape>
+	    <String CONTENT="MEYN, Niels [Gustav]"
+                    HPOS="217"
+                    VPOS="184"
+                    WIDTH="614"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="217 336 864 336" 
+                    HPOS="216"
+                    VPOS="300"
+                    WIDTH="647"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="216 335 216 357 238 369 239 369 241 369 242 369 260 361 269 369 270 369 271 369 273 370 315 370 315 369 316 369 317 369 317 367 328 357 359 364 360 364 361 364 372 359 392 369 393 369 395 370 473 370 473 369 475 369 497 359 507 366 508 366 509 366 510 366 511 366 526 359 535 367 535 369 536 369 537 369 539 370 557 370 557 369 558 369 559 369 573 357 596 357 620 357 631 367 631 369 632 369 633 369 634 369 636 369 660 357 748 357 759 367 759 369 760 369 761 369 762 370 823 370 823 369 824 369 863 356 863 335 863 311 835 311 819 300 818 300 817 300 815 300 814 300 797 307 694 300 692 300 691 300 670 309 644 300 643 300 642 300 641 300 612 311 572 311 562 301 562 300 561 300 559 300 541 300 540 300 539 300 504 311 438 311 375 300 374 300 372 300 354 309 308 303 307 303 306 303 290 309 259 300 258 300 257 300 255 300 216 309 216 335"/></Shape>
+	    <String CONTENT="Det flygande tefatet."
+                    HPOS="216"
+                    VPOS="300"
+                    WIDTH="647"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="990 434 2053 439" 
+                    HPOS="988"
+                    VPOS="387"
+                    WIDTH="1064"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="989 432 988 455 1055 463 1057 463 1127 457 1155 468 1156 468 1158 469 1212 469 1212 468 1213 468 1250 458 1313 469 1314 469 1315 469 1348 460 1370 469 1372 469 1373 471 1428 471 1428 469 1429 469 1431 469 1441 462 1491 468 1492 468 1493 468 1495 468 1503 462 1534 471 1535 471 1537 471 1769 460 1785 460 1789 460 1845 472 1847 472 1898 461 1920 471 1922 471 1923 471 1924 471 1925 471 1940 462 2051 462 2052 437 2052 407 2028 397 2026 397 2025 397 1890 399 1875 389 1874 389 1872 389 1871 389 1820 393 1818 393 1817 393 1806 402 1778 388 1776 388 1775 388 1727 389 1726 389 1725 389 1708 400 1681 396 1679 396 1678 396 1663 403 1629 388 1628 388 1533 388 1532 388 1482 399 1447 388 1445 388 1444 388 1443 388 1442 388 1425 399 1402 387 1401 387 1400 387 1399 387 1343 403 1341 403 1171 403 1171 402 1140 387 1139 387 1138 387 1137 387 1135 387 1114 402 1113 402 989 402 989 432"/></Shape>
+	    <String CONTENT="8:o Uppsala [tr. i Mariestad] 1955."
+                    HPOS="988"
+                    VPOS="387"
+                    WIDTH="1064"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2152 66 2283 63" 
+                    HPOS="2149"
+                    VPOS="1"
+                    WIDTH="133"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="2216 1 2215 1 2213 1 2212 1 2178 22 2149 25 2151 65 2151 77 2170 87 2172 87 2173 88 2204 88 2204 87 2205 87 2206 87 2206 86 2212 81 2217 76 2231 82 2237 84 2238 84 2239 84 2240 84 2245 83 2259 78 2280 84 2282 62 2280 8 2245 3 2244 3 2243 3 2242 3 2236 9 2217 1 2216 1"/></Shape>
+	    <String CONTENT="Vitt."
+                    HPOS="2149"
+                    VPOS="1"
+                    WIDTH="133"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2140 140 2293 137" 
+                    HPOS="2137"
+                    VPOS="87"
+                    WIDTH="155"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="2138 138 2140 167 2157 159 2181 166 2183 166 2184 167 2213 167 2213 166 2215 166 2216 166 2216 164 2223 158 2290 163 2292 136 2288 108 2255 109 2244 102 2243 102 2242 102 2240 102 2239 102 2220 109 2202 95 2192 87 2191 87 2190 87 2137 87 2138 138"/></Shape>
+	    <String CONTENT="Dan."
+                    HPOS="2137"
+                    VPOS="87"
+                    WIDTH="155"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

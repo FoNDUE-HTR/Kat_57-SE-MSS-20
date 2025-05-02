@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00913-00356.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2332"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2332"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2330"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2331 1471 2331 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="249 263 856 263" 
+                    HPOS="249"
+                    VPOS="136"
+                    WIDTH="607"
+                    HEIGHT="167">
+            <Shape><Polygon POINTS="249 263 249 295 615 303 616 303 618 303 620 303 636 290 639 289 856 289 856 263 854 175 837 175 835 174 819 161 818 161 816 161 814 161 746 163 744 163 717 174 645 136 644 136 519 136 517 136 516 136 454 155 452 155 431 174 423 180 409 174 406 172 404 172 402 172 401 172 395 174 367 180 249 174 249 263"/></Shape>
+	    <String CONTENT="KLAFFENBACH, Günther"
+                    HPOS="249"
+                    VPOS="136"
+                    WIDTH="607"
+                    HEIGHT="167"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="254 364 1490 361" 
+                    HPOS="252"
+                    VPOS="309"
+                    WIDTH="1238"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="254 364 254 388 329 386 340 391 364 400 366 400 428 404 430 404 806 402 808 402 810 402 824 391 829 388 854 391 870 392 872 392 873 392 878 391 899 384 939 391 952 392 953 392 955 392 961 391 985 384 1044 391 1062 392 1063 392 1078 391 1129 384 1140 391 1143 394 1145 394 1146 394 1148 394 1150 394 1161 391 1185 384 1210 391 1220 394 1221 394 1223 394 1239 391 1274 384 1308 391 1316 392 1317 392 1319 392 1320 392 1322 391 1335 384 1486 391 1490 361 1485 317 1386 324 1360 317 1346 314 1344 314 1343 314 1322 317 1295 324 1280 319 1263 311 1261 311 1260 311 1215 319 1188 324 1162 319 1108 309 966 309 964 309 963 309 940 322 934 325 861 325 854 322 838 311 837 311 835 311 738 311 736 311 735 311 695 324 688 325 682 324 642 313 640 313 639 313 637 313 636 313 621 324 599 317 597 317 596 317 594 317 592 317 581 325 580 327 497 327 497 325 470 314 468 314 466 314 465 314 463 314 450 322 390 311 388 311 387 311 385 311 371 321 307 316 305 316 252 327 254 364"/></Shape>
+	    <String CONTENT="Se: Inscriptiones graecae... Editio minor."
+                    HPOS="252"
+                    VPOS="309"
+                    WIDTH="1238"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="350 464 2315 467" 
+                    HPOS="350"
+                    VPOS="407"
+                    WIDTH="1965"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="350 464 350 514 503 514 503 512 505 512 508 511 525 503 639 511 682 512 683 512 711 509 771 501 797 509 814 514 816 514 818 515 894 515 894 514 896 514 915 507 953 493 1019 506 1046 511 1047 511 1049 511 1062 506 1094 491 1263 491 1308 503 1343 512 1344 512 1346 512 1399 503 1445 493 1552 493 1592 499 1660 512 1662 512 1711 506 1777 515 1778 517 1992 517 1992 515 1994 515 2075 495 2085 493 2313 493 2315 467 2315 410 2152 408 2150 408 2149 408 2142 410 2110 424 2059 424 1893 412 1825 408 1823 408 1822 408 1806 413 1786 420 1716 423 1695 415 1694 415 1692 415 1617 424 1589 415 1574 410 1573 410 1571 410 1541 415 1490 424 1454 415 1450 415 1448 415 1446 415 1437 416 1389 424 1362 416 1357 415 1355 415 1354 415 1352 415 1349 416 1335 424 1127 424 1095 418 1022 407 1020 407 928 420 899 424 671 424 664 421 618 408 616 408 615 408 562 418 406 410 404 410 350 423 350 464"/></Shape>
+	    <String CONTENT="Vol.9.Inscriptiones Graeciae septentrionalis...P.1:1- 1932-"
+                    HPOS="350"
+                    VPOS="407"
+                    WIDTH="1965"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="366 565 730 568" 
+                    HPOS="364"
+                    VPOS="528"
+                    WIDTH="366"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="366 565 364 611 422 632 423 632 425 633 442 633 442 632 444 632 446 632 446 630 458 619 465 613 516 613 530 625 556 648 556 649 557 649 559 649 561 649 637 648 639 648 640 648 648 641 655 646 656 646 658 646 659 646 661 646 663 646 663 645 671 638 677 632 727 643 730 568 730 542 695 528 693 528 616 528 615 528 613 528 580 539 572 541 556 538 521 531 519 531 517 531 501 536 493 539 490 536 479 528 478 528 476 528 474 528 473 528 449 536 434 539 366 534 366 565"/></Shape>
+	    <String CONTENT="i: Kat. 1958-"
+                    HPOS="364"
+                    VPOS="528"
+                    WIDTH="366"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="776 593 909 598" 
+                    HPOS="774"
+                    VPOS="549"
+                    WIDTH="135"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="776 593 774 617 905 624 909 598 905 550 877 560 861 552 854 549 853 549 851 549 849 549 848 549 841 554 832 558 824 554 814 549 813 549 811 549 776 555 776 593"/></Shape>
+	    <String CONTENT="FOA"
+                    HPOS="774"
+                    VPOS="549"
+                    WIDTH="135"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="762 684 926 681" 
+                    HPOS="760"
+                    VPOS="630"
+                    WIDTH="166"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="762 684 762 704 795 715 797 715 798 715 819 712 848 707 862 716 873 726 875 726 877 726 878 726 926 724 926 681 921 630 760 637 762 684"/></Shape>
+	    <String CONTENT="(fol.)"
+                    HPOS="760"
+                    VPOS="630"
+                    WIDTH="166"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

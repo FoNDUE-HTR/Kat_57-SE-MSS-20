@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00233.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="36"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2319 1471 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="201 231 930 236" 
+                    HPOS="198"
+                    VPOS="185"
+                    WIDTH="731"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="199 230 198 250 202 253 202 255 203 255 204 255 206 255 463 251 503 251 505 252 514 260 515 260 516 260 564 263 565 263 623 253 626 253 633 253 683 263 684 263 737 256 739 256 742 256 793 264 795 264 928 258 929 235 928 210 907 210 907 209 898 201 898 199 896 199 895 199 894 199 893 199 873 208 869 210 766 210 752 203 747 202 745 202 744 202 743 202 739 203 731 208 725 203 710 190 709 190 707 190 679 188 678 188 604 191 603 191 602 191 592 198 576 208 552 208 539 196 538 196 538 195 537 195 536 195 534 195 533 195 530 196 507 208 451 208 425 196 424 196 423 196 395 199 376 191 366 186 365 186 364 186 363 186 350 190 339 192 199 185 199 230"/></Shape>
+	    <String CONTENT="BERINGER, Carl Christoph"
+                    HPOS="198"
+                    VPOS="185"
+                    WIDTH="731"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2048 89 2265 86" 
+                    HPOS="2046"
+                    VPOS="14"
+                    WIDTH="218"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="2047 88 2047 114 2100 114 2101 114 2102 114 2102 112 2112 104 2126 111 2127 111 2128 111 2129 111 2160 103 2215 103 2225 107 2235 112 2236 112 2237 112 2239 112 2264 105 2264 85 2262 14 2241 14 2240 14 2239 14 2237 14 2237 15 2234 18 2207 45 2185 45 2161 29 2139 14 2138 14 2137 14 2105 14 2104 14 2102 14 2101 14 2101 15 2069 42 2067 46 2046 46 2047 88"/></Shape>
+	    <String CONTENT="Geol."
+                    HPOS="2046"
+                    VPOS="14"
+                    WIDTH="218"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2078 179 2257 179" 
+                    HPOS="2077"
+                    VPOS="126"
+                    WIDTH="179"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="2077 177 2077 208 2154 213 2155 213 2156 213 2158 213 2172 202 2178 197 2191 199 2213 206 2214 206 2215 206 2216 206 2256 195 2256 177 2253 126 2214 148 2182 144 2171 137 2156 126 2155 126 2154 126 2126 126 2124 126 2123 126 2122 126 2099 145 2095 149 2077 149 2077 177"/></Shape>
+	    <String CONTENT="Hist."
+                    HPOS="2077"
+                    VPOS="126"
+                    WIDTH="179"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="187 337 2298 345" 
+                    HPOS="185"
+                    VPOS="298"
+                    WIDTH="2112"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="186 336 185 359 278 369 279 369 336 361 556 364 576 371 577 371 579 371 1123 365 1161 374 1163 374 1285 365 1331 374 1332 374 1381 366 1556 374 1558 374 1634 366 1696 376 1697 376 1859 369 1885 376 1886 376 1996 377 1997 377 2075 376 2077 376 2100 369 2180 376 2181 376 2296 368 2297 344 2295 317 2214 317 2210 316 2161 306 2160 306 2104 315 2094 317 1997 317 1923 314 1641 302 1387 301 1386 301 1285 309 1275 309 1271 309 1236 301 1235 301 1234 301 1214 307 1203 312 1116 312 965 312 933 305 909 301 907 301 874 305 834 310 554 305 553 305 490 310 439 301 434 301 433 301 428 301 368 309 334 300 322 298 321 298 320 298 186 300 186 336"/></Shape>
+	    <String CONTENT="Das Werden des erdgeschichtlichen Weltbildes im Spiegel grosser Natur-"
+                    HPOS="185"
+                    VPOS="298"
+                    WIDTH="2112"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="185 440 1486 445" 
+                    HPOS="182"
+                    VPOS="406"
+                    WIDTH="1303"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="184 439 182 467 447 474 449 474 450 474 467 469 488 464 501 471 509 473 510 473 577 475 579 475 628 472 690 466 760 472 795 475 796 475 797 475 807 473 834 466 888 473 912 477 914 477 915 477 925 474 941 469 976 474 996 477 997 477 1008 474 1042 467 1215 473 1217 473 1313 468 1338 477 1340 478 1342 478 1343 478 1344 478 1347 478 1376 469 1483 478 1485 444 1485 421 1417 419 1398 409 1397 409 1396 409 1323 419 1321 419 1317 419 1245 409 1244 409 1164 415 1145 408 1144 408 1143 408 956 415 887 418 872 414 846 408 845 408 844 408 842 408 819 414 807 418 734 418 727 413 714 407 712 407 711 407 676 413 662 414 639 412 585 407 583 407 550 412 510 417 401 417 372 409 353 406 352 406 310 407 309 407 305 409 293 415 184 408 184 439"/></Shape>
+	    <String CONTENT="forscher und Denker aus zwei Jahrhunderten."
+                    HPOS="182"
+                    VPOS="406"
+                    WIDTH="1303"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1467 547 2051 554" 
+                    HPOS="1464"
+                    VPOS="507"
+                    WIDTH="586"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1466 545 1464 566 1483 574 1484 574 1485 574 1543 567 1582 575 1583 575 1585 575 1601 569 1607 575 1608 575 1609 575 1610 575 1612 575 1634 569 1659 581 1661 581 1662 581 1738 570 1765 586 1766 586 1767 586 1769 586 1862 585 1863 585 1899 572 1950 588 1951 588 1953 590 2020 590 2020 588 2021 588 2048 572 2050 553 2050 526 2025 526 2024 525 2008 512 2007 512 2005 512 1856 510 1855 510 1853 510 1824 522 1807 515 1805 515 1804 515 1764 522 1759 522 1755 522 1707 509 1706 509 1705 509 1704 509 1679 520 1662 507 1661 507 1659 507 1658 507 1657 507 1635 517 1618 511 1617 511 1615 511 1614 511 1613 511 1603 520 1602 520 1597 520 1506 511 1505 511 1466 517 1466 545"/></Shape>
+	    <String CONTENT="8:o Stuttgart 1939."
+                    HPOS="1464"
+                    VPOS="507"
+                    WIDTH="586"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1937 1423 2292 1420" 
+                    HPOS="1934"
+                    VPOS="1344"
+                    WIDTH="357"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="1935 1422 1935 1438 2015 1442 2016 1442 2018 1442 2019 1442 2019 1441 2024 1437 2029 1432 2041 1436 2046 1437 2047 1437 2048 1437 2050 1437 2051 1437 2052 1436 2059 1431 2110 1431 2113 1435 2118 1438 2120 1438 2121 1438 2193 1440 2194 1440 2196 1440 2197 1440 2209 1431 2212 1431 2213 1431 2220 1438 2220 1440 2221 1440 2223 1440 2224 1440 2225 1440 2243 1431 2275 1440 2277 1440 2278 1440 2279 1440 2280 1440 2291 1430 2291 1419 2288 1372 2254 1372 2252 1372 2207 1356 2205 1356 2204 1356 2203 1356 2181 1362 2122 1344 2121 1344 2058 1344 2057 1344 2030 1348 2029 1348 2028 1348 1989 1372 1934 1375 1935 1422"/></Shape>
+	    <String CONTENT="15.10.1943"
+                    HPOS="1934"
+                    VPOS="1344"
+                    WIDTH="357"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00093.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="18"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2319 1471 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="67 54 787 45" 
+                    HPOS="66"
+                    VPOS="3"
+                    WIDTH="720"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="66 78 121 84 122 84 190 77 192 77 193 77 204 85 206 85 207 85 208 85 209 85 222 79 242 88 244 88 245 88 309 87 310 87 311 87 311 85 316 82 322 87 323 87 325 87 326 87 327 87 328 87 343 76 424 85 425 85 426 85 428 85 435 79 480 83 482 83 483 83 504 74 511 79 512 79 514 79 515 79 516 79 517 79 517 78 525 72 577 83 579 83 580 83 606 71 623 71 663 71 693 82 694 82 695 82 786 67 786 44 783 19 714 3 712 3 711 3 688 9 662 4 661 4 660 4 658 4 649 12 608 4 607 4 606 4 570 17 563 19 555 17 527 6 526 6 525 6 477 14 447 9 446 9 445 9 433 15 422 22 381 15 334 8 333 8 332 8 320 14 300 25 242 26 141 26 106 14 105 14 104 14 103 14 90 19 66 13 66 53 66 78"/></Shape>
+	    <String CONTENT="Bremen, Staatsbibliothek"
+                    HPOS="66"
+                    VPOS="3"
+                    WIDTH="720"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="244 219 464 219" 
+                    HPOS="242"
+                    VPOS="175"
+                    WIDTH="221"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="242 218 242 253 368 249 403 255 404 255 406 255 407 255 423 249 462 255 463 218 463 185 441 176 440 176 439 176 437 176 419 185 358 185 350 179 349 179 348 179 347 179 345 179 328 184 268 175 267 175 266 175 242 185 242 218"/></Shape>
+	    <String CONTENT="BERICHT"
+                    HPOS="242"
+                    VPOS="175"
+                    WIDTH="221"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="230 313 1896 322" 
+                    HPOS="228"
+                    VPOS="276"
+                    WIDTH="1667"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="229 312 228 336 630 341 631 341 642 338 669 333 694 339 705 342 706 342 707 342 745 339 799 336 884 341 943 343 944 343 961 341 994 336 1180 336 1296 336 1311 343 1315 344 1316 344 1317 344 1343 343 1410 338 1451 343 1461 344 1462 344 1482 344 1583 338 1610 344 1612 344 1613 344 1615 344 1657 338 1701 345 1715 347 1716 347 1737 345 1802 339 1893 345 1895 321 1895 290 1354 280 1271 280 1269 280 1268 280 1244 288 1242 288 1240 288 1165 279 1068 279 1067 279 1031 287 993 279 992 279 944 287 943 287 941 287 901 278 900 278 899 278 873 285 760 278 759 278 709 285 706 285 689 285 646 285 628 277 626 277 625 277 624 277 598 285 491 285 468 285 468 284 430 276 429 276 347 283 277 276 276 276 229 284 229 312"/></Shape>
+	    <String CONTENT="und Zugangs-Verzeichnis der Staatsbibliothek zu Bremen."
+                    HPOS="228"
+                    VPOS="276"
+                    WIDTH="1667"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="233 402 1858 418" 
+                    HPOS="230"
+                    VPOS="360"
+                    WIDTH="1627"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="231 401 230 451 588 455 590 455 591 455 602 451 672 428 717 434 718 434 955 431 988 442 990 442 991 442 992 442 1033 431 1105 431 1177 450 1191 453 1192 453 1193 453 1230 450 1239 450 1244 450 1282 457 1283 457 1376 455 1398 450 1424 444 1440 450 1447 452 1448 452 1450 452 1451 452 1459 450 1467 447 1473 450 1507 464 1509 464 1510 464 1643 453 1645 453 1655 450 1682 437 1855 448 1857 417 1857 390 1821 376 1820 376 1819 376 1751 387 1629 377 1628 377 1592 386 1583 388 1484 388 1424 383 1398 381 1397 381 1375 382 1325 386 1304 381 1286 377 1285 377 1284 377 1274 381 1258 386 1197 386 1166 380 1105 368 918 366 917 366 916 366 895 372 815 365 814 365 695 372 650 375 637 371 617 365 615 365 614 365 583 371 543 380 482 380 420 379 399 369 384 361 382 361 381 361 344 368 320 371 304 366 280 360 279 360 278 360 231 365 231 401"/></Shape>
+	    <String CONTENT="Rechnungsjahr 1930 - 1937, 1939-1941. 8:o Bremen 1931-42."
+                    HPOS="230"
+                    VPOS="360"
+                    WIDTH="1627"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2000 59 2308 51" 
+                    HPOS="1997"
+                    VPOS="14"
+                    WIDTH="310"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1999 58 1999 87 2014 93 2015 93 2016 93 2054 88 2075 96 2077 96 2078 96 2079 96 2102 84 2120 92 2121 92 2122 92 2123 92 2135 85 2156 90 2158 90 2159 90 2219 84 2226 90 2226 92 2227 92 2229 92 2230 93 2262 93 2262 92 2263 92 2264 92 2281 79 2283 79 2307 79 2307 50 2304 20 2284 24 2266 20 2240 14 2239 14 2237 14 2236 14 2226 20 2214 28 2188 28 2172 20 2166 18 2165 18 2164 18 2162 18 2161 18 2161 19 2159 20 2150 29 2084 30 2061 20 2053 18 2052 18 2051 18 1997 20 1999 58"/></Shape>
+	    <String CONTENT="Bibliogr."
+                    HPOS="1997"
+                    VPOS="14"
+                    WIDTH="310"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2099 134 2316 137" 
+                    HPOS="2096"
+                    VPOS="90"
+                    WIDTH="219"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="2097 133 2096 157 2111 165 2112 165 2113 165 2174 159 2196 158 2204 161 2215 166 2216 166 2218 168 2313 168 2315 136 2315 93 2097 90 2097 133"/></Shape>
+	    <String CONTENT="Bibliot."
+                    HPOS="2096"
+                    VPOS="90"
+                    WIDTH="219"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

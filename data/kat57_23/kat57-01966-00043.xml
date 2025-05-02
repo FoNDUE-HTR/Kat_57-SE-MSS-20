@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01966-00043.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="16"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2323 1471 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="299 191 1330 188" 
+                    HPOS="296"
+                    VPOS="139"
+                    WIDTH="1032"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="298 190 298 219 396 225 397 225 398 225 413 219 418 217 424 219 442 225 444 225 445 226 510 226 510 225 511 225 527 218 536 214 649 214 654 217 667 225 668 225 669 225 671 225 672 225 705 217 721 224 722 224 723 224 769 219 809 225 811 225 812 225 813 225 827 215 830 213 835 215 854 223 855 223 856 223 890 215 906 224 908 224 909 224 1015 215 1039 224 1040 224 1041 224 1042 224 1067 213 1068 213 1090 222 1092 222 1093 222 1127 214 1141 224 1142 224 1143 224 1144 224 1182 215 1224 224 1225 224 1227 224 1228 224 1246 213 1287 224 1288 224 1289 224 1290 224 1328 210 1328 187 1326 149 1290 143 1289 143 1288 143 1269 149 1263 150 1257 149 1235 142 1234 142 1233 142 1231 142 1213 149 1208 150 1196 149 1144 142 1143 142 1142 142 1120 149 1115 150 1111 149 1090 139 1089 139 960 139 959 139 958 139 957 139 942 149 941 150 931 149 854 139 852 139 851 139 817 150 809 152 795 150 761 145 760 145 728 150 715 152 711 150 694 141 693 141 692 141 690 141 657 150 650 153 517 153 514 150 499 141 498 141 496 141 495 141 431 144 430 144 429 144 419 150 415 152 296 152 298 190"/></Shape>
+	    <String CONTENT="UNIVERSITY OF CHICAGO PUBLICATIONS"
+                    HPOS="296"
+                    VPOS="139"
+                    WIDTH="1032"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="302 292 1861 284" 
+                    HPOS="300"
+                    VPOS="249"
+                    WIDTH="1560"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="301 291 304 320 323 314 441 318 465 320 466 320 477 318 531 312 693 317 742 318 743 318 968 317 969 317 974 315 987 310 1860 310 1860 283 1856 249 1683 256 1557 251 1517 250 1516 250 1515 250 1510 251 1495 257 1435 252 1417 251 1415 251 1404 252 1368 258 1294 253 1252 251 1251 251 1215 255 1171 258 1121 255 1073 252 1072 252 1071 252 1061 256 1051 260 1017 256 975 252 974 252 973 252 957 257 942 261 874 257 787 253 786 253 785 253 774 258 769 262 715 262 662 260 561 255 560 255 532 261 521 263 510 261 484 256 483 256 385 262 366 263 359 263 312 256 311 256 310 256 309 256 300 260 301 291"/></Shape>
+	    <String CONTENT="The, in anthropology. Social anthropological series."
+                    HPOS="300"
+                    VPOS="249"
+                    WIDTH="1560"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="80 474 304 482" 
+                    HPOS="78"
+                    VPOS="399"
+                    WIDTH="225"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="79 473 78 494 155 494 158 495 187 522 187 523 188 523 190 523 244 525 245 525 246 525 247 525 280 499 301 494 303 480 303 404 261 419 222 408 198 401 197 401 158 399 157 399 155 399 154 399 139 410 136 414 131 412 125 406 123 406 122 406 121 406 120 406 119 406 119 407 111 412 109 414 80 414 79 473"/></Shape>
+	    <String CONTENT="Etnogr."
+                    HPOS="78"
+                    VPOS="399"
+                    WIDTH="225"
+                    HEIGHT="126"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="94 544 219 544" 
+                    HPOS="93"
+                    VPOS="490"
+                    WIDTH="125"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="93 543 93 593 217 598 218 543 218 520 171 516 166 511 141 490 139 490 138 490 106 490 105 490 104 490 103 490 93 496 93 543"/></Shape>
+	    <String CONTENT="As."
+                    HPOS="93"
+                    VPOS="490"
+                    WIDTH="125"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1544 383 2071 370" 
+                    HPOS="1542"
+                    VPOS="329"
+                    WIDTH="528"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1543 382 1543 399 1559 399 1560 399 1577 414 1579 414 1580 414 1581 414 1582 414 1584 414 1591 407 1609 412 1611 412 1612 412 1674 399 1699 408 1700 408 1827 409 1828 409 1879 407 1881 407 1882 407 1899 393 1903 390 1933 390 1937 392 1950 404 1950 406 1952 406 1953 406 1954 406 1981 404 1982 404 1984 404 2000 391 2003 388 2019 391 2058 396 2060 396 2061 396 2062 396 2070 391 2070 369 2067 329 1980 329 1979 329 1977 329 1965 334 1921 353 1813 354 1787 345 1786 345 1785 345 1784 345 1782 345 1774 353 1762 345 1754 341 1753 341 1752 341 1750 341 1749 341 1731 347 1727 348 1721 348 1672 341 1671 341 1669 341 1649 352 1634 360 1603 360 1596 354 1591 349 1590 349 1589 349 1587 349 1542 356 1543 382"/></Shape>
+	    <String CONTENT="8:o Chicago 1948"
+                    HPOS="1542"
+                    VPOS="329"
+                    WIDTH="528"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="353 488 2190 488" 
+                    HPOS="352"
+                    VPOS="452"
+                    WIDTH="1837"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="352 486 352 512 561 512 568 512 617 521 618 522 850 522 850 521 851 521 877 515 878 515 892 515 1119 521 1120 521 1144 516 1163 512 1187 516 1217 521 1218 521 1254 516 1288 512 1323 517 1357 521 1358 522 1423 522 1423 521 1424 521 1435 517 1454 512 1512 518 1535 520 1536 520 1553 518 1606 512 1878 512 1894 518 1895 518 2187 521 2189 486 2189 461 2029 452 2028 452 1802 460 1776 452 1775 452 1533 452 1532 452 1481 460 1457 452 1456 452 1358 452 1357 452 1355 452 1332 461 1257 461 1231 452 1230 452 1132 452 1131 452 1130 452 1109 460 911 453 910 453 795 460 755 452 655 452 654 452 611 460 550 452 549 452 352 460 352 486"/></Shape>
+	    <String CONTENT="Barton,R.F.,The Kalingas.Their institutions and custom law..."
+                    HPOS="352"
+                    VPOS="452"
+                    WIDTH="1837"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="390 547 553 544" 
+                    HPOS="387"
+                    VPOS="501"
+                    WIDTH="165"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="388 545 388 610 434 608 435 608 436 608 445 602 458 593 474 597 482 598 483 598 484 598 485 598 485 597 489 594 500 585 507 590 509 590 510 590 511 590 552 582 552 543 548 501 387 502 388 545"/></Shape>
+	    <String CONTENT="1948."
+                    HPOS="387"
+                    VPOS="501"
+                    WIDTH="165"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

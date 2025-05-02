@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00826-00039.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="12"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2319 1479 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="197 194 418 191" 
+                    HPOS="194"
+                    VPOS="152"
+                    WIDTH="222"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="196 193 196 224 267 229 268 229 270 229 294 223 299 222 304 222 336 228 337 228 339 228 340 228 340 226 341 226 345 222 345 220 349 222 370 226 371 226 372 226 415 219 416 189 413 157 370 159 363 154 363 152 362 152 361 152 360 152 358 152 342 160 333 164 314 161 271 154 270 154 268 154 267 154 267 155 257 162 256 164 255 164 233 157 231 157 230 157 194 165 196 193"/></Shape>
+	    <String CONTENT="JAARBOEK"
+                    HPOS="194"
+                    VPOS="152"
+                    WIDTH="222"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="192 293 1357 304" 
+                    HPOS="191"
+                    VPOS="259"
+                    WIDTH="1165"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="191 292 191 319 379 319 389 321 400 325 402 325 403 325 435 323 462 320 479 323 514 330 515 330 516 330 527 324 534 320 645 320 657 326 667 331 668 331 669 331 700 326 728 323 751 328 769 333 770 333 772 333 818 329 853 326 867 330 880 334 881 334 883 334 933 331 1045 324 1061 333 1064 335 1065 335 1066 335 1228 337 1229 337 1230 337 1235 336 1260 326 1296 326 1354 337 1356 303 1356 279 1228 279 1223 277 1206 268 1205 268 1203 268 1160 276 1148 277 1143 275 1128 268 1127 268 1050 267 1049 267 1000 272 969 276 963 272 954 266 953 266 952 266 950 266 889 271 848 273 831 270 810 265 809 265 773 268 728 273 711 267 700 263 699 263 631 263 630 263 629 263 624 266 609 272 588 265 579 262 578 262 577 262 575 262 569 265 556 272 452 272 427 262 424 261 423 261 421 261 414 262 378 270 191 259 191 292"/></Shape>
+	    <String CONTENT="Kultureel, voor de provincie Oostvlaanderen..."
+                    HPOS="191"
+                    VPOS="259"
+                    WIDTH="1165"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="192 394 832 400" 
+                    HPOS="189"
+                    VPOS="362"
+                    WIDTH="642"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="191 393 189 420 204 429 205 429 207 429 208 429 209 429 229 420 303 420 315 420 316 420 342 436 344 436 345 436 346 437 363 437 363 436 365 436 366 436 366 435 377 425 381 429 382 429 383 429 384 429 415 421 418 421 419 421 451 439 452 439 453 439 455 439 503 424 515 435 516 435 518 435 574 444 575 445 643 445 643 444 645 444 677 431 694 444 695 444 696 444 698 444 699 444 747 427 756 425 762 427 777 436 778 436 779 436 830 429 831 399 831 377 758 377 758 376 749 368 749 367 748 367 747 367 746 367 744 367 727 376 726 376 682 376 682 374 670 366 669 366 668 366 667 366 666 366 647 374 647 376 588 376 587 374 577 366 577 365 575 365 574 365 573 365 572 365 550 372 503 365 501 365 461 373 456 373 451 373 404 363 403 363 402 363 382 372 374 365 373 365 372 365 319 362 318 362 316 362 299 371 249 363 247 363 191 370 191 393"/></Shape>
+	    <String CONTENT="Se: Cultureel jaarboek..."
+                    HPOS="189"
+                    VPOS="362"
+                    WIDTH="642"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

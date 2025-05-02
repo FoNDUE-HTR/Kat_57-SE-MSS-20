@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00826-00025.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="5"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2315 1477 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="240 169 766 164" 
+                    HPOS="237"
+                    VPOS="126"
+                    WIDTH="528"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="238 168 238 179 259 189 261 189 262 189 263 189 280 182 332 189 333 189 399 181 405 185 405 187 406 187 407 187 482 188 484 188 561 179 571 178 572 179 579 184 579 185 580 185 581 185 630 188 631 188 765 178 765 163 761 136 673 141 666 137 650 126 649 126 647 126 646 126 572 128 571 128 570 128 570 129 559 140 558 141 537 142 533 140 523 133 522 133 521 133 519 133 518 133 507 137 474 129 473 129 471 129 470 129 469 129 469 130 461 136 442 130 441 130 439 130 438 130 437 130 425 140 402 133 401 133 400 133 399 133 378 141 263 136 262 136 261 136 237 144 238 168"/></Shape>
+	    <String CONTENT="Jaakowlew, Iwan"
+                    HPOS="237"
+                    VPOS="126"
+                    WIDTH="528"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2104 75 2290 75" 
+                    HPOS="2102"
+                    VPOS="12"
+                    WIDTH="186"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="2102 73 2102 109 2129 109 2129 108 2131 108 2132 108 2132 107 2133 107 2145 94 2175 94 2182 103 2185 104 2185 105 2186 105 2187 105 2189 105 2288 94 2288 73 2288 33 2264 33 2263 32 2247 16 2247 14 2245 14 2244 14 2243 14 2242 14 2198 28 2197 28 2155 12 2154 12 2153 12 2102 23 2102 73"/></Shape>
+	    <String CONTENT="Språkv."
+                    HPOS="2102"
+                    VPOS="12"
+                    WIDTH="186"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2114 149 2294 149" 
+                    HPOS="2113"
+                    VPOS="108"
+                    WIDTH="180"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="2113 147 2113 166 2133 176 2134 176 2136 177 2238 177 2238 176 2239 176 2240 176 2248 171 2254 167 2292 172 2293 147 2293 129 2263 123 2249 109 2249 108 2248 108 2247 108 2207 108 2206 108 2205 108 2203 108 2186 120 2179 117 2178 117 2176 117 2175 117 2154 126 2147 119 2145 119 2144 119 2143 119 2142 119 2113 128 2113 147"/></Shape>
+	    <String CONTENT="Estn."
+                    HPOS="2113"
+                    VPOS="108"
+                    WIDTH="180"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="235 260 2254 260" 
+                    HPOS="234"
+                    VPOS="224"
+                    WIDTH="2019"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="234 259 234 282 2251 282 2253 259 2250 226 2077 230 2058 225 2052 224 2051 224 1905 224 1904 224 1887 225 1841 230 1826 225 1823 224 1822 224 1666 224 1665 224 1645 225 1578 230 1472 225 1445 224 1443 224 1421 225 1334 230 1295 225 1287 224 1286 224 1261 225 1141 230 1022 224 1004 224 1002 224 995 224 948 230 857 224 846 224 845 224 841 224 810 230 620 224 607 224 606 224 604 224 585 231 277 231 234 224 234 259"/></Shape>
+	    <String CONTENT="Wene keele iseöpetaja. Eestlaste jaoks toimetanud. Wäljarääkimise ju-"
+                    HPOS="234"
+                    VPOS="224"
+                    WIDTH="2019"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="235 363 2315 360" 
+                    HPOS="233"
+                    VPOS="323"
+                    WIDTH="2082"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="235 363 235 387 887 395 889 395 890 395 921 387 926 387 940 387 1071 395 1073 395 1116 387 1121 387 1134 387 1265 395 1266 395 1322 387 1337 385 1361 387 1439 393 1441 393 1549 387 1581 385 1607 387 1690 393 1692 393 1693 393 1709 387 1712 385 1749 387 1891 393 1893 393 2315 385 2315 360 2315 332 2227 323 2226 323 2163 331 2160 331 2147 331 1904 323 1903 323 1821 331 1807 331 1799 331 1762 323 1760 323 1759 323 1740 329 1736 332 1528 332 1485 329 1369 323 1367 323 1309 329 1268 332 1242 328 1217 324 1215 324 1213 324 1197 328 1181 332 1162 328 1148 324 1146 324 948 324 946 324 945 324 937 328 922 332 233 326 235 363"/></Shape>
+	    <String CONTENT="hatus, tarwilikud grammatikateated ja i igapäewase elu könelemised. Ru-"
+                    HPOS="233"
+                    VPOS="323"
+                    WIDTH="2082"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="232 463 1536 467" 
+                    HPOS="230"
+                    VPOS="428"
+                    WIDTH="1304"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="231 461 230 482 272 493 273 493 274 493 291 488 453 493 454 493 490 486 496 485 506 486 560 495 561 496 675 496 675 495 676 495 698 488 703 487 708 488 723 492 724 492 725 492 726 492 736 488 745 486 784 488 837 493 838 493 858 490 882 486 1002 486 1018 492 1032 496 1033 496 1034 496 1036 496 1049 492 1068 487 1206 487 1230 495 1241 497 1243 497 1244 497 1310 495 1491 488 1532 497 1534 466 1533 433 1395 440 1361 433 1352 432 1351 432 1350 432 1344 433 1320 439 1265 433 1256 433 1255 433 1249 433 1210 440 1181 434 1165 431 1024 431 1023 431 971 434 915 439 905 436 899 432 898 432 896 432 895 432 882 436 873 437 847 436 772 429 771 429 649 436 604 438 599 436 582 429 581 429 580 429 476 437 468 437 461 437 383 428 381 428 380 428 351 437 349 438 283 438 277 438 261 429 259 429 258 429 257 429 231 437 231 461"/></Shape>
+	    <String CONTENT="kovodstvo ėstonskich i russkich razgovorov."
+                    HPOS="230"
+                    VPOS="428"
+                    WIDTH="1304"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="243 563 1215 569" 
+                    HPOS="241"
+                    VPOS="530"
+                    WIDTH="973"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="242 562 241 603 301 614 303 614 304 614 325 604 349 594 379 594 401 605 416 614 417 614 512 615 513 615 514 615 516 615 528 608 550 596 634 596 667 609 668 609 670 609 671 609 709 596 740 596 753 605 755 605 756 605 757 605 758 605 782 597 832 597 877 612 878 612 879 612 880 612 882 612 907 597 936 597 1006 615 1016 618 1017 618 1018 618 1032 615 1054 612 1212 618 1214 567 1213 544 1171 534 1170 534 1065 541 1064 541 1039 534 1038 534 1037 534 1036 534 1013 541 1011 541 1008 541 970 533 891 533 890 533 889 533 888 533 879 540 875 543 852 543 848 540 840 534 838 534 837 534 836 534 835 534 834 534 827 539 824 543 795 543 789 539 774 533 773 533 772 533 744 539 730 541 726 539 720 534 719 534 718 534 716 534 689 538 673 540 668 538 656 532 655 532 654 532 622 538 604 540 466 540 459 535 448 530 447 530 359 530 358 530 357 530 356 530 349 534 343 539 333 534 323 530 322 530 321 530 320 530 310 534 298 539 242 534 242 562"/></Shape>
+	    <String CONTENT="4 trükk, parandatud i täiendatud."
+                    HPOS="241"
+                    VPOS="530"
+                    WIDTH="973"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1639 564 2229 567" 
+                    HPOS="1637"
+                    VPOS="525"
+                    WIDTH="591"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="1638 562 1637 589 1697 591 1697 592 1723 604 1724 604 1725 604 1727 604 1765 593 1769 592 1771 593 1791 605 1792 605 1793 605 1794 605 1796 605 1833 594 1839 593 1897 593 1899 596 1903 598 1903 599 1904 599 1905 599 1907 599 1908 599 1914 596 1918 594 1921 596 1968 617 1969 617 2046 618 2047 618 2048 618 2049 618 2058 612 2100 618 2101 618 2102 618 2127 609 2202 618 2203 618 2205 618 2206 618 2227 603 2228 566 2228 535 2202 528 2201 528 2200 528 2115 534 2089 528 2088 528 2086 528 2085 528 2084 528 2084 529 2075 537 2072 539 2058 537 2028 530 2027 530 1984 537 1969 538 1963 537 1935 527 1934 527 1852 527 1851 527 1850 527 1849 527 1839 533 1785 525 1783 525 1782 525 1781 525 1781 527 1770 537 1769 538 1696 538 1693 537 1672 527 1671 527 1670 527 1669 527 1668 527 1668 528 1658 537 1656 537 1638 537 1638 562"/></Shape>
+	    <String CONTENT="8:o Tallinnas 1917."
+                    HPOS="1637"
+                    VPOS="525"
+                    WIDTH="591"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

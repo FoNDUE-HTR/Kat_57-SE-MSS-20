@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01411-00239.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1488"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1488">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1486"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1487 2315 1487 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="164 230 370 233" 
+                    HPOS="162"
+                    VPOS="138"
+                    WIDTH="207"
+                    HEIGHT="143">
+            <Shape><Polygon POINTS="163 229 162 280 227 281 228 281 229 281 250 272 266 265 284 269 292 270 293 270 295 270 296 270 300 267 310 261 368 260 369 231 369 178 341 158 339 158 338 158 337 158 336 158 322 162 298 142 297 142 296 142 266 138 246 138 245 138 244 138 243 138 198 178 197 178 163 178 163 229"/></Shape>
+	    <String CONTENT="Pietro"
+                    HPOS="162"
+                    VPOS="138"
+                    WIDTH="207"
+                    HEIGHT="143"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="286 431 875 419" 
+                    HPOS="284"
+                    VPOS="349"
+                    WIDTH="590"
+                    HEIGHT="130">
+            <Shape><Polygon POINTS="285 430 285 479 318 474 320 474 321 474 346 452 435 452 472 476 473 477 475 477 476 477 477 477 590 474 591 474 592 474 596 472 619 456 638 468 640 468 641 468 642 468 643 468 690 451 723 457 724 457 725 457 726 457 745 446 796 455 808 465 813 469 815 469 816 469 817 469 818 469 832 465 841 461 873 462 874 417 868 349 847 359 817 353 811 352 810 352 808 352 807 352 807 353 806 353 783 378 728 378 700 364 699 364 698 364 697 364 695 364 676 379 627 380 602 367 594 360 592 360 591 360 535 355 534 355 533 355 532 355 511 373 498 383 476 383 465 375 442 358 441 358 440 358 398 358 396 358 284 386 285 430"/></Shape>
+	    <String CONTENT="(Se: Hanselli, P.)"
+                    HPOS="284"
+                    VPOS="349"
+                    WIDTH="590"
+                    HEIGHT="130"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

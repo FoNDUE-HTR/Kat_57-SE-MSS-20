@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01411-00087.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="48"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2323 1479 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="268 170 1423 156" 
+                    HPOS="266"
+                    VPOS="88"
+                    WIDTH="1156"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="267 168 267 202 561 201 562 201 563 201 571 196 605 173 705 173 733 181 735 181 736 181 737 181 754 173 883 187 893 187 894 187 904 186 1004 170 1126 180 1174 183 1175 183 1421 171 1422 155 1417 96 1365 124 1344 117 1343 117 1342 117 1340 117 1323 123 1276 106 1275 106 1274 106 1273 106 1207 135 1152 135 1136 127 1134 127 1133 127 1132 127 1131 127 1117 135 996 136 970 124 969 124 915 123 890 109 848 88 847 88 819 88 817 88 816 88 787 102 727 90 726 90 725 90 724 90 685 115 646 140 566 133 540 119 490 92 489 92 488 92 344 94 342 94 341 94 294 124 266 125 267 168"/></Shape>
+	    <String CONTENT="Pierer Johann Friedrich"
+                    HPOS="266"
+                    VPOS="88"
+                    WIDTH="1156"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="68 290 372 284 1455 284 1705 300 2127 303" 
+                    HPOS="66"
+                    VPOS="208"
+                    WIDTH="2060"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="67 289 66 310 178 313 180 313 181 313 183 312 241 294 288 302 289 302 357 297 400 308 402 308 403 308 482 296 546 305 547 305 610 296 688 300 733 318 766 329 767 329 768 330 830 330 830 329 831 329 863 319 936 297 962 303 963 303 964 303 1113 297 1137 304 1138 304 1139 304 1179 297 1208 305 1210 305 1211 305 1368 297 1387 303 1388 303 1390 303 1440 300 1536 324 1538 324 1572 320 1627 326 1656 330 2124 331 2126 302 2125 239 1802 239 1797 238 1665 212 1534 212 1533 212 1532 212 1485 226 1429 210 1428 210 1370 210 1369 210 1368 210 1286 236 1282 238 1201 238 1197 235 1158 222 1157 222 1155 222 1083 235 1081 235 1079 235 962 209 916 209 915 209 914 209 849 225 756 209 754 209 658 231 560 209 558 209 486 219 381 209 379 209 378 209 309 233 304 235 257 235 251 233 151 208 150 208 149 208 67 231 67 289"/></Shape>
+	    <String CONTENT="Se: Anatomisch-physiologisches Realwörterbuch"
+                    HPOS="66"
+                    VPOS="208"
+                    WIDTH="2060"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="281 381 2191 392" 
+                    HPOS="278"
+                    VPOS="326"
+                    WIDTH="1912"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="280 379 278 402 495 410 497 410 621 404 674 402 699 404 737 409 738 409 785 405 858 398 879 405 880 405 881 405 883 405 885 405 907 400 975 405 1059 413 1060 413 1087 407 1118 399 1170 407 1187 409 1189 409 1208 407 1265 400 1353 408 1372 409 1374 409 1395 408 1483 402 1517 409 1554 416 1555 418 1657 418 1657 416 1688 409 1718 403 1777 410 1783 410 1784 410 1789 410 1828 404 1849 410 1865 415 1866 415 1867 415 1892 410 1911 407 1931 410 1946 414 1947 414 2189 411 2190 390 2190 341 2166 335 2164 335 2163 335 2143 341 2062 367 1971 367 1907 342 1883 334 1882 334 1881 334 1833 342 1814 346 1797 344 1757 336 1756 336 1719 344 1691 350 1672 344 1638 333 1636 333 1513 331 1512 331 1511 331 1482 341 1450 331 1449 331 1356 331 1355 331 1354 331 1301 346 1275 353 1254 350 1253 350 1252 350 1206 363 1131 363 923 362 905 355 904 355 902 355 857 360 827 350 766 328 764 328 763 328 647 351 643 351 641 351 578 326 577 326 525 326 524 326 523 326 449 352 431 358 356 358 340 352 319 346 318 346 317 346 280 352 280 379"/></Shape>
+	    <String CONTENT="zu umfassender Kenntniss der körperlichen und"
+                    HPOS="278"
+                    VPOS="326"
+                    WIDTH="1912"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="297 479 2220 490" 
+                    HPOS="294"
+                    VPOS="425"
+                    WIDTH="1925"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="296 478 294 519 340 520 341 520 342 520 345 519 370 511 394 519 397 520 398 520 399 521 493 521 493 520 494 520 498 519 563 500 636 500 738 514 740 514 799 510 824 519 827 520 828 520 830 521 912 521 912 520 921 519 990 503 1075 514 1076 514 1190 505 1245 518 1247 518 1248 518 1287 506 1358 513 1359 513 1527 510 1566 518 1598 524 1599 524 1694 520 1793 529 1794 530 1871 530 1871 529 1872 529 1908 518 1939 508 2156 508 2216 516 2219 489 2217 460 2153 435 2152 435 2151 435 2150 435 2064 458 2046 464 2011 464 1995 458 1968 450 1967 450 1966 450 1924 458 1920 460 1792 462 1614 462 1604 457 1538 431 1536 431 1535 431 1450 442 1407 431 1406 431 1277 430 1276 430 1275 430 1212 452 1141 429 1139 429 1087 429 1086 429 1085 429 1020 452 938 427 937 427 863 427 862 427 861 427 833 436 787 427 785 427 784 427 693 455 689 456 578 456 573 453 477 425 476 425 474 425 473 425 381 453 378 453 296 453 296 478"/></Shape>
+	    <String CONTENT="geistigen Natur des Menschen im gesunden"
+                    HPOS="294"
+                    VPOS="425"
+                    WIDTH="1925"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="274 572 721 580" 
+                    HPOS="272"
+                    VPOS="515"
+                    WIDTH="448"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="273 571 272 594 336 604 337 604 339 604 356 598 361 596 370 598 400 605 402 606 435 606 435 605 436 605 445 601 453 596 525 596 532 603 534 603 535 603 536 603 564 598 583 606 590 609 592 609 593 609 594 609 603 606 630 599 641 608 641 609 642 609 643 609 717 610 720 579 719 557 636 556 636 555 611 530 611 529 610 529 609 529 608 529 588 534 587 534 585 534 585 535 564 553 564 555 546 555 546 553 514 520 514 519 513 519 511 519 477 519 476 519 474 519 425 545 398 518 398 516 397 516 395 516 336 515 335 515 334 515 333 515 293 548 292 548 273 548 273 571"/></Shape>
+	    <String CONTENT="Zustande ..."
+                    HPOS="272"
+                    VPOS="515"
+                    WIDTH="448"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2028 576 2201 573" 
+                    HPOS="2026"
+                    VPOS="532"
+                    WIDTH="174"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="2027 575 2027 598 2200 590 2200 572 2196 546 2180 546 2178 543 2166 534 2166 532 2164 532 2163 532 2162 532 2161 532 2137 540 2109 532 2108 532 2106 532 2105 532 2095 537 2073 548 2056 535 2055 532 2053 532 2052 532 2026 532 2027 575"/></Shape>
+	    <String CONTENT="/Med"
+                    HPOS="2026"
+                    VPOS="532"
+                    WIDTH="174"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="2025 628 2260 628" 
+                    HPOS="2024"
+                    VPOS="593"
+                    WIDTH="235"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="2024 627 2024 652 2066 666 2067 666 2068 667 2146 667 2146 666 2147 666 2148 666 2163 652 2166 649 2193 646 2258 652 2259 627 2258 596 2146 599 2116 593 2115 593 2114 593 2113 593 2098 604 2092 608 2024 608 2024 627"/></Shape>
+	    <String CONTENT="Anat."
+                    HPOS="2024"
+                    VPOS="593"
+                    WIDTH="235"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

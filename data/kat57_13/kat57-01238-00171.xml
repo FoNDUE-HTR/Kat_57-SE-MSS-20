@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00171.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="11"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2315 1479 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="140 200 487 200" 
+                    HPOS="139"
+                    VPOS="157"
+                    WIDTH="347"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="139 199 139 229 162 240 164 240 165 241 313 241 313 240 314 240 315 240 315 239 331 225 336 222 484 222 486 199 486 166 461 159 460 159 459 159 457 159 444 166 441 167 393 167 388 164 373 157 372 157 371 157 370 157 351 164 340 166 333 162 324 159 323 159 266 157 265 157 264 157 262 157 259 160 248 167 204 167 139 157 139 199"/></Shape>
+	    <String CONTENT="MORSS, Noel"
+                    HPOS="139"
+                    VPOS="157"
+                    WIDTH="347"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="133 298 1822 304" 
+                    HPOS="130"
+                    VPOS="193"
+                    WIDTH="1691"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="132 297 130 325 551 328 552 328 573 325 609 321 667 325 704 328 705 328 742 325 799 321 809 325 818 329 819 329 820 330 931 330 931 329 1054 325 1138 323 1163 325 1209 330 1210 330 1389 325 1435 324 1443 325 1483 331 1484 331 1563 325 1565 325 1569 325 1750 331 1752 331 1819 324 1821 303 1819 277 1771 266 1681 265 1680 265 1679 265 1668 268 1626 284 1584 270 1583 270 1581 270 1470 270 1422 257 1410 254 1409 254 1407 254 1394 255 1314 270 1130 270 1091 256 1090 256 1089 256 1088 256 1030 272 735 272 674 257 578 215 534 196 533 196 132 193 132 297"/></Shape>
+	    <String CONTENT="Archaeological explorations on the Middle Chinlee, 1925."
+                    HPOS="130"
+                    VPOS="193"
+                    WIDTH="1691"
+                    HEIGHT="138"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1058 400 1583 404" 
+                    HPOS="1056"
+                    VPOS="365"
+                    WIDTH="525"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1057 399 1056 415 1106 426 1108 427 1159 427 1159 426 1161 426 1162 426 1162 425 1170 418 1172 418 1279 427 1280 429 1400 429 1400 427 1401 427 1402 427 1412 421 1414 420 1417 421 1446 429 1447 429 1448 429 1479 421 1489 420 1579 423 1581 403 1581 377 1539 367 1538 367 1364 374 1363 374 1351 366 1349 366 1348 366 1347 366 1244 374 1236 374 1235 374 1222 365 1221 365 1220 365 1219 365 1119 373 1112 373 1111 373 1088 365 1087 365 1085 365 1084 365 1057 372 1057 399"/></Shape>
+	    <String CONTENT="8:o Menasha 1927."
+                    HPOS="1056"
+                    VPOS="365"
+                    WIDTH="525"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2078 87 2310 82" 
+                    HPOS="2076"
+                    VPOS="29"
+                    WIDTH="233"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="2077 86 2079 115 2101 108 2148 114 2151 114 2153 114 2155 114 2203 106 2308 111 2309 81 2307 45 2248 45 2224 29 2223 29 2222 29 2171 29 2170 29 2169 29 2167 29 2134 56 2129 61 2076 61 2077 86"/></Shape>
+	    <String CONTENT="Arekeol.]"
+                    HPOS="2076"
+                    VPOS="29"
+                    WIDTH="233"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1966 167 2223 167" 
+                    HPOS="1965"
+                    VPOS="123"
+                    WIDTH="257"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="1965 166 1965 189 2030 198 2032 198 2097 194 2165 191 2220 198 2222 166 2222 148 2187 141 2170 124 2170 123 2169 123 2167 123 2108 123 2107 123 2106 123 2105 123 2077 146 2030 139 2029 139 2028 139 2001 146 1990 136 1990 135 1989 135 1987 135 1986 135 1985 135 1965 145 1965 166"/></Shape>
+	    <String CONTENT="Amer."
+                    HPOS="1965"
+                    VPOS="123"
+                    WIDTH="257"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="135 501 2030 506" 
+                    HPOS="133"
+                    VPOS="463"
+                    WIDTH="1896"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="134 500 133 535 210 534 220 536 276 557 277 557 278 557 324 548 367 559 368 559 370 561 554 561 554 559 555 559 588 547 682 550 683 550 742 541 869 561 871 562 1053 562 1053 561 1116 547 1174 562 1175 562 1177 563 1393 563 1393 562 1494 538 1547 548 1548 548 1702 537 2028 537 2029 505 2027 468 1573 474 1533 468 1512 466 1323 466 1322 466 1305 469 1290 472 1259 469 1222 466 1221 466 1163 469 1101 473 1089 469 1082 467 1080 467 1079 467 1006 469 941 472 921 469 880 464 879 464 845 469 829 473 663 473 650 471 607 463 605 463 551 471 545 472 309 472 307 471 252 463 251 463 134 472 134 500"/></Shape>
+	    <String CONTENT="Se: Memoirs of the American anthropological association. Nr 34."
+                    HPOS="133"
+                    VPOS="463"
+                    WIDTH="1896"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1844 612 2078 607" 
+                    HPOS="1842"
+                    VPOS="534"
+                    WIDTH="235"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="1843 611 1843 621 1921 625 1969 652 1970 652 1971 653 2018 653 2018 652 2019 652 2021 652 2058 626 2077 626 2077 606 2075 571 2037 571 1979 535 1977 535 1976 535 1916 534 1914 534 1913 534 1842 573 1843 611"/></Shape>
+	    <String CONTENT="/Etnogr."
+                    HPOS="1842"
+                    VPOS="534"
+                    WIDTH="235"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1882 698 2038 703" 
+                    HPOS="1880"
+                    VPOS="646"
+                    WIDTH="157"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1880 712 2034 730 2037 703 2037 653 1995 663 1986 656 1976 647 1976 646 1975 646 1974 646 1948 646 1947 646 1945 646 1919 658 1914 661 1882 661 1881 696 1880 712"/></Shape>
+	    <String CONTENT="Sällsk."
+                    HPOS="1880"
+                    VPOS="646"
+                    WIDTH="157"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1583 791 2273 791" 
+                    HPOS="1581"
+                    VPOS="735"
+                    WIDTH="691"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1581 790 1581 816 1625 816 1627 816 1650 827 1652 827 1653 827 1654 827 1655 827 1670 817 1674 816 1773 816 1780 821 1782 823 1784 823 1785 823 1786 823 1823 822 1826 822 1844 837 1845 837 1847 837 1848 837 1849 837 1876 827 1894 834 1895 834 1896 834 1897 834 1898 834 1911 825 1912 822 1949 821 1954 825 1955 826 1955 827 1956 827 1958 827 1959 827 1960 827 1966 826 1993 818 2016 823 2019 827 2032 838 2032 839 2033 839 2034 839 2067 844 2069 846 2235 846 2235 844 2237 844 2272 833 2272 790 2272 767 2248 767 2248 765 2190 737 2188 737 2187 737 2186 737 2135 764 2132 767 2019 767 2017 763 1995 744 1995 743 1993 743 1992 743 1991 743 1990 743 1924 762 1897 738 1896 738 1895 738 1894 738 1892 738 1891 738 1873 753 1829 759 1806 756 1784 736 1784 735 1782 735 1781 735 1660 735 1659 735 1658 735 1657 735 1625 759 1617 765 1581 759 1581 790"/></Shape>
+	    <String CONTENT="[ Menasha, Amer. anthrop."
+                    HPOS="1581"
+                    VPOS="735"
+                    WIDTH="691"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="2071 880 2243 876" 
+                    HPOS="2069"
+                    VPOS="839"
+                    WIDTH="172"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="2070 879 2070 905 2133 905 2154 923 2175 942 2175 943 2176 943 2177 943 2179 943 2241 941 2241 875 2237 839 2216 847 2172 844 2137 842 2135 842 2069 852 2070 879"/></Shape>
+	    <String CONTENT="assoc.]"
+                    HPOS="2069"
+                    VPOS="839"
+                    WIDTH="172"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="2044 1461 2227 1471" 
+                    HPOS="2042"
+                    VPOS="1399"
+                    WIDTH="185"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="2043 1460 2042 1470 2223 1473 2225 1470 2227 1415 2154 1399 2153 1399 2151 1399 2123 1413 2119 1415 2107 1413 2079 1408 2077 1408 2045 1412 2043 1460"/></Shape>
+	    <String CONTENT="24.8.39"
+                    HPOS="2042"
+                    VPOS="1399"
+                    WIDTH="185"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

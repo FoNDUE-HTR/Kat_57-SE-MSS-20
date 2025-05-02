@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00730-00264.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="48"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2315 1479 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="134 87 423 76 815 69" 
+                    HPOS="132"
+                    VPOS="27"
+                    WIDTH="682"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="133 86 133 107 243 108 244 108 245 108 246 108 246 107 249 106 262 91 276 91 309 91 330 103 331 103 333 103 334 103 335 103 380 92 425 101 426 101 428 101 429 101 429 99 444 86 498 86 513 93 514 93 515 93 516 93 518 93 528 85 555 99 556 99 557 99 558 99 560 99 561 99 578 91 591 98 592 98 593 98 594 98 595 98 597 98 618 86 641 94 642 94 644 94 673 88 698 93 699 93 700 93 702 93 709 87 718 93 719 93 720 93 721 93 723 93 736 87 813 93 814 67 808 39 797 50 769 44 768 44 767 44 746 51 730 44 729 44 727 44 676 53 661 45 628 27 626 27 625 27 599 28 598 28 597 28 597 29 584 40 571 28 570 28 568 28 567 28 534 34 520 29 519 29 518 29 516 29 515 29 515 30 492 53 487 57 461 59 451 54 436 46 435 46 434 46 433 46 431 46 420 55 415 59 412 55 389 34 389 33 388 33 387 33 371 33 370 33 351 34 350 34 349 34 349 35 323 59 319 64 248 64 245 62 210 38 209 38 208 38 178 38 177 38 176 38 175 38 132 64 133 86"/></Shape>
+	    <String CONTENT="Rom, Mus. Vaticano"
+                    HPOS="132"
+                    VPOS="27"
+                    WIDTH="682"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="188 248 733 245" 
+                    HPOS="186"
+                    VPOS="210"
+                    WIDTH="546"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="187 247 187 284 428 284 428 283 429 283 430 283 442 275 454 268 568 271 686 273 687 273 732 265 732 244 730 219 649 213 647 213 646 213 645 213 639 218 637 220 593 220 587 218 562 213 561 213 537 218 529 220 525 218 518 212 518 210 516 210 515 210 514 210 513 210 487 218 477 222 434 222 429 218 420 210 419 210 418 210 417 210 186 217 187 247"/></Shape>
+	    <String CONTENT="HERMANIN, Federico"
+                    HPOS="186"
+                    VPOS="210"
+                    WIDTH="546"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="173 346 1415 357" 
+                    HPOS="171"
+                    VPOS="305"
+                    WIDTH="1243"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="171 366 191 373 192 373 193 373 231 366 233 366 235 366 272 373 273 373 396 368 399 368 402 368 466 376 467 376 578 371 626 368 631 371 639 376 640 376 641 376 789 378 790 378 823 373 848 370 863 374 876 378 877 378 878 378 908 374 937 371 953 376 959 377 961 377 962 377 1031 376 1221 373 1235 379 1240 381 1241 381 1242 381 1243 381 1248 379 1267 373 1411 381 1414 356 1414 316 1380 316 1379 316 1378 316 1377 316 1359 328 1341 316 1339 316 1338 316 1225 315 1224 315 1222 315 1221 315 1200 329 1175 329 1126 320 1125 320 1069 323 1048 315 1047 315 1046 315 974 324 948 313 947 313 946 313 945 313 913 325 858 315 857 315 856 315 855 315 841 324 776 316 774 316 726 324 666 310 645 310 644 310 642 310 641 310 621 323 560 309 558 309 557 309 513 321 428 321 401 309 399 309 398 309 397 309 396 309 376 321 324 321 252 319 240 310 239 310 238 310 236 310 235 310 219 318 173 305 172 345 171 366"/></Shape>
+	    <String CONTENT="L&#x27;appartamento Borgia in Vaticano. [Ill.]"
+                    HPOS="171"
+                    VPOS="305"
+                    WIDTH="1243"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1735 85 1903 82" 
+                    HPOS="1733"
+                    VPOS="29"
+                    WIDTH="169"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1734 83 1734 93 1782 111 1784 111 1785 111 1786 111 1797 104 1813 119 1813 120 1815 120 1816 120 1817 120 1850 119 1852 119 1853 119 1853 118 1882 92 1901 92 1902 81 1900 53 1866 53 1865 50 1850 37 1850 35 1849 35 1848 35 1847 35 1845 35 1816 45 1800 30 1800 29 1799 29 1797 29 1752 29 1750 29 1749 29 1748 29 1733 39 1734 83"/></Shape>
+	    <String CONTENT="Fol.)"
+                    HPOS="1733"
+                    VPOS="29"
+                    WIDTH="169"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1486 452 1916 456" 
+                    HPOS="1484"
+                    VPOS="413"
+                    WIDTH="430"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="1485 451 1484 467 1516 479 1517 479 1518 479 1520 479 1521 479 1532 472 1584 477 1585 477 1586 477 1588 477 1588 476 1595 469 1596 468 1608 469 1686 481 1687 481 1726 473 1747 469 1769 469 1775 474 1780 479 1780 481 1781 481 1782 481 1844 482 1845 482 1847 482 1848 482 1855 477 1863 472 1912 478 1914 455 1913 427 1896 427 1896 426 1882 414 1882 413 1881 413 1880 413 1779 413 1778 413 1776 413 1775 413 1759 425 1685 416 1684 416 1683 416 1668 425 1666 425 1665 425 1631 414 1629 414 1628 414 1627 414 1607 424 1589 415 1588 415 1586 415 1585 415 1552 424 1550 424 1549 424 1528 414 1527 414 1526 414 1485 423 1485 451"/></Shape>
+	    <String CONTENT="4:o Roma 1934."
+                    HPOS="1484"
+                    VPOS="413"
+                    WIDTH="430"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1988 80 2195 76" 
+                    HPOS="1986"
+                    VPOS="28"
+                    WIDTH="207"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="1987 78 1987 103 2193 102 2193 75 2190 54 2137 54 2135 54 2102 32 2101 32 2100 32 2054 28 2053 28 2051 28 1986 55 1987 78"/></Shape>
+	    <String CONTENT="Bild.k."
+                    HPOS="1986"
+                    VPOS="28"
+                    WIDTH="207"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="2006 151 2155 148" 
+                    HPOS="2003"
+                    VPOS="104"
+                    WIDTH="151"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="2005 150 2005 197 2037 197 2038 197 2039 197 2042 194 2060 181 2071 186 2072 186 2074 186 2123 176 2153 182 2154 148 2150 124 2117 124 2096 106 2096 104 2095 104 2093 104 2077 104 2076 104 2060 106 2059 106 2058 106 2058 107 2038 125 2003 128 2005 150"/></Shape>
+	    <String CONTENT="Mus."
+                    HPOS="2003"
+                    VPOS="104"
+                    WIDTH="151"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="181 570 2078 564" 
+                    HPOS="178"
+                    VPOS="522"
+                    WIDTH="1899"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="180 569 180 606 249 606 249 605 250 605 328 592 409 605 413 605 414 606 505 606 505 605 507 605 509 605 560 590 785 590 820 596 821 596 823 596 850 590 1210 590 1251 603 1253 603 1254 603 1256 604 1316 604 1316 603 1534 601 1538 601 1607 588 1742 587 1792 593 1794 593 1845 588 1886 598 1887 598 1889 598 1944 589 1996 600 2001 600 2002 600 2077 599 2077 563 2074 522 1955 529 1879 522 1873 522 1871 522 1870 522 1869 522 1843 532 1643 524 1639 524 1638 524 1637 524 1581 534 1488 526 1486 526 1377 532 1341 524 1336 524 1335 524 1330 524 1277 535 1168 535 1138 525 1137 525 1136 525 1135 525 1133 525 1132 525 1106 534 950 530 948 530 947 530 921 536 897 529 895 529 894 529 893 529 872 536 792 529 790 529 789 529 768 536 751 530 750 530 748 530 695 536 624 527 623 527 556 537 479 527 478 527 477 527 476 527 430 537 178 529 180 569"/></Shape>
+	    <String CONTENT="[Monografie artistiche dei musei e gallerie pontificie. Vol.1.]"
+                    HPOS="178"
+                    VPOS="522"
+                    WIDTH="1899"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="2012 1434 2230 1428" 
+                    HPOS="2009"
+                    VPOS="1389"
+                    WIDTH="220"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="2011 1433 2011 1444 2047 1457 2048 1457 2049 1457 2050 1457 2051 1457 2069 1445 2077 1440 2097 1440 2109 1446 2123 1454 2124 1454 2125 1454 2127 1454 2128 1454 2135 1447 2145 1439 2160 1439 2170 1447 2175 1452 2175 1454 2176 1454 2177 1454 2179 1454 2229 1449 2229 1426 2225 1392 2177 1399 2153 1399 2145 1393 2142 1389 2140 1389 2139 1389 2138 1389 2137 1389 2122 1393 2098 1399 2086 1393 2081 1392 2080 1392 2079 1392 2009 1394 2011 1433"/></Shape>
+	    <String CONTENT="25. 8. 61"
+                    HPOS="2009"
+                    VPOS="1389"
+                    WIDTH="220"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

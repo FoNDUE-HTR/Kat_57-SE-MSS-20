@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00730-00260.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2336"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="47"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2336"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2334"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2335 1477 2335 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="118 206 750 209" 
+                    HPOS="115"
+                    VPOS="166"
+                    WIDTH="634"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="117 205 115 230 134 242 135 242 136 242 137 243 271 243 271 242 272 242 273 242 283 236 356 242 357 242 358 242 374 236 432 243 433 245 490 245 490 243 491 243 518 231 532 237 533 237 534 237 535 237 537 237 548 231 747 231 749 208 747 167 708 177 651 177 632 168 629 167 628 167 627 167 625 167 623 168 602 176 576 168 574 168 572 168 571 168 570 168 569 168 558 176 549 168 548 167 547 167 545 167 544 167 452 169 320 174 309 172 290 166 289 166 181 166 179 166 117 173 117 205"/></Shape>
+	    <String CONTENT="HERMAN ADAM [pseud.]"
+                    HPOS="115"
+                    VPOS="166"
+                    WIDTH="634"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="122 304 900 307" 
+                    HPOS="120"
+                    VPOS="269"
+                    WIDTH="779"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="121 302 120 337 133 342 134 342 135 342 136 342 147 337 160 332 163 337 166 338 166 339 167 339 168 339 170 339 171 339 172 339 174 337 179 332 193 337 208 342 209 342 210 342 211 342 226 337 237 333 241 337 247 342 248 342 250 342 404 343 405 343 406 343 421 336 436 328 458 335 459 335 460 335 462 335 463 335 470 328 592 335 593 335 595 335 606 330 616 336 618 337 619 337 620 337 622 337 623 337 624 337 624 336 625 335 634 328 686 328 701 335 713 339 714 339 715 341 772 341 772 339 773 339 784 335 793 330 799 335 804 338 805 338 807 338 808 338 809 338 818 335 825 331 832 335 845 339 846 339 847 339 848 339 866 335 869 333 872 335 887 342 888 342 889 342 890 342 892 342 898 335 899 306 898 283 774 272 773 272 719 282 713 283 710 282 699 272 698 272 697 272 673 272 672 272 671 272 670 272 659 282 657 282 656 282 593 270 592 270 591 270 567 282 549 282 537 270 535 270 534 270 533 270 532 270 513 277 462 270 460 270 459 270 458 270 458 272 448 280 447 282 441 280 375 272 374 272 373 272 342 280 341 280 289 269 288 269 259 270 258 270 257 270 245 280 243 282 181 282 179 280 165 269 163 269 162 269 161 269 160 269 121 279 121 302"/></Shape>
+	    <String CONTENT="Se: Krook, Herman Salomon"
+                    HPOS="120"
+                    VPOS="269"
+                    WIDTH="779"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00913-00421.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="31"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2327 1471 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="74 70 396 73" 
+                    HPOS="72"
+                    VPOS="1"
+                    WIDTH="324"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="74 70 72 115 121 116 123 116 142 113 195 100 241 108 302 118 303 118 305 118 337 104 342 102 394 102 396 73 396 1 74 1 74 70"/></Shape>
+	    <String CONTENT="Buchau"
+                    HPOS="72"
+                    VPOS="1"
+                    WIDTH="324"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="187 255 592 252" 
+                    HPOS="185"
+                    VPOS="180"
+                    WIDTH="407"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="187 255 187 294 405 290 407 290 409 290 420 282 433 274 591 274 592 252 587 191 527 196 516 193 482 180 480 180 433 180 431 180 429 180 397 195 394 196 391 195 356 182 354 182 353 182 351 182 350 182 335 195 295 182 294 182 292 182 291 182 289 182 263 198 262 199 185 199 187 255"/></Shape>
+	    <String CONTENT="KLAIBER, Hans"
+                    HPOS="185"
+                    VPOS="180"
+                    WIDTH="407"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="171 349 1395 353" 
+                    HPOS="169"
+                    VPOS="297"
+                    WIDTH="1226"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="171 349 169 369 200 378 201 378 203 378 610 373 769 372 776 375 782 380 784 380 785 380 787 381 1393 381 1395 353 1392 298 1221 302 1156 317 1039 317 977 303 975 303 974 303 972 303 970 303 950 317 875 317 817 305 800 302 798 302 796 302 787 305 769 311 752 305 725 297 723 297 721 297 670 306 667 306 666 306 646 297 645 297 563 297 562 297 508 308 492 311 479 308 434 297 433 297 431 297 429 297 388 309 370 316 222 316 217 311 206 302 204 302 203 302 201 302 200 302 171 311 171 349"/></Shape>
+	    <String CONTENT="Stift und Stiftskirche zu Buchau. [Ill.]"
+                    HPOS="169"
+                    VPOS="297"
+                    WIDTH="1226"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1840 56 2127 59" 
+                    HPOS="1839"
+                    VPOS="1"
+                    WIDTH="288"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="1840 56 1839 75 1872 89 1874 89 1875 89 2038 78 2048 78 2051 78 2092 91 2094 91 2096 91 2097 91 2126 80 2127 59 2127 1 1840 1 1840 56"/></Shape>
+	    <String CONTENT="Bild. k."
+                    HPOS="1839"
+                    VPOS="1"
+                    WIDTH="288"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1874 124 2091 128" 
+                    HPOS="1872"
+                    VPOS="85"
+                    WIDTH="219"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="1874 124 1872 166 1981 198 1982 198 1984 199 2033 199 2033 198 2035 198 2036 198 2068 171 2089 171 2091 128 2091 85 1874 85 1874 124"/></Shape>
+	    <String CONTENT="Kyrkl."
+                    HPOS="1872"
+                    VPOS="85"
+                    WIDTH="219"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1366 451 1922 455" 
+                    HPOS="1365"
+                    VPOS="399"
+                    WIDTH="557"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="1366 451 1365 506 1489 507 1491 507 1492 507 1494 507 1521 487 1551 496 1553 496 1554 496 1642 480 1698 490 1700 490 1760 485 1773 493 1775 493 1776 493 1778 493 1811 487 1827 499 1827 501 1829 501 1831 501 1832 501 1894 495 1915 507 1922 455 1922 408 1899 400 1898 400 1896 400 1839 407 1776 413 1765 405 1760 400 1759 400 1757 400 1756 400 1732 405 1690 413 1681 404 1679 404 1679 402 1677 402 1676 402 1639 399 1637 399 1636 399 1634 399 1630 402 1618 413 1527 413 1489 400 1484 399 1483 399 1481 399 1479 399 1478 399 1478 400 1464 412 1440 399 1438 399 1436 399 1366 399 1366 451"/></Shape>
+	    <String CONTENT="8:o Augsburg 1929."
+                    HPOS="1365"
+                    VPOS="399"
+                    WIDTH="557"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="171 555 1500 560" 
+                    HPOS="169"
+                    VPOS="507"
+                    WIDTH="1331"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="171 555 169 573 239 590 241 590 321 576 359 587 361 587 362 589 466 589 466 587 517 578 525 576 527 578 549 593 551 593 552 593 615 595 616 595 686 587 905 595 907 595 908 595 932 582 942 578 1039 578 1050 582 1068 595 1069 595 1071 595 1073 595 1074 595 1111 584 1112 584 1162 597 1164 597 1165 597 1167 597 1168 597 1187 584 1194 581 1215 586 1243 590 1245 590 1246 590 1258 586 1272 579 1497 587 1500 560 1499 509 1448 509 1446 509 1444 509 1416 522 1376 512 1374 512 1373 512 1323 523 1294 509 1293 509 1291 509 1197 509 1195 509 1194 509 1192 509 1192 511 1175 522 1160 511 1159 509 1157 509 1156 509 1154 509 1135 511 1082 515 1058 511 1041 507 1039 507 1037 507 1025 511 985 523 865 523 838 512 836 512 835 512 827 512 704 523 595 514 589 514 587 514 586 514 584 514 557 522 527 514 519 512 517 512 516 512 504 514 469 523 389 523 372 515 366 512 364 512 362 512 338 515 292 522 171 517 171 555"/></Shape>
+	    <String CONTENT="Se: Deutsche Kunstführer... Bd 36. | Bild. k"
+                    HPOS="169"
+                    VPOS="507"
+                    WIDTH="1331"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1264 624 1339 632" 
+                    HPOS="1262"
+                    VPOS="595"
+                    WIDTH="77"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1264 624 1262 638 1333 665 1339 632 1339 595 1266 595 1264 624"/></Shape>
+	    <String CONTENT="Ty"
+                    HPOS="1262"
+                    VPOS="595"
+                    WIDTH="77"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

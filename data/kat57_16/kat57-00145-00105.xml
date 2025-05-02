@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00105.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="22"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2319 1479 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="192 204 392 207" 
+                    HPOS="189"
+                    VPOS="171"
+                    WIDTH="201"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="191 203 189 233 196 238 197 238 198 238 199 238 266 234 289 233 388 239 390 205 390 173 191 171 191 203"/></Shape>
+	    <String CONTENT="BERICHT"
+                    HPOS="189"
+                    VPOS="171"
+                    WIDTH="201"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="186 309 2034 306" 
+                    HPOS="183"
+                    VPOS="266"
+                    WIDTH="1850"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="185 308 185 325 210 334 212 334 213 334 292 326 333 334 334 334 530 328 616 333 617 333 619 333 636 326 674 334 675 335 854 335 854 334 918 326 1047 334 1048 334 1110 325 1291 333 1292 333 1341 325 1464 333 1465 333 1517 325 1575 333 1576 333 1756 326 1782 333 1783 333 1784 333 1785 333 1803 326 1898 331 1899 331 2033 323 2033 305 2031 281 1933 281 1882 266 1880 266 1879 266 1676 267 1613 279 1589 273 1588 273 1587 273 1554 278 1524 267 1523 267 1521 267 1520 267 1496 275 1472 266 1471 266 1292 266 1291 266 1290 266 1244 277 1147 266 1145 266 1144 266 1106 281 1068 271 1066 271 1065 271 1013 281 916 267 915 267 859 278 805 272 804 272 749 279 720 271 719 271 717 271 716 271 690 281 626 272 625 272 624 272 606 279 346 279 329 273 328 273 326 273 325 273 304 282 183 282 185 308"/></Shape>
+	    <String CONTENT="von Institut für Maschinenelemente Chalmers technische Hochschule ..."
+                    HPOS="183"
+                    VPOS="266"
+                    WIDTH="1850"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="188 420 362 416" 
+                    HPOS="186"
+                    VPOS="387"
+                    WIDTH="175"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="187 419 187 430 204 440 205 440 207 441 244 441 244 440 245 440 246 440 259 430 259 429 261 430 286 439 287 439 288 439 289 439 315 430 325 427 360 430 361 415 357 397 310 397 283 387 282 387 281 387 279 387 255 398 201 388 199 388 198 388 197 388 186 395 187 419"/></Shape>
+	    <String CONTENT="Nr 1 -"
+                    HPOS="186"
+                    VPOS="387"
+                    WIDTH="175"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1432 415 1949 415" 
+                    HPOS="1431"
+                    VPOS="378"
+                    WIDTH="517"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1431 429 1451 429 1465 440 1465 441 1466 441 1467 441 1468 441 1470 441 1489 435 1496 441 1497 441 1498 441 1499 441 1501 441 1502 441 1502 440 1508 434 1517 439 1518 439 1519 439 1520 439 1521 439 1521 437 1530 430 1533 429 1538 430 1581 442 1582 442 1583 442 1703 434 1708 434 1711 434 1767 442 1768 442 1769 442 1771 442 1779 435 1785 429 1801 435 1819 442 1820 442 1821 442 1822 442 1847 436 1850 436 1853 436 1890 442 1892 442 1893 442 1894 442 1894 441 1899 437 1908 429 1931 429 1945 439 1948 414 1948 392 1924 392 1924 390 1911 379 1911 378 1910 378 1909 378 1908 378 1803 381 1801 381 1800 381 1789 388 1787 390 1766 388 1716 382 1715 382 1714 382 1695 387 1684 390 1679 387 1673 382 1673 381 1672 381 1671 381 1670 381 1668 381 1649 387 1637 389 1626 386 1604 378 1603 378 1602 378 1565 379 1563 379 1562 379 1556 384 1547 392 1489 392 1478 383 1472 378 1471 378 1470 378 1468 378 1467 378 1466 378 1460 383 1451 389 1433 383 1431 414 1431 429"/></Shape>
+	    <String CONTENT="8:o Göteborg 1957 -"
+                    HPOS="1431"
+                    VPOS="378"
+                    WIDTH="517"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="188 522 1500 517" 
+                    HPOS="186"
+                    VPOS="487"
+                    WIDTH="1313"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="187 521 187 545 363 548 382 556 383 556 384 556 426 550 445 557 446 557 447 557 448 557 469 548 516 551 518 551 519 551 534 545 611 557 612 557 677 545 693 551 694 551 695 551 696 551 716 545 737 555 738 555 740 555 741 555 772 545 822 559 823 559 825 559 883 547 901 557 902 557 904 557 960 546 1032 547 1054 558 1055 558 1057 558 1341 557 1343 557 1371 542 1412 542 1419 542 1435 550 1436 550 1438 550 1498 541 1499 516 1497 497 1449 487 1447 487 1244 495 1193 487 1192 487 1048 497 1043 497 1038 497 843 488 842 488 788 490 786 490 785 490 774 498 773 498 759 498 664 492 663 492 630 498 627 498 626 498 609 489 608 489 606 489 527 498 511 499 487 498 402 493 400 493 367 498 360 499 357 498 344 490 342 490 303 490 302 490 300 490 286 498 284 499 275 498 224 493 223 493 186 498 187 521"/></Shape>
+	    <String CONTENT="Se: Chalmers tekniska högskolas handlingar. 186 -"
+                    HPOS="186"
+                    VPOS="487"
+                    WIDTH="1313"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1544 596 2160 573" 
+                    HPOS="1540"
+                    VPOS="501"
+                    WIDTH="619"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="1542 595 1542 615 1550 621 1550 622 1551 622 1552 622 1554 622 1672 619 1673 619 1674 619 1690 606 1692 605 1692 606 1700 612 1702 612 1703 612 1761 615 1762 615 1763 615 1764 615 1764 614 1776 604 1781 598 1801 598 1811 603 1832 612 1834 612 1835 612 1836 612 1855 604 1874 610 1875 610 1877 610 1878 610 1879 610 1894 599 1901 594 1958 596 2004 599 2005 599 2006 599 2007 599 2012 595 2017 592 2021 594 2023 596 2025 596 2026 596 2027 596 2028 596 2030 596 2030 595 2031 595 2031 594 2036 589 2074 589 2084 593 2111 601 2112 601 2114 601 2115 601 2116 601 2116 600 2126 590 2132 585 2158 589 2159 572 2151 501 2121 526 2091 508 2086 504 2085 504 2084 504 2083 504 2081 504 2080 504 2075 509 2046 532 2019 514 2010 508 2009 508 2007 508 2006 508 2005 508 2004 508 1993 516 1974 530 1966 522 1964 522 1963 522 1962 522 1961 522 1940 534 1926 522 1912 510 1911 510 1910 510 1909 510 1884 511 1883 511 1863 518 1862 518 1862 519 1851 530 1834 547 1771 550 1748 550 1737 540 1714 520 1713 520 1711 520 1710 520 1709 520 1708 520 1687 534 1663 520 1662 520 1661 520 1609 521 1608 521 1607 521 1565 556 1563 557 1540 557 1542 595"/></Shape>
+	    <String CONTENT="Underv. Sv. Folksk."
+                    HPOS="1540"
+                    VPOS="501"
+                    WIDTH="619"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1533 700 1957 668 2184 663" 
+                    HPOS="1528"
+                    VPOS="598"
+                    WIDTH="656"
+                    HEIGHT="150">
+            <Shape><Polygon POINTS="1531 699 1533 730 1545 736 1546 736 1547 736 1549 736 1550 736 1561 727 1591 727 1623 748 1624 748 1625 748 1626 748 1681 744 1682 744 1683 744 1683 743 1699 726 1720 742 1721 742 1723 742 1724 742 1805 737 1806 737 1863 720 1909 719 1910 719 1911 719 1929 704 2070 712 2072 712 2073 712 2074 712 2102 693 2151 703 2152 703 2153 703 2184 686 2183 662 2178 620 2114 624 2112 624 2083 598 2081 598 2080 598 2079 598 2020 608 1979 598 1978 598 1977 598 1906 603 1905 603 1904 603 1904 604 1877 631 1855 631 1822 609 1821 609 1820 609 1819 609 1818 609 1795 615 1784 610 1783 610 1782 610 1747 612 1746 612 1745 612 1695 651 1688 651 1667 652 1626 632 1625 632 1624 632 1623 632 1621 632 1621 633 1604 649 1584 638 1583 638 1582 638 1581 638 1579 638 1579 640 1562 659 1528 661 1531 699"/></Shape>
+	    <String CONTENT="Tekn, Gbg, Chalmers"
+                    HPOS="1528"
+                    VPOS="598"
+                    WIDTH="656"
+                    HEIGHT="150"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1700 794 1960 784" 
+                    HPOS="1697"
+                    VPOS="730"
+                    WIDTH="262"
+                    HEIGHT="140">
+            <Shape><Polygon POINTS="1699 793 1704 867 1713 860 1718 864 1726 870 1727 870 1729 870 1730 870 1797 868 1798 868 1799 868 1799 867 1827 838 1858 832 1859 832 1861 832 1863 830 1888 809 1959 806 1959 783 1954 730 1915 735 1914 735 1912 735 1912 736 1901 747 1873 741 1872 741 1871 741 1851 747 1838 741 1826 735 1825 735 1824 735 1822 735 1821 735 1821 736 1814 743 1806 752 1789 752 1779 747 1762 737 1761 737 1760 737 1758 737 1697 754 1699 793"/></Shape>
+	    <String CONTENT="tekn. h"
+                    HPOS="1697"
+                    VPOS="730"
+                    WIDTH="262"
+                    HEIGHT="140"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

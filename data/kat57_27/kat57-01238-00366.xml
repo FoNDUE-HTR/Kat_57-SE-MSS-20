@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00366.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="25"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2323 1479 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="208 231 669 231" 
+                    HPOS="207"
+                    VPOS="192"
+                    WIDTH="461"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="207 230 207 265 428 271 429 271 430 271 431 271 449 259 458 252 668 252 668 230 668 203 571 203 560 193 560 192 558 192 557 192 556 192 555 192 553 192 541 203 513 203 492 192 490 192 489 192 488 192 487 192 473 203 453 203 419 192 418 192 416 192 313 198 271 192 270 192 207 202 207 230"/></Shape>
+	    <String CONTENT="MORTIER, Roland"
+                    HPOS="207"
+                    VPOS="192"
+                    WIDTH="461"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1908 64 2159 68" 
+                    HPOS="1905"
+                    VPOS="19"
+                    WIDTH="253"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1907 62 1905 92 1952 88 1998 92 2047 97 2048 97 2083 91 2094 90 2100 91 2125 98 2126 98 2127 98 2129 98 2157 90 2158 67 2156 27 2126 37 2104 29 2085 22 2084 22 2083 22 2082 22 2080 22 2080 23 2072 30 2068 34 2034 40 2020 32 2008 24 2006 24 2005 24 1962 19 1961 19 1960 19 1958 19 1958 20 1940 35 1937 38 1907 38 1907 62"/></Shape>
+	    <String CONTENT="Litt.-hist."
+                    HPOS="1905"
+                    VPOS="19"
+                    WIDTH="253"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="202 336 2222 328" 
+                    HPOS="199"
+                    VPOS="289"
+                    WIDTH="2022"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="201 335 201 355 881 360 883 360 926 356 965 352 1002 356 1030 358 1031 358 1046 356 1070 351 1089 356 1095 357 1096 357 1097 357 1149 356 1234 353 1255 356 1282 360 1284 360 1312 356 1356 350 1392 356 1407 358 1408 358 1439 356 1497 351 1513 356 1517 357 1518 357 1519 357 1520 357 1524 356 1543 350 1668 356 1696 357 1697 357 1698 357 1703 356 1734 349 1810 349 1849 356 1855 357 1856 357 1876 356 1972 350 2009 356 2010 357 2220 357 2221 326 2217 289 1913 300 1781 293 1780 293 1734 298 1715 292 1714 292 1713 292 1683 292 1561 294 1560 294 1540 300 1506 293 1504 293 1393 293 1392 293 1391 293 1390 293 1372 299 1343 294 1342 294 1340 294 1314 303 1148 298 1147 298 825 304 730 297 720 297 719 297 717 297 716 297 693 304 669 297 667 297 666 297 664 297 656 298 592 305 563 298 562 298 561 298 560 298 558 298 536 305 490 299 489 299 410 307 388 299 384 298 383 298 325 298 324 298 308 299 241 307 199 300 201 335"/></Shape>
+	    <String CONTENT="Les &quot;Archives littéraires de l&#x27;Europe&quot; (1804-1808) et le cosmopoli-"
+                    HPOS="199"
+                    VPOS="289"
+                    WIDTH="2022"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="205 437 1412 437" 
+                    HPOS="204"
+                    VPOS="403"
+                    WIDTH="1207"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="204 436 204 455 251 463 252 463 361 462 362 462 377 456 398 462 399 462 606 463 608 464 752 464 752 463 753 463 767 457 788 463 789 463 790 463 791 463 817 456 877 456 890 463 891 463 893 463 894 463 937 456 993 463 994 463 1212 456 1286 463 1287 463 1334 456 1376 463 1377 463 1379 463 1411 455 1411 436 1409 414 1351 414 1314 403 1313 403 1312 403 1211 413 1117 403 1116 403 1026 409 965 403 964 403 963 403 928 413 885 403 884 403 883 403 881 403 865 413 777 407 775 407 664 413 629 403 627 403 626 403 486 409 415 403 414 403 413 403 387 413 231 405 230 405 229 405 204 413 204 436"/></Shape>
+	    <String CONTENT="tisme littéraire sous le Premier empire."
+                    HPOS="204"
+                    VPOS="403"
+                    WIDTH="1207"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1396 533 1980 536" 
+                    HPOS="1393"
+                    VPOS="492"
+                    WIDTH="586"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="1395 532 1393 550 1419 559 1421 559 1422 559 1423 559 1444 551 1490 559 1491 559 1492 559 1507 551 1520 559 1522 559 1523 559 1524 559 1978 555 1979 535 1979 501 1936 493 1935 493 1840 494 1839 494 1813 503 1796 508 1784 503 1765 493 1763 493 1762 493 1761 493 1749 499 1743 493 1741 493 1740 493 1676 492 1675 492 1673 492 1646 504 1640 508 1604 508 1601 504 1594 499 1594 498 1593 498 1592 498 1591 498 1566 501 1536 492 1535 492 1534 492 1533 492 1532 492 1532 493 1518 505 1516 508 1450 508 1448 505 1435 494 1434 494 1433 494 1432 494 1430 494 1429 494 1414 505 1412 506 1395 506 1395 532"/></Shape>
+	    <String CONTENT="8:o Bruxelles 1957."
+                    HPOS="1393"
+                    VPOS="492"
+                    WIDTH="586"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="202 640 2227 637" 
+                    HPOS="199"
+                    VPOS="604"
+                    WIDTH="2027"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="201 638 201 662 457 662 458 662 488 668 489 668 490 668 515 662 516 662 569 668 571 668 572 668 590 662 594 661 605 662 661 668 662 668 785 662 812 661 828 662 896 668 898 669 1137 669 1137 668 1166 662 1174 661 1181 662 1206 668 1207 668 1208 668 1287 662 1295 662 1300 662 1335 667 1337 667 1365 662 1381 659 1592 659 1615 662 1652 667 1654 668 1786 668 1786 667 1810 662 1825 659 1837 662 1854 667 1855 667 1856 667 1907 662 1941 659 1994 662 2072 667 2073 667 2225 662 2226 636 2224 611 2140 605 2138 605 2087 611 2079 611 2077 611 2057 605 2056 605 2055 605 1937 611 1924 611 1921 611 1902 604 1900 604 1813 604 1812 604 1671 611 1664 611 1662 611 1638 604 1636 604 1539 604 1538 604 1458 611 1429 604 1428 604 1427 604 1390 611 1390 612 1361 612 1296 612 1215 604 1213 604 1212 604 1192 612 1190 614 1018 614 1015 612 981 605 980 605 946 612 944 612 942 612 912 605 911 605 910 605 872 612 869 612 859 612 722 606 721 606 584 612 583 612 582 612 536 605 415 605 414 605 378 612 349 605 347 605 346 605 266 612 219 605 218 605 217 605 199 611 201 638"/></Shape>
+	    <String CONTENT="Se: Académie royale de Belgique. Classe des lettres et des sciences"
+                    HPOS="199"
+                    VPOS="604"
+                    WIDTH="2027"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="322 744 1950 740" 
+                    HPOS="320"
+                    VPOS="707"
+                    WIDTH="1629"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="321 743 321 773 414 767 510 767 523 772 525 773 526 773 527 773 529 773 531 772 547 767 652 767 662 772 669 774 671 774 672 774 673 774 685 770 703 767 712 770 721 774 722 774 724 774 725 774 736 770 748 767 775 770 804 774 805 774 906 769 973 767 1071 768 1295 773 1296 773 1297 773 1313 767 1317 765 1332 767 1395 773 1396 773 1397 773 1417 765 1423 764 1429 765 1448 772 1449 772 1450 772 1522 765 1538 764 1544 765 1570 772 1571 772 1572 772 1659 764 1667 764 1677 764 1802 770 1803 770 1804 770 1824 764 1855 772 1856 772 1857 772 1949 762 1949 740 1947 717 1913 707 1911 707 1910 707 1784 714 1746 707 1745 707 1744 707 1723 717 1681 717 1597 707 1596 707 1594 707 1560 716 1513 707 1512 707 1456 716 1422 707 1421 707 1419 707 1333 709 1332 709 1311 717 1025 709 1023 709 1022 709 1001 717 721 710 720 710 645 719 619 710 618 710 616 710 615 710 595 720 542 720 458 710 457 710 456 710 435 717 366 712 365 712 320 720 321 743"/></Shape>
+	    <String CONTENT="morales et politiques. Mémoires. Coll. in-8:o. T. 51:4."
+                    HPOS="320"
+                    VPOS="707"
+                    WIDTH="1629"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1481 815 1593 810" 
+                    HPOS="1479"
+                    VPOS="763"
+                    WIDTH="113"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1480 814 1480 825 1499 833 1501 833 1502 833 1503 833 1519 826 1522 825 1529 826 1562 833 1564 833 1592 828 1592 809 1588 767 1540 763 1539 763 1538 763 1536 763 1536 764 1517 781 1512 786 1479 789 1480 814"/></Shape>
+	    <String CONTENT="Acta"
+                    HPOS="1479"
+                    VPOS="763"
+                    WIDTH="113"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1489 880 1593 877" 
+                    HPOS="1487"
+                    VPOS="837"
+                    WIDTH="105"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1488 879 1488 890 1564 899 1565 899 1566 899 1567 899 1571 895 1577 890 1588 896 1592 876 1591 854 1539 837 1538 837 1536 837 1535 837 1534 837 1503 855 1502 857 1487 857 1488 879"/></Shape>
+	    <String CONTENT="Belg"
+                    HPOS="1487"
+                    VPOS="837"
+                    WIDTH="105"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="1463 957 2284 952" 
+                    HPOS="1461"
+                    VPOS="896"
+                    WIDTH="822"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="1462 955 1462 992 1467 997 1469 997 1470 997 1471 997 1472 997 1496 991 1497 991 1497 990 1524 974 1569 984 1570 984 1571 984 1596 974 1612 987 1613 987 1614 987 1615 987 1617 987 1618 987 1635 975 1654 975 1722 996 1723 996 1724 996 1725 996 1778 974 1830 974 1881 985 1882 985 1883 985 1905 975 1925 984 1926 984 1928 984 1929 984 1967 973 2002 1000 2003 1000 2004 1000 2005 1000 2006 1000 2046 985 2078 1007 2085 1012 2087 1012 2088 1012 2089 1013 2282 1013 2283 950 2277 896 2241 925 2193 926 2161 901 2155 896 2153 896 2152 896 2087 896 2085 896 2084 896 2083 896 2083 897 2073 906 2048 928 2029 928 2008 911 2006 911 2005 911 2004 911 2003 911 2002 911 1976 928 1894 928 1872 915 1866 910 1865 910 1863 910 1862 910 1861 910 1860 910 1852 915 1840 923 1829 916 1809 902 1808 902 1807 902 1805 902 1804 902 1803 902 1777 918 1761 928 1725 922 1724 922 1723 922 1708 927 1697 922 1671 910 1670 910 1668 910 1667 910 1640 925 1638 926 1636 925 1608 900 1607 900 1606 900 1506 900 1504 900 1503 900 1502 900 1461 928 1462 955"/></Shape>
+	    <String CONTENT="[Bruxelles, Acad. r. de Belgique]"
+                    HPOS="1461"
+                    VPOS="896"
+                    WIDTH="822"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="2038 1444 2225 1444" 
+                    HPOS="2037"
+                    VPOS="1386"
+                    WIDTH="187"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="2037 1443 2037 1461 2056 1468 2057 1468 2058 1468 2060 1468 2077 1463 2080 1462 2083 1463 2093 1472 2093 1473 2094 1473 2095 1473 2097 1473 2098 1473 2115 1466 2124 1462 2136 1467 2162 1476 2163 1476 2164 1476 2224 1471 2224 1443 2224 1402 2196 1402 2195 1401 2171 1386 2169 1386 2168 1386 2167 1386 2110 1387 2109 1387 2108 1387 2094 1399 2093 1401 2092 1399 2078 1391 2077 1391 2076 1391 2074 1391 2037 1398 2037 1443"/></Shape>
+	    <String CONTENT="8.3.57"
+                    HPOS="2037"
+                    VPOS="1386"
+                    WIDTH="187"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

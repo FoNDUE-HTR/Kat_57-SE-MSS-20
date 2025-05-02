@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00067.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="5"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2319 1479 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="207 79 1096 85" 
+                    HPOS="204"
+                    VPOS="22"
+                    WIDTH="891"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="205 78 204 94 282 96 293 103 294 103 296 103 297 104 370 104 370 103 371 103 372 103 379 97 381 96 387 97 424 106 425 106 522 102 535 111 536 111 537 111 538 111 540 111 575 98 578 98 599 114 600 114 601 114 603 114 664 103 701 128 703 128 704 128 705 129 806 129 806 128 807 128 809 128 832 109 881 128 883 128 884 128 885 128 932 112 979 128 980 128 981 128 983 128 1010 118 1027 120 1028 120 1029 120 1031 120 1049 106 1094 103 1095 83 1094 62 1028 57 981 27 980 27 979 27 978 27 916 38 915 38 913 38 894 53 881 61 780 61 762 48 760 48 759 48 758 48 649 60 527 57 493 39 492 39 490 39 445 40 432 32 423 23 421 23 420 23 205 22 205 78"/></Shape>
+	    <String CONTENT="Int.Föder.eugen. Organisationen"
+                    HPOS="204"
+                    VPOS="22"
+                    WIDTH="891"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="232 183 450 183" 
+                    HPOS="231"
+                    VPOS="148"
+                    WIDTH="217"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="231 182 231 209 321 214 323 214 324 214 333 212 351 208 374 213 382 214 383 214 389 213 415 208 447 214 448 182 448 148 231 148 231 182"/></Shape>
+	    <String CONTENT="BERICHT"
+                    HPOS="231"
+                    VPOS="148"
+                    WIDTH="217"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2018 42 2204 48" 
+                    HPOS="2016"
+                    VPOS="1"
+                    WIDTH="186"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="2201 1 2189 1 2180 1 2179 1 2178 1 2174 2 2147 17 2104 13 2096 8 2085 1 2078 1 2065 1 2057 1 2044 12 2041 14 2017 14 2017 41 2016 61 2200 71 2202 46 2202 1 2201 1"/></Shape>
+	    <String CONTENT="Med"
+                    HPOS="2016"
+                    VPOS="1"
+                    WIDTH="186"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2024 112 2175 116" 
+                    HPOS="2022"
+                    VPOS="64"
+                    WIDTH="152"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="2023 111 2022 130 2171 138 2174 115 2174 67 2147 72 2143 70 2134 64 2133 64 2132 64 2131 64 2095 70 2086 64 2085 64 2084 64 2083 64 2081 64 2080 64 2080 65 2067 76 2060 82 2023 81 2023 111"/></Shape>
+	    <String CONTENT="Möt."
+                    HPOS="2022"
+                    VPOS="64"
+                    WIDTH="152"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2029 165 2199 170" 
+                    HPOS="2027"
+                    VPOS="125"
+                    WIDTH="170"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="2028 164 2027 186 2195 194 2197 168 2197 148 2160 148 2159 146 2141 129 2141 128 2139 128 2138 128 2112 127 2111 127 2110 127 2109 127 2109 128 2101 134 2074 125 2073 125 2072 125 2070 125 2069 125 2043 143 2028 143 2028 164"/></Shape>
+	    <String CONTENT="Allm"
+                    HPOS="2027"
+                    VPOS="125"
+                    WIDTH="170"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="226 279 2247 284" 
+                    HPOS="224"
+                    VPOS="239"
+                    WIDTH="2021"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="225 278 224 299 2243 305 2245 283 2244 247 1890 244 1889 244 1888 244 1882 245 1859 252 1742 252 1646 244 1615 242 1614 242 1587 244 1503 250 1441 244 1429 242 1428 242 1422 244 1388 250 1354 242 1349 242 1063 241 1061 241 1057 241 1027 250 732 250 450 241 448 241 294 247 225 239 225 278"/></Shape>
+	    <String CONTENT="über die 11. Versammlung der Internationalen Föderation eugenischer"
+                    HPOS="224"
+                    VPOS="239"
+                    WIDTH="2021"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="228 381 2271 388" 
+                    HPOS="225"
+                    VPOS="341"
+                    WIDTH="2045"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="226 379 225 400 568 409 569 409 2269 408 2270 387 2269 356 2236 347 2234 347 2233 347 1988 355 1972 355 1966 355 1873 346 1872 346 1708 353 1686 355 1681 353 1650 346 1649 346 1542 345 1541 345 1281 353 1250 353 1246 353 1211 344 1209 344 1208 344 1090 352 1086 352 1082 352 984 344 983 344 929 352 925 352 876 352 854 352 822 342 821 342 820 342 772 351 612 351 568 351 567 351 532 341 531 341 530 341 226 351 226 379"/></Shape>
+	    <String CONTENT="Organisationen Konferenzsitzungen vom 18. bis 21. Juli 1934 im Wald-"
+                    HPOS="225"
+                    VPOS="341"
+                    WIDTH="2045"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="223 485 2277 493" 
+                    HPOS="220"
+                    VPOS="450"
+                    WIDTH="2056"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="220 508 754 514 756 514 774 511 794 508 873 511 950 515 952 515 968 511 983 508 1218 508 1255 514 1276 516 1277 516 1313 514 1370 509 1509 509 1531 515 1539 516 1540 516 1541 516 1629 515 1887 510 1988 516 2023 519 2025 519 2069 518 2199 511 2274 518 2276 492 2276 463 2206 455 2205 455 2073 463 2038 464 2026 462 1993 456 1991 456 1922 462 1903 463 1880 462 1784 453 1783 453 1647 458 1487 452 1486 452 1454 460 1440 463 1291 463 1276 458 1248 451 1246 451 1245 451 1214 458 1201 462 1058 462 1045 457 1028 452 1027 452 1026 452 981 457 965 458 949 457 905 451 658 450 657 450 656 450 636 455 619 460 536 455 493 452 492 452 474 455 442 458 416 453 398 451 397 451 370 453 324 458 223 453 222 484 220 508"/></Shape>
+	    <String CONTENT="haus Dolder, Zürich, Schweiz. - Report of the 11:th assembly of the"
+                    HPOS="220"
+                    VPOS="450"
+                    WIDTH="2056"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="231 588 2213 599" 
+                    HPOS="229"
+                    VPOS="551"
+                    WIDTH="1983"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="230 587 229 611 2210 624 2212 598 2211 568 1914 568 1888 564 1827 559 1826 559 1798 564 1781 567 1757 564 1715 558 1714 558 1650 563 1626 564 1604 563 1550 557 1549 557 1429 561 1333 564 1292 559 1253 556 1251 556 1214 559 1176 563 1105 558 1042 555 1040 555 1012 558 978 562 711 562 683 555 672 553 670 553 659 555 636 559 619 555 610 552 609 552 451 551 450 551 437 553 413 559 286 559 230 552 230 587"/></Shape>
+	    <String CONTENT="International Federation of eugenic organizations conferences July"
+                    HPOS="229"
+                    VPOS="551"
+                    WIDTH="1983"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="226 693 2314 700" 
+                    HPOS="224"
+                    VPOS="656"
+                    WIDTH="2089"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="225 691 224 715 279 723 281 723 316 717 405 717 531 717 547 717 667 725 668 725 768 720 789 719 801 720 844 725 846 725 1022 721 1102 720 1118 722 1148 726 1149 726 1171 722 1187 720 1218 722 1270 727 1271 727 1409 723 1487 722 1640 726 1782 728 1783 728 1806 727 1855 722 1873 727 1878 728 1879 728 1880 728 1896 727 1938 723 1957 727 1966 730 1967 730 1968 731 2159 731 2159 730 2164 730 2197 723 2311 730 2313 699 2312 672 2175 662 2174 662 2067 670 2057 670 2054 670 2027 662 2026 662 2025 662 1991 668 1959 662 1958 662 1904 669 1874 661 1873 661 1872 661 1768 669 1761 669 1758 669 1727 661 1726 661 1725 661 1518 668 1510 668 1508 668 1441 659 1440 659 1295 666 1243 658 999 658 997 658 963 667 959 667 952 667 880 657 879 657 783 666 778 666 773 666 703 659 701 659 538 664 536 664 535 664 448 656 447 656 389 664 384 664 225 664 225 691"/></Shape>
+	    <String CONTENT="from 18:th to 21:st (inclusive) 1934 Waldhaus Dolder, Zurich, Switzer-"
+                    HPOS="224"
+                    VPOS="656"
+                    WIDTH="2089"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="228 797 386 794" 
+                    HPOS="225"
+                    VPOS="758"
+                    WIDTH="159"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="226 796 226 816 270 823 271 823 384 818 384 793 381 768 357 768 355 768 341 758 340 758 339 758 337 758 336 758 335 758 323 767 313 759 312 759 310 759 309 759 308 759 307 759 296 767 254 760 252 760 251 760 225 768 226 796"/></Shape>
+	    <String CONTENT="land."
+                    HPOS="225"
+                    VPOS="758"
+                    WIDTH="159"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    
+                    BASELINE="1840 903 2309 909" 
+                    HPOS="1837"
+                    VPOS="862"
+                    WIDTH="471"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1838 902 1837 917 1862 927 1863 927 1864 927 1943 922 1974 921 1984 925 2005 932 2006 932 2007 933 2044 933 2044 932 2046 932 2056 927 2067 922 2101 929 2137 937 2138 937 2139 937 2153 932 2176 923 2202 934 2212 938 2213 938 2215 939 2307 939 2308 908 2306 867 2278 876 2243 867 2241 867 2239 867 2238 867 2237 867 2236 867 2216 876 2155 874 2151 868 2148 867 2148 865 2147 865 2146 865 2144 865 2130 868 2107 873 2102 868 2099 865 2099 864 2097 864 2096 864 2095 864 2054 869 2041 870 2038 869 2031 863 2030 863 2028 863 1998 863 1996 863 1995 863 1983 869 1975 873 1901 873 1899 870 1889 862 1888 862 1887 862 1885 862 1838 870 1838 902"/></Shape>
+	    <String CONTENT="8:o Zürich 1935"
+                    HPOS="1837"
+                    VPOS="862"
+                    WIDTH="471"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    
+                    BASELINE="224 1000 2296 1007" 
+                    HPOS="222"
+                    VPOS="962"
+                    WIDTH="2073"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="222 1023 2292 1031 2295 1006 2295 973 1105 973 1044 966 1018 964 1017 964 989 965 913 971 699 964 635 963 633 963 620 964 573 970 553 964 546 962 545 962 543 962 525 964 482 969 224 963 223 999 222 1023"/></Shape>
+	    <String CONTENT="[Separatabdruck aus: Archiv der Julius Klaus-Stiftung für Vererbungs-"
+                    HPOS="222"
+                    VPOS="962"
+                    WIDTH="2073"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13"
+                    
+                    BASELINE="255 1103 2260 1112" 
+                    HPOS="252"
+                    VPOS="1066"
+                    WIDTH="2007"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="254 1102 252 1126 278 1135 279 1135 281 1135 341 1127 342 1127 344 1127 372 1135 373 1135 374 1135 601 1129 641 1128 658 1129 725 1135 726 1135 793 1130 825 1128 848 1130 901 1138 1414 1140 1415 1140 1472 1135 1512 1133 1559 1137 1608 1140 1609 1140 1639 1137 1676 1133 1969 1133 2010 1140 2026 1143 2027 1143 2059 1140 2139 1134 2175 1142 2184 1143 2185 1143 2258 1142 2259 1111 2258 1081 1921 1074 1920 1074 1774 1077 1687 1079 1677 1076 1665 1073 1663 1073 1662 1073 1546 1075 1452 1077 1392 1074 1339 1071 1338 1071 1170 1073 888 1075 785 1070 760 1069 759 1069 725 1069 543 1074 254 1066 254 1102"/></Shape>
+	    <String CONTENT="forschung, Sozialanthropologie und Rassenhygiene. Bd. X. 1935. H.1]"
+                    HPOS="252"
+                    VPOS="1066"
+                    WIDTH="2007"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

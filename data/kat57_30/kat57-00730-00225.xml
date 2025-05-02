@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00730-00225.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="26"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2323 1479 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="87 223 308 223" 
+                    HPOS="86"
+                    VPOS="177"
+                    WIDTH="221"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="86 222 86 244 186 244 206 252 219 259 220 259 305 260 307 222 305 177 241 187 219 181 206 177 204 177 203 177 202 177 187 182 175 188 86 188 86 222"/></Shape>
+	    <String CONTENT="HERMAEA"
+                    HPOS="86"
+                    VPOS="177"
+                    WIDTH="221"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2036 61 2292 66" 
+                    HPOS="2034"
+                    VPOS="9"
+                    WIDTH="257"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="2035 60 2034 78 2089 80 2090 82 2095 88 2097 88 2097 90 2098 90 2099 90 2100 90 2135 85 2152 82 2289 92 2291 65 2291 40 2248 34 2233 22 2232 22 2231 22 2219 22 2217 22 2216 22 2215 22 2215 23 2208 29 2199 39 2164 39 2127 32 2111 18 2101 9 2100 9 2099 9 2035 9 2035 60"/></Shape>
+	    <String CONTENT="Språkv."
+                    HPOS="2034"
+                    VPOS="9"
+                    WIDTH="257"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2073 140 2262 149" 
+                    HPOS="2069"
+                    VPOS="112"
+                    WIDTH="192"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="2072 139 2069 180 2109 182 2110 182 2111 182 2113 182 2116 180 2148 161 2192 170 2193 170 2238 168 2254 178 2261 148 2261 128 2203 119 2201 119 2200 119 2190 123 2185 124 2179 122 2155 112 2153 112 2152 112 2119 118 2104 120 2072 115 2072 139"/></Shape>
+	    <String CONTENT="Germ"
+                    HPOS="2069"
+                    VPOS="112"
+                    WIDTH="192"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="80 327 922 320 2302 324" 
+                    HPOS="77"
+                    VPOS="281"
+                    WIDTH="2224"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="78 326 78 346 379 349 381 349 408 345 431 342 447 345 468 349 469 349 505 345 541 341 584 345 636 349 637 349 675 344 711 340 748 344 784 347 785 347 806 344 837 337 889 344 939 349 941 349 1036 342 1080 340 1094 342 1128 349 1129 349 1189 342 1218 337 1454 337 1472 340 1491 344 1492 344 1549 340 1594 337 1609 340 1636 345 1638 345 1815 339 1874 337 1930 339 1958 339 1990 349 1992 349 1993 350 2137 350 2137 349 2190 337 2193 337 2300 337 2301 323 2300 292 2233 291 2205 281 2204 281 2203 281 2151 291 1974 291 1908 281 1627 281 1625 281 1553 292 1550 292 1548 292 1459 281 1458 281 1270 291 1234 281 1233 281 1166 281 1165 281 1164 281 1139 288 1059 282 1058 282 1057 282 1025 293 937 293 893 283 891 283 677 292 603 281 601 281 600 281 562 291 541 286 540 286 539 286 479 292 373 281 372 281 371 281 335 292 292 284 291 284 254 293 77 293 78 326"/></Shape>
+	    <String CONTENT="Ausgewählte Arbeiten aus dem germanischen Seminar zu Halle. Herausgegeben"
+                    HPOS="77"
+                    VPOS="281"
+                    WIDTH="2224"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="82 424 2002 413" 
+                    HPOS="80"
+                    VPOS="381"
+                    WIDTH="1920"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="81 423 81 445 201 445 265 453 266 453 465 452 466 452 490 444 534 444 582 442 622 442 905 450 906 450 907 450 928 442 935 440 1096 440 1107 441 1144 448 1145 448 1292 441 1347 439 1387 441 1451 445 1453 446 1629 446 1629 445 1655 440 1677 436 1999 439 2000 411 1998 389 1909 381 1908 381 1837 388 1620 382 1619 382 1569 390 1483 383 1482 383 1385 389 1307 384 1306 384 1305 384 1287 390 1186 384 1185 384 1143 394 936 394 909 387 907 387 906 387 905 387 878 394 741 389 740 389 668 395 640 388 638 388 637 388 636 388 615 395 495 389 494 389 399 397 313 389 312 389 310 389 280 398 80 399 81 423"/></Shape>
+	    <String CONTENT="von Philipp Strauch, Georg Baesecke, Ferdinand Joseph Schneider."
+                    HPOS="80"
+                    VPOS="381"
+                    WIDTH="1920"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="85 530 357 527" 
+                    HPOS="82"
+                    VPOS="492"
+                    WIDTH="274"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="83 529 83 555 101 555 117 567 118 567 119 567 120 567 122 567 165 555 182 567 183 567 185 567 186 568 215 568 215 567 217 567 250 553 252 553 287 553 289 553 320 566 321 566 323 566 324 566 356 553 356 526 352 492 283 504 240 504 229 495 225 492 224 492 223 492 222 492 220 492 209 495 187 504 165 497 151 493 150 493 149 493 82 499 83 529"/></Shape>
+	    <String CONTENT="Bd. 1-35"
+                    HPOS="82"
+                    VPOS="492"
+                    WIDTH="274"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1449 517 2020 524" 
+                    HPOS="1446"
+                    VPOS="483"
+                    WIDTH="573"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1448 516 1446 535 1536 550 1538 550 1539 550 1540 550 1560 537 1561 537 1572 537 1578 537 1614 556 1615 556 1617 556 1618 556 1644 550 1656 556 1657 556 1659 556 1660 556 1661 556 1673 547 1710 552 1712 552 1713 552 1735 540 1738 540 1780 540 1783 541 1821 557 1823 557 1824 557 1825 557 1841 548 1858 558 1860 558 1941 559 1942 559 1944 559 1945 559 1957 552 1986 559 1987 559 1988 559 1989 559 2018 545 2019 522 2019 498 1995 488 1994 488 1993 488 1992 488 1978 495 1963 488 1962 488 1961 488 1960 488 1958 488 1946 498 1928 498 1909 498 1908 498 1898 489 1898 488 1897 488 1895 488 1850 487 1849 487 1847 487 1825 495 1792 485 1791 485 1789 485 1788 485 1787 485 1787 487 1776 495 1676 484 1675 484 1624 492 1594 484 1593 484 1592 484 1591 484 1590 484 1590 485 1580 494 1580 495 1566 495 1565 494 1557 488 1556 488 1555 488 1554 488 1509 493 1508 493 1486 483 1485 483 1483 483 1482 483 1448 492 1448 516"/></Shape>
+	    <String CONTENT="8:o Halle 1905-40"
+                    HPOS="1446"
+                    VPOS="483"
+                    WIDTH="573"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

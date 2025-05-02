@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00730-00215.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2304"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="20"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2304"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2302"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2303 1471 2303 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="243 172 1050 182" 
+                    HPOS="241"
+                    VPOS="85"
+                    WIDTH="807"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="242 171 241 201 343 212 344 213 1047 213 1048 181 1048 139 974 138 974 137 943 111 943 110 942 110 940 110 939 110 901 116 900 116 899 116 874 136 821 116 820 116 801 116 799 116 798 116 797 116 785 126 736 118 734 118 733 118 732 118 716 133 715 134 689 134 688 133 664 121 663 121 662 121 647 123 620 105 619 105 618 105 617 105 615 105 575 121 559 120 516 88 515 88 514 88 444 87 442 87 397 92 334 85 333 85 332 85 331 85 282 122 242 125 242 171"/></Shape>
+	    <String CONTENT="Herlossohn"
+                    HPOS="241"
+                    VPOS="85"
+                    WIDTH="807"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="297 271 2162 278" 
+                    HPOS="296"
+                    VPOS="207"
+                    WIDTH="1865"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="296 269 296 298 455 299 570 318 571 318 572 318 602 311 744 322 745 322 780 315 813 322 814 322 900 316 933 325 934 325 936 325 1029 321 1096 309 1167 329 1169 329 1230 331 1231 332 1419 332 1419 331 1562 304 1689 310 1690 310 1691 310 1717 304 1799 332 1800 332 1802 333 1852 333 1852 332 1853 332 1921 310 1946 316 1948 316 1949 316 1950 316 1996 305 2160 305 2161 277 2159 231 2075 240 2036 230 2032 230 2031 230 2026 230 1986 239 1951 230 1880 213 1879 213 1566 218 1520 210 1518 210 1517 210 1458 230 1434 239 1315 239 1291 230 1257 218 1256 218 1255 218 1253 218 1209 230 1182 237 1084 237 1059 229 1030 220 1029 220 1028 220 1026 220 997 229 981 235 920 236 840 229 606 207 553 207 552 207 550 207 468 229 446 235 407 235 390 229 358 218 357 218 355 218 296 228 296 269"/></Shape>
+	    <String CONTENT="Se: Herlossohn, Georg Carl Reginald"
+                    HPOS="296"
+                    VPOS="207"
+                    WIDTH="1865"
+                    HEIGHT="126"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

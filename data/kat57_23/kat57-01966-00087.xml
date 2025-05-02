@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01966-00087.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="37"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2311 1471 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="147 70 1259 65" 
+                    HPOS="144"
+                    VPOS="19"
+                    WIDTH="1113"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="146 69 146 90 191 98 192 98 228 90 242 88 265 90 306 95 308 95 309 95 322 90 346 80 368 89 402 104 403 104 404 105 517 105 517 104 519 104 520 104 546 89 563 78 590 78 607 84 608 84 609 84 697 78 715 87 716 87 717 87 789 79 805 88 818 94 819 94 820 94 822 94 841 87 871 77 887 87 909 101 910 101 911 101 913 101 914 101 942 87 944 85 946 87 967 96 968 96 969 96 1013 87 1023 84 1028 87 1048 95 1049 95 1050 95 1102 85 1105 85 1108 85 1131 93 1132 93 1133 93 1135 93 1151 85 1154 84 1255 84 1257 63 1255 41 1192 31 1191 31 1136 39 1133 39 1103 22 1102 22 1100 22 1099 22 1061 38 1060 39 985 41 974 36 936 19 935 19 933 19 888 29 874 19 873 19 872 19 843 19 841 19 840 19 809 34 791 44 765 44 746 33 722 20 721 20 720 20 719 20 692 31 690 33 688 31 662 20 661 20 592 20 591 20 590 20 573 30 548 44 389 36 387 36 386 36 359 45 315 33 314 33 312 33 311 33 292 38 267 25 261 23 260 23 258 23 144 23 146 69"/></Shape>
+	    <String CONTENT="Albuquerque Univ. of New Mexico"
+                    HPOS="144"
+                    VPOS="19"
+                    WIDTH="1113"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="125 241 1232 236" 
+                    HPOS="122"
+                    VPOS="188"
+                    WIDTH="1108"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="123 240 123 278 335 279 336 279 337 279 338 279 339 278 347 273 374 278 386 279 387 279 389 279 390 279 392 278 407 267 473 267 508 277 512 278 514 278 515 278 516 278 517 278 519 277 527 271 539 277 542 278 543 278 601 279 602 279 623 277 652 272 668 277 684 280 685 280 687 280 735 276 776 272 791 276 801 278 802 278 803 278 805 278 806 278 809 276 827 266 886 266 900 276 904 278 905 278 906 278 938 280 940 280 976 279 978 279 986 274 1006 264 1024 274 1033 279 1034 279 1035 279 1088 274 1129 271 1144 274 1168 279 1169 279 1229 273 1230 235 1227 201 1051 204 1028 198 1014 195 1013 195 1012 195 985 198 936 204 890 199 889 199 820 206 796 197 795 197 793 197 673 207 582 199 581 199 527 207 472 198 471 198 470 198 438 207 416 193 409 188 408 188 407 188 406 188 122 190 123 240"/></Shape>
+	    <String CONTENT="UNIVERSITY OF NEW MEXICO PUBLICATIONS"
+                    HPOS="122"
+                    VPOS="188"
+                    WIDTH="1108"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="113 346 937 343" 
+                    HPOS="111"
+                    VPOS="309"
+                    WIDTH="825"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="112 345 112 363 160 372 161 374 192 374 192 372 193 372 195 372 206 364 353 372 354 372 433 371 434 371 454 363 455 363 477 371 478 371 479 371 481 371 504 363 515 371 516 371 517 371 519 371 575 363 578 363 603 363 604 363 614 371 616 371 617 371 618 371 670 364 679 370 681 370 682 370 683 370 684 370 685 370 697 363 704 369 705 369 706 369 708 369 782 363 796 361 806 363 865 370 866 370 936 361 936 342 933 317 727 309 726 309 725 309 700 317 674 309 673 309 672 309 638 316 611 310 609 310 608 310 607 310 606 310 596 318 595 318 568 310 566 310 565 310 525 317 495 310 494 310 493 310 492 310 471 318 471 320 341 320 339 320 323 312 322 312 321 312 320 312 301 320 300 320 285 311 284 311 283 311 282 311 255 317 220 311 219 311 218 311 192 320 191 320 190 320 143 311 142 311 141 311 139 311 139 312 131 320 131 321 111 321 112 345"/></Shape>
+	    <String CONTENT="in language and literature."
+                    HPOS="111"
+                    VPOS="309"
+                    WIDTH="825"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="112 448 520 444" 
+                    HPOS="110"
+                    VPOS="401"
+                    WIDTH="409"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="111 447 111 467 211 475 212 475 255 467 414 473 416 473 457 467 476 472 477 472 478 472 479 472 481 472 487 466 503 472 504 472 505 472 506 472 508 472 519 464 519 442 515 417 503 417 501 417 479 401 478 401 477 401 476 401 355 404 354 404 339 412 312 402 311 402 310 402 309 402 308 402 285 419 284 420 251 420 251 419 236 407 236 406 235 406 234 406 233 406 231 406 230 406 208 420 207 420 202 420 141 410 139 410 138 410 110 419 111 447"/></Shape>
+	    <String CONTENT="No.1- 12(1953)."
+                    HPOS="110"
+                    VPOS="401"
+                    WIDTH="409"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1152 444 1886 444" 
+                    HPOS="1151"
+                    VPOS="388"
+                    WIDTH="733"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1151 442 1151 461 1181 469 1182 469 1184 469 1185 469 1201 462 1217 469 1218 469 1219 469 1221 469 1222 469 1222 468 1228 463 1235 469 1236 469 1238 469 1239 469 1240 469 1256 462 1257 462 1308 462 1308 463 1329 472 1330 472 1331 472 1332 472 1357 464 1454 472 1455 472 1456 472 1476 464 1481 463 1514 464 1621 472 1622 472 1623 472 1634 466 1641 462 1655 467 1672 472 1673 472 1675 472 1700 471 1702 471 1703 471 1703 469 1707 467 1713 462 1731 467 1749 472 1751 472 1752 472 1884 468 1884 442 1884 399 1833 388 1832 388 1830 388 1803 399 1790 407 1745 407 1735 401 1720 393 1719 393 1718 393 1716 393 1715 393 1715 394 1709 399 1702 393 1700 393 1699 393 1698 393 1653 399 1623 390 1622 390 1621 390 1619 390 1618 390 1611 396 1563 388 1562 388 1560 388 1543 398 1533 390 1533 388 1532 388 1531 388 1449 388 1448 388 1446 388 1411 399 1392 388 1391 388 1390 388 1389 388 1387 388 1386 388 1360 406 1357 408 1326 408 1324 406 1311 394 1310 394 1309 394 1308 394 1306 394 1305 394 1305 396 1294 406 1293 408 1151 408 1151 442"/></Shape>
+	    <String CONTENT="8:o Albuquerque 1949- 54."
+                    HPOS="1151"
+                    VPOS="388"
+                    WIDTH="733"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2072 75 2217 75" 
+                    HPOS="2071"
+                    VPOS="3"
+                    WIDTH="145"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="2071 74 2071 93 2215 99 2216 74 2215 3 2170 6 2169 6 2168 6 2168 7 2165 9 2153 20 2126 20 2120 14 2113 8 2113 7 2111 7 2110 7 2109 7 2108 7 2107 7 2107 8 2096 18 2094 19 2071 20 2071 74"/></Shape>
+	    <String CONTENT="Acta"
+                    HPOS="2071"
+                    VPOS="3"
+                    WIDTH="145"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1965 158 2284 163" 
+                    HPOS="1963"
+                    VPOS="106"
+                    WIDTH="320"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="1964 157 1963 199 1976 209 1978 209 1979 209 1980 210 2008 210 2008 209 2010 209 2011 209 2011 208 2024 197 2027 193 2035 197 2044 199 2045 199 2046 199 2073 197 2114 192 2129 197 2173 212 2174 212 2222 213 2223 213 2224 213 2226 213 2250 197 2254 195 2281 196 2283 161 2281 110 2259 116 2222 111 2200 109 2199 109 2197 109 2189 112 2150 131 2134 131 2114 115 2105 107 2104 107 2103 107 2102 107 2100 107 2099 107 2091 115 2075 128 2035 128 2023 117 2010 106 2008 106 2007 106 2006 106 2005 106 1964 118 1964 157"/></Shape>
+	    <String CONTENT="N. Amer"
+                    HPOS="1963"
+                    VPOS="106"
+                    WIDTH="320"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="123 611 2215 617" 
+                    HPOS="121"
+                    VPOS="382"
+                    WIDTH="2092"
+                    HEIGHT="279">
+            <Shape><Polygon POINTS="122 610 121 637 181 647 182 647 298 640 323 639 337 640 404 651 406 651 451 641 460 640 468 641 521 656 522 656 645 657 646 658 849 658 849 657 850 657 888 646 911 640 1075 640 1120 648 1122 648 1124 648 1126 648 1163 640 1217 647 1218 647 1308 641 1331 648 1332 648 1333 648 1556 641 1585 651 1586 651 1614 653 1692 659 1693 659 1740 655 1866 642 1963 657 1964 657 1965 657 1967 657 2069 646 2116 659 2119 659 2120 659 2121 661 2212 661 2213 615 2211 596 2138 586 2137 586 2121 586 2010 590 1949 581 1948 581 1859 592 1646 592 1559 578 1558 578 1557 578 1531 586 1430 580 1429 580 1371 591 1309 578 1308 578 1255 580 1254 580 1203 592 1100 566 760 447 579 383 578 383 122 382 122 610"/></Shape>
+	    <String CONTENT="Forts. Kat. 1958- University of New Mexico publications in language and literature."
+                    HPOS="121"
+                    VPOS="382"
+                    WIDTH="2092"
+                    HEIGHT="279"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1960 707 2028 706" 
+                    HPOS="1958"
+                    VPOS="659"
+                    WIDTH="69"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="1959 706 1959 731 1986 731 1986 729 1988 729 2027 713 2027 705 2022 659 1996 666 1958 662 1959 706"/></Shape>
+	    <String CONTENT="BF"
+                    HPOS="1958"
+                    VPOS="659"
+                    WIDTH="69"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="1792 785 2190 775" 
+                    HPOS="1790"
+                    VPOS="739"
+                    WIDTH="399"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1791 783 1791 814 1866 812 1873 814 1937 835 1938 835 1940 835 1986 830 1988 830 2037 809 2039 808 2040 809 2065 830 2066 830 2067 830 2088 831 2089 831 2114 830 2115 830 2116 830 2116 829 2140 805 2142 804 2147 805 2167 812 2168 812 2169 812 2170 812 2189 804 2189 774 2186 742 2150 739 2148 739 2147 739 2146 739 2141 743 2132 750 2084 751 2055 747 2038 744 2037 744 2035 744 2034 744 2034 745 2033 745 2032 748 2027 754 1991 754 1986 750 1973 739 1972 739 1970 739 1969 739 1915 749 1902 739 1900 739 1899 739 1898 739 1837 740 1835 740 1790 756 1791 783"/></Shape>
+	    <String CONTENT="Albuquerque"
+                    HPOS="1790"
+                    VPOS="739"
+                    WIDTH="399"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

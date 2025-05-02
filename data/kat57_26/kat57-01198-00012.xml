@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01198-00012.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="28"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2315 1479 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="2036 60 2207 60" 
+                    HPOS="2035"
+                    VPOS="3"
+                    WIDTH="171"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="2035 59 2035 77 2053 85 2054 85 2055 85 2086 80 2095 78 2098 80 2117 88 2118 88 2119 88 2206 83 2206 59 2202 16 2185 27 2150 27 2130 16 2108 4 2107 4 2075 3 2074 3 2072 3 2035 14 2035 59"/></Shape>
+	    <String CONTENT="Kemi"
+                    HPOS="2035"
+                    VPOS="3"
+                    WIDTH="171"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2050 124 2191 120" 
+                    HPOS="2048"
+                    VPOS="80"
+                    WIDTH="142"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="2049 123 2049 145 2084 152 2085 152 2086 152 2097 150 2123 143 2135 152 2142 157 2143 157 2144 157 2145 157 2190 156 2190 119 2186 99 2134 101 2129 97 2108 80 2107 80 2106 80 2105 80 2067 81 2066 81 2065 81 2048 91 2049 123"/></Shape>
+	    <String CONTENT="Org"
+                    HPOS="2048"
+                    VPOS="80"
+                    WIDTH="142"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="173 213 2046 194" 
+                    HPOS="171"
+                    VPOS="123"
+                    WIDTH="1874"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="172 212 172 240 244 239 245 239 299 225 330 225 360 236 361 236 362 236 393 230 524 236 542 236 544 236 621 235 623 235 625 235 672 222 840 231 861 233 862 233 884 231 1046 218 1142 228 1168 230 1169 230 1263 229 1264 229 1275 226 1302 219 1362 225 1393 228 1394 228 1448 224 1589 213 1617 218 1618 218 1784 212 1808 219 1813 220 1815 220 1816 220 1829 219 1877 212 1902 218 1907 219 1908 219 1910 219 2044 215 2045 193 2040 154 2024 159 2006 152 1916 123 1914 123 1913 123 1912 123 1833 151 1792 166 1694 162 1657 150 1613 136 1612 136 1611 136 1559 149 1520 159 1412 148 1390 146 1389 146 1380 148 1305 164 1256 159 1254 159 1189 172 1043 173 914 144 890 139 889 139 868 144 755 171 688 173 587 156 541 140 498 127 497 127 496 127 192 129 191 129 171 135 172 212"/></Shape>
+	    <String CONTENT="Meyer Victor und Jacobson, Paul"
+                    HPOS="171"
+                    VPOS="123"
+                    WIDTH="1874"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="168 333 1825 324" 
+                    HPOS="166"
+                    VPOS="284"
+                    WIDTH="1658"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="167 333 167 382 320 382 322 382 325 381 412 345 431 352 433 352 434 352 435 352 459 346 524 356 525 356 597 349 598 349 632 336 697 336 740 350 741 350 819 353 871 370 904 378 905 378 906 379 985 379 985 378 987 378 1026 366 1090 346 1147 355 1148 355 1235 345 1296 350 1298 350 1425 331 1454 331 1494 345 1495 345 1496 345 1538 337 1637 351 1638 351 1696 340 1822 349 1824 323 1822 303 1773 299 1771 299 1742 303 1706 308 1692 303 1638 284 1637 284 1636 284 1475 286 1474 286 1427 305 1421 309 1385 310 1317 310 1310 307 1263 288 1262 288 1261 288 1179 308 1161 312 1080 308 952 303 951 303 950 303 927 309 915 314 847 314 840 310 790 289 789 289 788 289 787 289 723 312 713 314 679 312 642 309 588 291 587 291 586 291 584 291 519 313 514 314 505 313 375 292 373 292 318 293 317 293 262 315 257 316 166 316 167 333"/></Shape>
+	    <String CONTENT="Lehrbuch der organischen Chemie"
+                    HPOS="166"
+                    VPOS="284"
+                    WIDTH="1658"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="197 456 458 452" 
+                    HPOS="194"
+                    VPOS="392"
+                    WIDTH="263"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="196 455 196 481 304 481 306 481 307 481 317 473 328 466 368 466 373 469 384 479 386 479 387 479 388 479 389 479 420 466 423 463 457 462 457 451 452 419 440 425 431 420 403 402 402 402 401 402 399 402 398 402 397 402 372 421 367 425 363 423 334 393 334 392 333 392 331 392 281 392 280 392 278 392 277 392 234 426 231 429 194 429 196 455"/></Shape>
+	    <String CONTENT="Bd. 1.-"
+                    HPOS="194"
+                    VPOS="392"
+                    WIDTH="263"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1306 432 1895 426" 
+                    HPOS="1304"
+                    VPOS="381"
+                    WIDTH="590"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="1305 431 1305 448 1360 453 1418 500 1420 500 1421 500 1422 500 1453 499 1454 499 1455 499 1481 483 1499 499 1500 499 1501 499 1502 499 1576 498 1578 498 1579 498 1638 446 1653 446 1716 497 1717 497 1718 497 1720 497 1721 497 1722 497 1778 448 1894 442 1894 425 1890 399 1858 402 1853 399 1819 383 1818 383 1817 383 1779 389 1728 384 1727 384 1726 384 1724 384 1696 403 1694 405 1569 408 1563 407 1544 399 1543 399 1542 399 1541 399 1521 407 1520 408 1520 407 1500 390 1500 389 1499 389 1497 389 1496 389 1495 389 1483 393 1470 382 1470 381 1469 381 1468 381 1422 381 1421 381 1394 382 1393 382 1391 382 1357 410 1357 411 1304 411 1305 431"/></Shape>
+	    <String CONTENT="Leipzig 1893 -"
+                    HPOS="1304"
+                    VPOS="381"
+                    WIDTH="590"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="204 573 799 562 2267 551" 
+                    HPOS="202"
+                    VPOS="488"
+                    WIDTH="2064"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="203 572 203 625 636 621 637 621 657 615 746 585 848 589 850 589 905 578 973 588 974 588 1053 579 1121 585 1122 585 1207 578 1277 588 1407 590 1409 590 1410 590 1422 585 1452 594 1520 614 1521 614 1522 615 1553 615 1553 614 1554 614 1627 589 1639 584 1738 575 1821 583 1822 583 1823 583 1866 568 1938 574 1939 574 2039 567 2154 575 2162 575 2164 575 2266 572 2266 550 2262 520 2206 520 2202 520 2096 488 2095 488 2093 488 1939 490 1938 490 1884 509 1731 521 1685 526 1510 526 1492 522 1375 495 1283 495 1282 495 1111 516 1040 498 1038 498 1037 498 964 499 963 499 874 525 848 534 656 534 623 526 546 509 545 509 479 524 350 504 349 504 293 505 202 527 203 572"/></Shape>
+	    <String CONTENT="Bd.1. Algemeiner Theil. Verbindungen der Fettreihe"
+                    HPOS="202"
+                    VPOS="488"
+                    WIDTH="2064"
+                    HEIGHT="137"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

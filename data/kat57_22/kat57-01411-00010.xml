@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01411-00010.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1470"
+          PHYSICAL_IMG_NR="16"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1470">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1468"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1469 2319 1469 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="208 269 768 266" 
+                    HPOS="207"
+                    VPOS="225"
+                    WIDTH="560"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="207 305 469 309 470 309 471 309 493 298 504 306 506 306 507 306 508 306 509 306 511 306 511 305 519 297 525 291 650 291 653 294 665 305 666 305 667 305 669 305 670 305 694 292 698 291 765 291 767 265 764 238 739 238 739 237 731 231 731 230 730 230 729 230 727 230 726 230 713 236 705 229 705 227 704 227 703 227 702 227 661 236 652 237 637 235 604 230 602 230 601 230 590 233 582 237 576 233 566 229 564 229 563 229 562 229 561 229 553 233 546 238 493 238 476 231 460 226 459 226 458 226 457 226 446 231 431 237 409 231 408 231 406 231 405 231 404 231 393 238 378 230 371 225 370 225 368 225 367 225 366 225 365 225 360 229 352 233 343 229 334 225 333 225 269 225 268 225 267 225 261 227 238 235 207 226 207 268 207 305"/></Shape>
+	    <String CONTENT="PIENIĄZEK, Czesław"
+                    HPOS="207"
+                    VPOS="225"
+                    WIDTH="560"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="197 368 1294 368" 
+                    HPOS="196"
+                    VPOS="328"
+                    WIDTH="1096"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="196 367 196 398 241 409 242 409 288 400 310 407 311 407 312 407 313 407 314 407 327 400 393 409 394 410 672 410 672 409 674 409 702 401 769 409 770 409 832 400 884 409 886 409 887 409 905 399 906 399 915 399 1022 407 1023 407 1024 407 1050 399 1052 399 1152 399 1155 399 1187 407 1188 407 1190 407 1292 399 1292 367 1292 338 1240 338 1221 328 1220 328 1219 328 1170 336 1115 328 1114 328 1057 338 963 338 904 328 903 328 821 335 803 328 802 328 659 328 658 328 606 336 582 328 580 328 579 328 578 328 552 336 530 330 529 330 528 330 417 336 368 328 367 328 323 336 256 328 254 328 196 336 196 367"/></Shape>
+	    <String CONTENT="Z dawnych lat. Gawędy i opowiadania."
+                    HPOS="196"
+                    VPOS="328"
+                    WIDTH="1096"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1310 463 1804 467" 
+                    HPOS="1307"
+                    VPOS="418"
+                    WIDTH="495"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="1308 461 1307 497 1340 501 1341 501 1343 501 1349 497 1364 490 1377 497 1384 501 1386 501 1387 501 1388 501 1403 497 1429 490 1437 497 1442 501 1442 502 1443 502 1444 502 1446 503 1469 503 1469 502 1470 502 1487 496 1503 491 1511 496 1519 502 1520 502 1522 502 1571 503 1572 503 1573 503 1601 496 1611 492 1677 492 1693 494 1745 504 1746 504 1747 504 1769 494 1772 493 1800 493 1802 466 1802 437 1734 420 1712 420 1710 420 1709 420 1708 420 1694 431 1670 418 1669 418 1582 418 1580 418 1579 418 1578 418 1578 420 1568 428 1555 423 1554 423 1552 423 1551 423 1518 433 1469 423 1468 423 1467 423 1442 433 1440 433 1377 433 1377 432 1354 422 1353 422 1351 422 1308 431 1308 461"/></Shape>
+	    <String CONTENT="8:o Kraków1902."
+                    HPOS="1307"
+                    VPOS="418"
+                    WIDTH="495"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2076 60 2192 60" 
+                    HPOS="2074"
+                    VPOS="28"
+                    WIDTH="117"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="2074 58 2074 79 2190 88 2191 58 2191 30 2074 28 2074 58"/></Shape>
+	    <String CONTENT="Vitt"
+                    HPOS="2074"
+                    VPOS="28"
+                    WIDTH="117"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2101 145 2186 141" 
+                    HPOS="2098"
+                    VPOS="86"
+                    WIDTH="87"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="2100 160 2183 165 2185 140 2181 96 2145 89 2144 89 2143 89 2142 89 2139 91 2132 98 2098 86 2100 144 2100 160"/></Shape>
+	    <String CONTENT="Pol."
+                    HPOS="2098"
+                    VPOS="86"
+                    WIDTH="87"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

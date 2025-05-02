@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01334-00248.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="39"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2315 1479 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="250 264 1041 260" 
+                    HPOS="248"
+                    VPOS="176"
+                    WIDTH="792"
+                    HEIGHT="154">
+            <Shape><Polygon POINTS="249 263 249 288 286 305 287 305 288 305 331 299 356 305 357 305 359 305 360 305 386 298 419 307 420 307 421 307 423 307 449 296 484 303 486 303 487 303 507 297 591 298 624 328 624 329 625 329 626 329 628 330 644 330 644 329 772 328 773 328 774 328 774 326 802 302 827 312 829 312 830 312 831 312 832 312 832 310 853 292 869 287 877 286 936 286 937 287 973 316 974 316 976 316 977 316 978 316 1040 287 1040 259 1033 204 1024 213 951 213 941 204 941 203 940 203 938 203 937 203 931 204 905 209 898 203 877 187 876 187 874 187 873 187 872 187 860 192 843 177 843 176 842 176 841 176 840 176 839 176 837 176 800 203 793 207 766 205 763 202 736 178 736 177 735 177 734 177 714 177 713 177 711 177 682 193 642 193 641 193 640 193 639 193 626 201 619 205 582 203 578 201 556 188 555 188 554 188 552 188 529 201 502 215 461 215 444 199 421 180 420 180 419 180 319 180 318 180 317 180 315 180 287 198 277 204 248 198 249 263"/></Shape>
+	    <String CONTENT="Olander, L(ars) J(ohan)"
+                    HPOS="248"
+                    VPOS="176"
+                    WIDTH="792"
+                    HEIGHT="154"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="359 428 1998 428" 
+                    HPOS="357"
+                    VPOS="350"
+                    WIDTH="1640"
+                    HEIGHT="139">
+            <Shape><Polygon POINTS="357 427 357 457 401 450 528 450 546 457 625 488 626 488 628 489 702 489 702 488 703 488 778 456 781 453 989 450 1021 455 1052 458 1053 458 1075 453 1079 453 1082 453 1194 488 1195 488 1196 489 1562 489 1562 488 1563 488 1596 474 1752 451 1773 458 1774 458 1775 458 1776 458 1806 450 1807 450 1810 450 1833 457 1834 457 1836 457 1912 450 1913 450 1914 450 1965 460 1966 460 1968 460 1997 448 1997 427 1997 387 1638 387 1628 382 1585 363 1584 363 1583 363 1581 363 1557 370 1509 353 1507 353 1506 353 1505 353 1468 366 1377 356 1375 356 1374 356 1314 378 1312 378 1305 378 1256 373 1207 353 1206 353 1205 353 1159 361 1089 350 1088 350 1019 362 987 350 985 350 952 350 951 350 950 350 918 365 876 367 792 353 790 353 671 360 603 350 602 350 539 365 472 350 414 350 413 350 412 350 357 366 357 427"/></Shape>
+	    <String CONTENT="Oration öfver Prestmotes-afhandlingens ämne."
+                    HPOS="357"
+                    VPOS="350"
+                    WIDTH="1640"
+                    HEIGHT="139"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="601 592 1764 584" 
+                    HPOS="599"
+                    VPOS="514"
+                    WIDTH="1164"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="600 592 600 625 674 621 690 626 697 629 698 629 699 629 715 626 735 624 806 626 925 631 926 631 927 631 929 631 935 626 951 615 964 620 966 620 967 620 968 620 987 611 1041 611 1073 621 1074 621 1075 621 1077 621 1101 611 1222 610 1241 616 1242 616 1243 616 1244 616 1264 609 1363 609 1410 625 1414 626 1415 626 1416 626 1417 626 1420 625 1433 619 1496 622 1497 622 1499 622 1541 608 1626 625 1631 625 1632 625 1763 624 1763 583 1759 542 1652 545 1634 541 1626 538 1625 538 1623 538 1622 538 1617 541 1592 552 1516 552 1494 540 1448 514 1447 514 1446 514 1420 515 1418 515 1417 515 1386 534 1375 530 1374 530 1373 530 1372 530 1353 538 1339 545 1332 540 1331 540 1330 540 1328 540 1327 540 1309 546 1288 537 1235 516 1233 516 1232 516 1231 516 1190 537 1157 555 1017 555 982 535 953 520 952 520 951 520 950 520 926 529 904 519 903 519 901 519 834 526 809 519 808 519 806 519 805 519 776 531 753 520 752 520 631 520 630 520 629 520 599 531 600 592"/></Shape>
+	    <String CONTENT="(Protokoll v. Jrestm. i Skara 1878)"
+                    HPOS="599"
+                    VPOS="514"
+                    WIDTH="1164"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

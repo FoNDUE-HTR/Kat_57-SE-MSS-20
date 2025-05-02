@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00240.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="42"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2319 1479 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2052 53 2269 50" 
+                    HPOS="2049"
+                    VPOS="14"
+                    WIDTH="219"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="2051 51 2051 77 2171 67 2266 75 2268 49 2266 30 2249 22 2248 22 2247 22 2194 29 2176 20 2175 20 2174 20 2173 20 2171 20 2163 27 2149 16 2149 14 2148 14 2147 14 2101 14 2100 14 2099 14 2097 14 2079 29 2077 30 2049 29 2051 51"/></Shape>
+	    <String CONTENT="Geogr"
+                    HPOS="2049"
+                    VPOS="14"
+                    WIDTH="219"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2053 138 2247 138" 
+                    HPOS="2052"
+                    VPOS="82"
+                    WIDTH="193"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="2052 136 2052 171 2100 173 2101 173 2102 173 2117 167 2126 164 2132 166 2152 173 2153 173 2154 173 2155 173 2183 162 2192 159 2245 159 2245 136 2245 82 2206 82 2205 82 2204 82 2202 82 2202 83 2196 88 2181 103 2164 108 2148 94 2134 83 2133 83 2132 83 2114 82 2112 82 2111 82 2110 82 2085 104 2080 109 2052 109 2052 136"/></Shape>
+	    <String CONTENT="Balt."
+                    HPOS="2052"
+                    VPOS="82"
+                    WIDTH="193"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="254 200 700 202" 
+                    HPOS="251"
+                    VPOS="159"
+                    WIDTH="448"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="251 238 282 245 283 245 455 239 476 245 477 245 478 245 479 245 494 238 531 245 532 245 534 245 535 245 552 233 557 230 698 230 699 201 698 175 661 175 659 173 627 159 626 159 563 159 562 159 514 168 493 159 492 159 490 159 489 159 469 168 460 173 404 167 392 166 390 166 389 166 387 166 368 173 310 167 309 167 278 173 254 164 252 199 251 238"/></Shape>
+	    <String CONTENT="MORTENSEN, Hans"
+                    HPOS="251"
+                    VPOS="159"
+                    WIDTH="448"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="228 308 1570 308" 
+                    HPOS="226"
+                    VPOS="267"
+                    WIDTH="1342"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="226 307 226 324 265 334 266 334 420 326 444 325 448 326 476 334 477 334 478 335 753 335 753 334 754 334 772 329 783 325 996 325 1026 330 1040 333 1042 333 1043 333 1049 330 1066 325 1169 325 1182 331 1185 333 1186 333 1187 333 1188 333 1192 331 1209 325 1329 333 1336 333 1338 333 1340 333 1381 325 1397 333 1399 334 1401 334 1402 334 1408 334 1449 325 1567 334 1568 307 1567 267 1470 276 1390 267 1380 267 1378 267 1377 267 1376 268 1359 277 1299 268 1288 267 1287 267 1286 267 1281 268 1249 277 1154 270 1123 267 1076 267 1075 267 1074 267 1066 270 1048 277 1007 270 995 268 994 268 992 268 987 271 976 277 920 277 895 271 880 267 879 267 846 267 844 267 843 267 835 271 823 278 741 278 730 272 719 267 717 267 716 267 675 272 636 277 578 273 530 270 529 270 489 273 453 277 446 273 437 270 436 270 435 270 409 275 390 277 370 275 318 267 316 267 315 267 289 275 281 277 226 276 226 307"/></Shape>
+	    <String CONTENT="Litauen. Grundzüge einer Landeskunde. [Ill. ]"
+                    HPOS="226"
+                    VPOS="267"
+                    WIDTH="1342"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1452 404 1978 408" 
+                    HPOS="1450"
+                    VPOS="357"
+                    WIDTH="527"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1451 403 1450 427 1480 435 1481 435 1482 435 1483 435 1483 434 1489 429 1491 427 1524 427 1533 430 1555 436 1556 436 1557 436 1559 436 1570 430 1578 426 1588 431 1594 434 1596 434 1597 434 1598 434 1604 431 1618 426 1649 432 1660 434 1661 434 1670 432 1698 427 1725 434 1737 436 1739 436 1740 436 1745 434 1762 427 1788 435 1800 439 1801 439 1803 440 1893 440 1893 439 1894 439 1898 437 1916 429 1946 429 1973 439 1977 407 1975 366 1889 361 1888 361 1887 361 1885 361 1882 363 1864 376 1853 367 1852 367 1851 367 1850 367 1848 367 1819 378 1777 367 1776 367 1774 367 1773 367 1746 377 1730 361 1729 361 1729 360 1727 360 1726 360 1688 360 1687 360 1686 360 1683 361 1657 373 1652 368 1652 367 1651 367 1650 367 1649 367 1614 372 1598 366 1597 366 1596 366 1594 366 1593 366 1593 367 1583 377 1512 377 1497 365 1496 365 1494 365 1451 357 1451 403"/></Shape>
+	    <String CONTENT="8:o Hamburg 1926."
+                    HPOS="1450"
+                    VPOS="357"
+                    WIDTH="527"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="272 548 1237 541" 
+                    HPOS="270"
+                    VPOS="500"
+                    WIDTH="965"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="271 547 271 564 405 575 407 575 408 575 409 575 425 566 426 566 444 571 445 571 446 571 447 571 461 566 468 563 477 566 495 573 497 573 559 574 561 574 562 574 587 567 603 562 690 563 695 567 703 573 704 573 705 573 706 573 733 567 758 562 779 568 794 572 795 572 796 572 798 572 809 568 826 561 838 568 843 572 844 572 846 572 847 572 875 568 936 559 959 568 964 571 965 571 966 572 1039 572 1039 571 1053 569 1128 558 1177 569 1179 569 1180 571 1234 571 1235 540 1232 500 1200 501 1198 501 1197 501 1185 511 1135 505 1134 505 1133 505 1132 505 1123 511 1101 503 1100 503 1098 503 1097 503 1070 513 1037 504 1033 503 1032 503 984 503 983 503 981 503 978 504 960 513 842 508 769 504 768 504 767 504 765 504 758 509 756 510 741 509 699 505 698 505 696 505 695 505 689 510 680 516 642 516 632 511 620 506 619 506 617 506 616 506 615 506 609 511 603 516 558 516 553 513 547 508 546 508 545 508 543 508 542 508 530 513 522 518 477 518 464 514 430 508 429 508 427 508 408 515 403 518 400 515 388 508 387 508 386 508 329 508 328 508 326 508 325 508 313 518 312 519 270 519 271 547"/></Shape>
+	    <String CONTENT="Osteuropa-Institut in Breslau.]"
+                    HPOS="270"
+                    VPOS="500"
+                    WIDTH="965"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

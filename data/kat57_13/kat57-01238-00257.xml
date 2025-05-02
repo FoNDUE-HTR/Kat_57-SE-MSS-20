@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00257.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2300"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="48"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2300"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2298"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2299 1471 2299 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="221 260 1268 258" 
+                    HPOS="219"
+                    VPOS="204"
+                    WIDTH="1048"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="220 258 222 290 258 278 311 285 312 285 532 284 574 282 575 282 576 282 591 272 727 272 744 283 745 283 747 283 748 283 772 278 841 290 842 290 937 272 967 291 969 291 970 291 971 291 975 291 1119 279 1146 289 1148 289 1149 289 1150 289 1183 280 1202 291 1203 291 1204 291 1205 293 1265 293 1267 257 1261 204 1248 212 1232 208 1231 208 1230 208 1229 208 1227 208 1209 220 1191 207 1189 207 1188 207 1187 207 1186 207 1132 233 1079 206 1077 204 1075 204 1010 204 1009 204 1008 204 1007 204 1005 206 961 234 842 234 792 207 787 204 786 204 700 204 699 204 697 204 690 207 617 233 426 233 394 218 393 218 392 218 391 218 349 233 311 208 306 204 305 204 304 204 302 204 219 208 220 258"/></Shape>
+	    <String CONTENT="Mortensen Johan [Martin]"
+                    HPOS="219"
+                    VPOS="204"
+                    WIDTH="1048"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="214 354 1616 357" 
+                    HPOS="212"
+                    VPOS="302"
+                    WIDTH="1403"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="213 353 212 379 258 386 260 386 261 386 276 380 278 379 282 380 300 388 301 388 302 388 304 388 329 380 344 376 363 381 386 386 387 386 409 382 468 410 469 410 471 410 642 409 644 409 666 399 707 412 709 412 710 413 805 413 805 412 807 412 859 386 861 385 931 376 1052 380 1067 388 1099 404 1100 404 1149 413 1150 414 1178 414 1178 413 1180 413 1249 390 1289 377 1491 377 1528 393 1565 408 1566 408 1567 408 1568 408 1614 393 1615 356 1614 326 1554 320 1519 305 1518 305 1517 305 1516 305 1462 323 1451 327 1437 323 1370 305 1368 305 1263 305 1262 305 1222 314 1177 305 1176 305 1175 305 1146 318 1119 305 1118 305 1117 305 1116 305 1065 320 1037 328 944 328 926 318 910 310 908 310 907 310 863 317 854 318 847 317 794 304 793 304 765 304 764 304 762 304 732 316 704 327 523 327 499 314 477 302 475 302 431 302 430 302 429 302 398 312 358 326 304 311 269 302 268 302 267 302 213 310 213 353"/></Shape>
+	    <String CONTENT="Clas Livijns lyriska skriftställarskap."
+                    HPOS="212"
+                    VPOS="302"
+                    WIDTH="1403"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="267 523 1381 515" 
+                    HPOS="264"
+                    VPOS="469"
+                    WIDTH="1116"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="266 522 266 572 387 552 434 571 439 572 440 572 441 574 502 574 502 572 504 572 511 569 544 553 570 555 571 555 572 555 605 540 705 540 739 555 740 555 742 555 782 550 783 550 785 550 802 538 962 538 1004 553 1005 553 1007 553 1034 550 1048 559 1064 567 1065 567 1067 567 1270 566 1272 566 1296 554 1308 547 1323 553 1351 564 1353 564 1354 564 1355 564 1380 552 1380 513 1376 488 1351 489 1346 486 1324 477 1323 477 1322 477 1321 477 1302 486 1295 490 1288 486 1265 475 1264 475 1263 475 1213 484 1160 469 1159 469 1070 469 1069 469 1004 483 945 496 842 496 821 486 820 486 819 486 818 486 797 498 629 498 590 478 583 475 582 475 581 475 580 475 578 475 575 478 550 494 500 499 464 494 433 477 428 474 426 474 425 474 412 477 391 480 264 475 266 522"/></Shape>
+	    <String CONTENT="[Ur Uppsala univ. årsskrift. 1913]"
+                    HPOS="264"
+                    VPOS="469"
+                    WIDTH="1116"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1933 81 2189 86" 
+                    HPOS="1930"
+                    VPOS="50"
+                    WIDTH="258"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="1932 80 1930 103 2185 106 2188 85 2187 51 2130 53 2129 53 2096 66 2042 55 2011 50 2010 50 2009 50 2008 50 1998 57 1989 62 1932 60 1932 80"/></Shape>
+	    <String CONTENT="Litt. hist"
+                    HPOS="1930"
+                    VPOS="50"
+                    WIDTH="258"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2003 163 2067 163" 
+                    HPOS="2001"
+                    VPOS="103"
+                    WIDTH="65"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="2001 161 2001 184 2066 181 2066 161 2066 116 2037 103 2036 103 2035 103 2001 104 2001 161"/></Shape>
+	    <String CONTENT="Sv"
+                    HPOS="2001"
+                    VPOS="103"
+                    WIDTH="65"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1946 217 2189 217" 
+                    HPOS="1945"
+                    VPOS="180"
+                    WIDTH="243"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1945 215 1945 235 2019 241 2032 252 2033 252 2035 252 2036 253 2100 253 2100 252 2101 252 2102 252 2102 251 2114 239 2188 237 2188 215 2188 199 2158 196 2146 185 2145 185 2144 185 2142 185 2141 185 2140 185 2127 195 2119 199 2043 199 2021 186 2012 180 2011 180 2010 180 1945 180 1945 215"/></Shape>
+	    <String CONTENT="Livijn."
+                    HPOS="1945"
+                    VPOS="180"
+                    WIDTH="243"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1598 439 2138 442" 
+                    HPOS="1595"
+                    VPOS="377"
+                    WIDTH="541"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="1595 456 1648 474 1649 474 1651 474 1652 474 1690 457 1724 473 1725 473 1776 477 1777 478 1811 478 1811 477 1813 477 1814 477 1838 461 1853 460 1865 458 1917 458 1919 461 1925 466 1927 466 1928 466 1929 466 1956 461 1965 460 1967 461 1994 478 1995 478 1997 478 1998 478 2071 474 2073 474 2074 474 2089 463 2095 460 2134 463 2136 441 2136 410 2092 391 2091 391 2055 387 2054 387 2032 388 2031 388 2030 388 2014 403 2005 410 1961 410 1951 398 1940 388 1940 387 1939 387 1938 387 1936 387 1935 387 1918 397 1896 409 1828 409 1795 390 1778 379 1777 379 1776 379 1721 379 1719 379 1718 379 1707 383 1684 394 1669 381 1667 379 1665 379 1664 379 1663 379 1647 380 1619 383 1598 377 1597 437 1595 456"/></Shape>
+	    <String CONTENT="8ᵒ Uppsala 1912."
+                    HPOS="1595"
+                    VPOS="377"
+                    WIDTH="541"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01198-00016.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1476"
+          PHYSICAL_IMG_NR="29"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1476">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1474"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1475 2319 1475 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="180 170 1036 170" 
+                    HPOS="179"
+                    VPOS="127"
+                    WIDTH="856"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="179 169 179 204 365 204 365 202 366 202 372 200 415 186 532 195 533 195 535 195 536 195 544 189 634 189 643 196 645 199 645 200 647 200 648 200 649 200 650 200 656 196 676 186 719 194 720 194 787 186 819 195 826 196 827 196 829 196 830 196 837 194 857 189 866 194 874 200 875 200 877 200 878 200 879 200 901 194 920 188 936 193 949 198 950 198 952 198 984 193 985 193 1005 202 1006 202 1007 202 1008 202 1035 191 1035 169 1034 127 987 138 872 138 862 129 861 129 861 127 859 127 858 127 840 127 838 127 826 130 789 138 690 138 681 131 676 127 675 127 674 127 647 127 645 127 624 132 605 137 599 132 594 129 594 127 592 127 591 127 559 127 558 127 530 134 511 137 505 134 495 129 494 129 404 127 403 127 362 136 353 137 348 136 328 129 327 129 226 127 225 127 223 127 222 127 210 137 209 138 179 138 179 169"/></Shape>
+	    <String CONTENT="MEYER, Wilhelm [aus Rinteln]"
+                    HPOS="179"
+                    VPOS="127"
+                    WIDTH="856"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="172 269 982 269" 
+                    HPOS="170"
+                    VPOS="232"
+                    WIDTH="811"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="170 268 170 292 225 292 246 305 247 305 248 305 249 305 250 305 273 297 300 313 301 313 302 313 303 314 419 314 419 313 453 306 474 313 476 313 477 314 533 314 533 313 535 313 553 306 572 313 573 313 574 313 575 313 576 313 586 307 653 313 654 313 655 313 685 306 697 313 698 313 699 313 701 313 702 313 703 313 731 292 822 292 834 301 835 301 836 301 837 301 838 301 854 293 915 301 916 301 917 301 918 301 931 292 981 292 981 268 980 236 948 242 933 236 925 232 923 232 922 232 884 236 864 238 862 237 856 232 854 232 853 232 768 232 767 232 766 232 755 238 744 244 699 244 683 238 663 232 661 232 660 232 659 232 638 239 633 241 627 239 612 233 611 233 520 232 519 232 480 241 467 243 448 241 419 237 418 237 386 242 373 243 371 242 355 232 354 232 353 232 328 232 327 232 325 232 303 242 301 244 254 244 252 243 221 232 220 232 218 232 170 243 170 268"/></Shape>
+	    <String CONTENT="Se: Meyer-Rinteln, Wilhelm"
+                    HPOS="170"
+                    VPOS="232"
+                    WIDTH="811"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

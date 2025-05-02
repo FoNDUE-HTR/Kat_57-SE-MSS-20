@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01411-00018.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="18"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2319 1471 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="211 233 616 233" 
+                    HPOS="209"
+                    VPOS="191"
+                    WIDTH="406"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="209 231 209 272 392 272 392 271 393 271 407 263 423 256 577 256 580 257 587 262 588 262 590 262 591 262 592 262 615 255 615 231 615 201 580 192 579 192 577 192 576 192 559 201 558 202 501 202 498 199 485 191 484 191 483 191 453 191 452 191 451 191 450 191 440 198 437 201 420 198 381 191 380 191 263 193 262 193 261 193 260 195 251 201 239 195 233 192 231 192 230 192 209 193 209 231"/></Shape>
+	    <String CONTENT="PIEPER, Franz"
+                    HPOS="209"
+                    VPOS="191"
+                    WIDTH="406"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="198 327 1765 330" 
+                    HPOS="196"
+                    VPOS="282"
+                    WIDTH="1568"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="197 326 196 350 265 354 318 369 320 369 321 369 410 361 484 365 485 365 487 365 520 355 533 352 585 356 668 364 669 364 671 364 694 358 718 352 753 359 770 361 771 361 786 359 813 354 848 360 862 361 863 361 877 360 904 356 918 360 949 370 950 370 952 370 1020 369 1021 369 1045 363 1078 353 1239 353 1290 363 1291 363 1337 354 1458 354 1518 369 1532 371 1533 372 1763 372 1764 329 1763 300 1635 290 1634 290 1593 298 1585 299 1575 298 1543 290 1542 290 1510 296 1496 299 1483 296 1446 288 1445 288 1405 295 1385 299 1344 295 1313 291 1312 291 1311 291 1301 294 1286 298 1271 294 1234 284 1232 284 1231 284 1148 293 1115 295 1082 291 1060 289 1058 289 1031 291 953 298 921 289 917 289 916 289 853 289 852 289 851 289 803 298 744 288 715 283 714 283 693 287 649 296 550 290 549 290 506 296 491 290 490 290 489 290 446 296 414 288 413 288 412 288 410 288 380 296 332 290 331 290 330 290 307 296 278 283 277 283 197 282 197 326"/></Shape>
+	    <String CONTENT="Christliche Dogmatik. Umgearbeitet von J.T. Mueller."
+                    HPOS="196"
+                    VPOS="282"
+                    WIDTH="1568"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1998 40 2147 40" 
+                    HPOS="1997"
+                    VPOS="1"
+                    WIDTH="148"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="2086 1 2085 1 2084 1 2074 9 2067 15 1997 15 1997 39 1997 55 2020 63 2021 63 2023 63 2024 63 2041 56 2054 67 2056 67 2057 67 2058 67 2097 60 2106 67 2107 67 2108 67 2110 67 2111 67 2112 67 2112 66 2124 55 2145 55 2145 39 2145 4 2088 1 2086 1"/></Shape>
+	    <String CONTENT="Teol."
+                    HPOS="1997"
+                    VPOS="1"
+                    WIDTH="148"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2000 99 2222 99" 
+                    HPOS="1999"
+                    VPOS="58"
+                    WIDTH="222"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1999 98 1999 117 2019 130 2020 130 2021 130 2023 130 2024 130 2045 120 2078 141 2079 141 2080 141 2081 141 2145 139 2147 139 2148 139 2148 138 2165 123 2171 117 2220 125 2221 98 2219 66 2199 71 2167 63 2143 58 2142 58 2140 58 2139 58 2139 60 2135 62 2126 72 2080 72 2053 60 2050 58 2048 58 1999 58 1999 98"/></Shape>
+	    <String CONTENT="Dogm."
+                    HPOS="1999"
+                    VPOS="58"
+                    WIDTH="222"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1424 424 2196 429" 
+                    HPOS="1421"
+                    VPOS="382"
+                    WIDTH="773"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1423 423 1421 451 1434 458 1435 458 1436 458 1437 458 1439 458 1447 451 1451 448 1458 451 1469 456 1471 456 1472 456 1513 452 1563 447 1570 452 1580 462 1581 462 1582 462 1615 463 1617 464 1666 464 1666 463 1667 463 1689 455 1704 448 1745 455 1808 464 1809 466 1834 466 1834 464 1835 464 1836 464 1846 456 1850 453 1867 453 1870 456 1879 463 1879 464 1880 464 1882 464 1883 466 1982 466 1982 464 1983 464 1985 464 1996 458 2008 451 2042 451 2050 457 2050 458 2051 458 2052 458 2053 458 2056 458 2097 452 2111 460 2112 460 2113 460 2115 460 2116 460 2117 460 2139 451 2158 460 2169 464 2170 464 2171 464 2193 460 2194 428 2193 403 2166 403 2166 402 2148 390 2147 390 2145 390 2144 390 2143 390 2142 390 2133 397 2113 386 2112 386 2031 386 2030 386 2029 386 1997 401 1954 401 1920 385 1918 385 1917 385 1816 401 1810 401 1809 401 1776 383 1775 383 1727 383 1726 383 1724 383 1723 383 1700 399 1699 401 1679 401 1678 399 1664 390 1663 390 1662 390 1661 390 1659 390 1634 399 1632 399 1631 399 1599 382 1598 382 1572 382 1571 382 1570 382 1569 382 1550 398 1550 399 1491 399 1490 398 1468 388 1467 388 1466 388 1423 397 1423 423"/></Shape>
+	    <String CONTENT="8:o St Louis, Miss. 1946."
+                    HPOS="1421"
+                    VPOS="382"
+                    WIDTH="773"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2046 1434 2252 1438" 
+                    HPOS="2043"
+                    VPOS="1386"
+                    WIDTH="208"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="2045 1433 2043 1449 2118 1459 2120 1459 2250 1453 2251 1437 2251 1406 2196 1406 2185 1400 2169 1392 2167 1392 2166 1392 2128 1393 2123 1387 2122 1387 2122 1386 2121 1386 2120 1386 2090 1386 2089 1386 2088 1386 2086 1386 2079 1392 2073 1395 2045 1389 2045 1433"/></Shape>
+	    <String CONTENT="21.3.50"
+                    HPOS="2043"
+                    VPOS="1386"
+                    WIDTH="208"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

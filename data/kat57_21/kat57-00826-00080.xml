@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00826-00080.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1476"
+          PHYSICAL_IMG_NR="29"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1476">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1474"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1475 2311 1475 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="102 197 453 193" 
+                    HPOS="99"
+                    VPOS="154"
+                    WIDTH="353"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="100 196 100 214 140 214 141 214 153 222 155 222 156 222 157 222 263 214 284 225 285 225 286 226 364 226 364 225 452 209 452 191 450 159 301 154 300 154 99 166 100 196"/></Shape>
+	    <String CONTENT="JAARVERSLAG"
+                    HPOS="99"
+                    VPOS="154"
+                    WIDTH="353"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="103 297 1254 293" 
+                    HPOS="100"
+                    VPOS="254"
+                    WIDTH="1153"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="102 296 102 314 483 321 484 321 1252 311 1253 292 1250 261 1226 265 1220 261 1210 254 1209 254 1208 254 1112 254 1111 254 1109 254 1086 263 1084 263 1077 263 1024 254 1023 254 1022 254 1021 254 1008 263 1007 263 1002 263 872 254 871 254 869 254 845 264 841 266 679 266 676 265 669 260 668 260 666 260 665 260 599 263 586 255 585 255 584 255 583 255 534 264 510 255 509 255 508 255 506 255 505 255 494 261 361 261 360 261 359 261 358 261 348 268 342 268 252 261 251 261 249 261 248 261 238 268 187 263 185 263 100 269 102 296"/></Shape>
+	    <String CONTENT="van die Nasionale museum Blomefintein."
+                    HPOS="100"
+                    VPOS="254"
+                    WIDTH="1153"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="103 399 1733 391" 
+                    HPOS="100"
+                    VPOS="353"
+                    WIDTH="1632"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="102 398 102 419 136 430 137 430 139 430 212 420 345 429 346 429 348 429 376 420 425 434 426 434 428 434 659 429 660 429 684 419 692 416 751 419 794 421 796 421 797 421 801 419 810 415 1048 415 1061 419 1092 430 1093 430 1095 430 1346 429 1347 429 1384 419 1391 418 1396 419 1406 424 1407 424 1408 424 1410 424 1419 419 1424 418 1428 419 1438 424 1439 424 1440 425 1541 425 1541 424 1566 419 1610 412 1731 419 1732 389 1730 362 1678 353 1677 353 1618 359 1499 353 1498 353 1462 360 1322 354 1321 354 1320 354 1298 361 1294 364 1230 364 1182 361 1086 356 1085 356 1048 361 1021 365 996 361 964 356 820 356 819 356 818 356 799 361 792 362 766 361 708 357 707 357 685 361 655 366 623 361 607 359 474 359 473 359 472 359 467 361 452 367 408 361 391 359 390 359 376 361 332 370 162 370 145 361 142 360 141 360 140 360 100 360 102 398"/></Shape>
+	    <String CONTENT="Se: Annual report of the National museum Bloemfontein."
+                    HPOS="100"
+                    VPOS="353"
+                    WIDTH="1632"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="623 471 848 467" 
+                    HPOS="621"
+                    VPOS="431"
+                    WIDTH="226"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="622 469 622 488 627 493 628 493 629 493 631 494 696 494 696 493 697 493 713 485 716 484 845 485 847 466 844 441 804 445 793 442 773 437 772 437 771 437 770 437 754 444 733 431 732 431 730 431 729 431 728 431 727 431 703 446 690 434 690 432 689 432 687 432 647 432 645 432 644 432 643 432 621 445 622 469"/></Shape>
+	    <String CONTENT="Naturv."
+                    HPOS="621"
+                    VPOS="431"
+                    WIDTH="226"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="643 522 835 519" 
+                    HPOS="641"
+                    VPOS="484"
+                    WIDTH="193"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="642 521 642 536 669 546 670 546 671 546 673 546 690 537 728 544 729 544 761 537 776 533 781 537 787 542 787 543 788 543 789 543 791 543 834 537 834 517 833 500 802 484 801 484 783 484 782 484 781 484 780 484 780 485 767 498 765 501 700 501 692 495 681 487 680 487 679 487 677 487 641 493 642 521"/></Shape>
+	    <String CONTENT="Inst."
+                    HPOS="641"
+                    VPOS="484"
+                    WIDTH="193"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="685 579 770 579" 
+                    HPOS="684"
+                    VPOS="535"
+                    WIDTH="85"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="684 578 684 603 708 621 709 621 711 621 712 622 733 622 733 621 734 621 735 621 735 619 754 602 769 602 769 578 769 552 750 552 746 548 735 538 735 537 734 537 733 537 732 537 730 537 729 537 718 544 701 535 700 535 698 535 697 535 684 538 684 578"/></Shape>
+	    <String CONTENT="Afr"
+                    HPOS="684"
+                    VPOS="535"
+                    WIDTH="85"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="575 656 1428 651" 
+                    HPOS="573"
+                    VPOS="612"
+                    WIDTH="854"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="574 655 574 717 581 722 583 722 584 722 585 723 679 723 679 722 680 722 709 707 716 704 719 707 732 715 733 715 734 715 735 715 737 715 738 715 749 708 766 719 767 719 769 719 770 719 771 719 772 719 797 703 809 694 819 702 845 720 846 720 847 720 849 722 903 722 903 720 904 720 959 696 1001 676 1066 678 1081 690 1100 703 1101 703 1102 703 1103 703 1135 696 1136 696 1138 696 1151 686 1165 676 1227 676 1240 682 1268 694 1269 694 1271 694 1272 694 1273 694 1288 681 1304 688 1305 688 1306 688 1307 688 1309 688 1325 677 1331 675 1395 675 1402 681 1403 681 1405 681 1406 681 1407 681 1427 672 1427 650 1426 618 1415 613 1413 613 1412 613 1411 613 1410 613 1403 618 1389 629 1363 618 1360 617 1359 617 1358 617 1357 617 1355 617 1354 618 1343 624 1284 618 1282 618 1280 618 1279 618 1278 618 1264 630 1245 630 1211 618 1194 612 1193 612 1149 612 1148 612 1146 612 1134 618 1107 632 1006 632 985 618 979 613 978 613 976 613 975 613 974 613 973 613 967 618 944 633 916 633 900 618 896 616 896 615 895 615 894 615 893 615 892 615 890 615 887 618 866 633 828 633 762 629 750 618 749 617 749 616 748 616 746 616 745 616 744 616 743 616 741 618 737 622 724 618 714 615 713 615 712 615 573 617 574 655"/></Shape>
+	    <String CONTENT="{[Bloemfontein. Nas. mus"
+                    HPOS="573"
+                    VPOS="612"
+                    WIDTH="854"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

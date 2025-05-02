@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01198-00302.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="48"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2327 1477 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="320 69 976 72" 
+                    HPOS="317"
+                    VPOS="14"
+                    WIDTH="658"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="319 68 317 89 331 100 332 100 333 100 335 100 367 94 388 112 388 113 389 113 390 113 391 114 433 114 433 113 434 113 436 113 470 91 503 88 530 88 576 88 601 112 601 113 602 113 603 113 646 114 647 115 681 115 681 114 682 114 683 114 683 113 709 89 732 100 734 100 735 100 736 100 757 91 759 89 801 89 803 91 842 114 843 114 844 114 846 115 879 115 879 114 880 114 881 114 881 113 900 98 917 112 918 112 920 112 921 112 922 112 923 112 923 110 944 93 974 93 975 71 974 45 923 38 922 38 921 38 920 38 911 43 909 44 768 43 766 39 739 16 737 16 736 16 668 16 667 16 666 16 620 36 617 38 615 36 591 14 590 14 588 14 572 14 571 14 570 14 569 14 569 16 548 34 543 39 535 34 509 14 508 14 507 14 506 14 461 16 460 16 459 16 459 17 443 32 439 35 411 44 378 44 363 30 347 17 347 16 346 16 344 16 332 14 331 14 330 14 328 14 328 16 319 25 319 68"/></Shape>
+	    <String CONTENT="Meynell, A., f. Thompson"
+                    HPOS="317"
+                    VPOS="14"
+                    WIDTH="658"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="270 264 716 260" 
+                    HPOS="268"
+                    VPOS="213"
+                    WIDTH="447"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="269 263 269 289 288 299 289 299 290 300 417 300 417 299 495 298 496 298 497 298 512 286 523 280 714 284 715 259 711 224 662 227 647 224 613 213 612 213 610 213 575 215 573 215 572 215 572 216 564 224 557 230 507 230 497 224 485 214 484 214 482 214 481 214 480 214 456 224 452 225 440 224 395 215 394 215 392 215 391 215 380 224 374 227 368 224 358 215 357 215 355 215 354 215 268 222 269 263"/></Shape>
+	    <String CONTENT="MEYNELL, Viola"
+                    HPOS="268"
+                    VPOS="213"
+                    WIDTH="447"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="269 363 1203 358" 
+                    HPOS="267"
+                    VPOS="320"
+                    WIDTH="935"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="268 362 268 381 294 390 295 390 296 390 353 383 391 391 392 391 394 391 395 391 408 383 444 389 445 389 496 383 512 390 513 390 514 390 569 381 598 389 599 389 601 389 697 381 769 389 771 390 873 390 873 389 874 389 875 389 881 383 893 389 894 389 895 390 966 390 966 389 968 389 994 379 995 379 1082 379 1083 379 1125 387 1127 387 1200 378 1202 357 1199 322 1152 322 1151 322 1150 322 1149 322 1139 331 1106 323 1091 320 968 320 966 320 925 321 923 321 912 326 897 332 852 327 841 326 840 326 838 326 837 326 836 327 828 332 767 328 748 327 747 327 727 328 676 333 668 330 665 326 663 326 662 326 661 326 619 330 587 333 578 331 564 326 562 326 561 326 560 326 545 331 539 333 524 332 492 327 491 327 465 332 453 335 428 333 314 323 312 323 311 323 267 335 268 362"/></Shape>
+	    <String CONTENT="Alice Meynell. A memoir. [Ill.]"
+                    HPOS="267"
+                    VPOS="320"
+                    WIDTH="935"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1286 459 1812 462" 
+                    HPOS="1284"
+                    VPOS="416"
+                    WIDTH="527"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1285 458 1284 477 1308 488 1309 488 1310 490 1354 490 1354 488 1356 488 1357 488 1357 487 1363 482 1386 488 1388 488 1389 488 1390 488 1391 488 1406 477 1448 477 1449 477 1487 488 1489 488 1490 488 1549 479 1625 485 1627 485 1657 480 1688 491 1689 491 1691 492 1779 492 1779 491 1781 491 1810 479 1811 461 1811 421 1742 419 1741 419 1740 419 1739 419 1712 427 1660 419 1659 419 1657 419 1656 419 1634 434 1575 434 1565 426 1565 424 1564 424 1563 424 1561 424 1560 424 1540 434 1478 434 1468 427 1467 427 1465 427 1464 427 1379 432 1333 417 1332 417 1285 416 1285 458"/></Shape>
+	    <String CONTENT="8:o London 1929."
+                    HPOS="1284"
+                    VPOS="416"
+                    WIDTH="527"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2105 64 2301 57" 
+                    HPOS="2101"
+                    VPOS="12"
+                    WIDTH="199"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="2103 62 2103 96 2158 93 2159 93 2160 93 2160 92 2162 91 2174 81 2197 87 2210 89 2212 89 2213 89 2214 89 2214 88 2218 84 2229 73 2299 75 2300 56 2298 34 2259 27 2257 27 2245 28 2196 36 2175 22 2162 12 2161 12 2160 12 2159 12 2101 13 2103 62"/></Shape>
+	    <String CONTENT="Biogr."
+                    HPOS="2101"
+                    VPOS="12"
+                    WIDTH="199"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2149 136 2279 133" 
+                    HPOS="2145"
+                    VPOS="92"
+                    WIDTH="134"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="2148 135 2149 178 2187 178 2196 182 2219 194 2220 194 2222 194 2279 189 2278 131 2275 112 2218 114 2199 100 2188 92 2187 92 2186 92 2185 92 2145 93 2148 135"/></Shape>
+	    <String CONTENT="Eng."
+                    HPOS="2145"
+                    VPOS="92"
+                    WIDTH="134"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

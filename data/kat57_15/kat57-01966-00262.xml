@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01966-00262.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2332"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="24"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2332"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2330"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2331 1477 2331 1"/></Shape>
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2120 86 2285 83" 
+                    HPOS="2117"
+                    VPOS="27"
+                    WIDTH="166"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="2118 84 2118 105 2168 109 2169 109 2170 109 2198 100 2201 99 2211 108 2212 108 2213 108 2214 109 2238 109 2238 108 2239 108 2240 108 2240 107 2251 96 2253 94 2283 93 2283 82 2279 27 2243 45 2208 35 2190 30 2189 30 2187 30 2117 46 2118 84"/></Shape>
+	    <String CONTENT="Teol"
+                    HPOS="2117"
+                    VPOS="27"
+                    WIDTH="166"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="246 196 473 193" 
+                    HPOS="243"
+                    VPOS="147"
+                    WIDTH="228"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="245 195 245 220 274 231 275 231 277 231 311 230 312 230 314 230 314 229 320 222 323 220 470 227 471 192 469 162 326 162 307 151 303 147 301 147 300 147 243 147 245 195"/></Shape>
+	    <String CONTENT="UNKNOWN"
+                    HPOS="243"
+                    VPOS="147"
+                    WIDTH="228"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2162 211 2282 216" 
+                    HPOS="2159"
+                    VPOS="157"
+                    WIDTH="122"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="2161 210 2159 250 2194 252 2195 252 2196 252 2214 243 2229 236 2280 236 2281 215 2281 192 2253 190 2249 187 2226 166 2224 166 2196 157 2195 157 2181 157 2180 157 2179 157 2178 157 2163 169 2161 210"/></Shape>
+	    <String CONTENT="Ber"
+                    HPOS="2159"
+                    VPOS="157"
+                    WIDTH="122"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="240 276 2077 267" 
+                    HPOS="237"
+                    VPOS="227"
+                    WIDTH="1839"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="238 275 238 315 373 315 431 301 532 309 533 309 534 309 566 299 703 299 756 309 757 309 808 299 853 311 859 312 861 312 862 314 926 314 926 312 969 310 1157 296 1223 307 1241 310 1242 311 1282 311 1282 310 1283 310 1295 306 1334 296 1412 304 1414 304 1454 295 1653 295 1675 302 1688 307 1690 307 1691 307 1746 302 1821 295 1870 301 1910 306 1911 307 2053 307 2053 306 2054 306 2076 299 2076 266 2073 227 1899 229 1898 229 1840 240 1777 240 1751 230 1750 230 1749 230 1748 230 1611 240 1485 231 1470 231 1469 231 1459 232 1379 241 1332 234 1331 234 1261 241 1127 235 1100 234 1098 234 1072 235 980 241 960 236 959 236 958 236 957 236 923 243 683 238 680 238 678 238 641 245 550 238 496 236 495 236 493 236 482 240 461 246 405 240 373 237 372 237 237 241 238 275"/></Shape>
+	    <String CONTENT="1. The great unknown. 2. A sketch on life&#x27;s ocean by J.E.A."
+                    HPOS="237"
+                    VPOS="227"
+                    WIDTH="1839"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1309 347 1807 347" 
+                    HPOS="1308"
+                    VPOS="311"
+                    WIDTH="497"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1308 346 1308 371 1342 378 1344 378 1345 378 1363 371 1372 379 1372 380 1373 380 1374 380 1376 380 1433 371 1448 369 1452 371 1470 383 1472 383 1473 383 1474 384 1590 384 1590 383 1633 373 1642 380 1643 380 1644 380 1690 383 1691 383 1692 383 1693 383 1713 369 1714 369 1805 369 1805 346 1805 322 1782 322 1782 321 1771 312 1771 311 1770 311 1769 311 1767 311 1766 311 1749 317 1680 312 1679 312 1677 312 1660 321 1659 321 1653 321 1591 311 1590 311 1550 314 1549 314 1548 314 1548 315 1542 320 1541 322 1521 322 1518 320 1510 312 1510 311 1509 311 1507 311 1461 311 1459 311 1458 311 1441 319 1436 322 1367 322 1360 319 1345 312 1344 312 1342 312 1341 312 1340 312 1331 319 1326 321 1308 319 1308 346"/></Shape>
+	    <String CONTENT="8:o Köping 1902."
+                    HPOS="1308"
+                    VPOS="311"
+                    WIDTH="497"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

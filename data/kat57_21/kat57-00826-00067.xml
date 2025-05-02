@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00826-00067.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1488"
+          PHYSICAL_IMG_NR="24"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1488">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1486"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1487 2323 1487 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="249 270 838 278" 
+                    HPOS="246"
+                    VPOS="171"
+                    WIDTH="591"
+                    HEIGHT="139">
+            <Shape><Polygon POINTS="248 269 246 301 318 297 338 302 350 305 352 305 353 305 373 301 403 296 420 301 432 305 434 305 435 305 456 301 472 297 487 300 510 305 512 305 534 300 554 295 564 300 582 308 584 308 585 310 639 310 639 308 641 308 642 308 653 298 658 295 704 295 706 297 713 303 714 303 715 303 716 303 718 303 719 303 719 302 725 297 726 296 801 296 807 296 814 303 814 305 816 305 817 305 818 305 819 305 835 296 837 277 837 238 747 236 736 225 704 197 704 195 703 195 669 187 668 187 667 187 665 187 612 203 574 189 572 189 571 189 570 189 569 189 550 204 520 228 494 220 493 220 492 220 491 220 489 220 478 230 446 231 381 197 368 184 358 174 358 173 357 173 355 173 248 171 248 269"/></Shape>
+	    <String CONTENT="Jaarsveldt, J van"
+                    HPOS="246"
+                    VPOS="171"
+                    WIDTH="591"
+                    HEIGHT="139"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1883 50 2141 50" 
+                    HPOS="1882"
+                    VPOS="1"
+                    WIDTH="258"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1956 1 1944 1 1932 1 1919 1 1907 1 1894 1 1882 1 1882 49 1882 69 1893 69 1907 81 1907 83 1908 83 1909 83 1911 83 1963 75 1995 81 1996 81 1997 81 2012 74 2023 69 2139 79 2140 49 2139 17 2058 18 2049 9 2044 6 2044 4 2043 4 2042 4 2041 4 2013 7 1990 9 1973 4 1958 1 1956 1"/></Shape>
+	    <String CONTENT="Språkvet."
+                    HPOS="1882"
+                    VPOS="1"
+                    WIDTH="258"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1937 115 2091 115" 
+                    HPOS="1935"
+                    VPOS="73"
+                    WIDTH="155"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1935 114 1935 135 1974 132 1979 135 1989 142 1990 142 1991 142 1992 143 2048 143 2048 142 2049 142 2051 142 2062 135 2066 132 2089 133 2090 114 2090 90 2052 80 2051 80 2049 80 2048 80 2047 80 2036 89 2033 91 2016 91 2010 88 1986 73 1985 73 1984 73 1950 73 1949 73 1948 73 1947 73 1935 80 1935 114"/></Shape>
+	    <String CONTENT="Holl."
+                    HPOS="1935"
+                    VPOS="73"
+                    WIDTH="155"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="318 434 2266 426" 
+                    HPOS="316"
+                    VPOS="343"
+                    WIDTH="1949"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="317 434 318 451 476 451 532 458 533 458 589 450 597 450 606 450 665 457 667 457 708 450 715 450 724 450 782 457 783 457 820 451 843 457 844 457 845 457 1150 456 1305 450 1429 446 1532 450 1608 453 1609 453 1651 450 1723 445 2264 450 2265 425 2261 372 2110 375 2080 369 2068 367 2067 367 2066 367 2059 369 2041 376 1980 376 1939 368 1863 349 1862 349 1809 360 1733 343 1732 343 1649 364 1602 375 1561 367 1560 367 1376 379 1298 360 1278 355 1277 355 1257 359 1176 378 1077 372 1076 372 1075 372 1045 379 972 357 971 357 969 357 968 357 902 358 892 355 864 347 863 347 861 347 860 347 835 354 813 363 729 368 727 368 687 380 585 352 571 348 570 348 569 348 316 348 317 434"/></Shape>
+	    <String CONTENT="Theoretisch-Praktische und vergleichende Holländische"
+                    HPOS="316"
+                    VPOS="343"
+                    WIDTH="1949"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="227 508 2263 504" 
+                    HPOS="225"
+                    VPOS="451"
+                    WIDTH="2036"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="226 507 226 524 332 533 333 533 440 525 466 531 467 531 468 531 629 527 868 536 869 536 935 530 961 539 962 539 963 539 1127 528 1251 535 1252 535 1253 535 1292 525 1320 535 1321 535 1323 535 1393 531 1437 540 1438 540 1691 529 1736 536 1737 536 1780 528 1949 529 1985 543 1986 543 1987 544 2188 544 2188 543 2190 543 2261 520 2261 503 2259 451 2212 451 2211 451 2209 451 2208 451 2140 477 2026 477 1961 455 1949 451 1948 451 1947 451 1918 456 1889 460 1878 456 1863 451 1862 451 1774 451 1773 451 1772 451 1748 458 1689 476 1622 460 1619 460 1618 460 1617 460 1615 460 1577 473 1534 472 1506 461 1480 452 1479 452 1453 452 1452 452 1450 452 1421 462 1380 478 1107 478 1078 467 1044 456 1042 456 1041 456 994 461 953 452 952 452 951 452 900 467 860 453 859 453 787 453 786 453 785 453 749 463 689 453 688 453 687 453 637 468 585 453 584 453 455 453 453 453 452 453 373 476 323 469 322 469 321 469 295 479 225 479 226 507"/></Shape>
+	    <String CONTENT="Sprachlehre für Deutsche. Zum Gebrauch in Schulen und für"
+                    HPOS="225"
+                    VPOS="451"
+                    WIDTH="2036"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="227 586 1645 593" 
+                    HPOS="225"
+                    VPOS="533"
+                    WIDTH="1419"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="226 585 225 626 275 641 276 641 277 641 279 641 316 626 344 615 424 615 457 626 474 631 476 631 477 631 478 631 493 624 498 622 644 620 664 624 699 633 700 633 701 633 703 633 726 624 772 628 913 657 1300 659 1302 659 1303 659 1379 628 1424 622 1643 620 1644 592 1641 539 1560 540 1558 540 1493 570 1472 564 1470 564 1469 564 1410 571 1382 561 1381 561 1380 561 1379 561 1359 570 1329 564 1328 564 1326 564 1313 570 1097 570 1055 549 1028 536 1026 536 969 536 968 536 967 536 947 546 923 535 922 535 869 535 868 535 866 535 829 554 801 569 766 569 739 555 693 534 691 534 690 534 689 534 642 556 621 567 598 567 581 558 534 534 533 534 462 533 400 533 399 533 398 533 316 562 312 565 226 565 226 585"/></Shape>
+	    <String CONTENT="den Selbstunterrichte Von J. van Jaarsveldt."
+                    HPOS="225"
+                    VPOS="533"
+                    WIDTH="1419"
+                    HEIGHT="126"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1543 665 2188 654" 
+                    HPOS="1541"
+                    VPOS="611"
+                    WIDTH="646"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1542 664 1542 699 1604 688 1655 696 1656 696 1658 696 1685 685 1711 685 1729 696 1731 696 1732 696 1733 696 1734 696 1780 683 1827 683 1862 693 1863 693 1865 693 1866 693 1901 682 1960 693 1964 693 1965 693 1969 693 2009 685 2027 691 2028 691 2030 691 2031 691 2032 691 2033 691 2058 685 2186 688 2187 653 2186 626 2167 613 2166 613 2165 613 2164 613 2162 613 2139 623 2128 615 2126 615 2125 615 2072 612 2071 612 2069 612 2068 612 2042 631 2037 634 1945 634 1943 633 1913 611 1912 611 1911 611 1909 611 1908 611 1877 623 1827 612 1826 612 1825 612 1774 634 1749 615 1748 615 1747 615 1698 615 1697 615 1696 615 1695 615 1695 616 1670 639 1670 641 1645 641 1622 641 1583 620 1582 620 1581 620 1579 620 1578 620 1578 621 1556 642 1541 642 1542 664"/></Shape>
+	    <String CONTENT="8º Amsterdam 1838"
+                    HPOS="1541"
+                    VPOS="611"
+                    WIDTH="646"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

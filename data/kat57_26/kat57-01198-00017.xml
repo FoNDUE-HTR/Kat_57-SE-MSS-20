@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01198-00017.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="30"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2315 1479 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="202 183 2297 207" 
+                    HPOS="199"
+                    VPOS="119"
+                    WIDTH="2097"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="199 199 462 202 471 204 496 212 497 212 498 212 530 207 595 214 597 215 698 215 698 214 723 209 741 205 936 207 952 213 980 223 982 223 983 223 1036 218 1415 228 1416 228 1459 223 1520 214 1594 224 1636 230 1637 230 1676 226 1718 222 1799 228 1854 233 1855 233 1879 230 1935 222 1964 231 1972 234 1974 234 1975 234 1976 234 1984 231 2017 220 2065 220 2106 230 2107 230 2108 230 2192 225 2293 236 2296 205 2296 176 2080 171 2050 161 2049 161 2048 161 2003 168 1964 176 1891 176 1817 164 1692 141 1691 141 1690 141 1639 159 1618 166 1564 168 1469 160 1468 160 1414 171 1377 161 1375 161 1374 161 1373 161 1342 170 1194 170 1149 157 1148 157 1147 157 1098 166 1040 165 957 141 956 141 955 141 840 161 746 156 657 131 626 123 625 123 202 119 201 182 199 199"/></Shape>
+	    <String CONTENT="Meyer, Wilhelm aus Speyer, professor i Göttingen, 1845-1917"
+                    HPOS="199"
+                    VPOS="119"
+                    WIDTH="2097"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="233 274 1913 287" 
+                    HPOS="230"
+                    VPOS="224"
+                    WIDTH="1682"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="231 273 230 294 1910 307 1912 286 1912 255 1850 236 1849 236 1743 234 1742 234 1664 249 1597 235 1596 235 1530 250 1523 252 1418 252 1412 249 1389 239 1388 239 1386 239 1385 239 1352 249 1344 250 1336 247 1298 239 1296 239 1295 239 1270 247 1265 249 1261 247 1220 234 1219 234 1217 234 1216 234 1177 246 1168 249 1040 249 1032 245 994 229 993 229 969 229 968 229 967 229 931 244 921 247 866 246 860 242 825 228 824 228 823 228 657 231 656 231 634 240 621 245 530 245 519 239 487 225 486 225 484 225 424 238 383 224 382 224 301 224 299 224 231 235 231 273"/></Shape>
+	    <String CONTENT="Die Arundel Sammlung mittellateinischer Lieder."
+                    HPOS="230"
+                    VPOS="224"
+                    WIDTH="1682"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="159 400 253 397" 
+                    HPOS="155"
+                    VPOS="344"
+                    WIDTH="97"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="157 399 157 421 251 431 252 395 248 344 222 347 220 347 219 347 214 352 191 372 155 368 157 399"/></Shape>
+	    <String CONTENT="Se."
+                    HPOS="155"
+                    VPOS="344"
+                    WIDTH="97"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1594 372 2071 375" 
+                    HPOS="1591"
+                    VPOS="326"
+                    WIDTH="479"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1592 371 1591 383 1611 384 1622 394 1622 395 1623 395 1625 395 1626 395 1627 395 1628 395 1628 394 1638 386 1666 386 1712 402 1713 402 1715 402 1716 402 1741 393 1770 405 1771 405 1773 405 1774 405 1775 405 1789 393 1816 405 1817 405 1818 405 1819 405 1821 405 1834 395 1896 402 1897 402 1898 402 1900 402 1913 390 1935 407 1937 407 1938 407 1939 407 2026 404 2027 404 2028 404 2051 388 2069 388 2070 374 2066 334 2045 347 2012 347 2002 339 2001 339 2000 339 1998 339 1997 339 1996 339 1989 346 1965 340 1964 340 1963 340 1961 340 1960 340 1960 341 1954 347 1916 347 1906 337 1897 329 1897 328 1896 328 1895 328 1859 328 1858 328 1856 328 1855 328 1855 329 1845 339 1838 346 1819 346 1801 345 1796 340 1785 329 1785 328 1784 328 1782 328 1739 326 1738 326 1737 326 1701 341 1696 344 1692 341 1668 326 1666 326 1665 326 1664 326 1663 326 1662 326 1654 333 1629 326 1628 326 1627 326 1626 326 1592 342 1592 371"/></Shape>
+	    <String CONTENT="4º Berlin 1908."
+                    HPOS="1591"
+                    VPOS="326"
+                    WIDTH="479"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="221 461 797 460" 
+                    HPOS="219"
+                    VPOS="415"
+                    WIDTH="576"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="220 460 220 477 299 477 302 478 323 489 324 489 325 489 376 483 383 489 384 489 386 489 387 490 455 490 455 489 456 489 457 489 470 478 471 478 473 478 534 485 535 485 572 479 603 484 604 484 605 484 607 484 614 478 616 477 623 478 662 489 663 489 665 490 684 490 684 489 686 489 687 489 687 488 695 481 714 487 715 487 716 487 718 487 719 487 719 485 726 479 794 479 795 458 793 441 741 432 740 432 613 441 603 441 602 441 549 415 547 415 546 415 526 416 525 416 478 441 477 441 434 431 433 431 431 431 430 431 415 441 380 415 378 415 377 415 285 415 283 415 282 415 281 415 256 435 219 441 220 460"/></Shape>
+	    <String CONTENT="Abhandlungen"
+                    HPOS="219"
+                    VPOS="415"
+                    WIDTH="576"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="857 444 938 448" 
+                    HPOS="855"
+                    VPOS="383"
+                    WIDTH="83"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="856 444 855 456 883 453 935 461 937 447 938 384 913 383 911 383 910 383 909 383 888 397 873 405 857 405 856 444"/></Shape>
+	    <String CONTENT="Act"
+                    HPOS="855"
+                    VPOS="383"
+                    WIDTH="83"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="205 544 2225 559" 
+                    HPOS="203"
+                    VPOS="498"
+                    WIDTH="2021"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="204 543 203 571 354 566 425 573 426 573 428 573 450 567 542 577 607 584 608 584 637 578 679 571 719 575 720 575 847 569 893 582 914 588 915 588 916 588 985 587 1045 603 1046 603 1047 604 1088 604 1088 603 1089 603 1143 585 1173 575 1283 575 1388 587 1389 587 1433 579 1512 584 1530 592 1571 606 1573 606 1574 608 1628 608 1628 606 1629 606 1668 593 1673 590 1768 580 1858 583 1895 596 1933 609 1934 609 2165 610 2166 610 2223 600 2224 558 2222 531 2097 531 2093 530 2022 509 2021 509 1953 509 1952 509 1950 509 1887 529 1882 529 1748 529 1745 527 1687 509 1686 509 1606 509 1605 509 1604 509 1546 524 1473 505 1472 505 1380 504 1379 504 1215 515 1138 503 1137 503 1026 520 971 506 969 506 968 506 883 521 877 521 726 521 724 520 667 499 666 499 592 499 591 499 589 499 534 519 528 519 500 519 499 518 441 501 440 501 439 501 339 510 297 498 296 498 294 498 204 515 204 543"/></Shape>
+	    <String CONTENT="der königlichen Gesellschaft der Wissenschaften zu Göttingen."
+                    HPOS="203"
+                    VPOS="498"
+                    WIDTH="2021"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="218 628 1577 645" 
+                    HPOS="215"
+                    VPOS="578"
+                    WIDTH="1361"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="217 627 215 652 1574 669 1576 643 1574 598 1532 605 1516 596 1509 593 1507 593 1442 592 1441 592 1439 592 1428 596 1393 612 1369 612 1330 598 1328 598 1327 598 1282 599 1275 595 1265 589 1264 589 1263 589 1262 589 1226 595 1199 600 1189 595 1178 589 1177 589 1115 588 1114 588 1112 588 1093 594 1069 603 1046 594 1032 589 1031 589 1030 589 1029 589 1019 594 994 606 825 605 800 593 794 590 793 590 739 583 737 583 632 592 619 593 613 592 565 582 563 582 562 582 541 592 523 601 463 601 445 592 441 589 440 589 394 588 393 588 380 590 345 599 326 590 301 578 299 578 298 578 217 589 217 627"/></Shape>
+	    <String CONTENT="Philol. - hist. Klasse. N. F. B. XI. Nro. 2."
+                    HPOS="215"
+                    VPOS="578"
+                    WIDTH="1361"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

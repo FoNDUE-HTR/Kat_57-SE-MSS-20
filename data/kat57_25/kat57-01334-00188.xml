@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01334-00188.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="13"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2315 1471 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="205 183 581 188" 
+                    HPOS="203"
+                    VPOS="137"
+                    WIDTH="377"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="204 182 203 195 229 206 230 206 231 206 329 199 385 197 394 203 406 212 407 212 408 212 409 213 579 213 580 187 579 150 490 158 428 158 406 148 404 148 403 148 365 155 349 143 342 137 341 137 339 137 338 137 204 138 204 182"/></Shape>
+	    <String CONTENT="OLAI, Israel"
+                    HPOS="203"
+                    VPOS="137"
+                    WIDTH="377"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="200 289 736 289" 
+                    HPOS="199"
+                    VPOS="253"
+                    WIDTH="535"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="199 288 199 311 242 316 256 328 256 329 257 329 258 329 260 329 261 329 314 312 344 331 345 331 347 331 348 332 501 332 501 331 502 331 567 312 575 320 576 320 577 320 579 320 625 312 678 327 679 327 680 327 682 327 683 327 706 312 734 312 734 288 734 267 647 267 618 253 617 253 553 253 552 253 550 253 549 253 549 255 536 267 500 267 483 256 482 256 480 256 479 256 478 256 455 263 423 253 421 253 420 253 419 253 393 262 385 255 385 253 383 253 382 253 347 253 345 253 344 253 343 253 325 266 294 257 293 257 291 257 290 257 289 257 277 266 252 266 226 255 225 255 224 255 223 255 199 266 199 288"/></Shape>
+	    <String CONTENT="Se: Sturm, Johann"
+                    HPOS="199"
+                    VPOS="253"
+                    WIDTH="535"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="316 389 2158 396" 
+                    HPOS="314"
+                    VPOS="264"
+                    WIDTH="1843"
+                    HEIGHT="155">
+            <Shape><Polygon POINTS="315 388 314 409 2155 419 2157 394 2155 366 2030 352 2028 352 1974 355 1848 366 1809 359 1808 359 1750 364 1718 352 1717 352 1716 352 1652 361 1598 348 1597 348 1595 348 1487 363 1305 338 1303 338 1302 338 1261 350 1134 352 1056 366 885 333 776 289 720 267 718 267 315 264 315 388"/></Shape>
+	    <String CONTENT="Disputationum physicarum partis secundae nona de generatione,"
+                    HPOS="314"
+                    VPOS="264"
+                    WIDTH="1843"
+                    HEIGHT="155"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="323 491 2221 498" 
+                    HPOS="321"
+                    VPOS="453"
+                    WIDTH="1899"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="322 490 321 515 417 525 418 525 480 517 501 525 502 525 504 525 620 518 724 526 726 526 775 518 805 526 807 526 808 526 809 526 836 518 983 518 993 518 1081 528 1083 529 1367 529 1367 528 1409 521 1413 521 1418 521 1474 527 1475 527 1505 521 1510 521 1513 522 1537 529 1538 529 1539 529 1593 522 1594 522 1597 522 1644 529 1646 529 1755 523 1790 521 1798 523 1809 527 1810 527 1811 527 1813 527 1826 523 1836 521 1863 523 1901 527 1902 527 2030 525 2129 522 2138 525 2156 531 2157 531 2158 531 2219 525 2220 496 2216 458 1917 471 1853 460 1838 457 1837 457 1727 460 1725 460 1723 460 1701 467 1673 461 1658 457 1657 457 1637 461 1606 466 1559 461 1522 457 1521 457 1497 461 1472 466 1447 461 1418 456 1416 456 1350 462 1303 466 1259 462 1203 457 1202 457 1142 462 1083 468 1036 463 993 458 992 458 945 463 913 468 772 468 763 464 729 455 728 455 727 455 726 455 694 464 689 467 620 467 615 464 571 453 570 453 424 453 423 453 322 467 322 490"/></Shape>
+	    <String CONTENT="variatione, et accretione, motuumque horum discrimine, ...1597."
+                    HPOS="321"
+                    VPOS="453"
+                    WIDTH="1899"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="315 593 1381 597" 
+                    HPOS="312"
+                    VPOS="554"
+                    WIDTH="1068"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="312 620 374 632 375 632 376 632 388 628 398 635 399 635 401 635 402 635 403 635 426 625 496 636 498 636 499 636 500 636 522 621 525 620 531 621 544 626 545 626 547 626 548 626 549 626 555 623 560 619 569 623 608 636 609 636 610 636 667 631 674 637 675 637 677 637 678 637 679 637 712 628 742 636 743 636 744 636 745 636 747 636 764 624 775 624 819 620 978 620 987 625 998 630 999 630 1000 630 1002 630 1003 630 1010 625 1018 620 1107 620 1116 625 1144 639 1145 639 1146 639 1148 639 1160 632 1171 639 1172 639 1173 640 1317 640 1317 639 1318 639 1344 626 1356 621 1376 626 1380 596 1378 556 1307 556 1306 556 1305 556 1303 556 1294 564 1265 556 1264 556 1263 556 1262 556 1220 571 1188 556 1187 556 1186 556 1181 556 1070 566 1026 560 1025 560 1024 560 996 570 943 561 942 561 895 570 863 558 857 555 856 555 767 555 766 555 765 555 758 558 720 571 671 571 647 558 646 558 645 558 644 558 642 558 641 558 623 570 414 570 368 559 344 554 343 554 342 554 331 559 323 563 315 559 314 592 312 620"/></Shape>
+	    <String CONTENT="Diss. sv. i utl. Rostock 1597 19/1."
+                    HPOS="312"
+                    VPOS="554"
+                    WIDTH="1068"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

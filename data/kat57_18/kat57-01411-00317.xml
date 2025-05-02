@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01411-00317.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="40"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2315 1479 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2195 34 2294 34" 
+                    HPOS="2193"
+                    VPOS="1"
+                    WIDTH="100"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="2280 1 2267 1 2255 1 2251 1 2241 2 2237 1 2230 1 2218 1 2206 1 2204 1 2193 2 2193 33 2193 124 2293 123 2293 33 2293 1 2291 1 2280 1"/></Shape>
+	    <String CONTENT="Vitt"
+                    HPOS="2193"
+                    VPOS="1"
+                    WIDTH="100"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="569 232 2076 216" 
+                    HPOS="567"
+                    VPOS="129"
+                    WIDTH="1508"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="568 231 568 254 598 263 599 263 600 263 671 255 690 252 726 255 781 259 782 259 799 255 848 244 1026 246 1027 246 1080 240 1152 245 1178 256 1210 270 1211 270 1212 270 1317 268 1319 268 1337 261 1488 267 1489 267 1579 263 1580 263 1592 259 1639 238 1665 245 1666 245 1668 245 1669 245 1695 238 1781 241 1782 241 1784 241 1812 233 1828 239 1829 239 1831 239 1923 239 1972 260 1975 261 1976 261 1977 261 2075 260 2075 215 2072 156 1944 156 1912 144 1911 144 1910 144 1802 155 1726 149 1724 149 1723 149 1722 149 1708 157 1608 165 1607 165 1601 168 1568 186 1444 186 1381 182 1357 175 1296 157 1295 157 1294 157 1293 157 1258 167 1175 129 1174 129 1173 129 934 131 932 131 830 180 699 192 679 193 677 192 645 177 644 177 642 177 608 178 607 178 567 193 568 231"/></Shape>
+	    <String CONTENT="Pigault-Lebrun, [Guillaum Charles Antoine]"
+                    HPOS="567"
+                    VPOS="129"
+                    WIDTH="1508"
+                    HEIGHT="141"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="599 623 2092 634" 
+                    HPOS="597"
+                    VPOS="543"
+                    WIDTH="1494"
+                    HEIGHT="140">
+            <Shape><Polygon POINTS="598 622 597 643 625 653 626 653 628 653 629 653 647 646 831 646 862 659 863 659 864 659 866 659 897 645 903 642 914 645 972 662 973 662 974 662 1020 654 1059 657 1088 670 1089 670 1090 670 1091 670 1174 648 1267 680 1268 680 1269 682 1420 682 1420 680 1421 680 1448 672 1470 682 1472 682 1594 683 1595 683 1596 683 1683 651 1760 656 1782 667 1784 667 1785 667 1786 667 1840 649 1908 649 1910 649 1943 663 1944 663 1945 663 1947 663 1970 652 2090 649 2091 633 2091 553 1919 552 1918 552 1917 552 1907 556 1831 593 1790 593 1659 592 1605 562 1581 551 1580 551 1579 551 1578 551 1547 563 1484 590 1431 590 1409 589 1365 567 1332 551 1331 551 1236 547 1235 547 1233 547 1185 571 1152 588 1099 588 1064 573 1063 573 1062 573 1061 573 1059 573 1058 573 1027 587 937 587 905 582 895 577 831 545 830 545 758 543 757 543 756 543 642 582 636 583 598 583 598 622"/></Shape>
+	    <String CONTENT="Herr Botte; af Pigault le Brun"
+                    HPOS="597"
+                    VPOS="543"
+                    WIDTH="1494"
+                    HEIGHT="140"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="817 783 1358 778" 
+                    HPOS="815"
+                    VPOS="728"
+                    WIDTH="542"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="816 781 816 822 834 837 835 837 836 837 837 838 951 838 951 837 952 837 953 837 982 812 998 797 1008 805 1009 805 1010 805 1011 805 1013 805 1033 799 1084 805 1085 805 1087 805 1088 805 1108 790 1130 790 1164 800 1166 800 1167 800 1293 799 1295 799 1305 806 1306 806 1307 806 1309 806 1356 796 1357 777 1353 759 1288 762 1284 759 1246 728 1244 728 1243 728 1220 728 1219 728 1161 730 1159 730 1158 730 1158 731 1130 759 1114 760 1098 749 1096 749 1095 749 1094 749 1093 749 1091 749 1091 751 1080 762 1079 764 1035 764 1032 763 987 733 985 733 984 733 983 733 982 733 926 764 924 765 871 765 869 764 847 749 846 749 845 749 843 749 842 749 815 763 816 781"/></Shape>
+	    <String CONTENT="i fyra Delar"
+                    HPOS="815"
+                    VPOS="728"
+                    WIDTH="542"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="837 1000 1578 1012" 
+                    HPOS="835"
+                    VPOS="943"
+                    WIDTH="741"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="836 999 835 1015 862 1024 863 1024 864 1024 866 1024 889 1016 899 1026 899 1027 900 1027 901 1027 903 1027 904 1027 905 1027 910 1022 940 1031 941 1031 942 1031 943 1031 945 1031 961 1019 990 1018 1009 1033 1010 1033 1011 1033 1013 1033 1014 1033 1048 1018 1085 1040 1087 1040 1088 1040 1132 1042 1133 1043 1169 1043 1169 1042 1170 1042 1172 1042 1172 1040 1185 1028 1233 1038 1235 1038 1236 1038 1237 1038 1237 1037 1246 1029 1321 1032 1322 1032 1323 1032 1325 1032 1325 1031 1332 1023 1333 1024 1358 1033 1359 1033 1360 1033 1402 1028 1411 1036 1411 1037 1412 1037 1414 1037 1470 1042 1472 1042 1511 1039 1512 1039 1513 1039 1513 1038 1520 1032 1536 1039 1537 1039 1538 1039 1539 1039 1541 1039 1553 1029 1575 1029 1576 1011 1576 989 1506 989 1505 987 1465 953 1465 952 1464 952 1463 952 1430 950 1374 950 1373 950 1372 950 1370 950 1331 984 1300 975 1299 975 1298 975 1296 975 1265 982 1227 953 1226 953 1225 953 1224 953 1222 953 1221 953 1221 954 1217 957 1207 949 1206 949 1205 949 1204 949 1158 957 1157 957 1156 957 1121 981 1098 981 1087 981 1087 980 1067 963 1067 962 1066 962 1064 962 1063 962 1045 964 1030 957 1029 957 1027 957 1026 957 973 978 940 944 940 943 938 943 937 943 936 943 876 949 874 949 873 949 836 973 836 999"/></Shape>
+	    <String CONTENT="Första - Fjerde Delen"
+                    HPOS="835"
+                    VPOS="943"
+                    WIDTH="741"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="690 1224 1300 1228" 
+                    HPOS="688"
+                    VPOS="1154"
+                    WIDTH="611"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="689 1223 688 1237 703 1238 720 1254 721 1254 723 1254 724 1254 725 1254 751 1245 762 1255 762 1256 763 1256 765 1256 766 1256 767 1256 768 1256 795 1239 837 1239 851 1251 851 1253 852 1253 853 1253 855 1253 856 1253 888 1243 916 1256 918 1256 919 1256 920 1256 921 1256 921 1255 932 1246 942 1255 943 1255 945 1255 946 1256 1084 1256 1084 1255 1085 1255 1087 1255 1106 1241 1127 1241 1145 1255 1146 1255 1147 1255 1148 1256 1148 1255 1149 1255 1151 1255 1166 1243 1179 1254 1180 1254 1182 1254 1183 1254 1199 1251 1211 1259 1212 1259 1214 1259 1215 1260 1264 1260 1264 1259 1265 1259 1298 1240 1299 1227 1299 1191 1282 1181 1280 1181 1279 1181 1278 1181 1277 1181 1248 1188 1225 1177 1224 1177 1222 1177 1221 1177 1220 1177 1196 1192 1182 1182 1180 1182 1179 1182 1178 1182 1177 1182 1175 1182 1161 1193 1154 1198 1135 1198 1130 1193 1098 1165 1096 1165 1095 1165 924 1154 922 1154 921 1154 920 1154 864 1195 863 1195 852 1195 763 1191 730 1165 729 1165 727 1165 726 1165 725 1165 724 1165 689 1191 689 1223"/></Shape>
+	    <String CONTENT="8:o Sthm 1817"
+                    HPOS="688"
+                    VPOS="1154"
+                    WIDTH="611"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

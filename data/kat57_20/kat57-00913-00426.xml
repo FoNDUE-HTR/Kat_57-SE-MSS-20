@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00913-00426.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2296"
+          HEIGHT="1476"
+          PHYSICAL_IMG_NR="34"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2296"
+                  HEIGHT="1476">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2294"
+                   HEIGHT="1474"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1475 2295 1475 2295 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="252 194 663 188" 
+                    HPOS="250"
+                    VPOS="126"
+                    WIDTH="413"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="252 194 252 220 391 223 392 223 394 223 396 223 396 221 404 215 407 212 428 215 472 220 474 220 476 220 500 212 506 210 525 210 613 217 615 217 663 205 663 188 661 151 607 127 605 127 603 127 602 127 600 127 578 146 571 153 408 154 381 134 370 126 369 126 367 126 365 126 364 126 351 132 338 140 322 130 317 127 316 127 314 127 250 127 252 194"/></Shape>
+	    <String CONTENT="KLAIĆ, Vjekoslav"
+                    HPOS="250"
+                    VPOS="126"
+                    WIDTH="413"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1973 44 2168 44" 
+                    HPOS="1973"
+                    VPOS="1"
+                    WIDTH="195"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="1973 44 1973 55 2073 68 2075 68 2168 55 2168 44 2168 1 1973 1 1973 44"/></Shape>
+	    <String CONTENT="Hist."
+                    HPOS="1973"
+                    VPOS="1"
+                    WIDTH="195"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1994 100 2187 100" 
+                    HPOS="1994"
+                    VPOS="57"
+                    WIDTH="193"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="1994 100 1994 114 2059 126 2061 126 2117 118 2173 126 2174 126 2176 126 2177 126 2187 118 2187 100 2187 71 2149 58 2147 58 2145 58 2085 71 2018 57 2016 57 2014 57 2013 57 1994 70 1994 100"/></Shape>
+	    <String CONTENT="Balk."
+                    HPOS="1994"
+                    VPOS="57"
+                    WIDTH="193"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="241 289 2206 298" 
+                    HPOS="239"
+                    VPOS="237"
+                    WIDTH="1967"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="241 289 239 309 309 319 311 319 797 314 1223 324 1225 324 2205 319 2206 298 2205 265 1974 265 1958 261 1826 244 1824 244 1652 258 1616 261 1597 258 1538 247 1537 247 1535 247 1509 258 1503 260 1351 260 1330 257 1223 241 1105 241 1104 241 1102 241 1060 253 1044 258 993 253 963 250 961 250 845 252 635 255 619 250 591 239 589 239 587 239 586 239 563 245 535 237 533 237 361 237 359 237 357 237 321 247 289 255 241 247 241 289"/></Shape>
+	    <String CONTENT="Geschichte Bosniens von den ältesten Zeiten bis zum Verfalle des Königreiches."
+                    HPOS="239"
+                    VPOS="237"
+                    WIDTH="1967"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="241 391 1329 394" 
+                    HPOS="241"
+                    VPOS="356"
+                    WIDTH="1088"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="241 391 241 420 260 420 284 440 285 440 287 440 289 440 290 440 319 426 359 447 361 447 362 448 391 448 391 447 392 447 394 447 394 445 405 436 444 447 445 447 447 448 539 448 539 447 541 447 578 428 595 420 627 429 632 431 634 431 635 431 643 431 702 420 741 420 760 434 781 448 782 448 784 448 786 448 787 448 818 436 848 421 1025 421 1038 431 1038 432 1040 432 1041 432 1043 432 1044 432 1062 423 1083 439 1084 439 1086 439 1088 439 1089 439 1102 432 1147 444 1151 445 1153 445 1326 448 1329 394 1329 368 1303 357 1302 357 1110 357 1108 357 1107 357 1105 357 1092 367 1091 367 1084 367 923 357 921 357 880 365 873 367 746 367 742 365 693 356 691 356 690 356 667 365 666 365 663 365 626 356 624 356 623 356 568 365 560 365 554 365 516 356 514 356 472 364 463 365 450 364 400 357 399 357 364 364 354 365 351 364 343 356 341 356 340 356 338 356 337 356 335 356 325 364 322 365 314 364 285 356 284 356 282 356 241 362 241 391"/></Shape>
+	    <String CONTENT="Nach dem Kroatischen Ivan von Bjoničić."
+                    HPOS="241"
+                    VPOS="356"
+                    WIDTH="1088"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1438 496 1877 501" 
+                    HPOS="1436"
+                    VPOS="455"
+                    WIDTH="441"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="1438 496 1436 515 1500 531 1501 533 1551 533 1551 531 1553 531 1554 531 1567 520 1569 519 1577 520 1626 533 1628 533 1629 533 1631 533 1660 523 1663 522 1668 523 1693 533 1695 533 1696 533 1751 525 1778 522 1874 528 1877 501 1874 461 1586 466 1575 463 1554 455 1553 455 1551 455 1549 455 1548 455 1537 463 1532 464 1438 464 1438 496"/></Shape>
+	    <String CONTENT="8:o Leipzig 1885."
+                    HPOS="1436"
+                    VPOS="455"
+                    WIDTH="441"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

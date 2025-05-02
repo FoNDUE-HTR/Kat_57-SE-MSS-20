@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00157.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2323 1479 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="175 212 1316 218" 
+                    HPOS="172"
+                    VPOS="144"
+                    WIDTH="1142"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="173 210 172 223 206 233 207 233 208 233 209 233 229 228 344 235 345 235 346 235 363 226 384 234 386 234 387 234 388 234 408 226 426 236 428 236 429 236 504 231 590 239 592 239 593 239 615 229 625 225 674 225 687 230 715 239 716 239 717 239 719 239 749 230 757 229 763 231 782 239 783 239 784 239 841 236 890 245 891 246 891 245 946 235 973 251 974 251 975 251 1097 252 1099 252 1100 252 1145 236 1155 233 1173 236 1196 241 1197 241 1199 241 1200 241 1206 236 1211 234 1227 238 1255 242 1256 242 1258 242 1273 238 1281 235 1312 238 1314 217 1314 150 1286 149 1285 149 1284 149 1282 149 1281 150 1265 161 1208 171 1150 151 1145 150 1144 150 1143 150 1142 150 1138 151 1089 176 1027 176 993 154 991 154 990 154 989 154 986 154 969 157 964 154 954 148 953 148 952 148 933 148 932 148 931 148 930 148 920 155 886 175 735 175 703 157 693 152 692 152 690 152 689 152 673 157 630 173 594 159 561 145 560 145 502 145 500 145 499 145 463 161 437 172 357 162 346 161 315 144 314 144 218 144 217 144 215 144 173 164 173 210"/></Shape>
+	    <String CONTENT="Morselli , Enrico [Agostino]"
+                    HPOS="172"
+                    VPOS="144"
+                    WIDTH="1142"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="138 314 2254 322" 
+                    HPOS="135"
+                    VPOS="260"
+                    WIDTH="2118"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="136 313 135 339 261 334 326 341 335 341 336 341 372 341 614 335 636 341 641 342 642 342 741 344 742 344 795 341 900 336 970 341 1002 344 1004 344 1091 341 1254 337 1307 342 1356 346 1358 347 1606 347 1606 346 1627 342 1640 340 1668 342 1724 347 1725 347 1768 342 1793 340 1940 340 1957 342 1983 347 1984 347 2019 342 2034 341 2251 342 2253 321 2252 275 2171 268 2169 268 2148 273 2077 292 2019 292 1988 282 1987 282 1986 282 1984 282 1950 291 1708 291 1641 270 1628 266 1627 266 1532 266 1530 266 1485 268 1483 268 1482 268 1418 288 1175 288 1107 266 1106 266 1105 266 1104 266 1101 266 1038 277 986 265 978 263 976 263 949 265 841 272 768 263 763 263 600 262 599 262 598 262 597 262 532 284 441 284 357 281 291 261 289 261 136 260 136 313"/></Shape>
+	    <String CONTENT="Se: Darwin, Carlo, Carlo Darwin e il darwinismo nelle"
+                    HPOS="135"
+                    VPOS="260"
+                    WIDTH="2118"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="247 420 1527 413" 
+                    HPOS="245"
+                    VPOS="372"
+                    WIDTH="1280"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="246 419 246 446 309 439 330 447 340 452 341 452 342 452 379 448 402 456 403 456 404 456 405 456 424 447 447 436 571 436 658 440 673 447 708 462 709 462 710 463 884 463 884 462 885 462 930 446 959 436 999 440 1000 440 1001 440 1016 434 1083 437 1100 446 1106 448 1107 448 1144 450 1145 450 1147 450 1154 446 1160 442 1168 446 1179 452 1180 452 1181 452 1182 452 1201 446 1213 442 1238 446 1282 452 1284 452 1285 452 1307 446 1343 435 1376 446 1414 458 1416 458 1417 458 1418 458 1460 446 1481 455 1482 455 1483 455 1525 445 1525 411 1523 389 1486 389 1469 378 1467 378 1466 378 1465 378 1419 383 1380 372 1379 372 1377 372 1376 372 1342 388 1238 373 1237 373 1236 373 1202 389 1091 387 1073 378 1071 378 1070 378 1069 378 1038 390 989 384 988 384 918 390 880 376 879 376 841 376 840 376 838 376 837 376 814 390 741 392 708 376 706 376 673 376 672 376 671 376 646 383 551 377 550 377 548 377 514 392 421 384 420 384 419 384 388 393 281 379 280 379 278 379 245 393 246 419"/></Shape>
+	    <String CONTENT="scienze biologiche e sociali. 1892."
+                    HPOS="245"
+                    VPOS="372"
+                    WIDTH="1280"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1586 412 1866 408" 
+                    HPOS="1583"
+                    VPOS="358"
+                    WIDTH="282"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1585 411 1585 432 1660 430 1675 432 1714 439 1715 439 1717 439 1718 439 1728 431 1767 437 1768 437 1770 437 1771 437 1782 429 1798 436 1799 436 1800 437 1854 437 1854 436 1855 436 1856 436 1865 427 1865 407 1861 383 1802 383 1747 358 1746 358 1745 358 1705 360 1704 360 1703 360 1682 373 1654 360 1652 360 1651 360 1625 363 1624 363 1623 363 1623 365 1599 387 1599 388 1583 388 1585 411"/></Shape>
+	    <String CONTENT="Naturv."
+                    HPOS="1583"
+                    VPOS="358"
+                    WIDTH="282"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1625 474 1804 471" 
+                    HPOS="1622"
+                    VPOS="427"
+                    WIDTH="181"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="1624 473 1624 520 1671 520 1671 519 1672 519 1673 519 1682 513 1686 511 1694 511 1740 515 1741 515 1743 515 1744 515 1756 505 1761 500 1803 499 1803 469 1799 450 1789 450 1787 448 1771 432 1771 431 1770 431 1768 431 1767 431 1766 431 1765 431 1765 432 1751 445 1746 450 1719 452 1701 452 1686 439 1675 429 1675 427 1673 427 1672 427 1671 427 1622 431 1624 473"/></Shape>
+	    <String CONTENT="Biol."
+                    HPOS="1622"
+                    VPOS="427"
+                    WIDTH="181"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

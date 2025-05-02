@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01012-00324.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1488"
+          PHYSICAL_IMG_NR="13"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1488">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1486"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1487 2327 1487 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="378 39 503 34" 
+                    HPOS="374"
+                    VPOS="1"
+                    WIDTH="128"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="498 1 486 1 473 1 461 1 448 1 436 1 424 1 411 1 404 1 374 1 377 38 378 81 401 81 401 80 403 80 404 80 411 73 436 52 452 57 453 57 455 57 456 57 457 57 467 50 482 58 488 60 489 60 491 60 492 60 493 60 502 53 502 33 498 1 498 1"/></Shape>
+	    <String CONTENT="1906"
+                    HPOS="374"
+                    VPOS="1"
+                    WIDTH="128"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2060 47 2188 44" 
+                    HPOS="2057"
+                    VPOS="1"
+                    WIDTH="130"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="2094 1 2082 1 2070 1 2065 1 2057 4 2058 45 2060 66 2079 60 2115 63 2155 65 2156 65 2158 65 2187 57 2187 43 2185 4 2099 1 2094 1"/></Shape>
+	    <String CONTENT="Hist"
+                    HPOS="2057"
+                    VPOS="1"
+                    WIDTH="130"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="280 140 1623 135" 
+                    HPOS="277"
+                    VPOS="63"
+                    WIDTH="1345"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="279 138 279 178 612 182 613 182 647 181 648 181 663 173 667 171 670 173 687 181 688 181 689 182 730 182 730 181 731 181 750 172 770 161 860 167 861 167 901 161 926 168 947 176 948 176 950 176 951 176 973 168 997 159 1069 159 1082 166 1097 173 1098 173 1100 173 1101 173 1115 166 1127 159 1263 159 1271 163 1298 177 1299 177 1524 178 1525 178 1526 178 1570 158 1571 158 1621 158 1622 133 1619 99 1555 99 1534 88 1532 88 1531 88 1530 88 1508 94 1411 65 1410 65 1408 65 1364 75 1288 63 1287 63 1286 63 1262 73 1227 68 1226 68 1225 68 1186 85 1126 64 1124 64 1098 64 1097 64 1096 64 1031 100 947 101 881 101 797 65 796 65 693 65 692 65 690 65 663 79 623 70 622 70 621 70 596 79 563 66 561 66 467 66 466 66 465 66 396 102 277 102 279 138"/></Shape>
+	    <String CONTENT="Leffler, [Magnus] G[ustaf] Mittag-"
+                    HPOS="277"
+                    VPOS="63"
+                    WIDTH="1345"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1877 142 2252 148" 
+                    HPOS="1875"
+                    VPOS="76"
+                    WIDTH="376"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="1876 141 1875 156 1913 156 1918 157 1949 174 1950 174 1952 174 1953 174 1954 174 1973 161 1978 157 2029 157 2035 163 2046 174 2046 176 2047 176 2048 176 2129 177 2130 177 2132 177 2133 177 2144 169 2150 166 2248 174 2251 147 2251 107 2194 95 2192 95 2191 95 2190 95 2179 101 2169 107 2143 106 2141 106 2140 106 2119 115 2068 115 2060 106 2058 106 2057 106 2056 106 2055 106 2026 114 1993 88 1981 79 1980 79 1979 79 1978 79 1977 79 1975 79 1967 85 1950 76 1949 76 1948 76 1876 79 1876 141"/></Shape>
+	    <String CONTENT="Br) Politik"
+                    HPOS="1875"
+                    VPOS="76"
+                    WIDTH="376"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="277 259 2312 248" 
+                    HPOS="275"
+                    VPOS="186"
+                    WIDTH="2036"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="276 257 276 281 420 272 491 279 492 279 546 271 749 279 759 279 760 279 761 279 780 272 911 277 915 277 916 277 917 277 950 270 1028 277 1036 277 1038 277 1041 277 1082 269 1147 276 1149 276 1150 276 1168 276 1508 267 1572 274 1576 274 1577 274 1580 274 1632 266 1722 266 1742 272 1745 274 1746 274 1747 274 1766 272 1862 265 2309 269 2311 248 2308 186 2098 187 2086 189 1979 217 1879 217 1820 194 1802 188 1800 188 1799 188 1735 189 1733 189 1704 197 1688 200 1674 197 1664 195 1663 195 1650 198 1612 207 1566 200 1565 200 1563 200 1514 217 1436 202 1379 192 1377 192 1376 192 1328 204 1283 215 1214 207 1175 202 1174 202 1173 202 1155 208 1121 220 1035 221 976 221 946 212 912 202 911 202 910 202 909 202 869 213 855 217 840 214 751 194 677 194 675 194 674 194 618 212 559 197 558 197 556 197 455 221 445 224 275 224 276 257"/></Shape>
+	    <String CONTENT="Ar det staaffska rösträttsförslaget frisinnadt? Fore-"
+                    HPOS="275"
+                    VPOS="186"
+                    WIDTH="2036"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="264 344 2195 331" 
+                    HPOS="261"
+                    VPOS="276"
+                    WIDTH="1933"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="262 343 262 380 364 379 365 379 367 379 429 358 597 358 639 364 641 364 711 352 813 352 885 368 920 375 921 376 962 376 962 375 1085 374 1086 374 1121 364 1146 357 1262 360 1299 362 1301 362 1302 362 1308 360 1335 352 1405 352 1423 358 1430 359 1431 359 1432 359 1488 357 1550 353 1559 355 1575 359 1576 359 1577 359 1578 359 1593 354 1619 345 1730 352 1766 353 1767 353 1815 349 1905 343 1929 348 1965 354 1967 354 1968 354 1989 348 2068 367 2070 367 2071 367 2128 347 2158 354 2159 354 2160 354 2161 354 2194 342 2194 329 2191 286 2124 282 2123 282 2102 286 2055 298 1989 298 1959 288 1954 287 1953 287 1952 287 1950 287 1944 288 1914 297 1892 290 1855 276 1854 276 1852 276 1851 276 1805 291 1798 293 1747 293 1743 291 1706 277 1705 277 1704 277 1624 288 1563 279 1562 279 1457 295 1397 280 1396 280 1341 280 1340 280 1294 283 1293 283 1253 298 1247 300 1237 298 1206 293 1205 293 1160 300 1119 305 1106 300 1056 282 1055 282 981 282 979 282 978 282 941 293 880 292 879 292 878 292 843 303 834 307 666 307 661 306 605 286 604 286 510 286 509 286 508 286 445 310 394 310 393 310 354 298 353 298 352 298 261 311 262 343"/></Shape>
+	    <String CONTENT="drag hållet inför Uppsala studenter 19 september 1906"
+                    HPOS="261"
+                    VPOS="276"
+                    WIDTH="1933"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1187 421 2317 421" 
+                    HPOS="1186"
+                    VPOS="353"
+                    WIDTH="1130"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="1186 420 1186 445 1227 445 1276 467 1277 467 1278 468 1395 468 1395 467 1396 467 1439 445 1477 445 1478 445 1516 457 1518 457 1519 457 1520 457 1521 457 1540 445 1541 445 1797 445 1799 446 1850 467 1851 467 1852 467 1854 467 1907 446 1910 445 1912 446 1958 467 1959 467 1960 468 2062 468 2062 467 2063 467 2086 456 2177 467 2179 467 2180 467 2181 467 2200 455 2243 457 2244 457 2316 446 2316 420 2316 365 2237 360 2236 360 2234 360 2233 360 2225 367 2221 368 2213 367 2169 355 2168 355 2166 355 2165 355 2148 368 2125 381 2082 381 2057 369 2025 353 2024 353 2022 353 2021 353 2020 353 1995 369 1977 381 1955 381 1937 370 1908 353 1907 353 1906 353 1905 353 1903 353 1902 353 1871 372 1865 375 1828 380 1797 373 1723 353 1722 353 1606 353 1604 353 1603 353 1602 353 1567 375 1560 381 1400 381 1396 378 1360 354 1359 354 1358 354 1307 353 1306 353 1304 353 1271 369 1224 360 1222 360 1221 360 1186 379 1186 420"/></Shape>
+	    <String CONTENT="8º Uppsala &amp; Stockholm [tr. i Uppsala] 1906."
+                    HPOS="1186"
+                    VPOS="353"
+                    WIDTH="1130"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="238 501 2199 501" 
+                    HPOS="236"
+                    VPOS="462"
+                    WIDTH="1961"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="236 500 236 530 306 530 308 530 332 538 333 538 334 538 336 538 359 530 363 530 663 530 708 534 773 540 775 540 798 535 803 534 809 535 852 548 853 548 854 549 958 549 958 548 1038 538 1066 534 1126 538 1255 548 1256 549 1366 549 1366 548 1401 540 1428 535 1457 541 1467 543 1468 543 1475 541 1498 536 1521 541 1549 548 1550 549 1714 549 1714 548 1731 544 1772 534 1817 534 1895 545 1905 546 1906 546 1913 545 1994 530 2195 548 2197 500 2195 465 2127 476 2079 468 2078 468 2077 468 2042 481 1942 473 1941 473 1939 473 1911 481 1824 477 1766 465 1764 465 1613 481 1546 479 1511 467 1510 467 1509 467 1508 467 1453 482 1268 482 1167 462 1160 462 1092 462 1091 462 1086 462 999 481 902 472 901 472 830 481 755 462 752 462 540 462 539 462 538 462 483 482 425 482 358 462 357 462 236 462 236 500"/></Shape>
+	    <String CONTENT="[Äfven i Skrifter utg. af Föreningen för proportionella val. 6]"
+                    HPOS="236"
+                    VPOS="462"
+                    WIDTH="1961"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

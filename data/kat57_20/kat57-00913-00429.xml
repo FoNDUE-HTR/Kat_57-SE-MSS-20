@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00913-00429.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2300"
+          HEIGHT="1488"
+          PHYSICAL_IMG_NR="35"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2300"
+                  HEIGHT="1488">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2298"
+                   HEIGHT="1486"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1487 2299 1487 2299 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="381 206 1334 193" 
+                    HPOS="378"
+                    VPOS="1"
+                    WIDTH="956"
+                    HEIGHT="258">
+            <Shape><Polygon POINTS="381 206 381 230 496 259 498 259 598 257 599 257 601 257 601 256 630 227 642 216 657 217 667 227 697 254 697 256 699 256 700 256 702 256 761 254 763 254 764 254 764 253 795 225 797 224 824 219 896 225 931 227 933 227 968 224 1100 209 1114 222 1125 232 1125 233 1127 233 1129 233 1130 233 1132 233 1161 222 1180 212 1188 220 1190 220 1191 220 1193 220 1194 220 1251 211 1284 220 1312 227 1313 227 1315 227 1316 227 1334 219 1334 193 1328 1 378 1 381 206"/></Shape>
+	    <String CONTENT="Klaj Johann f. 1616"
+                    HPOS="378"
+                    VPOS="1"
+                    WIDTH="956"
+                    HEIGHT="258"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="397 389 2165 386" 
+                    HPOS="395"
+                    VPOS="317"
+                    WIDTH="1770"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="397 389 397 418 493 410 602 418 654 421 655 421 716 416 780 411 800 415 886 437 888 439 1042 439 1042 437 1044 437 1092 411 1105 405 1130 411 1156 418 1158 418 1159 418 1161 418 1178 411 1193 405 1300 405 1310 410 1320 413 1321 413 1323 413 1324 413 1332 408 1347 402 1474 402 1490 407 1535 423 1536 423 1538 424 1604 424 1631 435 1632 435 1634 437 1777 437 1777 435 1778 435 1865 408 1905 416 1907 416 2000 415 2001 415 2027 405 2123 413 2125 413 2127 413 2165 399 2165 386 2162 357 1632 357 1620 352 1533 325 1531 325 1530 325 1528 325 1467 347 1445 336 1443 336 1442 336 1350 336 1315 322 1313 322 1312 322 1310 322 1259 334 1215 317 1214 317 1040 317 1039 317 1037 317 1003 334 936 346 874 358 840 358 801 346 739 325 737 325 736 325 660 336 593 317 591 317 485 317 484 317 482 317 395 341 397 389"/></Shape>
+	    <String CONTENT="Auserlesene Gedichte Herausgegeben von"
+                    HPOS="395"
+                    VPOS="317"
+                    WIDTH="1770"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="654 480 1249 474" 
+                    HPOS="652"
+                    VPOS="427"
+                    WIDTH="597"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="654 480 654 506 678 519 679 519 681 519 683 519 684 519 684 517 697 506 732 506 788 524 790 524 792 524 793 524 830 504 944 503 970 503 984 516 984 517 986 517 987 517 989 517 991 517 1003 511 1013 520 1013 522 1015 522 1016 522 1018 524 1098 524 1098 522 1223 520 1225 520 1227 520 1249 503 1249 474 1244 447 1198 451 1162 445 1082 427 1081 427 1079 427 1028 442 984 455 827 455 798 437 785 429 784 429 782 429 780 429 652 434 654 480"/></Shape>
+	    <String CONTENT="Wilhelm Müller"
+                    HPOS="652"
+                    VPOS="427"
+                    WIDTH="597"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1376 554 1539 565 1933 567" 
+                    HPOS="1374"
+                    VPOS="498"
+                    WIDTH="559"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="1376 554 1374 573 1450 573 1451 573 1514 612 1515 612 1517 612 1519 612 1580 602 1612 614 1613 614 1615 615 1689 615 1689 614 1690 614 1692 614 1732 578 1762 596 1764 596 1766 596 1767 596 1820 580 1852 597 1854 597 1855 597 1931 578 1933 567 1926 504 1891 527 1860 511 1859 511 1857 511 1855 511 1820 525 1803 517 1801 517 1799 517 1798 517 1796 517 1778 532 1698 532 1669 520 1668 520 1666 520 1665 520 1639 529 1613 514 1583 498 1581 498 1488 498 1486 498 1485 498 1451 514 1435 508 1433 508 1432 508 1376 520 1376 554"/></Shape>
+	    <String CONTENT="8º Leipzig 1826"
+                    HPOS="1374"
+                    VPOS="498"
+                    WIDTH="559"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="399 665 496 665" 
+                    HPOS="399"
+                    VPOS="618"
+                    WIDTH="97"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="399 665 399 699 496 689 496 665 496 620 464 618 463 618 461 618 460 618 448 630 435 641 399 641 399 665"/></Shape>
+	    <String CONTENT="Se"
+                    HPOS="399"
+                    VPOS="618"
+                    WIDTH="97"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="468 756 2133 750" 
+                    HPOS="466"
+                    VPOS="689"
+                    WIDTH="1667"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="468 756 468 793 833 793 833 792 835 792 840 790 861 780 880 790 883 790 885 790 886 792 1003 792 1003 790 1005 790 1012 788 1042 779 1129 779 1145 787 1151 790 1153 790 1154 792 1299 792 1299 790 1300 790 1312 785 1334 777 1612 777 1624 784 1634 788 1636 788 1637 788 1671 784 1719 776 1786 782 1806 784 1807 784 1847 782 1957 776 1968 780 1979 787 1981 787 1982 787 2010 780 2032 776 2131 779 2133 750 2128 694 2079 702 2059 694 2058 692 2056 692 2054 692 2048 694 1929 721 1806 705 1804 705 1803 705 1770 721 1647 723 1547 705 1546 705 1464 721 1395 692 1393 692 1392 692 1336 689 1334 689 1332 689 1324 692 1251 726 1178 726 1148 711 1146 711 1145 711 944 723 890 703 888 703 886 703 848 711 755 699 753 699 686 713 630 692 628 692 466 692 468 756"/></Shape>
+	    <String CONTENT="Bibliothek deutscher Dichter des siebzehnten"
+                    HPOS="466"
+                    VPOS="689"
+                    WIDTH="1667"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="561 857 1003 853" 
+                    HPOS="559"
+                    VPOS="806"
+                    WIDTH="444"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="561 857 562 896 618 878 652 891 663 896 665 896 667 896 708 888 763 878 780 885 806 894 808 894 809 896 854 896 854 894 891 891 893 891 894 891 910 878 915 873 1003 872 1003 853 1000 827 933 814 931 814 930 814 906 827 896 832 885 827 870 822 869 822 867 822 866 822 854 827 841 833 740 833 731 829 711 821 710 821 708 821 678 825 652 806 650 806 649 806 578 806 577 806 575 806 573 806 573 808 572 808 559 821 561 857"/></Shape>
+	    <String CONTENT="Jahrhunderts."
+                    HPOS="559"
+                    VPOS="806"
+                    WIDTH="444"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="1101 833 1183 830" 
+                    HPOS="1098"
+                    VPOS="768"
+                    WIDTH="85"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1101 833 1101 856 1183 854 1183 830 1180 795 1154 795 1143 785 1125 769 1125 768 1124 768 1122 768 1121 768 1098 771 1101 833"/></Shape>
+	    <String CONTENT="Vitt"
+                    HPOS="1098"
+                    VPOS="768"
+                    WIDTH="85"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    
+                    BASELINE="1069 962 1218 965" 
+                    HPOS="1068"
+                    VPOS="907"
+                    WIDTH="150"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="1069 962 1068 1021 1106 1023 1108 1023 1109 1023 1111 1023 1133 1008 1159 992 1174 1000 1175 1000 1177 1000 1178 1000 1217 991 1218 965 1217 920 1148 928 1129 915 1119 907 1117 907 1116 907 1114 907 1069 910 1069 962"/></Shape>
+	    <String CONTENT="Saml"
+                    HPOS="1068"
+                    VPOS="907"
+                    WIDTH="150"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-02166-00119.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="22"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1472">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_5f93f377"
+                    
+                    BASELINE="254 209 517 206" 
+                    HPOS="252"
+                    VPOS="163"
+                    WIDTH="264"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="253 208 253 226 339 237 341 237 415 225 487 233 488 233 489 233 516 223 516 204 514 169 425 163 424 163 252 171 253 208"/></Shape>
+	    <String CONTENT="AEGYPTEN"
+                    HPOS="252"
+                    VPOS="163"
+                    WIDTH="264"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d0616fef"
+                    
+                    BASELINE="2100 43 2292 49" 
+                    HPOS="2097"
+                    VPOS="1"
+                    WIDTH="194"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="2147 1 2145 1 2144 1 2099 7 2099 42 2097 72 2132 82 2133 82 2134 82 2165 77 2194 73 2215 73 2223 82 2225 83 2225 84 2226 84 2227 84 2289 85 2291 47 2291 14 2277 4 2275 4 2274 4 2273 4 2272 4 2270 4 2254 15 2251 17 2204 17 2202 13 2192 3 2192 2 2191 2 2189 2 2188 2 2187 2 2166 11 2165 12 2162 11 2148 1 2147 1"/></Shape>
+	    <String CONTENT="Arkeol"
+                    HPOS="2097"
+                    VPOS="1"
+                    WIDTH="194"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_85e40555"
+                    
+                    BASELINE="2132 123 2301 126" 
+                    HPOS="2129"
+                    VPOS="77"
+                    WIDTH="171"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="2131 122 2129 157 2215 176 2216 176 2299 159 2300 125 2300 92 2277 79 2275 79 2274 79 2273 79 2272 79 2258 88 2248 94 2189 95 2171 80 2170 79 2170 78 2169 78 2167 78 2131 77 2131 122"/></Shape>
+	    <String CONTENT="Egypt."
+                    HPOS="2129"
+                    VPOS="77"
+                    WIDTH="171"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a598ba07"
+                    
+                    BASELINE="247 314 2027 306" 
+                    HPOS="245"
+                    VPOS="264"
+                    WIDTH="1781"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="246 312 247 353 377 345 489 350 490 350 544 338 608 338 669 349 677 350 678 350 688 349 739 342 759 349 764 350 765 350 766 350 783 349 873 336 1172 336 1208 344 1215 347 1217 347 1218 347 1237 344 1304 336 1344 343 1386 352 1387 352 1495 342 1587 334 1632 334 1648 341 1677 350 1678 350 1679 350 1910 344 1935 349 1937 349 2026 337 2026 305 2023 264 1922 273 1736 266 1727 266 1726 266 1723 266 1673 273 1565 267 1564 267 1563 267 1561 267 1426 277 1220 277 1191 268 1188 268 1187 268 1186 268 1174 268 1066 277 1024 269 1020 269 953 269 952 269 950 269 949 269 931 277 819 271 810 271 809 271 803 271 717 278 623 272 602 271 601 271 590 272 538 279 245 274 246 312"/></Shape>
+	    <String CONTENT="gennem tre Aartusinder. Under Redaktion af Erik Lundsgaard."
+                    HPOS="245"
+                    VPOS="264"
+                    WIDTH="1781"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e8ce5e4d"
+                    
+                    BASELINE="1352 408 1942 408" 
+                    HPOS="1350"
+                    VPOS="372"
+                    WIDTH="590"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1350 407 1350 434 1375 445 1376 445 1377 445 1444 444 1445 444 1463 435 1545 445 1547 445 1613 435 1642 435 1652 444 1652 445 1653 445 1655 445 1656 446 1761 446 1761 445 1763 445 1786 435 1834 442 1835 442 1836 442 1837 442 1846 436 1856 444 1857 444 1858 444 1859 444 1861 444 1862 444 1873 435 1899 445 1900 445 1901 445 1902 445 1940 434 1940 407 1940 385 1907 372 1906 372 1905 372 1873 379 1788 372 1787 372 1786 372 1785 372 1764 385 1740 379 1739 379 1738 379 1700 385 1637 372 1636 372 1635 372 1634 372 1634 374 1621 386 1580 386 1561 372 1560 372 1559 372 1493 372 1491 372 1490 372 1489 372 1489 374 1477 386 1402 386 1387 374 1386 374 1385 374 1383 374 1382 374 1381 374 1381 375 1369 386 1350 386 1350 407"/></Shape>
+	    <String CONTENT="4:o København 1948."
+                    HPOS="1350"
+                    VPOS="372"
+                    WIDTH="590"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e839c43f"
+                    
+                    BASELINE="2083 1433 2253 1428" 
+                    HPOS="2079"
+                    VPOS="1377"
+                    WIDTH="173"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="2081 1432 2084 1459 2095 1449 2111 1458 2117 1460 2118 1460 2120 1460 2121 1460 2122 1460 2122 1459 2124 1457 2137 1445 2177 1446 2185 1453 2185 1454 2186 1454 2187 1454 2188 1454 2252 1451 2252 1427 2250 1399 2199 1394 2198 1394 2197 1394 2174 1402 2158 1387 2154 1384 2154 1383 2153 1383 2151 1383 2079 1377 2081 1432"/></Shape>
+	    <String CONTENT="0/11. 1948"
+                    HPOS="2079"
+                    VPOS="1377"
+                    WIDTH="173"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

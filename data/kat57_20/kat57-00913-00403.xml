@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00913-00403.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="25"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2315 1477 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2016 73 2173 70" 
+                    HPOS="2013"
+                    VPOS="1"
+                    WIDTH="160"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="2016 73 2016 88 2171 94 2173 70 2170 1 2013 1 2016 73"/></Shape>
+	    <String CONTENT="Filos."
+                    HPOS="2013"
+                    VPOS="1"
+                    WIDTH="160"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2003 147 2235 144" 
+                    HPOS="2002"
+                    VPOS="85"
+                    WIDTH="233"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="2003 147 2003 169 2235 169 2235 144 2229 85 2197 97 2128 93 2063 88 2061 88 2059 88 2058 88 2058 89 2047 99 2043 104 2002 104 2003 147"/></Shape>
+	    <String CONTENT="Karakt."
+                    HPOS="2002"
+                    VPOS="85"
+                    WIDTH="233"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="238 249 675 256" 
+                    HPOS="236"
+                    VPOS="141"
+                    WIDTH="439"
+                    HEIGHT="151">
+            <Shape><Polygon POINTS="238 249 236 286 433 292 435 292 436 292 438 292 454 281 465 275 563 275 623 275 625 276 646 288 647 288 649 288 651 288 673 275 675 256 675 152 647 141 646 141 644 141 580 150 555 141 553 141 551 141 473 152 409 147 408 147 406 147 371 168 353 176 238 174 238 249"/></Shape>
+	    <String CONTENT="KLAGES, Ludwig"
+                    HPOS="236"
+                    VPOS="141"
+                    WIDTH="439"
+                    HEIGHT="151"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="225 350 2171 353" 
+                    HPOS="224"
+                    VPOS="273"
+                    WIDTH="1947"
+                    HEIGHT="171">
+            <Shape><Polygon POINTS="225 350 224 412 480 414 484 417 504 427 505 427 507 427 567 420 614 436 615 436 617 436 665 428 702 441 703 441 705 443 831 443 831 441 908 424 926 420 948 425 970 428 972 428 1007 425 1106 416 1138 427 1173 441 1175 441 1177 441 1229 428 1279 417 1306 430 1309 432 1311 432 1313 432 1335 430 1428 424 1503 433 1578 443 1580 444 1634 444 1634 443 1636 443 1653 435 1668 430 1703 436 1740 443 1741 443 1770 438 1799 432 1823 438 1839 443 1840 443 1842 443 1906 440 2016 433 2042 441 2047 443 2048 443 2050 443 2058 441 2099 433 2168 443 2171 353 2171 273 1685 273 1684 273 1682 273 1652 286 1573 318 1517 305 1516 305 1425 318 1309 307 1308 307 1241 315 1167 305 1165 305 1063 310 1034 299 1025 296 1023 296 1022 296 996 300 929 313 871 304 846 299 844 299 843 299 828 304 795 316 729 316 699 307 659 296 657 296 571 296 569 296 465 297 464 297 424 313 412 318 225 318 225 350"/></Shape>
+	    <String CONTENT="Zur Ausdruckslehre und Charakterkunde. Gesammelte Abhandlungen."
+                    HPOS="224"
+                    VPOS="273"
+                    WIDTH="1947"
+                    HEIGHT="171"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="230 455 432 451" 
+                    HPOS="229"
+                    VPOS="403"
+                    WIDTH="203"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="230 455 230 484 284 495 286 495 288 495 312 484 360 494 361 494 432 481 432 451 430 412 404 403 403 403 401 403 400 403 398 403 398 404 388 412 388 414 326 414 324 414 296 404 294 404 292 404 229 416 230 455"/></Shape>
+	    <String CONTENT="[Ill.]"
+                    HPOS="229"
+                    VPOS="403"
+                    WIDTH="203"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1351 545 1989 550" 
+                    HPOS="1349"
+                    VPOS="497"
+                    WIDTH="640"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="1351 545 1349 630 1436 625 1474 633 1477 633 1479 633 1480 633 1482 633 1565 585 1732 585 1743 596 1743 598 1744 598 1746 598 1823 601 1847 617 1848 617 1850 617 1851 617 1853 617 1872 607 1904 636 1906 636 1907 636 1909 638 1987 638 1989 550 1987 500 1927 511 1903 502 1899 500 1898 500 1896 500 1895 500 1893 500 1891 502 1880 510 1856 503 1855 503 1853 503 1851 503 1824 518 1786 503 1778 502 1776 502 1775 502 1759 505 1706 516 1693 507 1684 499 1682 499 1680 499 1679 499 1677 499 1644 507 1637 508 1632 508 1604 500 1602 500 1600 500 1599 500 1597 500 1597 502 1591 508 1560 497 1559 497 1557 497 1556 497 1528 505 1519 497 1517 497 1516 497 1514 497 1512 497 1511 497 1492 511 1485 515 1351 515 1351 545"/></Shape>
+	    <String CONTENT="8:o Heidelberg 1927."
+                    HPOS="1349"
+                    VPOS="497"
+                    WIDTH="640"
+                    HEIGHT="141"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="267 681 529 681" 
+                    HPOS="267"
+                    VPOS="635"
+                    WIDTH="262"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="267 681 267 724 355 724 355 723 356 723 358 723 361 719 380 705 528 711 529 681 529 652 504 638 502 638 500 638 499 638 497 638 496 638 496 639 478 654 478 655 417 655 414 652 403 644 401 644 400 644 398 644 396 644 384 651 364 635 363 635 361 635 302 635 300 635 299 635 297 635 297 636 283 649 280 651 267 649 267 681"/></Shape>
+	    <String CONTENT="Streckad."
+                    HPOS="267"
+                    VPOS="635"
+                    WIDTH="262"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01198-00306.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1470"
+          PHYSICAL_IMG_NR="11"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1470">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1468"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1469 2319 1469 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="65 181 449 181" 
+                    HPOS="64"
+                    VPOS="129"
+                    WIDTH="384"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="64 193 118 202 120 202 308 193 313 193 335 203 337 203 338 204 438 204 438 203 439 203 441 203 441 202 448 194 448 180 448 148 404 134 403 134 401 134 400 134 399 134 384 147 357 137 356 137 355 137 354 137 322 145 311 149 270 149 262 144 254 140 253 140 252 140 251 140 241 143 230 147 202 143 196 142 183 131 183 129 182 129 181 129 88 129 87 129 85 129 84 129 84 131 74 139 72 142 66 139 64 180 64 193"/></Shape>
+	    <String CONTENT="MEYNEN, Emil"
+                    HPOS="64"
+                    VPOS="129"
+                    WIDTH="384"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="70 285 2319 272" 
+                    HPOS="68"
+                    VPOS="226"
+                    WIDTH="2250"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="69 284 69 318 125 325 126 325 177 318 214 329 215 329 216 330 355 330 355 329 397 322 485 331 486 331 571 325 627 334 628 334 914 333 915 333 981 316 1058 318 1060 318 1099 309 1120 305 1220 308 1275 309 1277 309 1289 307 1306 303 1321 307 1387 325 1388 325 1389 325 1430 317 1469 329 1470 329 1471 330 1637 330 1637 329 1638 329 1712 303 1720 303 1761 300 2242 298 2246 298 2288 305 2289 305 2318 297 2318 271 2316 242 2204 241 2128 226 2127 226 2052 241 1993 231 1992 231 1991 231 1956 241 1826 242 1656 235 1655 235 1654 235 1618 245 1614 246 1594 245 1469 237 1468 237 1441 242 1364 230 1194 230 1193 230 1192 230 1156 240 1125 231 1123 231 970 231 969 231 893 248 887 249 881 248 850 242 849 242 754 249 730 251 708 249 520 233 519 233 451 251 443 252 422 251 351 246 350 246 301 252 283 254 134 254 129 252 109 247 107 247 106 247 68 252 69 284"/></Shape>
+	    <String CONTENT="Se: Rheindland-Pfalz in seiner Gliederung nach zentralörtlichen Bereichen..."
+                    HPOS="68"
+                    VPOS="226"
+                    WIDTH="2250"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="194 389 355 389" 
+                    HPOS="193"
+                    VPOS="347"
+                    WIDTH="161"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="193 388 193 405 215 412 216 412 218 412 354 405 354 388 354 360 301 347 300 347 265 355 251 349 250 349 248 349 247 349 246 349 234 357 220 347 219 347 218 347 216 347 215 347 193 358 193 388"/></Shape>
+	    <String CONTENT="1957."
+                    HPOS="193"
+                    VPOS="347"
+                    WIDTH="161"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="100 486 1557 481" 
+                    HPOS="98"
+                    VPOS="439"
+                    WIDTH="1458"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="99 485 99 551 187 546 334 550 425 551 426 551 427 551 441 547 547 518 737 518 783 536 784 536 785 536 786 536 813 526 834 534 835 534 837 534 838 534 894 516 940 516 1004 539 1029 547 1030 547 1031 547 1033 547 1066 539 1115 524 1153 535 1154 535 1155 535 1202 532 1210 536 1235 547 1236 547 1237 547 1239 547 1284 535 1340 519 1364 530 1365 530 1366 530 1437 516 1555 530 1556 480 1555 448 1539 439 1538 439 1435 439 1433 439 1432 439 1413 448 1348 439 1346 439 1345 439 1315 448 1266 439 1264 439 1263 439 1237 448 1110 441 1109 441 1017 448 987 441 986 441 985 441 839 450 824 452 748 452 747 450 730 442 729 442 727 442 645 450 643 450 642 450 600 442 599 442 598 442 579 450 579 452 544 452 544 450 525 442 524 442 464 442 463 442 462 442 427 452 424 452 419 452 361 443 360 443 359 443 343 452 341 453 245 453 242 452 189 443 188 443 98 452 99 485"/></Shape>
+	    <String CONTENT="i: Forschungen zur deutschen Landeskunde. Bd 100."
+                    HPOS="98"
+                    VPOS="439"
+                    WIDTH="1458"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1608 475 1801 468" 
+                    HPOS="1604"
+                    VPOS="405"
+                    WIDTH="196"
+                    HEIGHT="140">
+            <Shape><Polygon POINTS="1607 474 1609 545 1666 545 1667 545 1669 545 1690 526 1702 515 1714 520 1720 523 1721 523 1723 523 1724 523 1740 514 1764 499 1800 498 1800 467 1797 422 1783 418 1781 418 1780 418 1767 420 1699 432 1679 431 1656 410 1652 406 1652 405 1650 405 1649 405 1648 405 1604 405 1607 474"/></Shape>
+	    <String CONTENT="Geogr"
+                    HPOS="1604"
+                    VPOS="405"
+                    WIDTH="196"
+                    HEIGHT="140"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

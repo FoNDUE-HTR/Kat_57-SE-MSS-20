@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01198-00034.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2300"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="39"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2300"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2298"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2299 1479 2299 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="69 90 445 79" 
+                    HPOS="65"
+                    VPOS="12"
+                    WIDTH="379"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="67 88 69 120 107 118 108 118 109 118 119 109 154 118 159 119 160 119 161 119 162 119 164 119 165 118 182 106 208 117 209 117 210 117 212 118 251 118 251 117 252 117 254 117 254 115 255 115 265 102 375 101 387 111 389 113 391 113 392 113 393 113 444 108 444 78 440 43 361 43 354 37 326 13 326 12 325 12 324 12 301 12 299 12 275 13 273 13 272 13 272 14 256 30 248 40 228 29 213 19 212 19 210 19 209 19 208 19 207 19 207 20 201 27 183 45 159 49 132 23 125 18 125 17 124 17 123 17 122 17 120 17 111 22 106 24 65 19 67 88"/></Shape>
+	    <String CONTENT="[Kiel, Univ."
+                    HPOS="65"
+                    VPOS="12"
+                    WIDTH="379"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="233 200 636 197" 
+                    HPOS="230"
+                    VPOS="160"
+                    WIDTH="405"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="231 199 231 220 251 233 252 233 254 233 255 233 386 231 387 231 388 231 405 220 407 219 419 220 476 225 477 225 556 222 566 229 567 229 568 229 570 229 635 220 635 196 631 168 562 168 560 168 523 160 521 160 429 170 424 170 417 170 265 162 264 162 262 162 230 171 231 199"/></Shape>
+	    <String CONTENT="MEYER, William"
+                    HPOS="230"
+                    VPOS="160"
+                    WIDTH="405"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="229 298 1270 301" 
+                    HPOS="227"
+                    VPOS="261"
+                    WIDTH="1042"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="228 297 227 316 252 324 254 324 255 324 551 319 573 325 575 325 576 325 1268 320 1269 300 1269 273 1228 262 1227 262 1142 262 1141 262 1140 262 1138 262 1126 272 1104 262 1103 262 1014 262 1013 262 1011 262 993 270 982 262 980 262 979 262 978 262 941 270 929 262 927 262 926 262 884 262 883 262 832 271 783 262 782 262 723 271 703 263 702 263 700 263 630 268 595 261 594 261 593 261 592 261 579 271 571 263 570 263 568 263 567 263 228 270 228 297"/></Shape>
+	    <String CONTENT="Baltische Studenten in Kiel 1665-1865."
+                    HPOS="227"
+                    VPOS="261"
+                    WIDTH="1042"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1588 66 1806 63" 
+                    HPOS="1585"
+                    VPOS="14"
+                    WIDTH="220"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1586 65 1586 81 1606 90 1607 90 1609 90 1657 86 1660 86 1687 102 1689 102 1690 102 1691 102 1725 101 1726 101 1727 101 1738 91 1750 81 1769 92 1782 101 1784 101 1785 101 1786 101 1787 101 1805 94 1805 62 1802 16 1765 14 1764 14 1763 14 1762 14 1762 16 1757 19 1729 45 1653 45 1639 33 1622 17 1622 16 1621 16 1620 16 1618 16 1605 17 1604 17 1602 17 1602 18 1585 34 1586 65"/></Shape>
+	    <String CONTENT="Biogr.]"
+                    HPOS="1585"
+                    VPOS="14"
+                    WIDTH="220"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1588 157 1746 152" 
+                    HPOS="1584"
+                    VPOS="99"
+                    WIDTH="161"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1586 156 1586 168 1601 176 1602 176 1604 176 1745 167 1745 151 1743 114 1720 99 1718 99 1717 99 1716 99 1715 99 1713 99 1713 101 1702 111 1692 102 1691 102 1690 102 1689 102 1687 102 1686 102 1660 118 1605 103 1604 103 1602 103 1601 103 1600 103 1584 115 1586 156"/></Shape>
+	    <String CONTENT="Balt."
+                    HPOS="1584"
+                    VPOS="99"
+                    WIDTH="161"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1575 231 1762 226" 
+                    HPOS="1573"
+                    VPOS="173"
+                    WIDTH="187"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1574 230 1574 256 1620 249 1641 252 1658 256 1659 256 1660 256 1679 250 1687 247 1690 250 1696 255 1697 255 1699 255 1700 255 1731 254 1732 254 1760 244 1760 225 1759 192 1741 175 1741 173 1739 173 1738 173 1722 173 1721 173 1720 173 1718 173 1718 175 1699 192 1697 194 1652 194 1648 192 1631 177 1631 176 1629 176 1628 176 1627 176 1605 177 1604 177 1602 177 1602 178 1589 192 1584 196 1573 192 1574 230"/></Shape>
+	    <String CONTENT="[Saml."
+                    HPOS="1573"
+                    VPOS="173"
+                    WIDTH="187"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1890 61 2123 56" 
+                    HPOS="1887"
+                    VPOS="12"
+                    WIDTH="235"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1889 60 1889 72 1929 82 1931 82 2122 71 2122 55 2118 30 2032 32 2006 12 2005 12 2003 12 2002 12 2001 12 2000 12 1975 29 1959 14 1959 13 1958 13 1956 13 1944 13 1943 13 1911 14 1910 14 1908 14 1887 30 1889 60"/></Shape>
+	    <String CONTENT="Underv."
+                    HPOS="1887"
+                    VPOS="12"
+                    WIDTH="235"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1918 128 2022 132" 
+                    HPOS="1917"
+                    VPOS="78"
+                    WIDTH="105"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1917 127 1917 149 1940 141 1959 149 1966 151 1968 151 1969 151 1970 151 1971 151 1974 149 1979 144 1985 149 1992 154 1993 154 1995 154 1996 154 1997 154 2019 148 2021 131 2022 87 2008 80 2007 80 2006 80 2005 80 1989 85 1985 85 1918 78 1917 127"/></Shape>
+	    <String CONTENT="Utl."
+                    HPOS="1917"
+                    VPOS="78"
+                    WIDTH="105"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1895 199 2179 196" 
+                    HPOS="1892"
+                    VPOS="148"
+                    WIDTH="285"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1894 198 1894 223 1905 231 1906 231 1907 231 1952 233 1953 233 1954 233 1976 223 1987 233 1989 233 1990 233 1991 233 1992 233 2011 224 2021 219 2091 219 2130 229 2140 231 2142 231 2143 231 2177 230 2177 194 2175 149 2133 148 2132 148 2130 148 2129 148 2129 149 2127 151 2111 166 2069 168 2000 168 1985 159 1974 151 1973 151 1971 151 1970 151 1969 151 1944 161 1940 162 1940 161 1929 151 1929 150 1928 150 1927 150 1906 150 1905 150 1903 150 1902 150 1902 151 1892 160 1894 198"/></Shape>
+	    <String CONTENT="Läroanst."
+                    HPOS="1892"
+                    VPOS="148"
+                    WIDTH="285"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="1684 397 2081 400" 
+                    HPOS="1681"
+                    VPOS="361"
+                    WIDTH="399"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1683 395 1681 411 1712 429 1713 429 1715 430 1778 430 1778 429 1779 429 1780 429 1803 413 1833 430 1834 430 1836 431 1915 431 1915 430 1916 430 1917 430 1942 414 2010 429 2011 429 2012 429 2049 415 2079 415 2080 399 2080 374 2040 362 2039 362 1955 362 1954 362 1953 362 1952 362 1939 373 1917 367 1916 367 1915 367 1840 370 1831 362 1831 361 1829 361 1828 361 1827 361 1826 361 1790 372 1683 372 1683 395"/></Shape>
+	    <String CONTENT="8:o Kiel 1930."
+                    HPOS="1681"
+                    VPOS="361"
+                    WIDTH="399"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="237 504 2031 504" 
+                    HPOS="236"
+                    VPOS="462"
+                    WIDTH="1793"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="236 503 236 546 292 558 293 559 391 559 391 558 392 558 429 546 466 532 803 532 853 535 879 543 926 558 927 558 929 559 1248 559 1248 558 1249 558 1299 542 1330 532 1398 532 1423 541 1426 542 1427 542 1428 542 1442 541 1480 538 1493 541 1551 557 1552 557 1553 557 1554 557 1601 541 1613 537 1638 541 1650 542 1652 542 1673 541 1720 536 1739 540 1755 543 1757 543 1813 540 1860 537 1875 540 1890 542 1891 542 1892 542 1900 540 1915 535 1932 540 1943 542 1944 542 1945 542 2028 538 2029 503 2027 462 1805 473 1700 467 1699 467 1697 467 1675 473 1613 463 1612 463 1541 471 1395 466 1394 466 1358 473 1258 473 1201 462 1200 462 1150 473 1084 462 1083 462 999 474 716 474 657 462 656 462 655 462 612 474 481 474 444 462 442 462 236 462 236 503"/></Shape>
+	    <String CONTENT="[Mitteilungen der Gesellschaft für Kieler Stadtgeschichte. Nr 35.]"
+                    HPOS="236"
+                    VPOS="462"
+                    WIDTH="1793"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    
+                    BASELINE="1654 1440 2190 1434" 
+                    HPOS="1652"
+                    VPOS="1383"
+                    WIDTH="536"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1653 1439 1653 1455 1687 1468 1689 1468 1690 1468 1691 1468 1710 1462 1747 1468 1748 1468 1749 1468 1750 1468 1750 1467 1762 1456 1764 1454 1803 1455 1803 1456 1816 1466 1816 1467 1817 1467 1818 1467 1820 1468 1865 1468 1865 1467 1866 1467 1868 1467 1880 1456 1884 1454 1887 1456 1900 1466 1901 1466 1902 1466 1903 1466 1955 1456 1982 1451 2186 1456 2188 1433 2184 1383 2154 1397 2074 1397 2054 1389 2053 1389 2051 1389 2050 1389 2029 1397 1998 1388 1997 1388 1996 1388 1995 1388 1993 1388 1982 1396 1976 1391 1976 1389 1975 1389 1974 1389 1971 1388 1931 1388 1929 1388 1928 1388 1924 1391 1913 1396 1892 1391 1861 1385 1860 1385 1859 1385 1858 1385 1858 1386 1850 1392 1848 1393 1837 1392 1754 1385 1753 1385 1652 1397 1653 1439"/></Shape>
+	    <String CONTENT="Orig.-lapp förkommen"
+                    HPOS="1652"
+                    VPOS="1383"
+                    WIDTH="536"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01498-00111.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2332"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="9"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2332"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2330"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2331 1471 2331 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="235 207 599 203" 
+                    HPOS="233"
+                    VPOS="158"
+                    WIDTH="365"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="234 206 235 235 240 233 241 235 250 242 250 244 251 244 252 244 253 245 354 245 354 244 386 242 387 242 388 242 403 231 406 230 452 230 453 230 467 240 468 240 469 240 471 240 472 240 473 240 488 229 491 228 505 229 547 234 548 234 597 226 598 202 596 160 571 158 570 158 569 158 561 161 550 166 544 161 540 159 539 159 538 159 537 159 536 159 527 163 506 174 390 174 383 169 376 163 376 161 375 161 374 161 287 160 285 160 284 160 233 174 234 206"/></Shape>
+	    <String CONTENT="REIN, Adolf"
+                    HPOS="233"
+                    VPOS="158"
+                    WIDTH="365"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="240 305 345 305" 
+                    HPOS="239"
+                    VPOS="272"
+                    WIDTH="105"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="239 304 239 317 263 327 264 327 266 328 311 328 311 327 312 327 314 327 314 326 318 321 328 326 329 326 331 326 332 326 333 326 344 318 344 304 344 283 257 272 256 272 255 272 253 272 239 282 239 304"/></Shape>
+	    <String CONTENT="Se:"
+                    HPOS="239"
+                    VPOS="272"
+                    WIDTH="105"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="238 405 878 408" 
+                    HPOS="236"
+                    VPOS="359"
+                    WIDTH="641"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="236 442 386 447 387 447 388 447 404 440 419 433 433 440 444 445 445 445 446 445 447 445 471 439 473 439 475 439 499 447 500 447 501 447 502 447 504 447 516 439 518 436 523 437 544 445 545 445 547 445 548 445 549 445 558 437 565 433 592 433 598 436 599 439 601 439 602 439 603 439 618 436 628 435 629 436 646 448 647 448 648 448 650 448 651 448 685 435 694 433 729 435 744 435 754 444 755 444 756 444 758 444 788 442 790 442 791 442 802 434 804 433 875 433 877 407 875 360 836 360 835 360 834 360 832 360 832 361 823 370 803 364 802 364 801 364 729 366 728 366 727 366 716 376 690 376 674 361 673 360 672 360 671 360 669 360 658 363 603 375 576 364 575 364 574 364 509 374 498 364 493 360 493 359 491 359 490 359 489 359 488 359 477 364 471 368 463 365 448 359 447 359 446 359 445 359 444 359 436 365 423 375 387 375 369 365 354 359 353 359 352 359 311 366 285 371 277 366 267 361 266 361 264 361 263 361 262 361 255 368 250 371 239 368 237 404 236 442"/></Shape>
+	    <String CONTENT="REIN, [Gustaf] Adolf"
+                    HPOS="236"
+                    VPOS="359"
+                    WIDTH="641"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

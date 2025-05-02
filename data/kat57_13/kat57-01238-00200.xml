@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00200.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2340"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="26"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2340"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2338"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2339 1477 2339 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="70 225 358 222" 
+                    HPOS="67"
+                    VPOS="173"
+                    WIDTH="290"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="69 224 69 241 354 243 357 221 352 184 333 189 317 185 310 183 309 183 308 183 306 183 305 183 303 185 298 190 288 185 261 173 260 173 210 173 209 173 179 176 178 176 177 176 158 189 155 193 139 193 136 190 129 183 129 182 128 182 126 182 125 182 67 192 69 224"/></Shape>
+	    <String CONTENT="MORTALITY"
+                    HPOS="67"
+                    VPOS="173"
+                    WIDTH="290"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1983 62 2158 59" 
+                    HPOS="1981"
+                    VPOS="7"
+                    WIDTH="176"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1982 61 1982 72 2035 83 2036 83 2108 81 2109 81 2110 81 2110 80 2115 76 2121 70 2155 76 2157 57 2156 32 2089 8 2088 8 2039 7 2038 7 2036 7 2035 7 2003 34 2002 35 1981 35 1982 61"/></Shape>
+	    <String CONTENT="Med."
+                    HPOS="1981"
+                    VPOS="7"
+                    WIDTH="176"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1970 144 2230 141" 
+                    HPOS="1967"
+                    VPOS="92"
+                    WIDTH="262"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1969 142 1969 177 2057 173 2059 173 2060 173 2061 172 2071 163 2109 160 2141 166 2163 169 2165 169 2227 158 2229 140 2225 109 2171 114 2167 110 2162 107 2162 105 2161 105 2160 105 2158 105 2157 105 2156 105 2149 110 2134 104 2132 104 2131 104 2130 104 2129 104 2129 105 2120 113 2115 118 2097 118 2092 114 2062 92 2061 92 2060 92 2006 92 2004 92 2003 92 2002 92 2002 93 1976 118 1976 119 1967 119 1969 142"/></Shape>
+	    <String CONTENT="Kirurg"
+                    HPOS="1967"
+                    VPOS="92"
+                    WIDTH="262"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="73 324 2314 321" 
+                    HPOS="71"
+                    VPOS="275"
+                    WIDTH="2241"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="72 323 73 352 322 346 346 351 354 353 356 353 357 354 425 354 425 353 426 353 434 351 450 346 478 351 494 353 495 353 527 351 563 347 600 349 628 352 629 352 697 349 820 344 978 348 1102 351 1104 351 1158 347 1200 344 1223 347 1267 352 1269 352 1419 346 1435 346 1442 346 1525 352 1526 352 1643 344 1674 343 1685 344 1718 349 2036 351 2038 351 2312 341 2312 320 2309 275 2220 285 2091 285 2045 277 2038 275 1780 275 1779 275 1778 275 1769 278 1749 283 1716 278 1699 275 1698 275 1657 278 1560 285 1488 279 1460 277 1458 277 1275 280 996 285 979 282 961 277 959 277 958 277 911 282 899 283 888 282 847 277 846 277 788 283 767 284 706 283 605 280 603 280 602 280 592 283 581 288 380 288 349 284 264 278 263 278 227 285 219 286 205 285 141 278 140 278 71 285 72 323"/></Shape>
+	    <String CONTENT="operative complications and recurrence frequency in the surgical treatment"
+                    HPOS="71"
+                    VPOS="275"
+                    WIDTH="2241"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="75 424 2282 424" 
+                    HPOS="73"
+                    VPOS="381"
+                    WIDTH="2207"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="73 423 73 459 267 464 268 464 269 464 287 459 312 453 532 453 576 459 590 460 591 460 592 460 597 459 617 453 877 453 906 458 932 463 934 463 967 458 988 455 1006 458 1068 469 1069 470 1504 470 1504 469 1537 463 1783 469 1784 469 1859 456 1863 456 1866 456 1925 469 1927 470 2084 470 2084 469 2181 456 2199 454 2279 455 2280 423 2279 386 2092 389 2080 386 2063 381 2062 381 1938 381 1937 381 1905 386 1885 389 1807 386 1669 381 1668 381 1667 381 1648 386 1638 389 1621 386 1592 383 1590 383 1418 386 1367 387 1341 386 1224 381 1223 381 1195 387 1190 387 1170 387 1052 381 1051 381 961 387 932 390 624 390 614 387 580 383 579 383 542 387 532 389 517 387 441 381 439 381 438 381 415 387 410 389 373 387 202 383 200 383 160 389 152 389 146 389 94 381 93 381 92 381 73 387 73 423"/></Shape>
+	    <String CONTENT="of thyrotoxicosis. By Arne Bertelsen &amp; Erik Christensen, Egon Bruun, Poul"
+                    HPOS="73"
+                    VPOS="381"
+                    WIDTH="2207"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="77 523 657 526" 
+                    HPOS="75"
+                    VPOS="484"
+                    WIDTH="581"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="75 541 86 548 87 548 88 548 89 548 235 543 268 541 282 543 317 549 319 549 394 545 454 543 459 546 460 548 460 549 462 549 463 549 464 549 505 548 605 544 654 550 656 525 655 496 625 496 625 495 617 487 617 486 616 486 614 486 613 486 612 486 611 486 598 495 597 495 595 495 572 488 571 488 570 488 569 488 568 488 568 490 563 493 561 496 484 496 479 492 464 485 463 485 462 485 460 485 437 492 431 493 425 492 404 486 402 486 401 486 369 491 351 493 331 490 300 485 299 485 298 485 296 485 296 486 292 490 288 495 271 495 258 490 243 484 242 484 241 484 216 488 199 492 194 488 188 484 187 484 186 484 184 484 183 484 171 487 156 493 139 493 134 487 130 485 130 484 129 484 128 484 96 484 94 484 93 484 92 484 88 486 83 491 78 486 76 522 75 541"/></Shape>
+	    <String CONTENT="Becker-Christensen."
+                    HPOS="75"
+                    VPOS="484"
+                    WIDTH="581"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1421 619 2002 622" 
+                    HPOS="1419"
+                    VPOS="573"
+                    WIDTH="582"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1420 618 1419 642 1471 654 1472 654 1548 645 1561 655 1561 656 1562 656 1563 656 1564 656 1632 647 1651 657 1652 657 1653 657 1778 646 1806 658 1807 658 1808 658 1810 658 1842 647 1911 658 1912 658 1999 646 2001 621 2001 587 1950 575 1949 575 1948 575 1868 578 1866 578 1852 586 1849 588 1822 588 1820 586 1801 577 1800 577 1799 577 1743 583 1722 573 1721 573 1720 573 1718 573 1695 583 1665 573 1664 573 1612 573 1611 573 1610 573 1582 583 1578 585 1574 583 1557 575 1556 575 1555 575 1520 582 1510 586 1466 586 1462 582 1456 577 1456 576 1455 576 1454 576 1452 576 1420 581 1420 618"/></Shape>
+	    <String CONTENT="8:o København 1947."
+                    HPOS="1419"
+                    VPOS="573"
+                    WIDTH="582"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="72 721 1413 719 1843 708" 
+                    HPOS="70"
+                    VPOS="666"
+                    WIDTH="1772"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="71 720 71 772 173 767 268 769 332 772 333 772 335 772 343 768 399 747 431 757 432 757 433 757 434 757 457 750 543 764 550 766 552 766 553 766 558 764 617 745 736 745 847 759 890 764 892 764 948 757 1049 743 1104 755 1171 768 1173 769 1279 769 1279 768 1378 767 1380 767 1429 748 1458 757 1460 757 1461 757 1462 757 1479 752 1548 761 1550 761 1632 745 1651 741 1842 741 1842 706 1839 666 1592 666 1590 666 1574 668 1495 686 1275 686 1247 676 1245 676 1244 676 1243 676 1203 690 1125 681 1123 681 1122 681 1094 690 1053 682 1052 682 672 693 584 683 582 683 478 689 449 683 446 682 444 682 443 682 442 682 438 683 420 689 402 683 401 683 400 683 399 683 395 683 337 694 264 686 229 681 227 681 226 681 209 686 181 694 151 687 150 687 149 687 70 687 71 720"/></Shape>
+	    <String CONTENT="Se: Acta chirurgica scandinavica. Supplementum. 133. { Med"
+                    HPOS="70"
+                    VPOS="666"
+                    WIDTH="1772"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1712 798 1922 793" 
+                    HPOS="1710"
+                    VPOS="731"
+                    WIDTH="211"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="1711 796 1712 852 1757 852 1757 851 1758 851 1759 851 1759 849 1763 846 1774 835 1842 835 1847 837 1864 848 1865 848 1866 848 1868 848 1869 848 1870 848 1885 836 1903 839 1905 839 1906 839 1907 839 1921 830 1921 791 1918 745 1896 731 1895 731 1893 731 1868 731 1866 731 1865 731 1864 731 1839 751 1837 753 1832 751 1796 739 1795 739 1794 739 1710 758 1711 796"/></Shape>
+	    <String CONTENT="Tidskr."
+                    HPOS="1710"
+                    VPOS="731"
+                    WIDTH="211"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00110.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="37"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2311 1479 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="138 247 624 250" 
+                    HPOS="135"
+                    VPOS="202"
+                    WIDTH="488"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="136 246 135 277 152 286 154 286 155 286 356 281 378 287 379 287 381 287 419 279 434 286 435 286 436 286 437 286 462 276 476 271 595 271 600 276 606 281 606 282 608 282 609 282 610 282 611 282 621 276 623 249 621 203 551 215 466 215 431 205 416 203 415 203 414 203 404 207 383 214 366 207 354 202 352 202 314 202 313 202 312 202 292 208 278 213 247 209 186 202 185 202 183 202 182 202 182 203 175 209 164 202 162 202 161 202 160 202 159 202 136 210 136 246"/></Shape>
+	    <String CONTENT="MOR SAGA [pseud.]"
+                    HPOS="135"
+                    VPOS="202"
+                    WIDTH="488"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="130 349 1463 349" 
+                    HPOS="129"
+                    VPOS="305"
+                    WIDTH="1332"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="129 347 129 371 212 377 213 377 241 372 265 368 283 372 330 384 331 384 333 386 521 386 521 384 523 384 544 374 552 371 571 374 573 374 574 374 576 374 590 368 615 374 627 378 629 378 630 378 631 378 642 376 653 372 664 376 688 383 689 383 690 383 727 376 766 368 805 368 827 377 847 384 848 384 850 384 901 383 903 383 924 377 954 368 1007 368 1025 377 1026 377 1027 377 1028 377 1049 368 1136 370 1152 379 1163 384 1164 384 1165 384 1167 384 1188 379 1226 370 1285 379 1300 382 1301 382 1302 382 1306 379 1321 372 1402 372 1432 381 1443 384 1444 384 1445 384 1461 381 1461 347 1461 305 1292 305 1291 305 1290 305 1288 307 1267 316 1227 316 1207 307 1206 307 1205 307 1204 307 1202 307 1200 307 1178 316 1099 309 1098 309 1096 309 1081 314 1069 308 1062 305 1061 305 1059 305 1031 309 970 316 937 309 916 305 915 305 914 305 895 310 869 316 811 310 768 307 767 307 766 307 757 312 752 314 639 316 605 313 546 305 545 305 505 314 491 316 483 314 461 305 460 305 458 305 420 314 409 316 393 315 352 309 351 309 318 315 309 318 129 318 129 347"/></Shape>
+	    <String CONTENT="Mor Saga berättar för barnen på Haga. [Ill.]"
+                    HPOS="129"
+                    VPOS="305"
+                    WIDTH="1332"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="162 549 602 554" 
+                    HPOS="160"
+                    VPOS="504"
+                    WIDTH="440"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="161 548 160 577 199 573 210 578 213 579 214 579 215 579 217 579 220 578 250 568 268 577 270 577 271 577 272 577 302 569 313 578 314 579 315 579 317 579 318 579 319 579 320 579 322 578 330 572 338 578 340 580 341 580 342 580 344 580 403 578 413 577 414 577 415 577 415 575 423 569 487 569 492 575 493 575 493 577 494 577 495 577 497 577 498 577 514 571 536 577 537 577 539 577 540 577 541 577 541 575 546 572 552 578 558 583 560 583 561 583 562 583 599 577 600 553 599 510 508 513 499 510 486 505 484 505 483 505 482 505 481 505 476 510 471 514 424 515 393 510 357 504 356 504 355 504 333 510 328 511 320 510 292 505 291 505 289 505 268 510 257 513 161 511 161 548"/></Shape>
+	    <String CONTENT="[Omslagstitel. ]"
+                    HPOS="160"
+                    VPOS="504"
+                    WIDTH="440"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="143 660 688 664" 
+                    HPOS="140"
+                    VPOS="616"
+                    WIDTH="547"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="141 659 140 689 294 696 326 717 328 717 329 717 330 719 403 719 403 717 404 717 405 717 420 705 435 710 436 710 437 710 439 710 455 704 477 717 478 717 479 717 598 719 599 719 600 719 602 719 645 694 685 694 687 663 687 638 587 638 583 636 552 619 551 619 511 619 510 619 509 619 508 619 498 626 492 621 491 621 489 621 488 621 487 621 486 621 467 633 466 635 463 633 423 619 421 619 420 619 419 619 393 625 324 616 303 616 302 616 301 616 273 631 265 635 202 635 193 630 172 616 171 616 170 616 169 616 167 616 141 627 141 659"/></Shape>
+	    <String CONTENT="Se: MACFIE, Thyra"
+                    HPOS="140"
+                    VPOS="616"
+                    WIDTH="547"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="759 733 1002 730" 
+                    HPOS="757"
+                    VPOS="686"
+                    WIDTH="244"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="758 732 758 749 772 749 773 749 789 762 790 762 792 762 793 762 794 762 795 762 809 751 919 760 920 760 921 760 937 753 945 759 946 759 947 759 948 759 949 759 951 759 951 758 964 743 966 743 1000 743 1001 728 998 709 889 710 878 704 846 686 845 686 843 686 778 688 777 688 757 698 758 732"/></Shape>
+	    <String CONTENT="Barnb"
+                    HPOS="757"
+                    VPOS="686"
+                    WIDTH="244"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1055 724 1125 720" 
+                    HPOS="1051"
+                    VPOS="659"
+                    WIDTH="72"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1054 723 1054 736 1085 747 1086 747 1088 747 1089 747 1090 747 1090 746 1095 742 1096 741 1123 746 1123 719 1118 664 1085 659 1084 659 1083 659 1051 673 1054 723"/></Shape>
+	    <String CONTENT="Br"
+                    HPOS="1051"
+                    VPOS="659"
+                    WIDTH="72"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1269 439 1853 444" 
+                    HPOS="1268"
+                    VPOS="397"
+                    WIDTH="583"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1268 437 1268 483 1316 467 1341 467 1352 476 1353 476 1354 476 1355 476 1357 476 1368 471 1381 483 1383 484 1383 485 1384 485 1385 485 1501 487 1502 487 1503 487 1510 483 1537 469 1587 483 1591 484 1592 484 1593 484 1595 484 1596 484 1596 483 1603 478 1610 483 1614 488 1616 488 1617 488 1618 488 1619 488 1635 483 1679 471 1732 471 1746 479 1748 479 1749 479 1750 479 1751 479 1767 474 1777 483 1780 485 1780 487 1781 487 1782 487 1783 487 1785 487 1793 483 1812 476 1823 483 1827 487 1828 487 1829 487 1830 487 1850 483 1851 444 1851 409 1712 400 1711 400 1709 400 1688 408 1680 410 1669 408 1637 400 1635 400 1548 407 1518 409 1497 409 1495 407 1485 398 1484 398 1482 398 1481 398 1442 405 1410 398 1408 398 1407 398 1406 398 1405 398 1392 407 1366 397 1365 397 1364 397 1363 397 1333 407 1268 407 1268 437"/></Shape>
+	    <String CONTENT="8:o Uddevalla 1953."
+                    HPOS="1268"
+                    VPOS="397"
+                    WIDTH="583"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

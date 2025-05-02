@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01966-00060.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="22"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2327 1471 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="19 51 551 45" 
+                    HPOS="17"
+                    VPOS="1"
+                    WIDTH="532"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="471 1 458 1 446 1 434 1 418 6 390 17 376 7 373 3 371 3 370 3 369 3 368 3 366 3 363 7 347 20 257 22 239 7 231 1 230 1 229 1 228 1 203 2 202 2 201 2 195 8 175 23 119 23 85 8 72 3 71 3 69 3 68 3 56 8 45 14 39 9 34 4 33 4 31 4 30 4 29 4 17 8 18 50 18 69 53 69 66 74 88 82 89 82 90 82 92 82 110 77 121 74 134 79 136 79 137 79 138 79 139 79 141 79 141 78 152 68 193 68 220 85 258 112 260 112 261 112 262 114 336 114 336 112 350 111 352 111 353 111 370 96 407 67 478 96 479 96 548 110 549 44 547 6 522 2 521 2 520 2 511 6 493 13 485 6 479 1 471 1"/></Shape>
+	    <String CONTENT="Urbana, Univ. of Illinois"
+                    HPOS="17"
+                    VPOS="1"
+                    WIDTH="532"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="343 286 1291 282" 
+                    HPOS="341"
+                    VPOS="239"
+                    WIDTH="948"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="342 285 342 305 506 305 508 305 530 323 531 323 532 323 533 323 628 320 629 320 630 320 652 305 657 304 688 304 692 306 713 322 714 322 715 322 716 322 985 321 986 321 1012 307 1021 302 1039 307 1051 310 1052 310 1054 310 1055 310 1063 307 1079 302 1103 307 1116 310 1117 310 1289 307 1289 280 1286 241 1178 247 1168 241 1165 239 1164 239 1163 239 1083 239 1082 239 1081 239 1079 239 1077 241 1068 249 1038 249 1025 241 1024 240 1023 240 1022 240 991 240 990 240 989 240 984 241 960 250 811 251 744 251 730 242 727 241 726 241 725 241 724 241 721 242 705 249 692 242 689 241 688 241 687 241 686 241 684 241 683 242 674 250 644 244 582 244 581 244 580 244 579 244 571 250 558 242 557 242 555 242 554 242 551 242 511 249 341 244 342 285"/></Shape>
+	    <String CONTENT="UNIVERSITY OF ILLINOIS BULLETIN"
+                    HPOS="341"
+                    VPOS="239"
+                    WIDTH="948"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="346 384 1149 391" 
+                    HPOS="343"
+                    VPOS="345"
+                    WIDTH="805"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="344 383 343 402 438 415 439 415 440 415 472 404 474 404 560 410 562 410 586 406 587 406 624 425 625 425 627 425 628 425 692 407 706 413 708 413 709 413 758 408 767 407 770 408 825 428 827 428 828 429 901 429 901 428 903 428 904 428 913 421 937 428 938 428 940 428 941 428 942 428 942 426 952 418 986 429 987 429 989 430 1077 430 1077 429 1078 429 1079 429 1097 418 1110 423 1111 423 1113 423 1114 423 1147 412 1148 390 1148 361 1103 350 1102 350 1100 350 1099 350 1068 361 1067 363 1006 363 1003 361 984 354 982 354 981 354 980 354 954 360 926 349 925 349 924 349 747 355 740 349 738 349 737 349 736 349 647 353 606 347 605 347 603 347 602 347 585 358 584 359 563 359 560 358 505 345 504 345 503 345 501 345 488 356 435 350 434 350 393 356 391 356 374 348 373 348 371 348 370 348 344 355 344 383"/></Shape>
+	    <String CONTENT="Vol.13- 14, 35-41,43-49, 53."
+                    HPOS="343"
+                    VPOS="345"
+                    WIDTH="805"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="356 568 1211 547" 
+                    HPOS="353"
+                    VPOS="499"
+                    WIDTH="857"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="355 567 355 605 402 605 402 604 403 604 404 604 406 603 423 590 438 594 439 594 440 594 441 594 443 594 454 586 461 592 462 592 463 592 515 596 516 596 517 596 564 583 589 592 590 592 591 592 592 592 593 592 606 582 623 592 624 592 625 592 627 592 661 581 692 590 693 590 694 590 695 590 724 578 746 587 747 587 748 587 749 587 751 587 764 576 800 576 816 587 823 593 824 593 825 593 827 593 828 593 843 586 862 576 892 583 916 591 917 591 919 591 920 591 949 582 979 572 996 580 1014 588 1016 588 1017 588 1065 587 1066 587 1086 576 1102 567 1125 567 1135 575 1138 578 1140 578 1141 578 1142 578 1143 578 1160 574 1185 566 1208 571 1210 545 1206 499 1169 500 1168 500 1095 527 1017 528 995 521 994 521 992 521 951 529 895 523 894 523 893 523 873 532 769 529 743 511 742 511 741 511 740 511 738 511 737 511 721 521 682 512 681 512 679 512 678 512 635 538 569 536 528 516 527 516 526 516 463 518 462 518 443 528 424 518 423 518 422 518 353 518 355 567"/></Shape>
+	    <String CONTENT="[Endast enstaka nr av resp. vol."
+                    HPOS="353"
+                    VPOS="499"
+                    WIDTH="857"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="326 729 801 732" 
+                    HPOS="323"
+                    VPOS="688"
+                    WIDTH="477"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="325 728 323 760 433 765 434 765 447 762 473 756 483 762 484 764 485 764 487 764 537 765 538 765 539 765 541 765 542 764 555 756 607 756 622 765 623 765 624 765 625 765 627 765 628 765 644 758 741 758 749 765 749 766 751 766 752 766 753 767 798 767 800 731 798 690 580 704 566 696 559 693 558 693 557 693 555 693 539 697 520 702 505 697 472 688 471 688 470 688 468 688 443 700 439 702 390 702 387 701 370 690 369 690 368 690 366 690 365 690 325 702 325 728"/></Shape>
+	    <String CONTENT="Forts.: Kat. 1958-"
+                    HPOS="323"
+                    VPOS="688"
+                    WIDTH="477"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="884 793 972 793" 
+                    HPOS="883"
+                    VPOS="754"
+                    WIDTH="88"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="883 792 883 821 971 821 971 792 971 758 883 754 883 792"/></Shape>
+	    <String CONTENT="BF"
+                    HPOS="883"
+                    VPOS="754"
+                    WIDTH="88"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="811 849 1074 852" 
+                    HPOS="808"
+                    VPOS="807"
+                    WIDTH="265"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="809 848 808 867 829 874 830 874 832 874 892 869 901 877 901 878 903 878 904 878 941 880 942 881 1035 881 1035 880 1036 880 1072 869 1073 851 1072 821 1002 821 1002 820 995 814 994 814 992 814 991 814 990 814 974 820 955 808 954 808 953 808 952 808 893 818 879 807 878 807 877 807 829 807 828 807 827 807 825 807 809 815 809 848"/></Shape>
+	    <String CONTENT="Urbana"
+                    HPOS="808"
+                    VPOS="807"
+                    WIDTH="265"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="870 1023 983 1024" 
+                    HPOS="867"
+                    VPOS="964"
+                    WIDTH="115"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="868 1021 867 1083 890 1084 892 1084 893 1084 894 1084 909 1072 915 1067 981 1052 982 1023 981 965 915 964 914 964 913 964 911 964 911 965 899 976 894 981 868 981 868 1021"/></Shape>
+	    <String CONTENT="fol."
+                    HPOS="867"
+                    VPOS="964"
+                    WIDTH="115"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1465 389 2083 396" 
+                    HPOS="1462"
+                    VPOS="349"
+                    WIDTH="620"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1464 388 1462 419 1579 424 1580 424 1581 424 1583 424 1585 421 1595 415 1632 421 1633 421 1634 421 1675 410 1731 424 1734 424 1735 424 1736 424 1737 424 1774 413 1813 420 1815 420 1816 420 1832 414 1849 420 1850 420 1851 420 1853 420 1873 413 1957 413 1985 413 2007 429 2008 429 2010 429 2011 430 2081 430 2082 394 2082 361 2046 353 2045 353 2044 353 2006 360 1990 353 1989 353 1870 352 1869 352 1867 352 1842 359 1832 352 1832 350 1830 350 1829 350 1828 350 1827 350 1803 359 1775 350 1774 350 1773 350 1727 359 1722 359 1709 359 1622 352 1621 352 1594 358 1590 358 1587 358 1569 349 1568 349 1567 349 1464 355 1464 388"/></Shape>
+	    <String CONTENT="8:o Urbana 1916-56."
+                    HPOS="1462"
+                    VPOS="349"
+                    WIDTH="620"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="2188 75 2285 72" 
+                    HPOS="2183"
+                    VPOS="11"
+                    WIDTH="100"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="2186 74 2186 89 2233 98 2234 98 2283 90 2283 71 2280 15 2221 11 2220 11 2218 11 2217 11 2217 12 2216 12 2211 18 2211 19 2183 19 2186 74"/></Shape>
+	    <String CONTENT="Acta"
+                    HPOS="2183"
+                    VPOS="11"
+                    WIDTH="100"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="2155 136 2327 139" 
+                    HPOS="2153"
+                    VPOS="72"
+                    WIDTH="174"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="2155 136 2153 172 2180 174 2182 174 2183 174 2185 174 2188 171 2201 161 2225 169 2241 175 2242 175 2244 175 2327 164 2327 139 2327 92 2281 94 2269 85 2268 85 2268 83 2266 83 2265 83 2263 83 2261 83 2258 83 2241 91 2231 83 2231 81 2230 81 2228 81 2155 72 2155 136"/></Shape>
+	    <String CONTENT="N. Amer."
+                    HPOS="2153"
+                    VPOS="72"
+                    WIDTH="174"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00730-00200.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1476"
+          PHYSICAL_IMG_NR="12"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1476">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1474"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1475 2311 1475 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="161 257 578 253" 
+                    HPOS="158"
+                    VPOS="206"
+                    WIDTH="419"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="159 255 159 289 392 292 393 292 394 292 396 292 413 281 418 279 452 280 531 282 532 282 577 275 577 252 573 214 506 217 500 215 486 207 484 207 436 206 435 206 387 216 376 218 371 216 348 206 346 206 297 206 296 206 295 206 294 206 278 218 274 220 257 218 196 214 195 214 158 220 159 255"/></Shape>
+	    <String CONTENT="HERLITZ, Nils"
+                    HPOS="158"
+                    VPOS="206"
+                    WIDTH="419"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="161 356 1361 356" 
+                    HPOS="159"
+                    VPOS="317"
+                    WIDTH="1201"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="159 355 159 386 198 386 253 402 254 402 255 402 257 402 323 384 327 383 424 383 428 384 442 392 444 392 445 392 484 388 500 396 502 396 503 396 504 396 542 384 547 383 690 383 693 384 743 400 744 400 745 400 797 389 847 392 863 403 865 403 866 403 867 404 1071 404 1071 403 1072 403 1133 387 1146 396 1148 396 1149 396 1150 396 1184 388 1218 403 1219 403 1220 404 1250 404 1250 403 1251 403 1294 383 1360 383 1360 355 1360 329 1288 329 1288 328 1255 317 1253 317 1125 317 1124 317 1123 317 1102 325 1077 317 1076 317 1075 317 988 324 969 318 968 318 967 318 880 327 868 328 852 327 770 321 769 321 767 321 755 327 753 328 740 327 697 322 696 322 695 322 682 327 677 329 573 329 569 327 548 317 547 317 546 317 500 325 489 328 484 325 466 317 465 317 463 317 378 324 366 318 365 318 364 318 362 318 361 318 351 324 317 317 316 317 314 317 289 325 280 328 257 325 187 317 185 317 184 317 159 324 159 355"/></Shape>
+	    <String CONTENT="Se: Stadshistorisk revy. 1922-1923/24."
+                    HPOS="159"
+                    VPOS="317"
+                    WIDTH="1201"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="172 475 527 472" 
+                    HPOS="169"
+                    VPOS="432"
+                    WIDTH="357"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="171 474 171 500 254 500 267 509 268 510 269 510 270 510 271 510 278 509 295 506 313 512 330 517 332 517 333 517 334 517 335 517 339 514 348 509 369 510 378 517 409 538 410 538 412 538 413 539 518 539 518 538 519 538 520 538 520 537 526 530 526 471 522 451 503 452 500 451 486 437 484 437 483 437 482 437 481 437 468 441 460 434 460 432 458 432 457 432 406 432 404 432 403 432 402 432 402 434 382 452 381 455 339 455 339 453 327 442 327 441 326 441 324 441 323 441 322 441 312 446 275 436 274 436 273 436 271 436 270 436 270 437 251 455 193 441 191 441 190 441 189 441 169 452 171 474"/></Shape>
+	    <String CONTENT="i: Kat. 1958-"
+                    HPOS="169"
+                    VPOS="432"
+                    WIDTH="357"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00157.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1476"
+          PHYSICAL_IMG_NR="45"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1476">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1474"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1475 2319 1475 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="257 231 514 226" 
+                    HPOS="254"
+                    VPOS="175"
+                    WIDTH="258"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="255 230 255 268 266 274 268 274 269 274 328 266 332 266 334 266 385 271 386 271 512 265 512 225 510 188 455 175 453 175 409 184 386 180 385 180 383 180 382 180 366 190 362 190 281 180 280 180 279 180 254 190 255 230"/></Shape>
+	    <String CONTENT="BERICHTE"
+                    HPOS="254"
+                    VPOS="175"
+                    WIDTH="258"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="249 330 1019 336" 
+                    HPOS="247"
+                    VPOS="285"
+                    WIDTH="771"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="248 329 247 360 284 369 285 369 286 369 305 362 324 380 324 381 325 381 327 381 328 381 329 381 340 376 349 383 350 383 351 383 510 384 511 384 512 384 552 367 558 365 565 369 574 372 575 372 576 372 578 372 579 372 584 369 590 365 610 370 626 372 627 372 628 372 629 372 633 370 639 365 708 365 718 372 731 382 733 382 734 382 735 382 736 382 738 382 738 381 746 373 762 373 822 373 825 375 841 386 842 386 843 386 845 386 846 386 870 376 890 367 910 376 925 383 926 383 927 383 928 383 943 377 948 375 953 377 960 382 961 382 963 382 964 382 965 382 974 378 980 375 1016 378 1018 335 1018 307 931 300 929 300 928 300 911 305 904 306 899 303 862 289 861 289 831 289 830 289 829 289 827 289 805 302 800 305 781 302 739 295 738 295 708 300 688 303 661 300 634 295 633 295 616 298 607 300 605 298 590 287 589 287 587 287 586 287 501 296 436 302 418 293 414 292 413 292 412 292 410 292 404 293 375 301 332 295 329 292 322 286 322 285 321 285 319 285 318 285 248 290 248 329"/></Shape>
+	    <String CONTENT="des Asien Arbeitskreises."
+                    HPOS="247"
+                    VPOS="285"
+                    WIDTH="771"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="253 436 365 431" 
+                    HPOS="249"
+                    VPOS="387"
+                    WIDTH="115"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="252 435 252 455 364 472 364 430 360 394 323 397 321 396 305 387 303 387 302 387 249 399 252 435"/></Shape>
+	    <String CONTENT="H.1"
+                    HPOS="249"
+                    VPOS="387"
+                    WIDTH="115"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1233 434 1647 439" 
+                    HPOS="1231"
+                    VPOS="382"
+                    WIDTH="414"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="1232 432 1231 471 1313 462 1338 471 1349 474 1350 474 1351 476 1387 476 1387 474 1388 474 1390 474 1394 469 1402 463 1413 469 1417 471 1418 471 1419 471 1420 471 1428 469 1440 466 1445 468 1452 473 1453 473 1455 473 1456 473 1457 473 1467 468 1474 464 1494 468 1546 477 1547 477 1548 477 1549 477 1549 476 1561 467 1562 466 1602 466 1604 466 1613 473 1615 473 1616 473 1617 473 1618 473 1644 464 1645 437 1645 396 1624 391 1623 391 1622 391 1621 391 1602 397 1591 399 1581 396 1545 382 1543 382 1497 382 1495 382 1494 382 1493 382 1477 396 1473 399 1444 399 1439 396 1423 383 1422 383 1420 383 1419 383 1418 383 1417 383 1404 392 1386 384 1385 384 1383 384 1346 393 1328 382 1327 382 1326 382 1324 382 1323 382 1283 396 1281 396 1280 396 1262 383 1260 383 1259 383 1258 383 1257 383 1255 383 1255 384 1244 396 1243 396 1232 396 1232 432"/></Shape>
+	    <String CONTENT="8:o Wien 1939"
+                    HPOS="1231"
+                    VPOS="382"
+                    WIDTH="414"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2174 86 2304 90" 
+                    HPOS="2172"
+                    VPOS="7"
+                    WIDTH="130"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="2172 99 2300 115 2302 89 2301 38 2246 38 2228 19 2220 11 2220 9 2219 9 2217 9 2174 7 2173 84 2172 99"/></Shape>
+	    <String CONTENT="Tidskr."
+                    HPOS="2172"
+                    VPOS="7"
+                    WIDTH="130"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2150 169 2313 169" 
+                    HPOS="2149"
+                    VPOS="118"
+                    WIDTH="163"
+                    HEIGHT="131">
+            <Shape><Polygon POINTS="2149 168 2151 232 2169 220 2199 220 2209 228 2209 230 2210 230 2211 230 2212 230 2214 230 2227 223 2244 242 2251 247 2251 248 2252 248 2253 248 2254 249 2312 249 2312 168 2312 134 2243 118 2227 118 2226 118 2225 118 2224 118 2224 119 2211 130 2199 119 2199 118 2198 118 2196 118 2195 118 2149 129 2149 168"/></Shape>
+	    <String CONTENT="Österr."
+                    HPOS="2149"
+                    VPOS="118"
+                    WIDTH="163"
+                    HEIGHT="131"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

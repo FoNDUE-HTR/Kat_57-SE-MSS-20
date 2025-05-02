@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00730-00223.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="24"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2319 1479 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="88 199 780 194" 
+                    HPOS="86"
+                    VPOS="146"
+                    WIDTH="693"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="87 198 87 229 286 228 287 228 288 228 288 226 289 226 304 212 363 223 365 223 411 214 424 224 425 224 426 224 427 224 429 224 430 224 447 213 497 223 498 223 499 223 500 223 518 210 608 220 609 220 659 209 736 212 748 220 756 225 757 225 758 225 759 225 760 225 779 219 779 193 775 146 748 148 747 148 720 162 706 156 705 156 704 156 654 164 630 149 627 148 626 148 625 148 624 148 596 149 595 149 593 150 561 166 520 166 506 152 504 150 504 149 503 149 501 149 500 149 458 151 457 151 453 154 429 166 407 154 398 150 397 150 395 150 340 156 331 157 330 157 329 157 318 167 281 167 270 157 268 157 267 157 266 157 86 161 87 198"/></Shape>
+	    <String CONTENT="HERLYN, K[arl] -E[wald]"
+                    HPOS="86"
+                    VPOS="146"
+                    WIDTH="693"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="82 298 2303 285" 
+                    HPOS="80"
+                    VPOS="240"
+                    WIDTH="2222"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="81 297 81 316 157 320 191 331 192 331 193 333 300 333 300 331 456 330 515 318 621 318 682 328 683 328 684 328 727 316 778 325 779 325 841 316 884 328 885 328 886 328 968 316 1037 323 1038 323 1103 314 1108 314 1112 314 1149 321 1150 321 1238 316 1301 323 1302 323 1345 314 1357 312 1393 314 1445 316 1446 316 1484 313 1519 310 1531 313 1571 324 1572 324 1573 325 1633 325 1633 324 1792 323 1837 313 1858 308 2299 310 2302 284 2299 240 2215 246 2159 241 2155 241 2154 241 2153 241 2152 241 2114 255 2063 255 1908 245 1906 245 1840 257 1763 257 1732 246 1724 244 1723 244 1721 244 1414 245 1386 251 1381 251 1362 251 1248 246 1246 246 1117 254 1092 255 1087 255 1060 247 1059 247 1058 247 1057 247 1029 255 1010 260 973 256 911 249 910 249 864 257 848 260 833 257 811 254 810 254 774 259 740 263 615 263 604 260 574 254 573 254 536 261 521 265 374 265 370 263 337 256 336 256 335 256 305 263 299 265 283 263 215 260 214 260 80 266 81 297"/></Shape>
+	    <String CONTENT="Se: Gesicht,Gesichtsschädel,Kiefer.Bearb.von K.-E.Herlyn...R.Zenker. 1956."
+                    HPOS="80"
+                    VPOS="240"
+                    WIDTH="2222"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="116 399 2152 386" 
+                    HPOS="114"
+                    VPOS="350"
+                    WIDTH="2037"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="115 398 115 427 535 420 580 429 668 445 669 445 753 436 807 447 809 447 896 427 902 426 909 427 952 440 953 440 954 440 1047 436 1048 436 1080 427 1117 416 1155 426 1313 471 1314 471 1316 472 1407 472 1407 471 1808 467 1809 467 1931 425 1974 410 2151 424 2151 384 2148 361 1966 350 1964 350 1887 351 1885 351 1848 361 1718 352 1716 352 1615 360 1483 353 1482 353 1439 362 1359 355 1357 355 1356 355 1330 363 1223 356 1222 356 1150 366 857 357 855 357 667 370 615 362 614 362 612 362 580 371 466 371 444 365 442 365 441 365 320 371 273 365 272 365 114 373 115 398"/></Shape>
+	    <String CONTENT="i: Allgemeine und spezielle chirurgische Operationslehre...2 Aufl..."
+                    HPOS="114"
+                    VPOS="350"
+                    WIDTH="2037"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="200 476 716 472" 
+                    HPOS="198"
+                    VPOS="439"
+                    WIDTH="517"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="199 474 199 511 223 511 223 510 224 510 225 510 225 509 235 500 324 506 325 506 326 506 339 501 345 506 349 510 350 510 351 510 352 510 353 510 365 506 381 499 392 505 405 513 407 513 408 513 409 513 442 504 452 511 452 513 453 513 455 513 456 514 542 514 542 513 568 511 569 511 571 511 589 499 593 498 603 499 640 505 641 505 715 495 715 471 714 453 680 439 679 439 678 439 538 453 399 440 398 440 397 440 395 440 395 441 382 455 367 456 353 456 337 441 336 441 335 441 334 441 333 441 284 455 271 442 271 441 270 441 268 441 218 441 217 441 215 441 214 441 198 452 199 474"/></Shape>
+	    <String CONTENT="Bd 4. i Kat. 1958-"
+                    HPOS="198"
+                    VPOS="439"
+                    WIDTH="517"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

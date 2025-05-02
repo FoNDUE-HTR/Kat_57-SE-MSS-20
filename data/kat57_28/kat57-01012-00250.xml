@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01012-00250.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="29"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2323 1477 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="150 67 473 70" 
+                    HPOS="147"
+                    VPOS="7"
+                    WIDTH="324"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="149 66 147 93 207 94 208 94 209 94 210 94 247 82 284 91 285 91 287 91 309 82 469 96 471 68 469 8 332 22 319 13 315 11 314 11 312 11 311 11 310 11 309 11 304 14 301 16 295 14 277 9 276 9 274 9 243 17 225 20 215 17 187 7 186 7 184 7 183 7 182 7 182 8 171 19 168 20 149 20 149 66"/></Shape>
+	    <String CONTENT="K.F.U.K]"
+                    HPOS="147"
+                    VPOS="7"
+                    WIDTH="324"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="238 235 1733 244" 
+                    HPOS="236"
+                    VPOS="183"
+                    WIDTH="1496"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="237 234 236 266 539 270 540 270 558 268 587 262 614 268 633 272 634 272 635 272 650 268 692 257 745 268 752 269 754 269 763 268 847 257 934 257 969 269 984 274 985 274 987 275 1062 275 1062 274 1090 269 1158 258 1219 266 1221 266 1327 259 1357 269 1359 269 1360 269 1361 269 1386 261 1474 261 1491 268 1492 268 1493 268 1562 263 1595 272 1596 272 1598 272 1599 272 1601 272 1661 262 1730 272 1732 243 1732 193 1626 192 1625 192 1624 192 1621 193 1601 198 1566 193 1558 192 1557 192 1556 192 1553 193 1499 213 1455 201 1454 201 1452 201 1404 213 1354 193 1345 189 1344 189 1343 189 1341 189 1330 193 1265 213 1185 213 1126 193 1111 188 1110 188 980 187 979 187 978 187 959 193 945 197 911 193 866 187 865 187 863 187 850 193 809 209 581 208 538 193 537 193 536 193 534 193 494 208 434 208 396 193 386 189 385 189 384 189 358 193 317 198 300 193 272 183 271 183 269 183 268 183 237 192 237 234"/></Shape>
+	    <String CONTENT="Leffler, Amanda [Magdalena Benedicta]"
+                    HPOS="236"
+                    VPOS="183"
+                    WIDTH="1496"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2080 46 2221 46" 
+                    HPOS="2078"
+                    VPOS="3"
+                    WIDTH="142"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="2078 45 2078 60 2104 70 2105 70 2107 70 2136 65 2147 64 2219 71 2220 45 2220 11 2078 3 2078 45"/></Shape>
+	    <String CONTENT="Teol."
+                    HPOS="2078"
+                    VPOS="3"
+                    WIDTH="142"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1903 102 2280 97" 
+                    HPOS="1900"
+                    VPOS="40"
+                    WIDTH="379"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1902 100 1902 113 1955 131 1956 131 1958 131 2030 130 2031 130 2033 130 2049 117 2055 113 2083 113 2089 118 2097 124 2098 124 2099 124 2100 124 2102 124 2116 118 2133 112 2153 119 2168 124 2169 124 2171 124 2172 124 2185 120 2216 110 2236 121 2245 125 2246 125 2247 125 2248 125 2250 125 2254 121 2261 117 2277 121 2279 96 2275 55 2254 59 2246 54 2236 49 2235 49 2234 49 2232 49 2231 49 2231 50 2226 54 2221 60 2107 60 2097 54 2092 50 2091 50 2089 50 2088 50 2087 50 2078 54 2060 61 2052 54 2039 41 2039 40 2038 40 2036 40 2035 40 1918 41 1917 41 1900 50 1902 100"/></Shape>
+	    <String CONTENT="Br.) Sällsk"
+                    HPOS="1900"
+                    VPOS="40"
+                    WIDTH="379"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2018 142 2323 145" 
+                    HPOS="2015"
+                    VPOS="101"
+                    WIDTH="308"
+                    HEIGHT="163">
+            <Shape><Polygon POINTS="2142 101 2141 101 2139 101 2096 113 2040 101 2039 101 2037 101 2018 110 2018 142 2015 262 2131 264 2133 264 2134 264 2136 264 2150 251 2170 233 2205 244 2219 249 2221 249 2222 249 2323 233 2323 145 2323 117 2288 104 2286 104 2285 104 2283 104 2282 104 2267 115 2218 115 2190 115 2189 115 2144 101 2142 101"/></Shape>
+	    <String CONTENT="Ungdomsför"
+                    HPOS="2015"
+                    VPOS="101"
+                    WIDTH="308"
+                    HEIGHT="163"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="252 332 2106 339" 
+                    HPOS="250"
+                    VPOS="291"
+                    WIDTH="1855"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="251 331 250 370 276 376 277 376 314 371 347 367 454 367 487 373 560 385 561 386 658 386 658 385 659 385 698 374 719 368 831 374 836 374 868 386 869 386 871 386 922 380 943 386 945 386 946 387 1159 387 1159 386 1233 378 1259 387 1260 387 1261 389 1351 389 1351 387 1352 387 1391 378 1420 370 1450 376 1451 376 1452 376 1478 370 1691 370 1721 379 1722 379 1723 379 1776 371 1853 380 1937 390 1938 390 1999 381 2011 380 2014 381 2028 386 2029 386 2030 386 2031 386 2044 381 2065 374 2103 381 2105 338 2103 314 2054 301 1992 301 1991 301 1942 311 1905 319 1826 310 1822 310 1821 310 1818 310 1767 317 1733 309 1727 307 1726 307 1725 307 1717 309 1673 319 1519 319 1482 306 1452 296 1451 296 1450 296 1449 296 1420 305 1382 316 1334 310 1333 310 1285 315 1261 307 1260 307 1259 307 1179 311 1150 301 1131 295 1129 295 1092 295 1091 295 1090 295 1074 301 1040 315 777 315 678 310 639 295 634 294 633 294 632 294 630 294 624 295 560 314 478 294 471 293 251 291 251 331"/></Shape>
+	    <String CONTENT="Kristliga föreningens af unga kvinnor uppgift."
+                    HPOS="250"
+                    VPOS="291"
+                    WIDTH="1855"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1364 430 1959 436" 
+                    HPOS="1361"
+                    VPOS="394"
+                    WIDTH="597"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="1362 429 1361 459 1434 471 1435 471 1436 471 1438 471 1438 470 1444 465 1449 461 1527 461 1569 472 1659 495 1661 495 1662 495 1690 480 1696 476 1705 481 1730 495 1731 495 1812 496 1813 496 1815 496 1816 496 1816 495 1823 488 1823 487 1826 488 1832 491 1833 491 1834 491 1836 491 1837 491 1838 490 1861 470 1873 470 1896 491 1896 492 1897 492 1898 492 1955 496 1958 434 1958 412 1930 397 1929 397 1928 397 1927 397 1908 407 1885 397 1884 397 1882 397 1881 397 1880 397 1868 405 1831 399 1829 399 1828 399 1827 399 1812 410 1808 412 1783 408 1764 406 1763 406 1734 407 1665 411 1659 405 1654 400 1654 399 1653 399 1652 399 1651 399 1649 399 1632 405 1620 408 1608 403 1588 395 1587 395 1585 395 1584 395 1569 401 1550 395 1548 395 1547 395 1546 395 1545 395 1537 401 1535 403 1531 401 1524 395 1523 395 1521 395 1483 394 1482 394 1481 394 1479 394 1479 395 1473 400 1465 408 1362 397 1362 429"/></Shape>
+	    <String CONTENT="8:o Göteborg 1892."
+                    HPOS="1361"
+                    VPOS="394"
+                    WIDTH="597"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

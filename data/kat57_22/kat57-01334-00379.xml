@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01334-00379.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="5"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2319 1471 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="166 246 863 252" 
+                    HPOS="164"
+                    VPOS="198"
+                    WIDTH="698"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="165 245 164 288 409 290 410 290 412 290 413 290 413 289 426 276 455 273 522 273 541 283 542 283 543 283 544 283 545 283 561 273 590 287 591 287 592 287 593 287 615 277 639 287 640 287 641 287 642 287 684 274 829 274 857 294 862 251 862 204 793 203 792 203 791 203 790 203 790 204 775 219 723 219 663 218 644 204 642 204 641 204 640 204 639 204 614 217 582 217 523 217 509 202 507 202 507 201 506 201 505 201 504 201 503 201 499 202 474 215 431 215 408 202 403 199 402 199 401 199 385 202 365 206 334 202 304 198 303 198 165 201 165 245"/></Shape>
+	    <String CONTENT="OLBRACHT, Ivan [pseud.]"
+                    HPOS="164"
+                    VPOS="198"
+                    WIDTH="698"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="164 348 667 343" 
+                    HPOS="161"
+                    VPOS="310"
+                    WIDTH="505"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="163 347 163 380 278 375 290 379 320 388 321 388 322 390 413 390 413 388 414 388 415 388 425 382 528 387 530 387 531 387 559 372 572 380 574 380 575 380 666 369 666 342 663 322 612 310 610 310 609 310 608 310 596 321 569 322 538 310 537 310 536 310 511 311 510 311 509 311 509 312 496 323 496 325 455 325 455 323 446 316 445 316 444 316 442 316 441 316 418 323 343 321 305 312 304 312 303 312 301 312 283 326 282 326 279 326 186 314 185 314 184 314 161 325 163 347"/></Shape>
+	    <String CONTENT="Se: Zeman, Kamíl"
+                    HPOS="161"
+                    VPOS="310"
+                    WIDTH="505"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

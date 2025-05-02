@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01012-00017.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1470"
+          PHYSICAL_IMG_NR="44"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1470">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1468"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1469 2323 1469 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="151 87 822 87" 
+                    HPOS="149"
+                    VPOS="1"
+                    WIDTH="672"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="149 86 149 129 333 129 333 127 335 127 338 127 342 122 361 110 510 117 689 127 692 127 694 127 723 113 730 110 821 110 821 86 821 1 149 1 149 86"/></Shape>
+	    <String CONTENT="[Leeuw, G. van der]"
+                    HPOS="149"
+                    VPOS="1"
+                    WIDTH="672"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="205 202 936 202" 
+                    HPOS="205"
+                    VPOS="151"
+                    WIDTH="731"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="205 202 205 237 392 237 392 235 394 235 395 235 395 234 397 232 406 224 425 232 427 232 429 232 430 232 432 232 433 232 453 226 459 232 464 235 465 235 467 235 469 235 470 235 472 235 477 231 489 224 668 224 673 227 682 235 684 235 685 235 687 235 770 226 789 224 803 226 859 232 861 232 862 232 878 224 901 235 902 235 904 235 906 235 936 223 936 202 936 172 891 172 890 170 862 153 861 153 859 153 858 153 856 153 854 153 829 168 826 172 736 172 732 167 713 151 711 151 709 151 708 151 706 151 665 167 654 170 634 165 620 162 618 162 617 162 579 165 510 170 499 164 486 154 484 154 483 154 481 154 438 162 427 153 427 151 425 151 424 151 422 151 421 151 397 162 394 162 386 161 325 151 323 151 205 157 205 202"/></Shape>
+	    <String CONTENT="LEEUW, G[ erardus]van der"
+                    HPOS="205"
+                    VPOS="151"
+                    WIDTH="731"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2044 68 2307 65" 
+                    HPOS="2043"
+                    VPOS="1"
+                    WIDTH="264"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="2044 68 2046 111 2095 89 2132 95 2134 95 2178 87 2215 106 2224 111 2226 111 2228 111 2307 103 2307 65 2303 1 2043 1 2044 68"/></Shape>
+	    <String CONTENT="Bibliogr"
+                    HPOS="2043"
+                    VPOS="1"
+                    WIDTH="264"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2055 146 2296 151" 
+                    HPOS="2054"
+                    VPOS="105"
+                    WIDTH="242"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="2055 146 2054 170 2095 172 2132 200 2134 200 2135 200 2228 202 2229 202 2231 202 2232 202 2261 176 2263 176 2293 176 2296 151 2296 127 2178 124 2178 122 2162 108 2162 106 2161 106 2159 106 2135 105 2134 105 2055 117 2055 146"/></Shape>
+	    <String CONTENT="Monogr."
+                    HPOS="2054"
+                    VPOS="105"
+                    WIDTH="242"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="199 299 2245 315" 
+                    HPOS="197"
+                    VPOS="255"
+                    WIDTH="2048"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="199 299 197 320 229 330 231 330 232 330 392 323 403 323 419 323 647 333 649 333 904 330 1000 328 1008 330 1025 336 1027 336 1028 336 1146 331 1218 330 1266 333 1320 337 1322 337 1368 334 1416 331 1438 336 1461 339 1462 339 1614 337 1829 334 2242 344 2245 315 2245 269 2114 269 2113 269 2041 282 1732 280 1706 267 1705 267 1703 267 1631 277 1041 275 1012 264 1011 264 854 258 810 258 808 258 794 258 652 267 545 256 539 256 537 256 532 256 429 269 199 255 199 299"/></Shape>
+	    <String CONTENT="Dr G. van der Leeuw. Bibliographie zijner geschriften bij de viering"
+                    HPOS="197"
+                    VPOS="255"
+                    WIDTH="2048"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="202 401 2283 419" 
+                    HPOS="201"
+                    VPOS="361"
+                    WIDTH="2082"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="202 401 201 420 228 430 229 430 231 430 716 427 906 427 963 430 1028 435 1030 435 1181 433 1322 432 1330 435 1336 440 1338 440 1339 440 1341 440 1422 436 1521 432 1540 438 1547 440 1548 440 1550 440 1628 438 1846 435 2280 446 2283 419 2283 389 2095 376 2094 376 2038 385 2036 385 2035 385 2000 376 1998 376 1996 376 1995 376 1965 385 1961 385 1727 385 1719 384 1671 374 1669 374 1615 382 1612 382 1607 382 1563 373 1561 373 1513 381 1448 373 1446 373 1445 373 1416 381 1413 381 1406 381 1338 373 1336 373 1215 379 1197 379 1193 379 1151 368 1150 368 1148 368 818 376 773 376 764 374 700 365 698 365 559 373 556 373 553 373 338 361 336 361 335 361 315 371 202 371 202 401"/></Shape>
+	    <String CONTENT="van zijn 25-jarig professoraat door zijn leerlingen en oud-leerlingen"
+                    HPOS="201"
+                    VPOS="361"
+                    WIDTH="2082"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="197 503 2268 519" 
+                    HPOS="196"
+                    VPOS="454"
+                    WIDTH="2072"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="197 503 196 532 406 540 408 540 410 540 427 535 457 527 802 527 893 529 923 540 926 542 928 542 929 542 947 542 1046 534 1091 543 1111 546 1113 546 1138 543 1162 540 1194 543 1232 548 1234 548 1282 545 1379 537 1408 546 1416 548 1417 548 1419 548 1421 548 1427 546 1457 535 1744 548 1746 548 1853 537 2000 553 2011 553 2264 554 2268 519 2266 492 2201 483 2199 483 2197 483 2180 491 2177 491 2173 489 2140 479 2138 479 2137 479 2081 487 2071 489 2065 487 2039 479 2038 479 2036 479 2035 479 2011 487 1987 495 1861 495 1835 484 1826 479 1824 479 1823 479 1821 479 1808 483 1787 489 1759 483 1751 481 1749 481 1741 481 1698 489 1630 479 1623 479 1622 479 1615 479 1520 491 1425 476 1365 467 1363 467 1320 475 1261 484 1239 475 1237 475 1236 475 1146 483 987 468 968 467 966 467 957 467 840 483 760 473 759 473 650 478 607 462 606 462 604 462 603 462 528 481 352 455 344 455 197 454 197 503"/></Shape>
+	    <String CONTENT="aangeboden en van een woord ter inleiding voorzi en door ... J. Linde-"
+                    HPOS="196"
+                    VPOS="454"
+                    WIDTH="2072"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="209 604 349 609" 
+                    HPOS="207"
+                    VPOS="567"
+                    WIDTH="142"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="209 604 207 647 232 648 264 672 266 672 268 672 304 674 306 674 307 674 346 655 349 609 349 580 209 567 209 604"/></Shape>
+	    <String CONTENT="boom"
+                    HPOS="207"
+                    VPOS="567"
+                    WIDTH="142"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1244 714 1786 725" 
+                    HPOS="1242"
+                    VPOS="671"
+                    WIDTH="544"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1244 714 1242 733 1274 744 1276 744 1277 744 1312 736 1317 736 1325 736 1398 747 1400 747 1446 741 1467 739 1783 754 1786 725 1784 672 1752 679 1703 672 1681 671 1679 671 1677 671 1666 674 1633 682 1607 674 1596 671 1595 671 1593 671 1591 671 1590 671 1585 674 1563 687 1489 683 1480 676 1472 671 1470 671 1469 671 1467 671 1465 671 1449 677 1430 683 1400 677 1381 674 1379 674 1244 679 1244 714"/></Shape>
+	    <String CONTENT="8:o Arnhem [1943.]"
+                    HPOS="1242"
+                    VPOS="671"
+                    WIDTH="544"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="225 808 2277 824" 
+                    HPOS="223"
+                    VPOS="771"
+                    WIDTH="2054"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="225 808 223 833 631 830 674 840 679 840 681 840 693 840 792 832 818 840 819 840 821 840 866 833 993 841 998 841 1000 841 1001 841 1024 833 1051 841 1052 841 1054 841 1228 835 1445 845 1476 846 1478 846 1492 846 1583 838 1654 846 1665 848 2274 851 2277 824 2276 793 2199 784 2197 784 1441 786 1422 786 1397 778 1395 778 1394 778 1274 786 1255 786 1253 786 1236 776 1234 776 1232 776 1075 784 1049 784 1039 782 980 774 979 774 929 782 925 782 918 782 840 773 839 773 837 773 803 781 802 781 744 773 743 773 590 779 583 779 582 779 558 771 556 771 555 771 225 776 225 808"/></Shape>
+	    <String CONTENT="Dr G. van der Leeuw, hoogleeraar te Groningen in de geschiedenis der"
+                    HPOS="223"
+                    VPOS="771"
+                    WIDTH="2054"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="205 911 2295 927" 
+                    HPOS="204"
+                    VPOS="868"
+                    WIDTH="2091"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="205 911 204 932 2291 951 2295 927 2295 894 2255 884 2253 884 2252 884 2209 894 2205 894 2008 894 2003 891 1982 884 1980 884 1979 884 1920 891 1893 892 1882 889 1856 881 1854 881 1853 881 1740 888 1682 891 1646 886 1591 880 1590 880 1481 884 1435 886 1427 884 1411 878 1410 878 1408 878 1338 883 1263 888 1236 881 1213 876 1212 876 1146 880 1046 886 1012 878 1001 876 829 873 827 873 807 875 751 883 644 873 633 873 631 873 614 873 410 880 381 870 379 870 378 870 376 870 370 870 260 880 205 868 205 911"/></Shape>
+	    <String CONTENT="godsdiensten phaenomenologie van der godsdienst encyclopaedie der god-"
+                    HPOS="204"
+                    VPOS="868"
+                    WIDTH="2091"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    
+                    BASELINE="201 1010 2296 1025" 
+                    HPOS="199"
+                    VPOS="967"
+                    WIDTH="2097"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="201 1010 199 1034 362 1036 363 1037 435 1050 437 1050 500 1039 504 1039 510 1039 677 1052 679 1052 843 1042 894 1041 923 1044 996 1053 998 1053 1331 1049 1596 1045 1730 1053 1831 1060 1832 1060 1893 1055 1988 1049 2059 1058 2091 1061 2092 1061 2295 1060 2296 1025 2296 996 2199 985 2197 985 2145 993 2134 994 2119 993 2073 986 2071 986 1993 991 1957 993 1945 991 1906 980 1904 980 1902 980 1856 990 1835 993 1789 988 1697 978 1695 978 1693 978 1665 986 1646 991 1622 986 1588 978 1587 978 1550 985 1524 990 1505 985 1484 978 1483 978 1481 978 1449 983 1413 990 1381 983 1360 978 1358 978 1288 982 1150 988 1130 978 1127 978 1126 978 1124 978 1111 978 1051 985 1035 978 1028 975 1027 975 1025 975 1004 977 963 983 939 977 934 975 933 975 931 975 929 975 926 977 902 985 872 975 859 972 858 972 856 972 835 975 783 985 626 972 596 970 497 970 496 970 494 970 492 970 451 982 414 969 411 969 410 969 201 967 201 1010"/></Shape>
+	    <String CONTENT="geleerdheid oud-egyptische taal- en letterkunde. 1918 - 25 september -"
+                    HPOS="199"
+                    VPOS="967"
+                    WIDTH="2097"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    
+                    BASELINE="215 1106 381 1112" 
+                    HPOS="213"
+                    VPOS="1053"
+                    WIDTH="168"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="215 1106 213 1132 376 1155 381 1112 379 1058 260 1065 217 1053 215 1106"/></Shape>
+	    <String CONTENT="1943.]"
+                    HPOS="213"
+                    VPOS="1053"
+                    WIDTH="168"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13"
+                    
+                    BASELINE="1961 1393 2191 1396" 
+                    HPOS="1960"
+                    VPOS="1348"
+                    WIDTH="231"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="1961 1393 1960 1469 2188 1469 2191 1396 2189 1352 2081 1360 1961 1348 1961 1393"/></Shape>
+	    <String CONTENT="23.1.46"
+                    HPOS="1960"
+                    VPOS="1348"
+                    WIDTH="231"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01198-00032.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2336"
+          HEIGHT="1464"
+          PHYSICAL_IMG_NR="38"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2336"
+                  HEIGHT="1464">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2334"
+                   HEIGHT="1462"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1463 2335 1463 2335 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="198 195 1926 186" 
+                    HPOS="196"
+                    VPOS="128"
+                    WIDTH="1729"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="197 193 197 220 273 220 275 220 350 242 351 242 352 242 511 241 512 241 591 219 595 218 599 219 661 241 662 241 663 241 665 241 739 218 740 218 742 218 840 240 842 240 843 240 930 218 992 239 993 239 994 240 1121 240 1121 239 1122 239 1183 215 1187 214 1232 215 1376 219 1438 236 1440 236 1441 237 1498 237 1498 236 1499 236 1532 226 1608 226 1608 225 1609 225 1641 213 1642 212 1745 212 1747 212 1809 231 1811 231 1812 231 1813 231 1861 212 1924 212 1925 185 1923 146 1840 137 1839 137 1791 141 1763 130 1762 130 1761 130 1759 130 1726 140 1675 130 1674 130 1618 143 1585 132 1584 132 1582 132 1537 141 1490 129 1488 129 1487 129 1486 129 1441 143 1426 148 1365 148 1341 142 1310 136 1309 136 1280 142 1254 148 1063 148 1044 141 1011 128 1010 128 1009 128 949 141 922 146 895 140 840 129 792 129 790 129 789 129 765 139 738 129 737 129 735 129 517 130 516 130 488 139 439 153 383 153 347 137 331 131 330 131 329 131 196 136 197 193"/></Shape>
+	    <String CONTENT="Meyer, Wilh[elm] aus Speyer &amp; Brambach Wilh[elm"
+                    HPOS="196"
+                    VPOS="128"
+                    WIDTH="1729"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="275 273 359 270" 
+                    HPOS="273"
+                    VPOS="244"
+                    WIDTH="85"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="274 272 274 283 299 294 300 294 301 294 336 292 338 292 339 292 358 280 358 269 357 253 324 244 323 244 322 244 320 244 319 244 319 245 310 253 295 245 294 245 292 245 291 245 290 245 273 253 274 272"/></Shape>
+	    <String CONTENT="Se:"
+                    HPOS="273"
+                    VPOS="244"
+                    WIDTH="85"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="291 343 681 340" 
+                    HPOS="289"
+                    VPOS="291"
+                    WIDTH="390"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="290 342 290 357 327 357 334 363 334 364 335 364 336 364 338 366 417 366 417 364 418 364 433 358 435 357 436 358 441 363 443 363 444 363 445 364 500 364 500 363 501 363 502 363 502 362 506 359 510 356 528 359 538 361 539 361 540 361 541 361 543 359 550 355 566 359 572 362 573 362 574 362 585 361 609 356 617 361 618 362 620 362 621 362 622 362 679 361 679 339 676 315 579 315 550 291 549 291 547 291 546 291 545 291 544 291 511 313 482 297 480 297 479 297 478 297 477 297 452 318 430 318 406 295 406 294 405 294 403 294 317 294 316 294 314 294 313 294 289 313 290 342"/></Shape>
+	    <String CONTENT="Abélard, Pierre"
+                    HPOS="289"
+                    VPOS="291"
+                    WIDTH="390"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="278 412 2273 415" 
+                    HPOS="275"
+                    VPOS="352"
+                    WIDTH="1997"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="277 411 275 434 678 437 681 439 728 445 729 445 788 440 825 436 840 440 867 447 868 447 870 447 938 444 1058 467 1059 468 1166 468 1166 467 1168 467 1226 446 1252 450 1253 450 1280 445 1313 437 1454 437 1484 446 1559 467 1560 467 1607 468 1608 468 1730 452 1851 468 1852 469 2111 469 2111 468 2112 468 2155 453 2161 451 2270 453 2272 414 2271 370 2204 370 2200 369 2132 357 2130 357 2078 363 2049 356 2047 356 2046 356 2045 356 2007 367 1935 359 1934 359 1903 367 1901 367 1897 367 1869 359 1868 359 1867 359 1835 366 1811 370 1768 366 1712 358 1711 358 1709 358 1686 364 1641 376 1552 370 1551 370 1519 375 1480 363 1470 359 1469 359 1468 359 1467 359 1457 362 1421 374 1374 362 1347 355 1346 355 1344 355 1343 355 1325 361 1285 376 970 376 932 361 931 361 930 361 928 361 879 374 807 358 806 358 766 359 765 359 729 372 705 363 704 363 702 363 701 363 666 373 578 355 571 353 277 352 277 411"/></Shape>
+	    <String CONTENT="Petri Abaelardi Planetus virginum Israel super filia Septae Galaditae"
+                    HPOS="275"
+                    VPOS="352"
+                    WIDTH="1997"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="311 496 706 501" 
+                    HPOS="308"
+                    VPOS="447"
+                    WIDTH="397"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="310 495 308 523 405 520 423 523 452 527 454 527 455 527 472 522 506 511 580 511 598 519 607 524 609 524 652 529 654 529 704 517 705 500 705 463 676 453 674 453 673 453 645 459 618 448 617 448 554 447 552 447 551 447 550 447 550 448 530 468 523 475 510 468 484 455 483 455 482 455 443 463 412 457 411 457 410 457 408 457 408 458 395 470 391 473 310 473 310 495"/></Shape>
+	    <String CONTENT="... 1885 | Vitt."
+                    HPOS="308"
+                    VPOS="447"
+                    WIDTH="397"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="585 572 749 569" 
+                    HPOS="583"
+                    VPOS="524"
+                    WIDTH="165"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="584 570 584 607 612 607 613 607 638 625 639 625 640 625 641 625 748 612 748 568 746 538 724 524 723 524 722 524 721 524 720 524 693 535 668 524 667 524 666 524 665 524 663 524 650 536 646 540 621 540 616 536 602 525 601 525 600 525 599 525 598 525 583 533 584 570"/></Shape>
+	    <String CONTENT="Nylat."
+                    HPOS="583"
+                    VPOS="524"
+                    WIDTH="165"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="776 529 873 529" 
+                    HPOS="775"
+                    VPOS="483"
+                    WIDTH="97"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="775 528 775 566 871 568 872 528 871 495 828 502 809 486 807 485 806 485 805 485 775 483 775 528"/></Shape>
+	    <String CONTENT="Br.)"
+                    HPOS="775"
+                    VPOS="483"
+                    WIDTH="97"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

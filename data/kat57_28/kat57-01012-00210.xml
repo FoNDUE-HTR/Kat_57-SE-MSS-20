@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01012-00210.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1476"
+          PHYSICAL_IMG_NR="9"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1476">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1474"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1475 2311 1475 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="150 165 573 162" 
+                    HPOS="147"
+                    VPOS="124"
+                    WIDTH="425"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="148 164 148 202 326 200 327 200 346 191 371 182 413 182 423 186 425 189 426 189 428 189 429 189 450 185 479 180 486 184 499 190 500 190 502 190 503 190 504 190 504 189 511 182 514 179 572 178 572 161 570 134 542 124 541 124 540 124 538 124 537 124 537 125 527 134 527 135 474 135 474 134 456 126 455 126 454 126 452 126 424 134 415 126 415 125 414 125 413 125 412 125 410 125 381 135 380 136 350 136 349 135 335 125 334 125 333 125 191 125 190 125 189 125 147 136 148 164"/></Shape>
+	    <String CONTENT="LEFEVRE, Perry D"
+                    HPOS="147"
+                    VPOS="124"
+                    WIDTH="425"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="146 263 1423 271" 
+                    HPOS="143"
+                    VPOS="223"
+                    WIDTH="1279"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="145 261 143 279 169 293 171 293 172 293 217 286 257 302 258 302 259 303 297 303 323 317 324 317 350 318 351 318 441 302 486 308 487 308 488 308 504 301 525 308 526 308 527 308 596 306 611 313 612 313 613 313 615 313 644 306 670 317 671 317 673 317 674 317 724 300 772 285 799 292 801 292 802 292 876 291 906 301 908 301 909 301 1015 286 1063 293 1064 293 1124 289 1138 295 1139 295 1140 295 1141 295 1160 286 1223 286 1299 323 1307 327 1309 327 1310 328 1421 328 1422 270 1422 243 1380 231 1379 231 1290 231 1289 231 1288 231 1267 242 1192 236 1191 236 1086 239 1070 233 1069 233 1068 233 1011 238 991 228 990 228 989 228 926 239 893 228 892 228 890 228 889 228 858 238 817 227 815 227 814 227 761 239 697 239 677 226 676 226 675 226 591 226 590 226 589 226 588 226 569 237 535 231 534 231 390 236 371 230 370 230 369 230 334 236 306 223 305 223 268 223 267 223 265 223 264 223 246 234 171 228 169 228 168 228 145 234 145 261"/></Shape>
+	    <String CONTENT="Se: Kierkegaard, [Søren Aabye], The prayers. 1956."
+                    HPOS="143"
+                    VPOS="223"
+                    WIDTH="1279"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1441 327 1615 327" 
+                    HPOS="1440"
+                    VPOS="257"
+                    WIDTH="174"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1440 325 1440 335 1465 335 1486 348 1487 348 1488 348 1490 348 1491 348 1492 348 1499 341 1583 348 1584 348 1586 348 1587 348 1587 346 1599 335 1614 335 1614 325 1614 286 1592 286 1588 281 1574 269 1574 268 1573 268 1572 268 1571 268 1570 268 1552 275 1531 285 1513 269 1506 261 1504 261 1503 261 1440 257 1440 325"/></Shape>
+	    <String CONTENT="Teol."
+                    HPOS="1440"
+                    VPOS="257"
+                    WIDTH="174"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1431 399 1764 402" 
+                    HPOS="1428"
+                    VPOS="350"
+                    WIDTH="335"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="1429 398 1428 441 1481 442 1483 444 1529 478 1530 478 1531 478 1533 478 1534 478 1535 478 1549 467 1565 480 1566 480 1567 480 1568 480 1570 480 1608 462 1634 478 1635 478 1636 478 1637 479 1658 479 1658 478 1659 478 1661 478 1661 477 1673 467 1684 477 1685 477 1686 477 1688 477 1709 473 1731 483 1732 483 1733 483 1734 483 1736 483 1736 482 1761 457 1763 400 1761 376 1733 376 1732 373 1720 362 1720 361 1718 361 1717 361 1716 361 1715 361 1714 361 1700 372 1695 376 1640 376 1634 370 1634 369 1632 369 1631 369 1630 369 1629 369 1627 369 1621 373 1614 367 1592 350 1590 350 1589 350 1567 350 1566 350 1565 350 1563 350 1549 364 1547 364 1539 356 1538 356 1536 356 1535 356 1534 356 1533 356 1526 362 1525 364 1522 362 1491 350 1490 350 1488 350 1429 356 1429 398"/></Shape>
+	    <String CONTENT="Uppbygg."
+                    HPOS="1428"
+                    VPOS="350"
+                    WIDTH="335"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

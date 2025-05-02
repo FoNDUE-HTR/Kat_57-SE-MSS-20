@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00045.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2319 1471 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="147 196 621 196" 
+                    HPOS="145"
+                    VPOS="157"
+                    WIDTH="475"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="145 195 145 228 163 240 164 240 165 240 166 241 396 241 396 240 397 240 457 222 464 220 620 220 620 195 619 163 499 166 493 164 483 159 482 159 480 159 455 164 441 166 436 164 420 157 419 157 370 157 369 157 368 157 366 157 366 158 360 163 338 158 337 158 289 165 283 166 282 165 273 158 273 157 272 157 271 157 233 157 231 157 230 157 229 157 218 165 209 158 209 157 208 157 207 157 206 157 145 166 145 195"/></Shape>
+	    <String CONTENT="MORRISON,Alex J"
+                    HPOS="145"
+                    VPOS="157"
+                    WIDTH="475"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2044 100 2268 97" 
+                    HPOS="2042"
+                    VPOS="52"
+                    WIDTH="225"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="2043 99 2046 161 2052 157 2077 161 2091 164 2093 164 2094 164 2095 164 2095 163 2097 161 2104 155 2132 155 2150 163 2153 163 2154 163 2155 163 2160 163 2202 154 2266 163 2267 96 2264 52 2224 52 2223 52 2221 52 2220 52 2220 53 2214 58 2196 74 2181 65 2180 65 2178 65 2177 65 2111 79 2090 74 2077 72 2075 72 2074 72 2042 80 2043 99"/></Shape>
+	    <String CONTENT="Sport."
+                    HPOS="2042"
+                    VPOS="52"
+                    WIDTH="225"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="141 300 2210 279" 
+                    HPOS="138"
+                    VPOS="245"
+                    WIDTH="2071"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="139 299 139 343 294 341 298 341 372 327 428 338 431 338 433 338 436 338 526 318 743 331 744 331 830 315 1037 314 1084 325 1088 326 1089 326 1090 326 1091 326 1096 325 1139 314 1183 320 1185 320 1240 311 1325 317 1326 317 1394 310 1426 318 1448 325 1450 325 1451 325 1452 325 1480 317 1483 317 1485 317 1523 325 1524 325 1526 325 1548 318 1700 327 1701 327 1904 314 1942 320 1943 320 1999 307 2001 307 2002 307 2025 312 2026 312 2209 302 2209 278 2207 250 1948 245 1947 245 1869 251 1836 255 1558 256 1538 253 1510 249 1509 249 1431 253 1396 256 1382 253 1358 250 1356 250 1294 255 1230 260 1186 255 1154 252 1153 252 1115 256 1061 261 1026 256 1006 253 1004 253 934 257 803 264 688 264 645 258 633 257 631 257 555 258 249 268 138 262 139 299"/></Shape>
+	    <String CONTENT="A new way to better golf.With a foreword by Rex Beach and an intro-"
+                    HPOS="138"
+                    VPOS="245"
+                    WIDTH="2071"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="139 396 1140 391" 
+                    HPOS="137"
+                    VPOS="354"
+                    WIDTH="1002"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="138 394 138 446 228 446 229 446 230 446 238 440 247 446 249 446 250 446 251 446 430 445 431 445 437 442 488 421 606 421 634 431 635 431 636 431 637 431 673 420 721 420 754 437 758 439 759 439 760 439 771 436 795 431 807 436 826 444 828 444 829 444 871 435 944 419 1069 419 1089 431 1090 433 1091 433 1093 433 1125 437 1126 437 1127 437 1139 430 1139 390 1134 354 1106 365 1060 355 1058 355 964 355 963 355 961 355 958 356 939 365 902 358 889 355 888 355 874 358 842 366 776 366 755 360 743 356 742 356 741 356 739 356 729 360 715 366 706 360 700 356 699 356 698 356 696 356 695 356 682 361 663 368 549 368 534 363 511 358 510 358 509 358 494 364 484 369 429 369 424 365 412 359 410 359 409 359 408 359 387 365 376 369 349 366 291 360 290 360 211 369 202 369 201 369 186 360 185 360 184 360 137 369 138 394"/></Shape>
+	    <String CONTENT="duction by Bernard Darwin./Ill./"
+                    HPOS="137"
+                    VPOS="354"
+                    WIDTH="1002"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1424 479 1995 485" 
+                    HPOS="1421"
+                    VPOS="440"
+                    WIDTH="573"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1423 478 1421 517 1500 518 1501 518 1502 518 1537 504 1582 513 1583 513 1585 513 1598 510 1609 520 1610 520 1612 520 1613 520 1614 520 1658 510 1678 517 1679 517 1680 517 1764 506 1792 513 1793 513 1794 513 1848 507 1874 517 1875 517 1877 517 1918 509 1948 523 1949 523 1950 525 1993 525 1994 484 1994 460 1976 457 1961 444 1961 442 1960 442 1959 442 1958 442 1841 447 1782 441 1781 441 1780 441 1778 441 1759 453 1736 446 1734 446 1733 446 1732 446 1705 453 1666 440 1664 440 1663 440 1662 440 1661 440 1641 453 1614 455 1609 455 1585 442 1583 442 1582 442 1581 442 1580 442 1560 455 1558 456 1538 456 1483 455 1482 453 1461 440 1459 440 1458 440 1457 440 1456 440 1455 440 1440 453 1439 453 1423 453 1423 478"/></Shape>
+	    <String CONTENT="8:o London [1933.]."
+                    HPOS="1421"
+                    VPOS="440"
+                    WIDTH="573"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1990 1417 2238 1414" 
+                    HPOS="1988"
+                    VPOS="1362"
+                    WIDTH="249"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1989 1416 1989 1438 2066 1445 2067 1445 2068 1445 2069 1445 2083 1435 2088 1431 2093 1435 2105 1442 2106 1442 2107 1442 2108 1442 2110 1442 2111 1442 2122 1433 2126 1430 2155 1430 2165 1431 2220 1442 2221 1442 2223 1442 2224 1442 2237 1430 2237 1413 2234 1362 2191 1364 2189 1364 2188 1364 2186 1366 2176 1375 2159 1370 2156 1368 2155 1368 2154 1368 2153 1368 2147 1371 2108 1384 2063 1384 2056 1380 2040 1370 2039 1370 2037 1370 2036 1370 2035 1370 2034 1370 2012 1383 2012 1384 1988 1386 1989 1416"/></Shape>
+	    <String CONTENT="30.6.47"
+                    HPOS="1988"
+                    VPOS="1362"
+                    WIDTH="249"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

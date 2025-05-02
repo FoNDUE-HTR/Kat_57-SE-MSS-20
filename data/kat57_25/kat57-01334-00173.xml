@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01334-00173.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2323 1471 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="185 195 677 198" 
+                    HPOS="182"
+                    VPOS="150"
+                    WIDTH="494"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="184 193 182 209 203 217 204 217 206 217 353 213 485 209 499 217 509 223 510 223 511 223 512 223 514 223 515 223 522 217 523 215 533 218 558 223 559 223 674 220 676 197 674 163 627 153 625 153 522 161 511 161 506 161 466 152 465 152 388 158 348 150 347 150 346 150 315 159 307 152 306 152 305 152 304 152 303 152 285 159 273 150 272 150 271 150 269 150 268 150 242 159 241 159 215 150 214 150 213 150 212 150 184 158 184 193"/></Shape>
+	    <String CONTENT="ÓLAFSSON, Stefán"
+                    HPOS="182"
+                    VPOS="150"
+                    WIDTH="494"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2130 77 2281 80" 
+                    HPOS="2127"
+                    VPOS="1"
+                    WIDTH="152"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="2214 1 2209 1 2190 6 2177 1 2177 1 2165 1 2163 1 2128 18 2128 76 2127 88 2152 99 2153 99 2154 99 2155 99 2170 90 2182 100 2184 100 2185 100 2239 103 2240 103 2241 103 2278 90 2279 79 2279 23 2255 23 2254 22 2222 1 2214 1"/></Shape>
+	    <String CONTENT="Vitt"
+                    HPOS="2127"
+                    VPOS="1"
+                    WIDTH="152"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2122 172 2267 175" 
+                    HPOS="2120"
+                    VPOS="116"
+                    WIDTH="146"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="2121 171 2120 192 2154 202 2155 202 2157 202 2179 197 2192 195 2204 199 2214 203 2216 203 2217 204 2265 204 2266 174 2266 125 2251 117 2250 117 2249 117 2247 117 2218 127 2193 116 2192 116 2191 116 2190 116 2162 132 2155 134 2121 134 2121 171"/></Shape>
+	    <String CONTENT="Isl."
+                    HPOS="2120"
+                    VPOS="116"
+                    WIDTH="146"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="174 294 2292 311" 
+                    HPOS="171"
+                    VPOS="251"
+                    WIDTH="2119"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="173 293 171 317 229 326 230 326 301 318 321 317 338 318 398 327 400 327 646 321 688 321 692 322 715 329 716 329 865 331 866 331 867 331 893 323 894 323 905 323 1122 333 1123 333 1267 326 1282 326 1289 326 1346 333 1347 333 1472 329 1688 338 1689 339 1781 339 1781 338 1820 331 1827 329 1857 331 1998 337 2000 337 2228 334 2251 341 2252 341 2254 341 2289 333 2290 310 2289 276 1985 263 1984 263 1900 272 1895 272 1731 272 1728 271 1678 261 1677 261 1585 269 1582 269 1580 269 1533 260 1532 260 1420 266 1381 258 1380 258 1261 267 1257 267 1255 267 1215 260 1214 260 1104 266 1099 266 1095 266 1007 256 1006 256 934 264 931 264 926 264 777 253 725 253 723 253 722 253 695 262 561 262 523 252 522 252 455 261 371 261 332 251 331 251 173 260 173 293"/></Shape>
+	    <String CONTENT="Liódmæli eignud Stepháni Olafssyni. Utgéfin ad tilhlutan hins íslenzka"
+                    HPOS="171"
+                    VPOS="251"
+                    WIDTH="2119"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="174 397 639 397" 
+                    HPOS="173"
+                    VPOS="361"
+                    WIDTH="465"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="173 396 173 418 299 420 314 428 315 428 316 429 375 429 375 428 376 428 392 420 413 428 414 428 415 428 457 420 465 419 476 420 536 428 537 428 638 420 638 396 638 374 526 374 526 372 487 361 485 361 484 361 420 372 413 366 413 365 412 365 411 365 409 365 346 370 333 363 332 363 331 363 330 363 300 369 195 361 193 361 192 361 173 371 173 396"/></Shape>
+	    <String CONTENT="bókmentafélags."
+                    HPOS="173"
+                    VPOS="361"
+                    WIDTH="465"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1248 503 1951 509" 
+                    HPOS="1246"
+                    VPOS="467"
+                    WIDTH="704"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="1247 502 1246 525 1271 532 1272 532 1273 532 1274 532 1288 527 1295 534 1295 536 1296 536 1298 536 1299 537 1325 537 1325 536 1326 536 1327 536 1339 527 1358 527 1457 527 1458 528 1483 537 1484 537 1485 537 1487 537 1501 531 1509 537 1510 537 1511 537 1512 537 1552 531 1598 538 1600 538 1634 532 1703 538 1704 538 1705 538 1728 532 1739 529 1757 532 1798 539 1800 539 1827 533 1833 532 1836 533 1847 539 1849 539 1850 539 1851 539 1852 539 1861 534 1866 538 1866 539 1867 539 1868 539 1869 539 1949 534 1950 507 1948 474 1928 479 1899 474 1878 471 1877 471 1876 471 1874 471 1871 474 1868 477 1866 474 1865 472 1863 472 1863 471 1862 471 1861 471 1812 471 1811 471 1809 471 1808 471 1803 474 1795 482 1776 482 1764 474 1754 469 1753 469 1752 469 1698 474 1674 477 1669 474 1658 469 1657 469 1656 469 1655 469 1654 469 1647 474 1640 480 1618 480 1609 475 1600 468 1598 468 1597 468 1596 468 1595 468 1593 468 1582 475 1576 479 1467 479 1463 475 1458 471 1457 471 1456 471 1455 471 1433 474 1407 467 1406 467 1404 467 1403 467 1379 475 1375 477 1370 475 1347 471 1346 471 1315 475 1310 477 1309 475 1299 468 1299 467 1298 467 1296 467 1278 467 1277 467 1276 467 1274 467 1263 475 1262 477 1247 477 1247 502"/></Shape>
+	    <String CONTENT="8:o Kaupmannahøfn 1823."
+                    HPOS="1246"
+                    VPOS="467"
+                    WIDTH="704"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="181 600 1866 608" 
+                    HPOS="179"
+                    VPOS="517"
+                    WIDTH="1686"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="180 599 179 639 201 642 202 642 220 639 290 625 370 625 407 639 423 645 424 645 425 645 458 639 474 636 487 639 515 646 516 646 517 647 656 647 656 646 710 639 720 637 725 639 752 647 753 647 754 648 928 648 928 647 977 639 1007 632 1034 637 1055 642 1056 642 1057 642 1071 637 1100 629 1131 635 1132 635 1182 629 1305 635 1306 635 1485 630 1516 636 1517 636 1519 636 1542 630 1559 637 1589 650 1590 650 1591 650 1592 650 1636 637 1658 631 1695 637 1744 645 1746 645 1747 645 1771 637 1787 632 1862 636 1865 607 1862 564 1748 585 1699 567 1698 567 1696 567 1640 578 1498 561 1496 561 1413 574 1384 566 1382 566 1381 566 1380 566 1333 580 1245 565 1244 565 1173 572 1130 564 1128 564 1127 564 1098 575 1020 561 1019 561 920 567 863 556 862 556 706 577 649 559 647 559 549 556 498 544 496 544 467 548 402 523 390 518 388 518 180 517 180 599"/></Shape>
+	    <String CONTENT="[Liódmæli útgéfin af þvi íslenzka bókmentafélagi. D. 1.]"
+                    HPOS="179"
+                    VPOS="517"
+                    WIDTH="1686"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

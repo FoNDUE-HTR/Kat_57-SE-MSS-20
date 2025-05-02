@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01498-00276.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="26"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2327 1477 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="149 70 585 62 1743 62" 
+                    HPOS="146"
+                    VPOS="16"
+                    WIDTH="1596"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="147 68 147 96 319 94 321 94 453 83 476 91 477 91 479 91 480 91 505 81 613 81 644 89 645 89 646 89 686 80 916 80 1002 89 1044 93 1045 94 1170 94 1170 93 1171 93 1188 87 1197 84 1208 87 1223 91 1224 91 1225 91 1226 91 1237 87 1257 81 1345 86 1442 92 1443 92 1542 91 1543 91 1561 84 1576 80 1606 83 1660 92 1661 92 1741 82 1742 61 1741 38 1585 16 1584 16 1510 20 1508 20 1478 32 1412 24 1411 24 1410 24 1383 33 1370 38 1315 39 1007 39 965 28 917 17 916 17 915 17 885 27 881 28 878 27 858 23 857 23 825 27 723 39 672 24 647 18 646 18 516 18 514 18 513 18 500 23 469 34 429 22 416 18 415 18 335 18 333 18 332 18 321 20 254 38 204 19 200 18 199 18 198 18 146 18 147 68"/></Shape>
+	    <String CONTENT="Paris. Bibl. nat. Catal. général des manuscr. orientaux, följdskr."
+                    HPOS="146"
+                    VPOS="16"
+                    WIDTH="1596"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="136 244 969 248" 
+                    HPOS="134"
+                    VPOS="203"
+                    WIDTH="834"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="135 243 134 275 375 277 376 277 378 277 381 275 408 264 424 275 426 275 427 275 428 275 433 275 482 266 508 274 509 274 511 274 512 274 513 274 523 268 546 273 548 273 549 273 550 273 559 266 581 274 583 275 585 275 586 275 587 275 588 275 590 274 601 266 622 273 623 273 624 273 625 273 640 266 741 272 742 272 925 267 938 273 950 279 952 279 953 279 954 279 966 273 968 247 968 205 925 205 923 205 922 205 902 215 851 215 838 205 837 205 836 205 835 205 833 205 764 216 745 216 734 206 734 205 732 205 731 205 730 205 727 205 692 211 658 205 656 205 655 205 654 205 652 205 640 215 487 215 477 205 476 205 476 204 475 204 474 204 472 204 471 204 470 204 469 205 459 211 408 205 381 203 380 203 355 205 320 210 305 205 295 203 294 203 293 203 291 203 280 205 266 210 250 205 240 203 238 203 237 203 209 206 161 211 135 206 135 243"/></Shape>
+	    <String CONTENT="REINAUD, [Joseph Toussaint]"
+                    HPOS="134"
+                    VPOS="203"
+                    WIDTH="834"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2004 56 2289 56" 
+                    HPOS="2002"
+                    VPOS="6"
+                    WIDTH="286"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="2002 55 2002 73 2287 75 2288 55 2288 30 2176 30 2164 20 2146 6 2145 6 2144 6 2143 6 2002 7 2002 55"/></Shape>
+	    <String CONTENT="Bibliogr."
+                    HPOS="2002"
+                    VPOS="6"
+                    WIDTH="286"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1783 125 2287 125" 
+                    HPOS="1782"
+                    VPOS="73"
+                    WIDTH="504"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="1782 124 1782 166 1825 166 1825 165 1826 165 1829 163 1851 151 1866 162 1868 165 1869 165 1871 165 1872 166 1944 166 1944 165 1946 165 1947 165 1947 163 1952 160 1978 136 1995 136 2027 136 2039 146 2039 147 2041 147 2042 147 2043 147 2044 147 2045 147 2045 146 2054 140 2063 146 2064 146 2065 146 2066 146 2135 136 2186 147 2187 147 2212 142 2235 150 2241 151 2243 151 2244 151 2245 151 2246 151 2249 149 2262 141 2283 147 2286 124 2286 82 2260 73 2259 73 2257 73 2256 73 2255 73 2241 84 2236 88 2202 96 2191 86 2180 76 2180 75 2178 75 2177 75 2176 75 2175 75 2160 80 2049 73 2048 73 2047 73 2045 73 2021 89 2011 97 1900 97 1896 93 1872 73 1871 73 1869 73 1847 73 1846 73 1845 73 1799 96 1799 97 1782 97 1782 124"/></Shape>
+	    <String CONTENT="(Br.) Bibliot."
+                    HPOS="1782"
+                    VPOS="73"
+                    WIDTH="504"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2092 195 2162 198" 
+                    HPOS="2090"
+                    VPOS="129"
+                    WIDTH="71"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="2091 194 2090 216 2124 210 2159 218 2161 197 2161 135 2132 129 2130 129 2091 137 2091 194"/></Shape>
+	    <String CONTENT="Fr"
+                    HPOS="2090"
+                    VPOS="129"
+                    WIDTH="71"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="126 345 2309 340" 
+                    HPOS="124"
+                    VPOS="305"
+                    WIDTH="2184"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="125 344 125 365 332 367 401 379 402 379 489 371 580 380 581 380 655 369 672 367 721 367 731 369 757 376 758 376 926 379 927 379 928 379 954 370 955 370 964 370 1082 376 1083 376 1111 371 1127 368 1228 371 1384 378 1385 378 1415 373 1454 365 1500 370 1501 370 1574 364 1650 373 1651 373 1737 363 1919 363 2010 373 2011 373 2130 363 2197 376 2199 376 2201 378 2305 378 2308 339 2304 305 1877 314 1845 306 1836 305 1763 305 1762 305 1725 307 1602 316 1542 316 1515 307 1507 306 1506 306 1505 306 1485 309 1425 315 1244 310 1242 310 1095 316 1072 310 1062 307 1061 307 1060 307 1059 307 1049 310 1028 316 833 311 774 310 773 310 743 311 668 316 647 312 636 310 635 310 634 310 626 312 606 317 525 312 498 311 497 311 480 312 436 317 410 312 385 309 384 309 124 314 125 344"/></Shape>
+	    <String CONTENT="Notice sur le Catalogue général des manuscrits orientaux de la Biblio-"
+                    HPOS="124"
+                    VPOS="305"
+                    WIDTH="2184"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="133 441 723 446" 
+                    HPOS="130"
+                    VPOS="405"
+                    WIDTH="591"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="131 440 130 459 145 460 157 472 157 474 158 474 160 474 161 475 262 475 262 474 322 463 327 463 331 464 365 475 367 475 368 475 369 475 370 475 384 465 424 476 426 476 427 476 491 475 492 475 493 475 502 468 523 472 524 472 525 472 527 472 528 472 528 471 533 468 535 465 541 468 575 477 576 477 577 477 578 477 608 469 622 465 719 470 721 445 721 424 629 424 623 421 593 410 592 410 591 410 543 418 534 411 534 410 533 410 532 410 468 407 466 407 415 416 411 416 408 416 380 406 379 406 378 406 376 406 375 406 365 415 357 422 320 422 270 421 251 411 236 405 235 405 206 405 205 405 204 405 203 405 197 410 190 413 182 410 172 405 171 405 169 405 131 407 131 440"/></Shape>
+	    <String CONTENT="thèque impériale..."
+                    HPOS="130"
+                    VPOS="405"
+                    WIDTH="591"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="130 655 1003 655" 
+                    HPOS="129"
+                    VPOS="608"
+                    WIDTH="873"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="129 654 129 679 190 678 202 681 227 688 229 688 230 688 231 688 232 688 240 682 241 681 280 682 319 683 320 683 321 683 322 683 322 682 333 674 352 683 359 686 360 686 449 690 450 690 452 690 465 684 475 679 486 684 497 689 498 689 500 689 525 686 585 674 610 686 613 687 614 687 615 687 617 687 618 687 642 674 667 674 730 688 746 690 747 690 748 690 755 688 767 683 774 688 776 689 777 689 778 689 779 689 780 689 782 689 783 688 808 674 859 674 912 690 915 690 916 690 917 692 1002 692 1002 654 1002 608 918 608 917 608 854 620 734 620 693 609 692 609 691 609 628 619 604 608 603 608 602 608 601 608 556 619 458 608 456 608 455 608 454 608 440 620 418 620 314 608 312 608 311 608 289 620 242 620 220 608 219 608 129 608 129 654"/></Shape>
+	    <String CONTENT="[Ur: Journal asiatique 1855]"
+                    HPOS="129"
+                    VPOS="608"
+                    WIDTH="873"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1593 545 2071 545" 
+                    HPOS="1592"
+                    VPOS="506"
+                    WIDTH="478"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1592 544 1592 567 1627 575 1628 575 1698 569 1699 569 1701 569 1740 578 1741 578 1742 580 1800 580 1800 578 1802 578 1803 578 1815 570 1861 578 1862 578 1863 578 1888 569 1889 569 1920 569 1930 577 1930 578 1931 578 1932 578 1933 580 2029 580 2029 578 2070 569 2070 544 2070 513 1995 506 1994 506 1992 506 1978 513 1976 513 1974 513 1940 506 1938 506 1937 506 1936 506 1925 513 1921 516 1895 513 1840 508 1838 508 1788 514 1772 516 1768 514 1751 506 1750 506 1702 506 1701 506 1699 506 1680 514 1677 516 1675 514 1660 508 1659 508 1657 508 1592 514 1592 544"/></Shape>
+	    <String CONTENT="8:o Paris 1855."
+                    HPOS="1592"
+                    VPOS="506"
+                    WIDTH="478"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

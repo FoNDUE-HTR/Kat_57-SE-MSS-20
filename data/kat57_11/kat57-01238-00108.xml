@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00108.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="36"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2323 1479 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="239 245 378 242" 
+                    HPOS="236"
+                    VPOS="205"
+                    WIDTH="141"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="238 244 238 286 268 286 270 286 271 286 272 284 284 276 313 281 336 284 337 284 376 275 377 241 374 212 304 205 303 205 236 213 238 244"/></Shape>
+	    <String CONTENT="MORS"
+                    HPOS="236"
+                    VPOS="205"
+                    WIDTH="141"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1991 77 2244 74" 
+                    HPOS="1989"
+                    VPOS="27"
+                    WIDTH="254"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1990 76 1990 94 2080 101 2082 101 2083 101 2084 101 2084 99 2089 96 2094 91 2125 91 2138 97 2145 99 2146 99 2147 101 2194 101 2194 99 2195 99 2201 98 2226 91 2241 98 2243 74 2242 51 2212 38 2211 38 2210 38 2209 38 2208 38 2193 49 2189 50 2151 46 2129 45 2127 45 2126 45 2125 45 2111 51 2105 45 2090 30 2090 29 2089 29 2088 29 2087 29 2085 29 2068 34 2061 27 2060 27 2058 27 2014 27 2013 27 2011 27 1989 37 1990 76"/></Shape>
+	    <String CONTENT="Rel.-vet."
+                    HPOS="1989"
+                    VPOS="27"
+                    WIDTH="254"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2002 148 2188 148" 
+                    HPOS="2000"
+                    VPOS="107"
+                    WIDTH="187"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="2000 148 2000 198 2039 198 2039 197 2040 197 2041 197 2041 196 2050 188 2061 177 2095 180 2101 180 2103 180 2104 180 2109 177 2131 166 2147 170 2151 171 2152 171 2153 171 2155 171 2187 162 2187 148 2184 107 2126 125 2082 125 2071 118 2055 107 2053 107 2052 107 2025 107 2024 107 2023 107 2021 107 2000 120 2000 148"/></Shape>
+	    <String CONTENT="Spirit."
+                    HPOS="2000"
+                    VPOS="107"
+                    WIDTH="187"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="233 346 2212 343" 
+                    HPOS="230"
+                    VPOS="298"
+                    WIDTH="1981"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="231 345 231 365 2210 363 2211 342 2209 309 2041 304 2040 304 2039 304 2021 309 2014 310 2008 309 1983 303 1982 303 1981 303 1979 303 1962 309 1957 312 1895 312 1892 309 1871 302 1870 302 1817 302 1815 302 1682 310 1665 310 1659 310 1586 298 1585 298 1512 310 1508 310 1504 310 1414 298 1413 298 1271 305 747 299 746 299 674 312 556 305 555 305 447 312 384 304 383 304 382 304 360 313 230 313 231 345"/></Shape>
+	    <String CONTENT="et vita. Introduction par Gabriel Marcel, textes et documents de"
+                    HPOS="230"
+                    VPOS="298"
+                    WIDTH="1981"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="233 440 2252 440" 
+                    HPOS="231"
+                    VPOS="404"
+                    WIDTH="2020"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="231 439 231 479 270 487 271 487 272 487 293 479 308 474 439 478 445 478 446 478 447 478 487 466 667 466 687 472 688 472 689 472 690 472 709 466 963 466 995 474 999 476 1000 476 1001 476 1010 474 1027 472 1036 474 1070 487 1071 487 1073 488 1295 488 1295 487 1384 472 1388 472 1392 472 1475 485 1476 485 1583 483 1585 483 1628 471 1641 467 1665 471 1680 472 1681 472 1735 469 1821 466 1844 469 1926 483 1928 483 1966 478 1995 487 1997 487 1998 488 2166 488 2166 487 2251 466 2251 439 2251 404 2039 404 2037 404 2036 404 2034 404 2006 414 1835 405 1789 404 1788 404 1768 407 1707 414 1643 407 1614 404 1613 404 1598 407 1567 414 1545 408 1534 404 1533 404 1470 404 1469 404 1467 404 1455 408 1434 415 1258 415 1243 409 1236 407 1234 407 1233 407 1216 409 1190 414 1176 409 1168 407 1166 407 1165 407 1143 409 1128 411 1112 410 1065 404 1064 404 1021 410 994 414 965 410 911 404 910 404 909 404 881 411 869 414 827 411 756 407 754 407 753 407 736 411 727 414 706 411 655 407 653 407 583 413 578 413 574 413 530 405 529 405 467 414 458 414 432 414 261 408 260 408 231 414 231 439"/></Shape>
+	    <String CONTENT="Georges Buraud, Jean Dée, Swedenborg... Réunis par Robert Aron et"
+                    HPOS="231"
+                    VPOS="404"
+                    WIDTH="2020"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="226 540 828 543" 
+                    HPOS="224"
+                    VPOS="506"
+                    WIDTH="603"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="225 538 224 559 281 579 282 579 425 580 426 580 428 580 429 580 451 566 515 580 516 580 611 562 615 562 709 562 709 563 717 569 719 569 720 569 721 569 722 569 724 569 724 568 730 563 825 563 827 542 827 522 810 521 799 510 799 509 798 509 796 509 795 509 711 518 685 511 684 511 683 511 682 511 680 511 680 513 671 520 626 508 625 508 624 508 622 508 598 519 562 518 551 508 550 508 548 508 526 508 525 508 524 508 523 508 505 519 466 519 425 506 424 506 423 506 421 506 393 518 356 511 355 511 292 518 259 506 257 506 256 506 255 506 254 506 254 508 243 519 225 519 225 538"/></Shape>
+	    <String CONTENT="Jean-Claude Renard."
+                    HPOS="224"
+                    VPOS="506"
+                    WIDTH="603"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1545 634 2022 639" 
+                    HPOS="1543"
+                    VPOS="592"
+                    WIDTH="478"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="1543 672 1561 674 1562 674 1564 674 1565 674 1567 672 1590 659 1611 672 1615 675 1617 675 1618 675 1619 675 1620 675 1628 672 1631 670 1636 672 1673 684 1675 684 1676 685 1787 685 1787 684 1788 684 1789 684 1807 672 1821 662 1897 662 1910 670 1924 682 1925 682 1926 682 1928 682 1929 682 1952 670 1968 663 1990 663 1998 670 2005 677 2005 678 2006 678 2008 678 2009 678 2010 678 2011 678 2020 670 2021 638 2021 611 1990 611 1989 610 1978 600 1978 599 1977 599 1976 599 1946 595 1899 594 1898 594 1897 594 1867 605 1861 608 1815 609 1809 603 1803 598 1803 596 1802 596 1800 596 1799 596 1798 596 1784 601 1776 605 1772 601 1770 599 1768 599 1767 599 1766 599 1765 599 1761 600 1751 606 1739 600 1730 595 1729 595 1728 595 1693 598 1603 606 1590 594 1587 593 1587 592 1586 592 1585 592 1583 592 1582 592 1576 594 1564 598 1545 593 1544 633 1543 672"/></Shape>
+	    <String CONTENT="8:o Paris 1951."
+                    HPOS="1543"
+                    VPOS="592"
+                    WIDTH="478"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="2066 1456 2230 1450" 
+                    HPOS="2062"
+                    VPOS="1399"
+                    WIDTH="167"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="2064 1455 2064 1470 2072 1475 2073 1475 2074 1475 2076 1475 2119 1467 2161 1472 2162 1472 2229 1461 2229 1449 2225 1412 2138 1413 2124 1406 2115 1399 2114 1399 2113 1399 2111 1399 2062 1401 2064 1455"/></Shape>
+	    <String CONTENT="18.10.51"
+                    HPOS="2062"
+                    VPOS="1399"
+                    WIDTH="167"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

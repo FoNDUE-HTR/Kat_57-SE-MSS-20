@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00056.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2319 1479 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="216 68 799 50" 
+                    HPOS="214"
+                    VPOS="14"
+                    WIDTH="584"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="215 67 215 92 399 97 400 97 402 97 424 85 427 82 492 81 494 82 513 88 514 88 515 88 516 88 537 80 538 80 541 80 590 91 592 91 646 78 678 88 679 88 680 88 752 74 777 82 778 82 779 82 780 82 781 82 798 70 798 49 794 28 749 28 735 16 735 14 733 14 732 14 731 14 730 14 728 14 711 28 710 30 656 30 653 29 625 14 624 14 601 14 600 14 599 14 568 30 561 34 555 30 525 17 524 17 522 17 484 18 483 18 482 18 462 33 455 38 446 38 441 33 430 22 430 20 429 20 427 20 426 20 425 20 424 20 405 33 403 35 366 40 323 35 323 34 312 25 312 24 310 24 309 24 308 24 214 35 215 67"/></Shape>
+	    <String CONTENT="[ Dorpat. Staatsarchiv"
+                    HPOS="214"
+                    VPOS="14"
+                    WIDTH="584"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="250 258 463 255" 
+                    HPOS="247"
+                    VPOS="217"
+                    WIDTH="215"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="249 257 249 288 279 292 281 292 282 292 283 292 287 289 297 282 347 288 349 288 350 288 368 281 386 289 388 291 389 291 390 291 392 291 397 289 427 279 460 289 462 254 458 217 247 219 249 257"/></Shape>
+	    <String CONTENT="BERICHT"
+                    HPOS="247"
+                    VPOS="217"
+                    WIDTH="215"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2071 90 2282 90" 
+                    HPOS="2070"
+                    VPOS="22"
+                    WIDTH="211"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="2070 88 2070 107 2134 109 2159 123 2160 123 2162 123 2163 123 2181 115 2205 133 2206 133 2207 133 2208 134 2249 134 2249 133 2250 133 2252 133 2281 108 2281 88 2281 53 2185 40 2168 23 2168 22 2167 22 2165 22 2114 22 2112 22 2111 22 2110 22 2070 46 2070 88"/></Shape>
+	    <String CONTENT="Bibliogr"
+                    HPOS="2070"
+                    VPOS="22"
+                    WIDTH="211"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2074 157 2277 160" 
+                    HPOS="2072"
+                    VPOS="108"
+                    WIDTH="204"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="2073 156 2072 177 2083 183 2084 183 2085 183 2275 181 2276 159 2274 115 2241 131 2217 131 2202 120 2188 109 2186 109 2185 109 2121 108 2120 108 2118 108 2117 108 2093 127 2089 129 2073 129 2073 156"/></Shape>
+	    <String CONTENT="Bibliot"
+                    HPOS="2072"
+                    VPOS="108"
+                    WIDTH="204"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2076 237 2231 234" 
+                    HPOS="2074"
+                    VPOS="186"
+                    WIDTH="155"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="2075 236 2075 251 2097 261 2099 261 2100 261 2101 261 2131 254 2213 259 2215 259 2216 259 2229 251 2229 233 2227 189 2204 186 2202 186 2201 186 2200 186 2200 187 2194 192 2189 198 2165 198 2162 196 2154 188 2154 187 2153 187 2152 187 2125 187 2123 187 2122 187 2121 187 2105 201 2101 204 2074 204 2075 236"/></Shape>
+	    <String CONTENT="Balt"
+                    HPOS="2074"
+                    VPOS="186"
+                    WIDTH="155"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="245 352 2274 343" 
+                    HPOS="242"
+                    VPOS="305"
+                    WIDTH="2031"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="244 351 244 383 476 372 663 379 707 381 709 381 730 378 823 368 1272 373 1441 374 1443 374 1559 370 1702 365 1718 368 1735 373 1736 373 1737 373 1798 367 1820 366 1835 367 1884 373 1885 373 1983 367 2064 372 2065 372 2104 365 2112 363 2120 365 2171 373 2173 373 2271 362 2273 342 2270 313 2159 307 2158 307 2052 313 2037 313 2031 313 1983 305 1982 305 1940 313 1935 313 1930 313 1878 307 1877 307 1843 313 1834 315 1651 315 1633 313 1597 308 1431 308 1430 308 1429 308 1410 313 1397 316 1370 313 1334 309 1333 309 1096 314 820 319 768 314 741 312 545 312 543 312 525 314 487 320 242 315 244 351"/></Shape>
+	    <String CONTENT="über die Tätigkeit des estnischen staatlichen Zentralarchivs 1921-"
+                    HPOS="242"
+                    VPOS="305"
+                    WIDTH="2031"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="247 453 2306 444" 
+                    HPOS="245"
+                    VPOS="410"
+                    WIDTH="2060"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="246 452 246 483 424 482 425 482 447 474 488 478 489 478 571 469 742 477 743 477 836 468 989 476 990 476 1075 469 1106 476 1107 476 1108 476 1148 466 1202 476 1203 476 1261 469 1322 477 1339 478 1340 478 1354 477 1423 464 1552 476 1566 476 1567 476 1578 474 1662 466 1686 473 1687 473 1688 473 1731 467 1764 473 1776 476 1777 476 1789 473 1835 464 1914 473 1924 473 1925 473 1945 472 2110 462 2305 469 2305 444 2301 410 2007 418 1898 413 1861 411 1859 411 1826 414 1761 418 1735 414 1716 411 1715 411 1621 415 1517 419 1492 416 1466 413 1465 413 1418 416 1372 420 1292 418 1187 414 1186 414 1144 419 1119 421 1111 419 1100 415 1098 415 1097 415 1096 415 1082 419 1074 421 1040 419 975 415 974 415 905 420 889 421 879 421 835 415 833 415 778 421 764 423 730 421 567 416 566 416 564 416 538 424 536 424 534 424 516 418 515 418 514 418 399 424 316 418 315 418 245 425 246 452"/></Shape>
+	    <String CONTENT="1932, nebst einem Verzeichnis der ihm Einverleibten Archive.- Eesti"
+                    HPOS="245"
+                    VPOS="410"
+                    WIDTH="2060"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="245 557 2244 548" 
+                    HPOS="242"
+                    VPOS="510"
+                    WIDTH="2001"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="244 556 244 583 666 583 666 582 686 580 796 574 980 580 1011 580 1012 580 1017 580 1053 573 1158 578 1159 578 1267 572 1371 579 1385 579 1386 579 1394 579 1462 571 1593 578 1600 578 1602 578 1656 578 1699 577 1700 577 1723 569 1847 577 1848 577 1975 568 2078 574 2079 574 2180 568 2241 575 2243 547 2241 519 2101 519 2069 510 2068 510 2067 510 2014 518 1958 510 1957 510 1843 519 1402 513 1401 513 1346 521 1108 514 1107 514 1106 514 1080 524 899 524 815 515 814 515 686 522 545 516 543 516 488 525 466 518 464 518 402 518 400 518 399 518 371 525 298 520 297 520 242 526 244 556"/></Shape>
+	    <String CONTENT="riigi keskarhiivi tegevuse ülevaade 1921-1932 ja arhiivide loend."
+                    HPOS="242"
+                    VPOS="510"
+                    WIDTH="2001"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1314 693 1784 693" 
+                    HPOS="1313"
+                    VPOS="657"
+                    WIDTH="470"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1313 691 1313 709 1333 717 1334 717 1335 717 1410 710 1422 710 1452 710 1455 711 1464 717 1465 717 1466 717 1467 719 1572 719 1572 717 1594 712 1610 710 1628 714 1649 717 1650 717 1672 714 1689 711 1694 715 1697 717 1698 717 1699 717 1700 717 1783 715 1783 691 1782 666 1761 668 1757 666 1748 658 1748 657 1747 657 1746 657 1745 657 1693 663 1646 657 1645 657 1604 667 1597 668 1589 667 1554 657 1552 657 1551 657 1550 657 1549 657 1541 664 1528 659 1526 659 1525 659 1491 667 1478 657 1477 657 1476 657 1449 657 1447 657 1446 657 1445 657 1445 658 1433 668 1433 669 1365 669 1364 669 1340 657 1339 657 1338 657 1336 657 1313 668 1313 691"/></Shape>
+	    <String CONTENT="8:o Tartu 1932."
+                    HPOS="1313"
+                    VPOS="657"
+                    WIDTH="470"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="248 800 2277 794" 
+                    HPOS="246"
+                    VPOS="758"
+                    WIDTH="2030"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="247 799 247 828 321 837 323 837 820 836 821 836 853 827 890 832 891 832 1026 823 1032 823 1034 823 1075 830 1076 830 1209 822 1275 818 1291 821 1322 827 1323 827 1370 821 1381 818 1603 817 1621 818 1727 832 1729 832 1730 832 1787 817 1790 817 1795 817 1857 828 1858 828 1859 828 1904 817 1909 816 1931 817 2042 822 2043 822 2276 814 2276 793 2274 758 2116 758 2115 758 2114 758 2111 758 2084 765 1991 759 1963 758 1962 758 1931 760 1855 765 1811 760 1794 759 1594 759 1593 759 1592 759 1579 763 1566 765 1487 763 1398 760 1397 760 1377 764 1354 768 1256 765 1124 760 1123 760 1080 767 1055 770 827 770 816 768 769 762 768 762 673 769 651 770 638 769 584 763 361 763 360 763 246 772 247 799"/></Shape>
+	    <String CONTENT="Se: Publikationen des estnischen staatlichen Zentralarchivs...Nr.2."
+                    HPOS="246"
+                    VPOS="758"
+                    WIDTH="2030"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="2090 900 2306 903" 
+                    HPOS="2088"
+                    VPOS="839"
+                    WIDTH="217"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="2088 920 2107 929 2109 929 2110 929 2111 929 2133 922 2141 921 2192 923 2199 928 2229 950 2231 950 2232 950 2233 952 2271 952 2271 950 2273 950 2303 937 2305 902 2303 868 2259 868 2257 865 2221 851 2220 851 2218 851 2217 851 2216 851 2216 852 2208 858 2192 857 2169 839 2168 839 2167 839 2132 839 2131 839 2130 839 2128 839 2101 860 2097 864 2090 860 2089 899 2088 920"/></Shape>
+	    <String CONTENT="Bibliogr"
+                    HPOS="2088"
+                    VPOS="839"
+                    WIDTH="217"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    
+                    BASELINE="2093 976 2303 976" 
+                    HPOS="2091"
+                    VPOS="926"
+                    WIDTH="211"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="2091 975 2091 992 2116 1000 2117 1000 2118 1000 2120 1000 2138 994 2159 1005 2160 1005 2162 1006 2234 1006 2234 1005 2236 1005 2237 1005 2243 999 2255 1005 2257 1005 2258 1005 2302 995 2302 975 2300 933 2237 949 2216 939 2185 926 2184 926 2142 926 2141 926 2139 926 2138 926 2114 948 2111 950 2091 950 2091 975"/></Shape>
+	    <String CONTENT="Bibliot"
+                    HPOS="2091"
+                    VPOS="926"
+                    WIDTH="211"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    
+                    BASELINE="2104 1050 2293 1055" 
+                    HPOS="2101"
+                    VPOS="1001"
+                    WIDTH="191"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="2102 1049 2101 1061 2148 1080 2149 1080 2151 1080 2215 1070 2228 1069 2241 1073 2247 1075 2248 1075 2249 1075 2250 1075 2252 1075 2252 1074 2253 1074 2260 1066 2274 1066 2287 1077 2292 1054 2291 1026 2274 1026 2273 1024 2244 1005 2243 1005 2242 1005 2241 1005 2204 1011 2195 1002 2195 1001 2194 1001 2192 1001 2159 1001 2158 1001 2157 1001 2155 1001 2131 1021 2130 1021 2102 1021 2102 1049"/></Shape>
+	    <String CONTENT="Balt ."
+                    HPOS="2101"
+                    VPOS="1001"
+                    WIDTH="191"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13"
+                    
+                    BASELINE="2026 1135 2296 1138" 
+                    HPOS="2023"
+                    VPOS="1082"
+                    WIDTH="272"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="2025 1134 2023 1148 2038 1149 2053 1164 2053 1165 2054 1165 2056 1165 2057 1165 2058 1165 2081 1153 2090 1160 2091 1160 2093 1160 2094 1160 2127 1155 2158 1169 2159 1169 2160 1169 2294 1150 2295 1137 2295 1103 2266 1092 2265 1092 2264 1092 2263 1092 2262 1092 2245 1102 2238 1107 2192 1107 2185 1102 2153 1082 2152 1082 2151 1082 2095 1082 2094 1082 2093 1082 2091 1082 2065 1100 2025 1100 2025 1134"/></Shape>
+	    <String CONTENT="[ Dorpat ."
+                    HPOS="2023"
+                    VPOS="1082"
+                    WIDTH="272"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_14"
+                    
+                    BASELINE="2008 1207 2306 1210" 
+                    HPOS="2006"
+                    VPOS="1164"
+                    WIDTH="299"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="2007 1206 2006 1239 2096 1243 2097 1243 2151 1237 2185 1233 2194 1235 2213 1244 2215 1244 2265 1245 2266 1245 2268 1245 2269 1245 2269 1244 2281 1234 2303 1234 2305 1209 2305 1174 2281 1166 2280 1166 2279 1166 2278 1166 2276 1166 2264 1175 2250 1184 2195 1184 2188 1177 2181 1171 2180 1171 2179 1171 2178 1171 2176 1171 2163 1177 2152 1184 2118 1184 2114 1179 2096 1164 2095 1164 2094 1164 2040 1164 2038 1164 2037 1164 2007 1179 2007 1206"/></Shape>
+	    <String CONTENT="Staatsarchiv"
+                    HPOS="2006"
+                    VPOS="1164"
+                    WIDTH="299"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

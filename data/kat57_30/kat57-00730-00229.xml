@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00730-00229.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1470"
+          PHYSICAL_IMG_NR="29"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1470">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1468"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1469 2319 1469 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="245 145 827 141" 
+                    HPOS="242"
+                    VPOS="100"
+                    WIDTH="584"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="243 144 243 155 343 166 344 166 394 160 410 165 411 165 413 165 414 165 415 165 425 158 426 156 427 158 433 162 435 162 436 162 538 165 539 165 540 165 551 159 560 155 606 155 616 160 626 165 627 165 628 165 660 160 678 158 682 160 685 162 686 162 687 162 688 162 689 162 691 162 693 160 702 155 708 160 712 164 712 165 713 165 714 165 715 165 826 161 826 140 821 102 791 118 660 115 653 106 647 101 647 100 645 100 644 100 643 100 642 100 626 107 604 118 578 118 560 117 552 109 544 101 544 100 542 100 541 100 540 100 539 100 538 100 525 110 511 120 388 112 370 112 368 112 367 112 366 112 365 113 357 120 350 113 337 102 337 101 335 101 334 101 261 101 259 101 258 101 257 101 242 111 243 144"/></Shape>
+	    <String CONTENT="Hermal, Georges"
+                    HPOS="242"
+                    VPOS="100"
+                    WIDTH="584"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="247 226 2296 231" 
+                    HPOS="245"
+                    VPOS="182"
+                    WIDTH="2050"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="246 225 245 241 339 251 340 251 647 243 682 243 686 243 759 267 761 267 762 268 947 268 947 267 1039 252 1242 253 1292 268 1294 268 1295 268 1534 262 1565 268 1566 269 1784 269 1784 268 1855 251 1870 247 2293 252 2295 230 2294 194 2253 192 2252 192 2251 192 2245 193 2219 200 2197 193 2179 187 2177 187 2176 187 2116 193 2106 193 2100 193 2068 187 2067 187 2066 187 2047 192 2019 202 1963 202 1904 192 1877 187 1876 187 1849 191 1784 202 1650 189 1600 186 1599 186 1569 189 1486 202 1416 202 1383 189 1382 189 1370 188 1313 186 1312 186 1311 186 1305 188 1272 200 1078 200 1035 187 1034 187 1033 187 986 193 947 186 938 184 937 184 925 186 832 197 788 191 786 191 785 191 759 199 727 189 726 189 725 189 685 199 539 199 492 183 491 183 490 183 487 183 377 189 246 182 246 225"/></Shape>
+	    <String CONTENT="Se: Olivier, E. [m.fl.], Eugène Olivier. Georges Hermal. R. de"
+                    HPOS="245"
+                    VPOS="182"
+                    WIDTH="2050"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="361 314 2192 307" 
+                    HPOS="359"
+                    VPOS="275"
+                    WIDTH="1832"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="360 313 361 345 568 345 568 344 573 344 665 330 701 340 702 340 768 343 781 343 783 343 784 343 813 333 968 339 969 339 970 339 990 329 1056 329 1098 341 1099 341 1100 343 1159 343 1159 341 1185 341 1231 339 1232 339 1278 327 1579 327 1750 338 1751 338 1824 327 1967 338 1970 338 1971 338 1973 338 2008 328 2052 338 2056 338 2057 338 2063 338 2134 330 2190 336 2191 306 2187 289 1805 291 1793 286 1788 285 1786 285 1785 285 1774 286 1746 291 1730 286 1696 275 1694 275 1639 275 1638 275 1637 275 1596 286 1568 292 1534 285 1487 276 1486 276 1432 285 1392 291 1341 285 1277 276 1275 276 1226 284 1175 294 1096 294 1077 286 1076 286 1074 286 1014 292 989 284 973 278 971 278 970 278 940 282 908 289 877 282 861 280 860 280 859 280 851 282 817 296 754 296 699 292 674 282 667 280 666 280 609 280 607 280 606 280 601 281 564 294 513 292 485 281 481 280 480 280 479 280 359 280 360 313"/></Shape>
+	    <String CONTENT="Roton. Manuel de l&#x27;amateur de reliures armoriées"
+                    HPOS="359"
+                    VPOS="275"
+                    WIDTH="1832"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="361 398 1407 404" 
+                    HPOS="359"
+                    VPOS="357"
+                    WIDTH="1047"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="360 396 359 442 476 443 477 443 479 443 486 441 506 432 534 439 547 443 549 443 550 443 551 443 558 439 589 423 628 428 629 428 676 422 743 432 745 432 785 427 797 436 799 436 800 436 801 436 802 436 805 436 829 425 884 433 886 433 940 425 963 432 1002 447 1003 447 1004 448 1072 448 1072 447 1073 447 1125 431 1142 438 1143 438 1144 438 1223 428 1243 426 1254 427 1297 437 1299 437 1405 425 1406 403 1405 384 1366 383 1334 362 1333 362 1332 362 1284 362 1283 362 1281 362 1248 376 1221 363 1220 363 1219 363 1218 363 1216 363 1198 376 1180 361 1178 361 1177 361 1115 361 1114 361 1112 361 1111 361 1089 377 1080 383 1069 383 1061 377 1040 361 1039 361 1038 361 997 361 996 361 995 361 993 361 979 371 952 360 951 360 949 360 948 360 924 373 910 380 895 373 870 360 868 360 811 360 810 360 808 360 807 360 792 371 777 380 685 373 683 373 442 378 420 363 413 357 411 357 410 357 409 357 360 361 360 396"/></Shape>
+	    <String CONTENT="françaises. Sér. 1-19 1924-30"
+                    HPOS="359"
+                    VPOS="357"
+                    WIDTH="1047"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1490 467 1728 467" 
+                    HPOS="1489"
+                    VPOS="420"
+                    WIDTH="237"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1489 466 1489 499 1527 504 1528 504 1529 504 1538 502 1562 494 1628 494 1649 505 1652 507 1653 507 1654 507 1660 507 1685 502 1725 508 1726 466 1726 437 1683 437 1681 433 1672 426 1672 425 1671 425 1670 425 1637 420 1636 420 1634 420 1600 428 1569 437 1551 437 1540 425 1535 421 1535 420 1534 420 1533 420 1531 420 1489 421 1489 466"/></Shape>
+	    <String CONTENT="Ex libre."
+                    HPOS="1489"
+                    VPOS="420"
+                    WIDTH="237"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

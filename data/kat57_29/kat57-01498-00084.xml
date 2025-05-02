@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01498-00084.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2319 1471 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1813 116 1896 112" 
+                    HPOS="1808"
+                    VPOS="44"
+                    WIDTH="87"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="1812 115 1812 134 1836 131 1894 139 1895 111 1889 44 1808 67 1812 115"/></Shape>
+	    <String CONTENT="Fol."
+                    HPOS="1808"
+                    VPOS="44"
+                    WIDTH="87"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2032 70 2242 67" 
+                    HPOS="2030"
+                    VPOS="18"
+                    WIDTH="211"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="2031 69 2031 90 2169 95 2170 95 2240 84 2241 66 2235 18 2215 31 2183 35 2171 26 2160 19 2159 19 2158 19 2156 19 2111 22 2110 22 2108 22 2088 38 2079 45 2030 45 2031 69"/></Shape>
+	    <String CONTENT="Teknol"
+                    HPOS="2030"
+                    VPOS="18"
+                    WIDTH="211"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="125 214 535 209" 
+                    HPOS="122"
+                    VPOS="160"
+                    WIDTH="412"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="123 213 123 234 312 235 314 235 339 234 341 234 342 234 350 226 359 220 431 220 442 224 469 233 471 233 472 234 511 234 511 233 512 233 534 220 534 208 531 160 489 161 488 161 487 161 485 163 473 170 453 164 442 161 441 161 440 161 439 161 437 161 431 165 407 182 353 182 339 171 338 171 337 171 336 171 334 171 333 171 314 181 298 174 282 166 280 166 279 166 278 166 258 176 250 181 245 177 238 171 236 171 235 171 199 169 198 169 197 169 196 169 182 181 181 181 177 181 138 177 137 177 136 177 122 182 123 213"/></Shape>
+	    <String CONTENT="REIMERS, J.H"
+                    HPOS="122"
+                    VPOS="160"
+                    WIDTH="412"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="118 303 2313 308" 
+                    HPOS="116"
+                    VPOS="260"
+                    WIDTH="2196"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="117 302 116 321 233 334 234 334 585 329 727 336 728 336 806 325 808 325 812 325 856 333 857 333 904 326 943 334 944 334 1143 326 1190 325 1201 326 1255 337 1256 337 1257 337 1288 327 1293 326 1310 327 1413 336 1414 336 1473 327 1490 326 1885 326 1896 329 1928 338 1929 338 1931 338 2077 337 2113 331 2135 327 2167 331 2230 338 2231 338 2311 331 2312 307 2310 267 2180 269 2126 267 2054 262 2053 262 1992 267 1916 272 1894 267 1877 262 1875 262 1656 261 1655 261 1620 267 1587 272 1556 267 1550 266 1549 266 1534 267 1458 272 1405 267 1353 261 1352 261 1302 267 1253 272 1214 267 1199 264 1198 264 1152 267 1060 271 1041 267 1024 262 1023 262 1021 262 994 267 976 269 965 267 948 261 947 261 945 261 857 267 786 271 770 267 754 262 753 262 752 262 695 267 668 268 649 267 592 260 591 260 561 267 547 269 117 267 117 302"/></Shape>
+	    <String CONTENT="Aluminium och magnesium samt deras legeringar. Framställning, legeringar,"
+                    HPOS="116"
+                    VPOS="260"
+                    WIDTH="2196"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="120 402 1928 399" 
+                    HPOS="117"
+                    VPOS="364"
+                    WIDTH="1810"
+                    HEIGHT="498">
+            <Shape><Polygon POINTS="119 401 119 862 512 861 514 861 943 688 1458 480 1924 480 1927 398 1924 374 1723 364 1722 364 1655 372 1646 372 1620 371 1436 364 1435 364 1288 370 1234 372 1118 370 931 365 929 365 928 365 918 369 905 375 807 375 783 369 768 365 766 365 732 369 688 372 610 368 563 365 561 365 549 368 522 374 489 368 482 366 480 366 471 368 437 371 290 366 238 365 236 365 229 366 197 374 117 366 119 401"/></Shape>
+	    <String CONTENT="fysikaliska och kemiska egenskaper, undersökningsmetoder...."
+                    HPOS="117"
+                    VPOS="364"
+                    WIDTH="1810"
+                    HEIGHT="498"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1468 498 2017 501" 
+                    HPOS="1466"
+                    VPOS="457"
+                    WIDTH="550"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1467 496 1466 518 1499 536 1500 536 1501 537 1572 537 1572 536 1574 536 1596 525 1615 531 1617 531 1618 531 1619 531 1629 526 1637 533 1637 534 1639 534 1640 534 1641 534 1642 534 1643 534 1659 525 1662 523 1666 525 1685 534 1686 534 1688 534 1689 534 1709 527 1722 522 1758 527 1759 527 1760 527 1783 521 1813 531 1814 531 1815 531 1818 531 1873 522 1907 533 1909 533 1910 533 1911 533 1935 527 1945 536 1947 536 1948 536 1949 536 1950 536 1972 529 2014 538 2016 500 2016 471 1999 460 1998 460 1997 460 1888 460 1886 460 1885 460 1862 472 1861 473 1835 473 1832 472 1802 466 1801 466 1745 471 1722 461 1721 461 1720 461 1718 461 1697 469 1679 458 1678 458 1677 458 1675 458 1674 458 1652 464 1626 457 1625 457 1624 457 1623 457 1598 471 1543 471 1524 471 1524 469 1509 457 1507 457 1506 457 1488 457 1486 457 1485 457 1484 457 1467 467 1467 496"/></Shape>
+	    <String CONTENT="4:o Göteborg 1942."
+                    HPOS="1466"
+                    VPOS="457"
+                    WIDTH="550"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

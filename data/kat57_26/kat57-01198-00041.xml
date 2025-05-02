@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01198-00041.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="43"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2315 1471 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="150 219 840 215" 
+                    HPOS="148"
+                    VPOS="160"
+                    WIDTH="691"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="149 218 149 234 441 233 485 237 522 242 523 242 525 242 526 242 526 241 529 239 536 233 550 233 564 239 572 242 574 242 575 242 594 239 613 236 836 241 839 214 837 181 799 166 798 166 797 166 796 166 794 166 783 174 769 166 767 166 766 166 765 166 764 166 748 179 739 172 738 172 737 172 736 172 734 172 723 177 690 164 689 164 688 164 686 164 648 180 647 181 506 181 504 180 493 170 493 169 491 169 490 169 489 169 467 171 453 160 452 160 451 160 450 160 448 160 433 168 415 160 414 160 413 160 288 161 287 161 266 170 255 161 253 161 252 161 193 161 192 161 191 161 190 161 171 179 148 179 149 218"/></Shape>
+	    <String CONTENT="MEYER-ABICH, Friedrich"
+                    HPOS="148"
+                    VPOS="160"
+                    WIDTH="691"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="152 321 2315 330" 
+                    HPOS="152"
+                    VPOS="234"
+                    WIDTH="2163"
+                    HEIGHT="147">
+            <Shape><Polygon POINTS="152 321 152 365 286 353 331 365 356 373 358 373 359 373 414 365 422 365 433 365 548 375 549 375 596 365 607 364 616 365 663 375 664 375 666 375 701 365 727 357 875 354 947 365 995 372 996 372 1028 365 1068 356 1148 356 1181 364 1226 377 1228 377 1229 377 1306 364 1352 357 1587 357 1604 364 1644 380 1646 380 2005 381 2007 381 2106 364 2286 375 2288 375 2289 375 2315 362 2315 330 2315 284 2050 284 2043 282 1839 238 1837 238 1600 249 1528 236 1526 236 1525 236 1483 252 1442 236 1440 236 1438 236 1357 246 1333 236 1331 236 1237 234 937 234 936 234 698 276 693 276 677 276 516 268 514 268 152 273 152 321"/></Shape>
+	    <String CONTENT="Se: Die Masken fallen. Aus den Geheimpapieren des Dritten Reiches. 1949."
+                    HPOS="152"
+                    VPOS="234"
+                    WIDTH="2163"
+                    HEIGHT="147"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1070 396 1183 392" 
+                    HPOS="1068"
+                    VPOS="363"
+                    WIDTH="115"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="1069 394 1069 415 1124 415 1138 426 1145 433 1145 434 1146 434 1148 434 1149 434 1183 433 1182 391 1180 368 1105 363 1104 363 1068 370 1069 394"/></Shape>
+	    <String CONTENT="Hist."
+                    HPOS="1068"
+                    VPOS="363"
+                    WIDTH="115"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1086 461 1113 458" 
+                    HPOS="1080"
+                    VPOS="404"
+                    WIDTH="33"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="1088 491 1113 493 1112 457 1106 406 1080 404 1085 460 1088 491"/></Shape>
+	    <String CONTENT="Ty"
+                    HPOS="1080"
+                    VPOS="404"
+                    WIDTH="33"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

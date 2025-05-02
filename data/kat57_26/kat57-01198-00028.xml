@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01198-00028.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2308"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="37"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2308"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2306"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2307 1471 2307 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="102 89 881 78" 
+                    HPOS="99"
+                    VPOS="20"
+                    WIDTH="781"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="101 88 101 111 164 111 169 112 192 120 193 120 195 120 196 120 223 112 231 118 233 118 234 118 235 118 236 118 252 111 253 110 347 109 352 110 369 117 370 117 371 117 428 117 445 126 446 126 447 126 476 125 477 125 478 125 496 114 506 118 507 118 509 118 510 118 528 109 536 105 576 105 585 107 625 122 627 122 628 122 788 121 812 118 813 118 814 118 831 105 835 103 839 105 845 110 846 110 847 110 849 110 880 104 880 77 876 20 850 30 817 25 815 25 814 25 790 38 748 22 747 22 672 22 671 22 669 22 668 22 668 23 635 47 615 49 555 49 521 24 520 24 519 24 517 24 516 24 515 24 483 46 465 46 438 30 436 30 435 30 434 30 433 30 431 30 407 50 369 35 368 35 366 35 365 35 332 52 271 52 245 51 231 39 231 38 230 38 229 38 228 38 226 38 225 38 225 39 215 47 200 36 198 36 197 36 196 36 171 40 158 29 157 29 155 29 99 29 101 88"/></Shape>
+	    <String CONTENT="[Calderon de la Barca, följdskr."
+                    HPOS="99"
+                    VPOS="20"
+                    WIDTH="781"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="251 230 784 227 1411 206" 
+                    HPOS="249"
+                    VPOS="153"
+                    WIDTH="1160"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="250 229 250 261 290 264 292 264 293 264 303 260 311 256 348 258 412 263 413 263 455 255 460 255 471 255 531 257 532 257 533 257 534 257 542 252 547 250 554 252 566 256 568 256 569 256 570 256 590 251 613 245 627 250 641 256 642 256 644 257 712 257 712 256 714 256 750 246 765 242 775 245 795 252 796 252 797 252 869 242 907 237 941 237 948 240 971 250 973 250 974 250 975 250 1020 239 1056 244 1057 244 1058 244 1060 244 1071 236 1076 233 1125 233 1131 234 1161 246 1163 246 1164 246 1204 245 1206 245 1231 233 1252 244 1254 244 1255 245 1289 245 1289 244 1339 240 1341 240 1342 240 1359 228 1360 226 1409 225 1409 204 1407 185 1293 185 1211 160 1209 160 1139 153 1138 153 1137 153 1051 191 1050 192 804 197 801 196 715 158 714 158 712 158 711 158 678 169 631 159 630 159 577 164 576 164 517 186 472 165 471 165 469 165 330 166 328 166 327 166 266 206 262 208 249 207 250 229"/></Shape>
+	    <String CONTENT="Meyer, Wilhelm aus Speyer"
+                    HPOS="249"
+                    VPOS="153"
+                    WIDTH="1160"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2131 56 2232 59" 
+                    HPOS="2128"
+                    VPOS="1"
+                    WIDTH="103"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="2197 1 2196 1 2195 1 2168 9 2130 9 2130 55 2128 74 2146 78 2147 78 2148 78 2155 74 2163 71 2177 73 2211 80 2212 80 2213 80 2230 72 2231 58 2231 12 2198 1 2197 1"/></Shape>
+	    <String CONTENT="Vitt"
+                    HPOS="2128"
+                    VPOS="1"
+                    WIDTH="103"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2147 126 2221 129" 
+                    HPOS="2143"
+                    VPOS="73"
+                    WIDTH="79"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="2146 125 2143 164 2177 163 2179 163 2180 163 2181 161 2192 154 2217 157 2220 128 2222 92 2174 73 2173 73 2171 73 2170 73 2147 84 2146 125"/></Shape>
+	    <String CONTENT="Sp."
+                    HPOS="2143"
+                    VPOS="73"
+                    WIDTH="79"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="371 377 2254 369" 
+                    HPOS="369"
+                    VPOS="289"
+                    WIDTH="1883"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="370 376 370 393 2251 386 2252 368 2250 320 2119 320 2116 318 2094 310 2093 310 2092 310 2090 310 2071 317 2067 320 1893 320 1883 316 1834 298 1833 298 1831 298 1754 307 1687 289 1685 289 1684 289 1683 289 1638 301 1550 296 1549 296 1487 309 1387 290 1386 290 1301 310 1240 296 1239 296 1127 304 1094 291 1093 291 1030 291 1029 291 1028 291 979 309 938 325 904 326 833 326 770 307 717 293 716 293 715 293 618 300 522 294 521 294 520 294 489 301 436 294 435 294 369 304 370 376"/></Shape>
+	    <String CONTENT="Ueber Calderons Sibylle des Orients, Festrede gehalten in"
+                    HPOS="369"
+                    VPOS="289"
+                    WIDTH="1883"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="256 455 2248 442" 
+                    HPOS="253"
+                    VPOS="382"
+                    WIDTH="1994"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="255 453 255 480 544 469 601 477 602 477 747 467 817 473 818 473 855 466 916 472 917 472 1060 464 1093 471 1094 471 1095 471 1114 464 1315 464 1358 472 1359 472 1458 464 1563 472 1577 472 1579 472 1585 471 1620 464 1639 471 1642 472 1644 472 1645 472 1701 471 1703 471 1705 471 1738 461 1777 469 1784 471 1785 471 1786 471 1790 469 1814 463 1893 469 1906 469 1907 469 1919 468 1982 462 2022 468 2033 469 2034 469 2246 466 2247 441 2245 401 2103 385 2101 385 2100 385 2050 399 2041 403 1879 403 1871 399 1818 383 1817 383 1815 383 1814 383 1769 399 1759 404 1723 404 1711 399 1674 388 1673 388 1672 388 1671 388 1642 399 1636 403 1531 404 1515 399 1462 382 1461 382 1460 382 1393 393 1218 385 1217 385 1215 385 1175 399 1154 407 1121 399 1052 385 1051 385 986 399 953 407 921 399 866 386 865 386 822 387 820 387 781 399 759 406 731 399 693 391 692 391 660 396 620 388 619 388 537 394 457 388 456 388 455 388 419 399 397 406 374 399 339 390 338 390 278 390 277 390 276 390 253 397 255 453"/></Shape>
+	    <String CONTENT="der öffentlichen Sitzung der k. b. Akademie der Wissenschaften"
+                    HPOS="253"
+                    VPOS="382"
+                    WIDTH="1994"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="286 526 2307 514" 
+                    HPOS="284"
+                    VPOS="467"
+                    WIDTH="2022"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="285 525 288 567 327 554 558 544 678 565 679 565 680 565 682 565 754 548 820 558 822 558 823 558 852 548 1069 548 1071 548 1072 548 1092 542 1202 554 1203 554 1204 554 1240 544 1303 552 1304 552 1363 544 1393 549 1395 549 1396 549 1428 540 1619 540 1721 559 1741 561 1742 563 1856 563 1856 561 1954 559 1955 559 1964 556 2034 538 2115 556 2131 559 2132 559 2304 554 2306 513 2304 478 2261 467 2132 467 2131 467 2130 467 2090 479 2030 498 1894 498 1871 489 1869 489 1868 489 1833 494 1776 480 1728 469 1727 469 1420 471 1419 471 1401 477 1327 472 1326 472 1325 472 1290 484 1242 501 1182 501 1138 484 1106 473 1105 473 1104 473 1036 485 942 502 852 498 851 498 638 504 603 496 602 496 552 504 512 499 511 499 395 505 284 490 285 525"/></Shape>
+	    <String CONTENT="zu München zur Feier ihres einhundert und zwanzigsten Stiftungs"
+                    HPOS="284"
+                    VPOS="467"
+                    WIDTH="2022"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="257 606 1651 598" 
+                    HPOS="255"
+                    VPOS="547"
+                    WIDTH="1395"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="256 605 256 657 346 657 347 657 434 624 531 623 638 631 639 631 696 621 760 642 761 642 763 642 808 641 855 648 883 653 884 655 910 655 910 653 911 653 928 647 993 624 1083 619 1179 626 1180 626 1228 620 1247 626 1249 626 1250 626 1327 624 1363 640 1385 651 1386 651 1387 651 1515 650 1516 650 1553 637 1575 630 1649 635 1650 597 1647 571 1574 571 1528 547 1527 547 1506 547 1505 547 1504 547 1447 571 1388 548 1387 548 1251 548 1250 548 1249 548 1219 555 1155 549 1154 549 1153 549 1105 574 1099 574 1051 574 1019 574 997 574 969 559 968 559 909 553 907 553 817 575 814 575 813 575 764 552 763 552 721 552 720 552 719 552 680 569 641 553 640 553 639 553 638 553 571 576 569 577 409 577 396 576 376 575 337 554 336 554 303 554 301 554 300 554 255 575 256 605"/></Shape>
+	    <String CONTENT="tages am 28 Marz 1879 von Wilhelm Meyer."
+                    HPOS="255"
+                    VPOS="547"
+                    WIDTH="1395"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1740 667 2273 662" 
+                    HPOS="1738"
+                    VPOS="613"
+                    WIDTH="534"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="1739 666 1739 696 1815 695 1819 696 1856 711 1857 711 1858 711 1860 711 1890 694 1900 689 1926 694 1957 699 1958 699 1995 691 2015 688 2028 691 2045 696 2046 696 2047 696 2076 690 2084 688 2089 689 2133 707 2134 707 2136 709 2222 709 2222 707 2223 707 2224 707 2224 706 2240 693 2260 694 2261 694 2262 694 2263 694 2272 686 2272 661 2268 624 2234 628 2218 625 2169 615 2168 615 2166 615 2165 615 2152 628 2141 636 2112 637 2103 629 2087 614 2087 613 2085 613 2084 613 2042 613 2041 613 2040 613 2039 613 2039 614 2019 631 2012 639 1958 639 1952 634 1933 615 1933 614 1932 614 1931 614 1885 614 1884 614 1883 614 1882 614 1852 636 1847 641 1833 641 1829 637 1801 617 1800 617 1798 617 1797 617 1796 617 1795 617 1761 640 1760 641 1738 641 1739 666"/></Shape>
+	    <String CONTENT="4º München 1879."
+                    HPOS="1738"
+                    VPOS="613"
+                    WIDTH="534"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

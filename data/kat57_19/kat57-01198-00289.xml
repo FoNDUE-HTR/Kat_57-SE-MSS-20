@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01198-00289.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="39"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2315 1471 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="157 69 551 72" 
+                    HPOS="154"
+                    VPOS="23"
+                    WIDTH="396"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="155 68 154 77 181 78 198 90 199 90 201 90 202 90 203 90 222 83 246 90 247 90 249 90 348 83 366 92 368 92 369 92 370 92 403 80 404 80 446 80 447 80 466 90 467 90 468 90 549 82 550 71 549 41 474 25 473 25 472 25 471 25 456 36 442 47 374 47 348 31 339 25 338 25 337 25 336 25 334 25 333 25 326 30 312 40 257 46 239 46 213 25 213 24 212 24 210 24 155 23 155 68"/></Shape>
+	    <String CONTENT="Lincoln, A."
+                    HPOS="154"
+                    VPOS="23"
+                    WIDTH="396"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2083 61 2273 61" 
+                    HPOS="2082"
+                    VPOS="19"
+                    WIDTH="189"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="2082 60 2082 78 2157 78 2162 80 2194 103 2195 103 2197 103 2198 104 2241 104 2241 103 2242 103 2271 85 2271 60 2271 39 2199 28 2198 28 2197 28 2195 28 2193 30 2184 36 2177 31 2176 31 2174 31 2173 31 2143 38 2123 23 2118 19 2117 19 2116 19 2082 19 2082 60"/></Shape>
+	    <String CONTENT="Biogr."
+                    HPOS="2082"
+                    VPOS="19"
+                    WIDTH="189"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2088 134 2273 134" 
+                    HPOS="2087"
+                    VPOS="94"
+                    WIDTH="184"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="2087 133 2087 171 2140 171 2140 170 2141 170 2143 170 2147 166 2158 158 2184 163 2198 165 2199 165 2271 155 2271 133 2271 115 2182 104 2181 104 2179 104 2178 104 2152 114 2136 99 2131 95 2131 94 2130 94 2129 94 2087 94 2087 133"/></Shape>
+	    <String CONTENT="Amer."
+                    HPOS="2087"
+                    VPOS="94"
+                    WIDTH="184"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="133 198 1280 203" 
+                    HPOS="131"
+                    VPOS="153"
+                    WIDTH="1148"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="132 197 131 235 356 236 358 236 359 236 372 233 409 222 448 231 468 236 469 236 471 236 496 231 516 226 525 230 539 237 540 237 542 239 563 239 563 237 564 237 580 230 599 219 619 229 632 236 634 236 668 237 669 237 729 228 771 220 851 220 867 226 874 229 875 229 877 229 878 229 889 225 908 220 1040 220 1047 224 1063 229 1064 229 1065 229 1107 223 1112 223 1116 223 1181 231 1182 231 1183 231 1208 222 1209 222 1211 222 1252 228 1253 228 1254 228 1278 220 1279 202 1278 158 1189 158 1188 158 1187 158 1153 169 1108 158 1107 158 1079 158 1078 158 1077 158 1075 158 1054 170 964 157 962 157 961 157 940 165 873 159 872 159 870 159 851 170 706 170 637 155 636 155 581 157 580 157 558 169 447 169 428 158 426 158 425 158 391 165 272 159 271 159 226 165 132 153 132 197"/></Shape>
+	    <String CONTENT="MEYNELL, Esther [Hallam f. Moorhouse]"
+                    HPOS="131"
+                    VPOS="153"
+                    WIDTH="1148"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="131 298 693 302" 
+                    HPOS="128"
+                    VPOS="264"
+                    WIDTH="563"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="130 296 128 328 201 325 240 326 246 329 268 339 269 339 429 341 430 341 431 341 433 341 439 334 452 341 453 341 455 341 456 341 499 328 505 327 506 328 521 341 522 341 523 341 525 342 545 342 545 341 547 341 570 328 571 328 690 328 691 301 690 280 645 269 543 267 542 267 540 267 517 273 452 267 451 267 450 267 421 277 412 268 410 268 409 268 408 268 407 268 406 268 396 276 343 268 342 268 269 276 155 264 154 264 153 264 130 274 130 296"/></Shape>
+	    <String CONTENT="The young Lincoln."
+                    HPOS="128"
+                    VPOS="264"
+                    WIDTH="563"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1325 397 1830 397" 
+                    HPOS="1324"
+                    VPOS="356"
+                    WIDTH="505"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="1324 396 1324 420 1368 420 1402 433 1403 433 1404 434 1467 434 1467 433 1468 433 1507 420 1566 430 1567 430 1658 420 1673 433 1674 433 1675 433 1676 434 1752 434 1752 433 1829 419 1829 396 1829 372 1792 372 1792 371 1777 358 1777 356 1776 356 1775 356 1708 356 1707 356 1706 356 1657 370 1652 372 1605 372 1603 370 1587 358 1586 358 1584 358 1583 358 1582 358 1561 370 1557 371 1554 370 1545 365 1544 365 1543 365 1514 369 1500 371 1496 369 1484 359 1483 359 1481 359 1480 359 1447 365 1437 358 1437 356 1436 356 1435 356 1350 356 1349 356 1348 356 1324 366 1324 396"/></Shape>
+	    <String CONTENT="8:o London 1944."
+                    HPOS="1324"
+                    VPOS="356"
+                    WIDTH="505"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

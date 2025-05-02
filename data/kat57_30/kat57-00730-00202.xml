@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00730-00202.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2304"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="13"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2304"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2302"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2303 1477 2303 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="2081 25 2156 25" 
+                    HPOS="2080"
+                    VPOS="2"
+                    WIDTH="74"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="2080 24 2082 48 2119 38 2152 48 2154 24 2154 6 2080 2 2080 24"/></Shape>
+	    <String CONTENT="Jur"
+                    HPOS="2080"
+                    VPOS="2"
+                    WIDTH="74"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2023 120 2285 115" 
+                    HPOS="2021"
+                    VPOS="71"
+                    WIDTH="263"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="2021 147 2119 147 2120 147 2129 145 2152 137 2184 142 2185 142 2186 142 2191 142 2238 136 2253 140 2271 145 2273 145 2274 145 2275 145 2276 145 2284 140 2284 114 2283 78 2271 71 2270 71 2269 71 2221 71 2220 71 2218 71 2194 82 2183 86 2152 83 2151 83 2084 94 2062 88 2061 88 2060 88 2058 88 2034 94 2021 84 2021 119 2021 147"/></Shape>
+	    <String CONTENT="Frövaltn"
+                    HPOS="2021"
+                    VPOS="71"
+                    WIDTH="263"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2073 72 2125 72" 
+                    HPOS="2072"
+                    VPOS="28"
+                    WIDTH="52"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="2072 71 2072 103 2124 102 2124 71 2122 28 2072 38 2072 71"/></Shape>
+	    <String CONTENT="Sv"
+                    HPOS="2072"
+                    VPOS="28"
+                    WIDTH="52"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="120 206 2143 198" 
+                    HPOS="118"
+                    VPOS="151"
+                    WIDTH="2024"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="119 205 119 237 354 242 356 242 357 242 379 236 404 227 469 227 527 235 581 241 582 241 855 240 856 240 888 231 909 225 985 225 1014 230 1043 236 1044 236 1046 236 1065 230 1081 225 1269 225 1286 227 1323 235 1324 235 1368 227 1391 224 1430 224 1440 226 1460 234 1461 234 1462 234 1513 226 1521 225 1526 226 1561 236 1562 236 1563 237 1812 237 1812 236 1866 222 1876 221 1893 222 1979 232 1981 232 1982 232 2013 221 2015 221 2024 221 2084 227 2085 227 2142 220 2142 197 2140 166 2009 165 1960 151 1959 151 1957 151 1956 151 1933 157 1830 153 1829 153 1828 153 1788 167 1654 167 1590 152 1589 152 1588 152 1549 165 1425 152 1291 152 1289 152 1076 153 983 169 889 169 859 161 858 161 857 161 797 169 680 167 644 156 643 156 641 156 640 156 588 171 441 161 439 161 359 172 331 163 330 163 328 163 245 169 205 163 204 163 118 173 119 205"/></Shape>
+	    <String CONTENT="HERLITZ, Nils, BJÖRKHOLM,Sven [Håkan Hjalmar] &amp; ÅKESSON,[Nils] Olof"
+                    HPOS="118"
+                    VPOS="151"
+                    WIDTH="2024"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="123 329 2268 321" 
+                    HPOS="120"
+                    VPOS="286"
+                    WIDTH="2147"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="121 328 121 380 310 379 324 378 510 352 619 359 620 359 675 351 728 359 729 359 756 354 787 364 788 364 789 364 790 364 821 357 1014 360 1015 360 1089 349 1134 364 1138 365 1139 365 1140 365 1150 364 1220 353 1260 363 1264 363 1265 363 1340 362 1341 362 1344 362 1366 353 1492 359 1662 367 1663 367 1731 355 1777 347 1894 352 1898 352 1899 352 1902 352 1967 344 2052 349 2126 354 2127 354 2267 346 2267 320 2264 295 2132 295 2105 286 2104 286 2103 286 1957 295 1864 288 1862 288 1786 295 1750 288 1749 288 1614 296 1586 290 1585 290 1584 290 1583 290 1563 296 1403 290 1402 290 1356 296 1329 290 1328 290 1153 290 1152 290 1150 290 1127 299 895 299 872 293 871 293 869 293 731 300 692 293 434 293 433 293 394 301 245 294 243 294 242 294 211 301 177 294 176 294 120 302 121 328"/></Shape>
+	    <String CONTENT="Administrativt rättsskydd. Principbetänkade angående besvärsinstitutet"
+                    HPOS="120"
+                    VPOS="286"
+                    WIDTH="2147"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="123 452 1959 448" 
+                    HPOS="120"
+                    VPOS="412"
+                    WIDTH="1837"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="121 450 121 470 179 480 181 480 243 471 292 479 466 480 468 480 469 480 498 471 595 479 596 480 767 480 767 479 813 470 816 470 820 470 861 476 862 476 863 476 884 470 887 470 890 470 947 477 948 477 1108 470 1118 470 1119 470 1142 479 1143 479 1144 480 1285 480 1285 479 1286 479 1312 471 1340 479 1341 479 1342 479 1416 470 1429 469 1441 470 1513 477 1514 477 1548 470 1554 469 1770 469 1777 470 1822 477 1823 477 1824 477 1853 470 1872 477 1874 477 1875 477 1957 469 1957 447 1955 421 1878 412 1877 412 1829 421 1591 421 1568 412 1567 412 1429 412 1427 412 1344 421 1286 413 1285 413 1216 421 1198 415 1197 415 1196 415 1140 421 1047 413 1046 413 1044 413 1018 422 948 422 920 413 919 413 917 413 916 413 893 421 842 416 841 416 725 422 649 416 648 416 441 422 395 415 269 415 268 415 267 415 243 421 211 415 210 415 120 423 121 450"/></Shape>
+	    <String CONTENT="och därmed sammanhängande ämnen av Besvärssakkunniga."
+                    HPOS="120"
+                    VPOS="412"
+                    WIDTH="1837"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1380 572 1959 572" 
+                    HPOS="1379"
+                    VPOS="534"
+                    WIDTH="578"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1379 571 1379 602 1468 602 1468 601 1469 601 1471 601 1471 599 1480 591 1505 591 1513 597 1513 598 1514 598 1515 598 1516 598 1548 591 1558 598 1558 599 1559 599 1561 599 1562 599 1563 599 1564 599 1577 591 1588 597 1589 597 1590 597 1639 591 1647 597 1647 598 1648 598 1649 598 1650 598 1813 591 1829 601 1830 601 1832 601 1833 601 1865 594 1874 601 1875 601 1876 601 1877 602 1957 602 1957 571 1957 541 1933 534 1931 534 1930 534 1843 540 1821 534 1819 534 1818 534 1817 534 1816 534 1816 535 1807 543 1806 545 1779 545 1772 543 1729 534 1728 534 1727 534 1701 544 1699 544 1697 544 1667 534 1665 534 1664 534 1596 544 1594 544 1591 544 1535 534 1533 534 1532 534 1505 544 1505 545 1488 545 1431 545 1421 535 1421 534 1420 534 1419 534 1402 534 1400 534 1399 534 1379 544 1379 571"/></Shape>
+	    <String CONTENT="8:o Stockholm 1955."
+                    HPOS="1379"
+                    VPOS="534"
+                    WIDTH="578"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1633 641 1724 641" 
+                    HPOS="1632"
+                    VPOS="597"
+                    WIDTH="91"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="1632 640 1633 666 1657 657 1722 662 1723 640 1723 615 1705 615 1703 613 1687 598 1687 597 1686 597 1685 597 1684 597 1632 607 1632 640"/></Shape>
+	    <String CONTENT="Jur"
+                    HPOS="1632"
+                    VPOS="597"
+                    WIDTH="91"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="126 700 1597 690" 
+                    HPOS="124"
+                    VPOS="660"
+                    WIDTH="1472"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="125 699 125 724 197 732 198 732 288 724 298 724 304 724 364 734 365 734 409 724 417 722 487 724 585 726 586 726 625 724 683 720 699 724 719 729 720 729 722 729 751 724 773 720 826 724 994 736 995 736 1294 734 1329 726 1468 731 1469 731 1510 722 1521 721 1532 722 1575 730 1577 730 1578 730 1596 722 1596 689 1593 660 124 668 125 699"/></Shape>
+	    <String CONTENT="Se även: Statens offentliga utredningar. 1955:19."
+                    HPOS="124"
+                    VPOS="660"
+                    WIDTH="1472"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9be30a86"
+                    
+                    BASELINE="1634 690 1714 689" 
+                    HPOS="1632"
+                    VPOS="651"
+                    WIDTH="81"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="1633 689 1633 708 1689 714 1690 714 1691 714 1692 714 1713 702 1713 688 1712 662 1691 651 1690 651 1652 651 1650 651 1649 651 1648 651 1632 660 1633 689"/></Shape>
+	    <String CONTENT="Sv"
+                    HPOS="1632"
+                    VPOS="651"
+                    WIDTH="81"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="1608 761 1778 758" 
+                    HPOS="1606"
+                    VPOS="724"
+                    WIDTH="171"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1607 759 1607 784 1756 785 1758 785 1759 785 1777 778 1777 757 1772 724 1738 740 1705 740 1684 729 1680 727 1679 727 1678 727 1676 727 1669 730 1644 740 1606 735 1607 759"/></Shape>
+	    <String CONTENT="Saml"
+                    HPOS="1606"
+                    VPOS="724"
+                    WIDTH="171"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

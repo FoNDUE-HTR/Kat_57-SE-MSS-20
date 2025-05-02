@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00360.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1492"
+          PHYSICAL_IMG_NR="21"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1492">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1490"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1491 2323 1491 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="246 172 918 177" 
+                    HPOS="243"
+                    VPOS="128"
+                    WIDTH="674"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="244 171 243 186 267 203 268 203 269 203 271 203 355 197 416 205 417 206 578 206 578 205 579 205 580 205 599 188 686 188 697 198 697 200 698 200 700 200 701 200 702 200 703 200 723 188 743 188 759 200 760 200 762 200 763 200 764 200 777 193 830 200 831 200 833 200 849 192 889 202 890 202 891 202 892 202 916 188 917 176 915 141 879 156 843 156 805 152 797 142 785 133 785 131 784 131 783 131 733 130 732 130 731 130 729 130 729 131 714 144 710 147 698 144 687 141 686 141 685 141 683 141 672 145 639 155 581 155 523 149 519 146 492 133 491 133 489 133 488 133 453 147 443 152 440 147 437 146 437 145 436 145 435 145 433 145 432 145 421 147 414 150 411 149 386 128 385 128 384 128 323 128 322 128 320 128 319 128 319 129 303 145 244 150 244 171"/></Shape>
+	    <String CONTENT="Mortier Pierre"
+                    HPOS="243"
+                    VPOS="128"
+                    WIDTH="674"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="257 247 994 247" 
+                    HPOS="256"
+                    VPOS="206"
+                    WIDTH="737"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="256 246 256 258 318 269 319 269 320 269 343 259 384 271 385 271 386 271 437 263 465 269 466 269 467 269 468 269 470 269 482 259 514 259 530 271 532 271 533 271 534 271 601 259 651 271 652 271 654 271 680 263 688 269 690 269 691 269 692 271 763 271 763 269 764 269 765 269 765 268 775 259 797 269 798 269 799 269 800 269 815 264 946 271 947 271 948 271 949 271 966 259 993 259 993 246 993 231 926 231 896 206 895 206 894 206 809 206 808 206 806 206 805 206 772 230 747 230 697 207 696 207 695 207 693 207 692 207 666 231 593 231 567 216 565 216 564 216 563 216 534 231 471 231 447 215 446 215 445 215 443 215 442 215 425 220 396 206 395 206 310 206 309 206 308 206 307 206 307 207 282 231 256 231 256 246"/></Shape>
+	    <String CONTENT="Bible de Mortier &quot;"
+                    HPOS="256"
+                    VPOS="206"
+                    WIDTH="737"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1908 47 2266 42" 
+                    HPOS="1906"
+                    VPOS="3"
+                    WIDTH="359"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1907 46 1907 84 1943 84 1943 83 1944 83 1945 83 1979 68 1987 75 1987 77 1988 77 1989 77 1990 77 1992 77 1993 77 2003 70 2034 80 2038 82 2039 82 2040 82 2041 82 2042 82 2042 80 2060 64 2087 58 2125 58 2133 65 2134 65 2136 65 2137 65 2138 65 2158 60 2171 72 2171 73 2172 73 2173 73 2199 77 2200 77 2202 77 2203 77 2218 65 2264 75 2265 41 2263 22 2181 18 2179 18 2178 18 2167 22 2157 24 2153 22 2148 17 2147 17 2146 17 2144 17 2103 22 2071 26 2065 22 2039 3 2038 3 2036 3 1995 3 1994 3 1927 4 1926 4 1924 4 1906 18 1907 46"/></Shape>
+	    <String CONTENT="(Fol) Teol"
+                    HPOS="1906"
+                    VPOS="3"
+                    WIDTH="359"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1421 246 2148 238" 
+                    HPOS="1418"
+                    VPOS="188"
+                    WIDTH="729"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1420 244 1420 257 1494 269 1495 269 1497 269 1523 262 1563 268 1564 268 1565 268 1566 268 1580 257 1590 266 1591 266 1592 266 1658 267 1660 267 1661 267 1662 267 1662 266 1668 259 1683 267 1684 267 1686 267 1687 267 1688 267 1688 266 1697 258 1754 266 1755 266 1756 266 1798 254 1830 263 1831 263 1832 263 1908 258 1922 264 1923 264 1924 264 1926 264 1948 253 1969 253 1983 264 1984 264 1985 264 1987 266 2025 266 2025 264 2026 264 2054 252 2084 263 2085 263 2086 263 2087 263 2088 263 2098 254 2120 262 2121 262 2122 262 2123 262 2147 249 2147 237 2142 201 2113 208 2102 200 2092 192 2091 192 2090 192 2061 188 2060 188 2059 188 2035 200 2014 211 1887 211 1863 198 1858 196 1857 196 1796 191 1795 191 1794 191 1778 198 1750 210 1714 212 1683 197 1672 192 1671 192 1669 192 1668 192 1658 197 1626 215 1590 215 1559 196 1553 193 1551 193 1550 193 1470 195 1469 195 1468 195 1467 196 1461 201 1418 196 1420 244"/></Shape>
+	    <String CONTENT="Fol. Amsterd. 1730"
+                    HPOS="1418"
+                    VPOS="188"
+                    WIDTH="729"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="227 313 2299 321" 
+                    HPOS="225"
+                    VPOS="271"
+                    WIDTH="2072"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="226 312 225 343 261 343 267 344 336 359 620 360 621 360 656 353 707 360 708 360 757 351 818 361 819 363 1106 363 1106 361 1107 361 1158 348 1264 361 1265 361 1267 361 1306 351 1354 355 1355 355 1401 348 1432 343 2295 350 2297 320 2295 292 2161 299 2130 292 2082 278 2081 278 1909 277 1908 277 1907 277 1851 292 1825 298 1560 298 1539 292 1507 283 1505 283 1504 283 1503 283 1472 292 1452 297 1315 292 1270 290 1269 290 1229 292 1138 295 1122 292 1050 273 1049 273 1048 273 989 279 870 273 869 273 867 273 811 292 806 293 803 292 739 272 738 272 683 272 682 272 624 284 549 273 376 271 375 271 374 271 327 288 226 293 226 312"/></Shape>
+	    <String CONTENT="se [Martin, David] Histoire du vieux et du nouveau Testament"
+                    HPOS="225"
+                    VPOS="271"
+                    WIDTH="2072"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

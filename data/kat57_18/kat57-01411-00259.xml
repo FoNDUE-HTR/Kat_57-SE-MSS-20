@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01411-00259.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="11"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2327 1471 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="120 268 543 263" 
+                    HPOS="117"
+                    VPOS="217"
+                    WIDTH="425"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="119 267 119 298 328 302 330 302 358 301 359 301 360 301 376 290 380 287 542 284 542 262 538 220 505 224 499 220 494 217 493 217 492 217 452 217 451 217 417 219 416 219 414 219 414 220 411 223 407 228 396 224 384 219 382 219 381 219 354 225 339 228 328 225 314 222 312 222 311 222 310 222 300 226 294 229 277 226 246 223 245 223 192 229 180 230 176 229 146 220 144 220 143 220 142 220 117 229 119 267"/></Shape>
+	    <String CONTENT="PIETSCH, Karl"
+                    HPOS="117"
+                    VPOS="217"
+                    WIDTH="425"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="113 365 2298 354" 
+                    HPOS="111"
+                    VPOS="316"
+                    WIDTH="2186"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="112 364 112 387 168 394 169 394 251 387 255 387 256 387 298 398 299 398 300 398 365 387 492 397 493 397 1079 394 1225 381 1360 381 1407 381 1462 391 1464 391 1622 380 1623 380 1624 380 1845 385 1846 385 1848 385 1867 379 1918 383 1919 383 2151 377 2224 383 2226 383 2297 375 2297 353 2293 316 2235 323 2107 317 2098 317 2097 317 2073 317 1807 326 1781 320 1778 320 1776 320 1682 321 1275 328 1195 326 1111 322 1110 322 1048 327 1005 329 874 328 597 325 596 325 111 334 112 364"/></Shape>
+	    <String CONTENT="Se: Spanish grail fragments. El libro de Josep Abarimatia. La estoria de"
+                    HPOS="111"
+                    VPOS="316"
+                    WIDTH="2186"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="235 464 1612 464" 
+                    HPOS="234"
+                    VPOS="425"
+                    WIDTH="1377"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="234 463 234 496 490 496 490 495 492 495 498 494 522 486 568 493 587 495 589 495 618 493 662 488 711 491 760 495 762 495 763 495 776 491 798 484 860 490 866 490 867 490 868 490 870 490 887 484 958 489 978 490 979 490 992 489 1033 484 1057 489 1075 491 1076 491 1098 488 1124 484 1283 484 1293 486 1325 495 1326 495 1327 496 1383 496 1383 495 1441 485 1443 485 1444 485 1513 494 1514 494 1611 483 1611 463 1611 437 1553 425 1552 425 1503 434 1471 425 1470 425 1372 425 1370 425 1321 436 1288 425 1287 425 1286 425 1245 431 1230 425 1229 425 1228 425 1227 425 1200 435 1173 425 1171 425 1110 425 1109 425 1051 436 979 425 978 425 976 425 949 436 925 426 924 426 823 425 822 425 820 425 795 437 743 437 719 425 717 425 670 425 668 425 616 437 409 437 391 429 390 429 389 429 387 429 373 435 357 430 355 430 354 430 234 436 234 463"/></Shape>
+	    <String CONTENT="Merlin. Lançarote. Edited...Vol.1-2. 1924-25."
+                    HPOS="234"
+                    VPOS="425"
+                    WIDTH="1377"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1682 423 1831 418" 
+                    HPOS="1678"
+                    VPOS="375"
+                    WIDTH="152"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1681 421 1681 442 1737 448 1738 448 1740 448 1768 439 1784 447 1785 447 1786 447 1788 447 1789 447 1789 446 1790 446 1796 437 1797 436 1830 436 1830 417 1829 388 1780 375 1779 375 1778 375 1776 375 1757 381 1745 386 1735 380 1732 377 1731 377 1730 377 1678 375 1681 421"/></Shape>
+	    <String CONTENT="Vitt."
+                    HPOS="1678"
+                    VPOS="375"
+                    WIDTH="152"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1666 511 1803 507" 
+                    HPOS="1664"
+                    VPOS="484"
+                    WIDTH="138"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1665 510 1665 523 1700 543 1702 543 1703 543 1734 542 1735 542 1736 542 1761 523 1763 522 1801 523 1802 506 1800 486 1664 484 1665 510"/></Shape>
+	    <String CONTENT="Sp."
+                    HPOS="1664"
+                    VPOS="484"
+                    WIDTH="138"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1609 595 1858 590" 
+                    HPOS="1607"
+                    VPOS="537"
+                    WIDTH="250"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1608 594 1608 625 1673 628 1675 628 1689 625 1758 610 1856 623 1857 588 1856 558 1834 540 1833 540 1832 540 1830 540 1829 540 1828 540 1803 559 1797 564 1746 564 1738 558 1710 537 1709 537 1708 537 1707 537 1660 538 1659 538 1657 538 1657 539 1640 556 1607 556 1608 594"/></Shape>
+	    <String CONTENT="|Saml."
+                    HPOS="1607"
+                    VPOS="537"
+                    WIDTH="250"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

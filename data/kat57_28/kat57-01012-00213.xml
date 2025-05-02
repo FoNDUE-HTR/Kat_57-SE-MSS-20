@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01012-00213.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1476"
+          PHYSICAL_IMG_NR="12"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1476">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1474"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1475 2323 1475 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="212 185 711 185" 
+                    HPOS="211"
+                    VPOS="136"
+                    WIDTH="498"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="211 184 211 207 233 225 234 225 236 225 237 226 425 226 425 225 426 225 468 205 585 205 607 211 608 211 610 211 709 204 709 184 709 148 690 138 688 138 687 138 686 138 685 138 671 150 567 150 547 136 546 136 545 136 493 136 492 136 490 136 461 147 410 136 409 136 408 136 407 136 388 147 274 136 273 136 211 148 211 184"/></Shape>
+	    <String CONTENT="LEFEVRE, Placide"
+                    HPOS="211"
+                    VPOS="136"
+                    WIDTH="498"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="212 290 1366 282" 
+                    HPOS="210"
+                    VPOS="238"
+                    WIDTH="1155"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="211 289 211 311 258 322 259 322 260 322 284 312 318 312 345 328 346 328 348 328 349 329 402 329 402 328 559 327 561 327 594 309 595 309 608 309 696 316 697 316 698 316 712 309 713 309 716 309 770 321 771 321 772 321 773 321 791 309 794 308 866 308 868 309 891 324 893 324 894 324 895 325 979 325 979 324 1088 323 1090 323 1120 308 1124 307 1147 308 1204 312 1205 312 1224 308 1236 306 1256 308 1321 316 1322 316 1365 307 1365 281 1363 252 1307 238 1173 238 1172 238 1171 238 1120 252 1087 239 1086 239 1085 239 1083 239 1060 249 942 241 941 241 859 253 802 243 800 243 799 243 784 250 741 244 740 244 739 244 712 254 632 242 631 242 600 244 599 244 597 244 581 257 499 257 468 243 467 243 424 243 423 243 421 243 399 255 210 258 211 289"/></Shape>
+	    <String CONTENT="Se: Lefèvre, Joseph &amp; Lefèvre, Placide"
+                    HPOS="210"
+                    VPOS="238"
+                    WIDTH="1155"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="334 388 2279 391" 
+                    HPOS="332"
+                    VPOS="341"
+                    WIDTH="1946"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="333 387 332 423 615 431 616 431 660 423 709 414 776 423 786 424 787 424 799 423 839 419 853 423 883 431 884 431 885 431 887 431 909 423 921 419 1085 421 1086 421 1125 414 1195 423 1257 430 1258 430 1329 426 1331 426 1345 423 1379 414 1598 414 1620 421 1621 421 1622 421 1623 421 1654 414 1780 414 1817 423 1861 432 1862 434 2066 434 2066 432 2134 423 2187 414 2276 421 2278 389 2277 357 2196 357 2194 356 2165 345 2164 345 2079 341 1839 341 1838 341 1836 341 1787 355 1780 356 1769 355 1719 346 1718 346 1647 354 1635 355 1628 354 1582 341 1580 341 1353 341 1352 341 1225 351 1091 343 1090 343 1088 343 1065 351 1054 355 333 349 333 387"/></Shape>
+	    <String CONTENT="Inventaire des archives du Conseil des finances. 1938. | Bibliogr."
+                    HPOS="332"
+                    VPOS="341"
+                    WIDTH="1946"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1999 474 2252 469" 
+                    HPOS="1996"
+                    VPOS="432"
+                    WIDTH="255"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="1997 473 1997 500 2186 501 2187 501 2251 492 2251 468 2247 440 2218 440 2212 435 2212 434 2210 434 2209 434 2208 434 2207 434 2191 441 2183 446 2148 446 2145 442 2134 434 2134 432 2133 432 2132 432 2130 432 2129 432 2128 432 2112 444 2077 434 2076 434 2075 434 2074 434 2073 434 2057 445 2026 435 2025 435 2023 435 2022 435 1996 446 1997 473"/></Shape>
+	    <String CONTENT="Bibliot."
+                    HPOS="1996"
+                    VPOS="432"
+                    WIDTH="255"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2007 559 2176 559" 
+                    HPOS="2006"
+                    VPOS="522"
+                    WIDTH="169"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="2006 558 2006 575 2052 591 2053 591 2054 591 2055 591 2068 587 2097 576 2117 596 2127 605 2127 606 2128 606 2129 606 2130 607 2175 607 2175 558 2175 539 2155 539 2129 522 2128 522 2127 522 2125 522 2061 536 2039 522 2038 522 2037 522 2036 522 2034 522 2033 522 2033 523 2017 539 2006 539 2006 558"/></Shape>
+	    <String CONTENT="Belg."
+                    HPOS="2006"
+                    VPOS="522"
+                    WIDTH="169"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2033 656 2199 651" 
+                    HPOS="2029"
+                    VPOS="602"
+                    WIDTH="169"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="2032 655 2036 702 2045 694 2054 701 2055 702 2057 702 2058 702 2059 702 2111 701 2112 701 2113 701 2113 699 2114 699 2117 696 2127 685 2198 690 2198 650 2194 622 2150 622 2146 619 2132 605 2132 603 2130 603 2129 603 2103 602 2102 602 2101 602 2100 602 2100 603 2089 612 2076 602 2075 602 2074 602 2073 602 2052 603 2050 603 2029 611 2032 655"/></Shape>
+	    <String CONTENT="Allm."
+                    HPOS="2029"
+                    VPOS="602"
+                    WIDTH="169"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="2130 1434 2312 1429" 
+                    HPOS="2127"
+                    VPOS="1365"
+                    WIDTH="184"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="2129 1432 2129 1462 2157 1462 2157 1461 2159 1461 2160 1461 2160 1460 2161 1460 2178 1444 2212 1444 2225 1455 2225 1456 2226 1456 2228 1456 2229 1456 2271 1453 2272 1453 2273 1453 2273 1452 2279 1447 2288 1452 2290 1455 2292 1455 2293 1455 2294 1455 2311 1451 2311 1428 2309 1378 2248 1372 2247 1372 2246 1372 2244 1373 2226 1380 2220 1373 2220 1372 2219 1372 2218 1372 2216 1372 2215 1372 2214 1372 2214 1373 2208 1378 2176 1368 2165 1365 2164 1365 2127 1365 2129 1432"/></Shape>
+	    <String CONTENT="2/6 1950"
+                    HPOS="2127"
+                    VPOS="1365"
+                    WIDTH="184"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

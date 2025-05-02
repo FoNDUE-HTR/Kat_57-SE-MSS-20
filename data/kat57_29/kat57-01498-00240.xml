@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01498-00240.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="9"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2311 1471 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="225 198 857 193" 
+                    HPOS="223"
+                    VPOS="128"
+                    WIDTH="633"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="224 197 224 204 309 215 310 215 354 209 379 215 380 215 381 215 382 215 408 206 409 206 411 206 425 215 427 215 428 215 429 215 494 210 525 218 526 218 527 218 528 218 553 207 562 203 633 203 641 207 668 220 670 220 671 220 672 220 689 214 791 219 792 219 856 208 856 192 855 132 841 128 840 128 839 128 838 128 836 128 833 132 805 157 717 157 695 137 687 130 685 130 684 130 638 130 636 130 635 130 634 130 634 131 623 139 603 157 562 154 549 142 538 132 538 131 537 131 536 131 535 131 533 131 500 143 470 155 461 148 460 148 458 148 457 148 456 148 423 159 365 159 353 148 335 133 335 132 333 132 332 132 261 132 260 132 258 132 257 132 234 153 229 157 223 153 224 197"/></Shape>
+	    <String CONTENT="Reinach Joseph"
+                    HPOS="223"
+                    VPOS="128"
+                    WIDTH="633"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2020 100 2292 105" 
+                    HPOS="2018"
+                    VPOS="61"
+                    WIDTH="273"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="2019 99 2018 123 2038 125 2038 126 2050 137 2050 138 2051 138 2053 138 2054 138 2055 138 2081 131 2140 139 2141 139 2175 134 2221 128 2288 142 2291 104 2289 78 2254 78 2253 77 2238 65 2237 65 2235 65 2234 65 2200 71 2175 63 2174 63 2173 63 2172 63 2170 63 2157 73 2142 63 2141 63 2140 63 2138 63 2137 63 2119 72 2088 61 2087 61 2086 61 2019 72 2019 99"/></Shape>
+	    <String CONTENT="Världskr."
+                    HPOS="2018"
+                    VPOS="61"
+                    WIDTH="273"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="216 290 2067 284" 
+                    HPOS="214"
+                    VPOS="215"
+                    WIDTH="1852"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="215 289 215 337 455 337 456 337 606 307 735 307 807 333 808 333 809 333 811 333 874 317 925 322 926 322 927 322 958 314 982 320 984 320 985 320 1090 306 1212 306 1330 323 1331 323 1387 310 1424 320 1425 320 1427 320 1428 320 1470 307 1542 305 1644 311 1645 311 1646 311 1667 305 1698 312 1699 312 1700 312 1768 306 1856 329 1868 332 1870 332 1871 332 2065 327 2066 283 2062 226 2021 233 1991 226 1935 215 1746 215 1745 215 1743 215 1704 231 1668 247 1635 247 1573 234 1499 219 1498 219 1424 236 1369 250 1232 251 1200 240 1140 218 1138 218 1137 218 937 223 863 235 824 233 823 233 822 233 795 242 724 220 722 220 721 220 720 220 641 249 629 253 214 255 215 289"/></Shape>
+	    <String CONTENT="La guerre de 1914. Les commentaires de Polybe."
+                    HPOS="214"
+                    VPOS="215"
+                    WIDTH="1852"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="407 389 674 389" 
+                    HPOS="406"
+                    VPOS="336"
+                    WIDTH="267"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="406 388 406 410 446 428 447 428 449 429 504 429 504 428 505 428 506 428 519 418 533 423 535 423 536 423 537 423 562 413 565 412 575 413 655 425 656 425 657 425 658 425 673 415 673 388 672 353 630 353 623 347 622 347 620 347 619 347 585 354 571 343 571 342 570 342 569 342 568 342 566 342 541 356 535 360 532 356 511 337 511 336 510 336 509 336 467 336 466 336 465 336 463 336 436 360 435 361 406 361 406 388"/></Shape>
+	    <String CONTENT="Ser. 1-19."
+                    HPOS="406"
+                    VPOS="336"
+                    WIDTH="267"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2072 53 2183 49" 
+                    HPOS="2069"
+                    VPOS="1"
+                    WIDTH="112"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="2094 1 2093 1 2069 9 2071 52 2072 77 2125 69 2141 72 2169 76 2170 76 2172 76 2173 76 2181 69 2181 47 2174 3 2167 9 2135 6 2096 1 2094 1"/></Shape>
+	    <String CONTENT="Hist."
+                    HPOS="2069"
+                    VPOS="1"
+                    WIDTH="112"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1629 383 2131 378" 
+                    HPOS="1627"
+                    VPOS="329"
+                    WIDTH="503"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1628 382 1628 407 1695 418 1697 418 1698 418 1719 407 1757 407 1760 407 1799 420 1800 420 1801 420 1802 420 1828 413 1864 420 1865 420 1902 412 1910 419 1911 419 1913 419 1914 419 1978 412 1989 417 1990 417 1991 417 1992 417 2023 404 2024 404 2055 404 2069 417 2069 418 2070 418 2071 418 2072 419 2094 419 2094 418 2096 418 2130 403 2130 377 2129 339 2114 329 2113 329 2111 329 2110 329 2083 332 2082 332 2081 332 2081 333 2070 343 2065 348 2056 343 2034 332 2033 332 1951 331 1949 331 1948 331 1947 331 1925 348 1915 355 1817 355 1811 352 1785 332 1784 332 1783 332 1752 332 1751 332 1749 332 1748 332 1719 350 1680 333 1678 333 1677 333 1676 333 1675 333 1675 334 1649 358 1627 358 1628 382"/></Shape>
+	    <String CONTENT="8º Paris 1915-19."
+                    HPOS="1627"
+                    VPOS="329"
+                    WIDTH="503"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

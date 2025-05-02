@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00078.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="19"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2327 1477 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="146 206 854 206" 
+                    HPOS="145"
+                    VPOS="167"
+                    WIDTH="708"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="145 205 145 241 411 241 411 240 412 240 413 240 418 235 429 226 486 226 493 234 495 234 495 235 496 235 497 235 498 235 509 232 527 229 532 232 534 235 535 235 537 235 538 235 539 235 540 235 540 234 543 232 550 226 623 230 665 232 666 232 753 227 784 226 787 227 795 234 796 234 798 234 799 234 853 225 853 205 853 176 836 167 835 167 833 167 832 167 798 177 745 177 732 168 731 168 730 168 729 168 647 176 608 167 607 167 606 167 588 176 553 168 551 168 550 168 532 174 460 169 459 169 400 176 386 167 385 167 384 167 383 167 381 167 363 174 355 167 354 167 353 167 203 167 202 167 145 176 145 205"/></Shape>
+	    <String CONTENT="MORRISON, Paul Guerrant"
+                    HPOS="145"
+                    VPOS="167"
+                    WIDTH="708"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1678 59 1807 59" 
+                    HPOS="1677"
+                    VPOS="6"
+                    WIDTH="129"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1677 57 1677 75 1702 82 1703 82 1704 82 1806 80 1806 57 1806 34 1760 27 1758 27 1757 27 1746 33 1731 17 1720 7 1720 6 1719 6 1718 6 1677 6 1677 57"/></Shape>
+	    <String CONTENT="Diss."
+                    HPOS="1677"
+                    VPOS="6"
+                    WIDTH="129"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1670 133 1902 137" 
+                    HPOS="1667"
+                    VPOS="82"
+                    WIDTH="234"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="1669 131 1667 150 1724 161 1739 173 1740 173 1741 173 1742 173 1760 172 1782 189 1783 189 1784 189 1786 190 1834 190 1834 189 1835 189 1836 189 1875 156 1900 156 1901 136 1900 114 1788 112 1762 96 1740 82 1739 82 1737 82 1736 82 1669 83 1669 131"/></Shape>
+	    <String CONTENT="Chicago"
+                    HPOS="1667"
+                    VPOS="82"
+                    WIDTH="234"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2063 70 2236 73" 
+                    HPOS="2060"
+                    VPOS="8"
+                    WIDTH="175"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="2061 68 2060 83 2233 99 2235 72 2234 29 2191 30 2188 28 2167 11 2167 9 2166 9 2165 9 2119 8 2118 8 2117 8 2082 28 2081 28 2061 28 2061 68"/></Shape>
+	    <String CONTENT="Filos."
+                    HPOS="2060"
+                    VPOS="8"
+                    WIDTH="175"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2006 141 2301 145" 
+                    HPOS="2004"
+                    VPOS="92"
+                    WIDTH="296"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="2005 140 2004 171 2013 177 2015 177 2016 177 2017 177 2018 177 2036 171 2041 169 2132 172 2144 179 2178 198 2180 198 2181 198 2299 190 2300 144 2298 100 2207 109 2176 102 2154 97 2153 97 2151 97 2150 97 2143 103 2142 103 2133 94 2133 93 2132 93 2130 93 2074 92 2073 92 2071 92 2043 104 2037 107 2005 105 2005 140"/></Shape>
+	    <String CONTENT="Rel-psyk"
+                    HPOS="2004"
+                    VPOS="92"
+                    WIDTH="296"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="142 302 2289 308" 
+                    HPOS="140"
+                    VPOS="253"
+                    WIDTH="2148"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="141 301 140 331 304 336 305 336 388 332 458 328 470 332 482 336 484 336 702 337 703 337 803 332 838 331 849 332 878 337 879 337 901 332 915 330 989 332 1075 336 1076 336 1186 332 1257 331 1284 333 1347 338 1348 338 1395 333 1415 331 1436 333 1490 339 1491 339 1595 333 1619 332 1634 333 1694 339 1696 339 1875 333 1895 333 1898 333 1923 341 1925 341 1926 341 2287 333 2288 307 2286 270 2215 278 2176 269 2144 262 2143 262 2081 264 2080 264 2068 268 2032 279 1984 268 1964 263 1963 263 1931 267 1884 273 1682 269 1681 269 1532 279 1438 263 1428 262 1427 262 1415 263 1321 274 1263 268 1262 268 1188 275 1128 269 1127 269 895 277 844 266 843 266 787 275 741 269 740 269 739 269 715 278 630 278 544 264 458 264 456 264 417 273 330 272 280 254 279 254 141 253 141 301"/></Shape>
+	    <String CONTENT="The place of the ecstatic trance in the ideal of the good life. (Diss.)"
+                    HPOS="140"
+                    VPOS="253"
+                    WIDTH="2148"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="144 510 1003 510" 
+                    HPOS="142"
+                    VPOS="469"
+                    WIDTH="860"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="142 509 144 538 158 533 172 538 188 544 189 544 190 544 192 544 210 538 220 535 229 538 250 544 251 544 252 545 315 545 315 544 316 544 317 544 326 538 328 535 360 534 365 538 370 541 371 541 373 541 374 541 408 538 445 533 466 538 496 544 497 544 527 538 582 544 583 544 585 544 599 537 603 535 607 537 620 541 622 541 623 541 656 537 682 533 688 537 693 541 694 541 695 541 697 541 698 541 707 537 715 533 787 533 794 537 809 544 810 544 811 545 920 545 920 544 921 544 938 535 943 533 966 533 971 535 978 541 979 541 980 541 981 541 982 541 1002 535 1002 509 1002 469 974 469 973 469 971 469 970 469 970 470 959 480 816 480 789 469 788 469 787 469 688 469 687 469 686 469 684 469 684 470 668 479 571 470 565 470 532 470 530 470 529 470 528 470 514 479 482 472 481 472 428 477 410 471 404 469 402 469 401 469 400 469 391 471 362 479 142 472 142 509"/></Shape>
+	    <String CONTENT="[The university of Chicago. ]"
+                    HPOS="142"
+                    VPOS="469"
+                    WIDTH="860"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1606 406 2132 409" 
+                    HPOS="1603"
+                    VPOS="370"
+                    WIDTH="527"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1604 405 1603 438 1656 433 1665 439 1669 443 1670 443 1671 443 1672 444 1705 444 1705 443 1707 443 1708 443 1708 442 1712 439 1718 433 1735 433 1746 438 1755 443 1756 443 1757 443 1758 443 1768 438 1779 433 1821 438 1878 444 1879 444 1928 438 1973 445 1974 445 1975 445 1992 437 2002 445 2004 445 2005 445 2006 447 2058 447 2058 445 2059 445 2060 445 2071 436 2073 436 2129 436 2130 408 2130 385 2111 385 2109 384 2096 373 2095 373 2093 373 2001 373 2000 373 1999 373 1968 380 1956 384 1947 380 1931 373 1930 373 1928 373 1927 373 1926 373 1926 374 1919 379 1916 383 1889 383 1837 383 1830 378 1822 371 1821 371 1820 371 1819 371 1818 371 1805 376 1794 381 1774 376 1762 373 1761 373 1760 373 1758 373 1752 375 1741 383 1707 383 1670 374 1653 370 1651 370 1604 371 1604 405"/></Shape>
+	    <String CONTENT="8:o Chicago 1932."
+                    HPOS="1603"
+                    VPOS="370"
+                    WIDTH="527"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00254.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="48"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2327 1479 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="255 92 567 95" 
+                    HPOS="252"
+                    VPOS="39"
+                    WIDTH="314"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="254 91 252 107 294 118 296 118 324 113 346 109 355 115 359 119 360 119 361 119 362 119 363 119 372 117 383 114 397 119 408 123 409 123 410 123 412 123 418 120 430 115 446 122 447 122 449 122 467 118 482 125 498 134 499 134 500 134 565 131 566 94 563 49 530 62 458 56 457 56 421 61 375 44 373 44 372 44 339 50 310 40 309 40 308 40 254 39 254 91"/></Shape>
+	    <String CONTENT="[N. T. 1840]"
+                    HPOS="252"
+                    VPOS="39"
+                    WIDTH="314"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2138 96 2279 100" 
+                    HPOS="2135"
+                    VPOS="62"
+                    WIDTH="143"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="2136 94 2135 112 2242 123 2244 123 2277 117 2278 99 2276 65 2260 74 2224 66 2204 62 2203 62 2136 67 2136 94"/></Shape>
+	    <String CONTENT="Bibel"
+                    HPOS="2135"
+                    VPOS="62"
+                    WIDTH="143"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2156 53 2264 50" 
+                    HPOS="2154"
+                    VPOS="23"
+                    WIDTH="109"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="2155 51 2155 69 2262 71 2263 49 2258 23 2236 32 2210 28 2179 24 2178 24 2177 24 2154 33 2155 51"/></Shape>
+	    <String CONTENT="Teol"
+                    HPOS="2154"
+                    VPOS="23"
+                    WIDTH="109"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="228 165 460 162" 
+                    HPOS="225"
+                    VPOS="118"
+                    WIDTH="233"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="227 164 227 180 431 186 433 186 434 186 458 177 458 161 454 118 405 145 357 145 338 131 317 118 315 118 314 118 266 118 265 118 264 118 262 118 262 119 234 144 233 146 225 146 227 164"/></Shape>
+	    <String CONTENT="Berit"
+                    HPOS="225"
+                    VPOS="118"
+                    WIDTH="233"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2133 144 2263 144" 
+                    HPOS="2131"
+                    VPOS="113"
+                    WIDTH="131"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="2131 143 2131 155 2183 170 2184 170 2186 170 2225 168 2226 168 2262 155 2262 143 2261 115 2200 122 2187 119 2157 113 2156 113 2155 113 2131 122 2131 143"/></Shape>
+	    <String CONTENT="Hebr."
+                    HPOS="2131"
+                    VPOS="113"
+                    WIDTH="131"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1736 453 2242 456" 
+                    HPOS="1734"
+                    VPOS="407"
+                    WIDTH="507"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1735 452 1734 472 1787 483 1788 483 1790 483 1791 483 1791 482 1799 474 1801 474 1804 474 1853 483 1854 483 1902 478 1930 476 1948 479 1987 490 1988 490 1989 492 2024 492 2024 490 2025 490 2026 490 2036 483 2040 479 2061 484 2077 487 2078 487 2089 484 2119 478 2144 478 2157 487 2162 490 2163 490 2165 490 2166 490 2240 489 2241 455 2240 427 2203 430 2194 427 2173 419 2172 419 2171 419 2133 423 2131 423 2130 423 2130 424 2125 427 2120 432 2046 432 2043 429 2019 408 2018 408 2017 408 2015 408 2014 408 1987 419 1950 407 1949 407 1886 407 1885 407 1883 407 1882 407 1872 414 1814 407 1813 407 1812 407 1811 407 1798 416 1785 414 1783 414 1782 414 1781 414 1781 415 1765 430 1765 431 1735 431 1735 452"/></Shape>
+	    <String CONTENT="12ᵒ London 1810"
+                    HPOS="1734"
+                    VPOS="407"
+                    WIDTH="507"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="279 546 1309 552" 
+                    HPOS="277"
+                    VPOS="504"
+                    WIDTH="1031"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="278 545 277 582 384 588 386 588 387 588 400 582 425 569 481 579 482 579 584 569 632 579 640 580 641 580 657 579 700 574 713 579 737 588 738 588 740 588 830 583 847 590 848 590 917 592 919 592 920 592 956 577 965 572 1068 572 1086 575 1162 593 1163 593 1164 593 1216 574 1221 573 1227 574 1255 582 1257 582 1258 582 1307 573 1308 551 1306 513 1227 520 1189 515 1188 515 1186 515 1157 530 1069 510 1062 509 991 509 990 509 989 509 986 509 932 529 852 529 803 518 801 518 690 527 608 527 587 513 586 513 584 513 583 513 531 522 502 506 500 506 499 506 498 506 450 524 379 524 352 505 351 505 350 505 278 504 278 545"/></Shape>
+	    <String CONTENT="Nya testamentet på hebreiska"
+                    HPOS="277"
+                    VPOS="504"
+                    WIDTH="1031"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

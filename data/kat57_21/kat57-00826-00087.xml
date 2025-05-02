@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00826-00087.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="33"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2323 1479 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="197 175 573 181" 
+                    HPOS="194"
+                    VPOS="130"
+                    WIDTH="378"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="196 173 194 188 214 197 215 197 217 197 308 191 345 203 346 203 347 204 382 204 382 203 383 203 384 203 394 196 405 203 407 203 408 203 409 203 410 203 412 203 424 193 458 199 460 199 513 194 557 205 558 205 560 205 561 205 562 205 562 204 571 196 572 180 571 135 514 145 482 136 478 136 477 136 476 136 474 136 473 136 473 138 453 150 434 150 415 140 414 140 413 140 379 148 365 140 347 131 346 131 345 131 344 131 342 131 329 141 320 148 304 148 294 141 271 130 270 130 268 130 267 130 244 143 196 144 196 173"/></Shape>
+	    <String CONTENT="JAB [pseud.]"
+                    HPOS="194"
+                    VPOS="130"
+                    WIDTH="378"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="192 276 1154 279" 
+                    HPOS="189"
+                    VPOS="236"
+                    WIDTH="964"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="191 275 189 297 223 308 224 308 225 308 226 308 241 302 308 302 326 316 328 316 329 316 356 319 564 320 566 320 567 320 568 320 582 309 603 314 604 314 605 314 606 314 626 304 635 300 669 300 679 305 701 318 703 318 704 318 705 318 740 307 751 303 758 307 782 320 783 320 784 320 849 308 885 302 911 308 912 308 914 308 946 302 991 308 993 308 994 308 995 308 1005 302 1111 302 1149 313 1153 278 1153 249 1085 241 1084 241 1083 241 1068 247 1067 247 1065 247 1037 239 1036 239 953 239 952 239 951 239 935 246 931 249 833 249 824 245 795 238 794 238 764 238 763 238 762 238 761 238 749 245 747 246 736 244 700 238 699 238 698 238 682 244 675 246 662 244 632 238 631 238 630 238 610 244 599 246 568 242 511 236 510 236 474 242 468 242 456 241 392 236 391 236 357 241 326 245 191 240 191 275"/></Shape>
+	    <String CONTENT="Se: SALLIUS, Joel Olaus Jönsson"
+                    HPOS="189"
+                    VPOS="236"
+                    WIDTH="964"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

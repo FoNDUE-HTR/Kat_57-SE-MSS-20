@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00913-00372.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="9"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2323 1471 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="296 231 653 228" 
+                    HPOS="294"
+                    VPOS="120"
+                    WIDTH="359"
+                    HEIGHT="169">
+            <Shape><Polygon POINTS="296 231 296 249 359 249 363 250 402 282 404 282 406 282 473 289 474 289 508 287 509 287 511 287 511 286 543 258 613 265 615 265 616 265 653 246 653 228 648 166 530 166 492 145 447 120 446 120 390 120 388 120 387 120 385 120 374 129 366 136 351 126 350 124 348 124 347 124 294 120 296 231"/></Shape>
+	    <String CONTENT="Klagan"
+                    HPOS="294"
+                    VPOS="120"
+                    WIDTH="359"
+                    HEIGHT="169"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="288 436 2187 451" 
+                    HPOS="286"
+                    VPOS="341"
+                    WIDTH="1901"
+                    HEIGHT="157">
+            <Shape><Polygon POINTS="288 436 286 469 329 474 331 474 332 474 342 471 388 453 463 472 478 475 479 475 481 475 482 475 493 472 567 451 664 469 666 469 667 469 733 453 853 453 902 467 904 467 987 471 988 471 990 471 1033 459 1127 474 1129 474 1186 461 1293 480 1295 480 1416 458 1526 472 1528 472 1596 461 1654 488 1671 496 1673 496 1992 498 1994 498 1996 498 2008 493 2045 479 2064 485 2066 485 2067 485 2069 485 2093 477 2184 495 2187 451 2184 391 2042 391 2023 386 1976 373 1975 373 1887 370 1885 370 1826 378 1723 351 1721 351 1635 351 1633 351 1632 351 1596 367 1582 361 1581 361 1579 361 1577 361 1550 373 1525 388 1432 388 1225 384 1177 365 1170 362 1169 362 1108 357 1106 357 1105 357 1086 362 1055 370 992 361 990 361 988 361 923 373 845 356 784 343 782 343 690 353 608 361 578 349 556 341 554 341 553 341 288 341 288 436"/></Shape>
+	    <String CONTENT="Svenska folkets, vid underrättelsen om hertigen af Upland"
+                    HPOS="286"
+                    VPOS="341"
+                    WIDTH="1901"
+                    HEIGHT="157"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="552 519 1662 538" 
+                    HPOS="550"
+                    VPOS="458"
+                    WIDTH="1111"
+                    HEIGHT="143">
+            <Shape><Polygon POINTS="550 518 550 585 665 546 684 561 686 561 689 561 691 561 693 561 712 551 760 580 760 582 763 582 765 582 768 582 770 582 775 580 825 551 878 551 923 578 945 592 947 592 950 592 952 592 954 592 957 592 978 575 1012 554 1043 554 1112 573 1122 575 1124 575 1127 575 1129 575 1132 575 1134 573 1146 566 1153 573 1177 594 1177 597 1179 597 1182 597 1306 599 1309 599 1311 599 1314 599 1333 582 1381 601 1383 601 1385 601 1388 601 1500 566 1512 561 1520 563 1536 573 1539 573 1541 573 1601 563 1615 575 1615 578 1618 578 1620 578 1623 578 1625 578 1658 561 1661 537 1658 499 1505 499 1500 496 1484 479 1484 477 1481 477 1479 477 1476 477 1474 477 1472 477 1457 491 1424 470 1421 470 1419 470 1417 470 1414 470 1412 470 1383 491 1364 482 1361 482 1359 482 1302 494 1282 496 1275 491 1249 470 1247 470 1244 470 1242 470 1163 479 1108 463 1105 463 1103 463 1100 463 1098 463 1062 487 1029 463 1026 463 1024 463 1021 463 914 472 827 458 825 458 823 458 820 458 777 487 775 489 712 489 708 484 684 465 681 465 679 465 677 465 674 465 672 465 672 467 650 484 550 484 550 518"/></Shape>
+	    <String CONTENT="prins Gustafs dödliga frånfälle..."
+                    HPOS="550"
+                    VPOS="458"
+                    WIDTH="1111"
+                    HEIGHT="143"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="446 712 561 707" 
+                    HPOS="442"
+                    VPOS="629"
+                    WIDTH="119"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="446 712 446 748 478 743 485 745 516 751 517 751 519 751 521 751 521 750 532 739 533 736 561 734 561 707 554 629 521 630 519 630 517 630 498 645 474 662 442 662 446 712"/></Shape>
+	    <String CONTENT="Se:"
+                    HPOS="442"
+                    VPOS="629"
+                    WIDTH="119"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="636 817 1705 814" 
+                    HPOS="634"
+                    VPOS="736"
+                    WIDTH="1071"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="636 817 637 865 652 858 683 865 707 870 709 870 711 870 720 865 735 858 752 865 773 873 774 873 776 873 778 873 805 865 813 863 816 865 825 873 827 873 829 873 830 874 1023 874 1023 873 1025 873 1041 866 1087 846 1191 846 1204 855 1205 855 1207 855 1209 855 1274 842 1371 850 1373 850 1450 842 1531 855 1533 855 1588 846 1608 855 1609 855 1611 855 1636 852 1657 866 1660 870 1662 870 1664 870 1665 870 1703 866 1705 814 1702 780 1609 780 1609 779 1588 761 1588 759 1587 759 1585 759 1555 759 1510 736 1509 736 1507 736 1505 736 1467 748 1410 739 1408 739 1407 739 1405 739 1357 777 1355 779 1351 777 1268 748 1266 748 1264 748 1220 758 1191 736 1189 736 1188 736 1186 736 1185 736 1183 736 1122 775 1113 782 953 782 944 774 923 758 921 758 920 758 918 758 862 761 830 737 829 737 827 737 691 737 690 737 688 737 687 737 634 767 636 817"/></Shape>
+	    <String CONTENT="Sundler, Anders Wilhelm/"
+                    HPOS="634"
+                    VPOS="736"
+                    WIDTH="1071"
+                    HEIGHT="138"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

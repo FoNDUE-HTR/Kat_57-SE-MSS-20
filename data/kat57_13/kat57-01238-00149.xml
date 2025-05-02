@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00149.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2311 1477 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="181 212 798 209" 
+                    HPOS="178"
+                    VPOS="171"
+                    WIDTH="618"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="179 211 179 235 187 234 189 235 200 246 200 247 202 247 203 247 204 247 205 247 224 241 332 247 333 247 335 247 371 235 385 231 453 231 459 235 469 243 470 243 471 243 472 243 474 243 495 235 500 234 506 235 535 243 537 243 538 243 539 243 566 235 576 232 586 235 614 245 615 245 617 246 651 246 651 245 652 245 654 245 668 235 676 230 691 235 702 238 703 238 704 238 735 235 748 234 752 235 774 245 776 245 777 245 778 245 796 235 796 208 794 176 758 174 757 174 756 174 755 174 755 176 739 185 644 185 612 176 596 171 594 171 593 171 592 171 591 171 591 172 587 176 576 185 539 178 538 178 537 178 507 185 481 176 469 171 468 171 424 171 423 171 404 172 402 172 401 172 396 176 379 188 358 188 339 176 335 172 333 172 332 172 331 172 178 176 179 211"/></Shape>
+	    <String CONTENT="ᵒMORSE, Wayne L[yman]"
+                    HPOS="178"
+                    VPOS="171"
+                    WIDTH="618"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="179 312 1236 320" 
+                    HPOS="178"
+                    VPOS="277"
+                    WIDTH="1057"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="178 311 178 335 242 333 247 336 253 339 254 339 256 339 257 339 296 336 327 332 341 336 365 342 367 342 368 343 420 343 420 342 421 342 422 342 432 336 438 332 528 332 551 336 597 343 598 343 599 343 626 336 636 333 695 333 700 336 711 344 713 344 714 344 715 346 742 346 742 344 853 336 875 335 878 336 890 346 891 346 893 346 894 347 979 347 979 346 980 346 1005 337 1059 347 1060 348 1176 348 1176 347 1234 336 1235 319 1234 294 1180 283 1178 283 1008 291 1005 291 1002 291 900 282 899 282 897 282 896 282 883 290 846 280 844 280 843 280 771 290 767 290 766 290 743 280 742 280 741 280 740 280 710 290 707 290 693 290 562 279 561 279 560 279 543 288 521 278 519 278 518 278 413 288 408 288 407 288 394 280 392 280 391 280 245 286 232 286 214 277 213 277 211 277 210 277 178 285 178 311"/></Shape>
+	    <String CONTENT="A survey of the grand jury system."
+                    HPOS="178"
+                    VPOS="277"
+                    WIDTH="1057"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1407 65 1932 70" 
+                    HPOS="1405"
+                    VPOS="17"
+                    WIDTH="526"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1406 64 1405 87 1489 92 1490 92 1491 92 1492 92 1495 89 1501 84 1518 89 1528 92 1529 92 1531 92 1543 89 1587 81 1595 87 1596 87 1597 87 1598 87 1688 83 1726 93 1733 94 1734 94 1735 94 1736 94 1738 94 1739 93 1757 82 1795 82 1808 92 1808 93 1809 93 1810 93 1811 93 1853 87 1928 96 1931 68 1930 20 1896 20 1895 20 1894 20 1893 20 1893 22 1869 39 1852 25 1851 25 1850 25 1835 23 1794 19 1793 19 1792 19 1790 19 1783 25 1757 43 1734 43 1708 28 1692 19 1691 19 1665 18 1664 18 1662 18 1661 18 1644 30 1627 41 1556 41 1542 34 1506 17 1505 17 1464 17 1463 17 1462 17 1460 17 1460 18 1441 38 1438 39 1406 39 1406 64"/></Shape>
+	    <String CONTENT="Diss. New York"
+                    HPOS="1405"
+                    VPOS="17"
+                    WIDTH="526"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1377 149 2250 164" 
+                    HPOS="1374"
+                    VPOS="98"
+                    WIDTH="875"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1375 147 1374 173 1500 181 1501 181 1502 181 1515 177 1535 172 1560 178 1565 179 1566 179 1568 179 1575 178 1636 168 1653 181 1654 182 1655 182 1656 182 1657 182 1659 182 1664 181 1689 173 1702 182 1703 183 1704 183 1705 183 1758 185 1760 185 1761 185 1762 185 1765 183 1772 177 1778 182 1779 182 1781 182 1782 182 1802 178 1809 184 1811 185 1811 187 1813 187 1814 187 1815 188 1863 188 1863 187 1864 187 1867 185 1896 173 1994 181 1995 181 2045 176 2074 190 2076 192 2077 192 2079 192 2080 192 2084 190 2128 178 2170 192 2171 192 2246 194 2249 163 2249 112 2167 110 2166 110 2165 110 2160 113 2113 136 2091 125 2090 125 2089 125 2087 125 2086 125 2068 137 2053 126 2052 126 2050 126 2049 126 2048 126 2020 134 1979 129 1978 129 1915 135 1843 123 1842 123 1841 123 1821 133 1798 126 1797 126 1795 126 1740 131 1724 119 1702 102 1701 102 1699 102 1670 102 1669 102 1667 102 1666 102 1638 120 1635 123 1581 129 1568 121 1537 103 1535 103 1534 103 1533 103 1492 105 1452 98 1451 98 1449 98 1410 120 1375 124 1375 147"/></Shape>
+	    <String CONTENT="Columbia univ. | Straffr"
+                    HPOS="1374"
+                    VPOS="98"
+                    WIDTH="875"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1294 417 1881 424" 
+                    HPOS="1292"
+                    VPOS="370"
+                    WIDTH="588"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1293 416 1292 436 1390 449 1391 449 1393 449 1394 449 1406 439 1407 439 1441 439 1449 442 1476 449 1478 449 1479 449 1480 449 1494 443 1495 443 1577 450 1579 450 1580 450 1598 445 1613 442 1619 447 1624 450 1624 452 1625 452 1627 452 1628 452 1629 452 1630 452 1636 447 1644 443 1650 448 1656 452 1657 452 1659 452 1723 453 1724 453 1725 453 1735 450 1762 443 1776 452 1779 454 1781 454 1782 454 1783 454 1784 454 1790 452 1809 445 1820 453 1821 454 1822 454 1824 454 1825 455 1879 455 1880 423 1880 383 1755 375 1754 375 1752 375 1751 375 1740 383 1728 392 1686 392 1673 384 1669 380 1667 380 1666 380 1611 376 1609 376 1608 376 1607 376 1598 384 1592 390 1572 390 1564 384 1561 383 1560 383 1559 383 1558 383 1556 383 1555 383 1553 384 1549 386 1547 385 1539 378 1539 376 1538 376 1537 376 1475 371 1474 371 1473 371 1471 371 1449 385 1444 389 1391 389 1382 386 1321 370 1320 370 1319 370 1317 370 1316 370 1293 384 1293 416"/></Shape>
+	    <String CONTENT="8:o [Eugene 1931]"
+                    HPOS="1292"
+                    VPOS="370"
+                    WIDTH="588"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="195 513 1307 518" 
+                    HPOS="193"
+                    VPOS="470"
+                    WIDTH="1113"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="194 512 193 534 216 543 218 543 219 543 282 537 284 537 310 554 311 554 312 554 314 554 590 543 725 538 750 545 751 545 752 545 793 539 808 548 814 551 815 551 816 551 817 551 819 551 832 548 868 539 918 548 920 548 921 548 942 540 968 551 975 554 976 554 1033 557 1034 557 1069 553 1161 540 1196 556 1199 557 1200 557 1202 559 1305 559 1306 517 1304 475 1205 481 1118 475 1117 475 1115 475 1087 482 1063 476 1061 476 1060 476 1033 481 1018 474 1017 474 1016 474 1014 474 981 482 970 475 969 475 968 475 923 475 922 475 857 482 828 474 827 474 826 474 679 481 618 474 617 474 503 481 408 481 364 471 363 471 362 471 344 481 279 481 264 471 263 471 262 471 194 470 194 512"/></Shape>
+	    <String CONTENT="[Ur: Oregon law review Vol.10 (1931)]"
+                    HPOS="193"
+                    VPOS="470"
+                    WIDTH="1113"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="2052 70 2212 73" 
+                    HPOS="2049"
+                    VPOS="14"
+                    WIDTH="161"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="2050 68 2049 76 2087 76 2112 96 2113 96 2114 96 2156 97 2158 98 2180 98 2180 97 2181 97 2182 97 2209 77 2210 72 2209 50 2156 49 2154 45 2121 17 2121 16 2119 16 2118 16 2103 14 2079 14 2077 14 2076 14 2075 14 2050 34 2050 68"/></Shape>
+	    <String CONTENT="Jur"
+                    HPOS="2049"
+                    VPOS="14"
+                    WIDTH="161"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1975 225 2258 228" 
+                    HPOS="1973"
+                    VPOS="181"
+                    WIDTH="284"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="1974 224 1973 245 2043 246 2054 254 2054 256 2055 256 2057 256 2058 256 2059 256 2060 256 2068 251 2079 258 2108 274 2109 274 2111 274 2112 274 2113 274 2128 263 2140 269 2142 269 2143 269 2144 269 2155 267 2170 263 2180 269 2191 278 2192 278 2193 278 2194 279 2256 279 2257 227 2256 204 2201 197 2199 197 2198 197 2183 203 2182 203 2133 182 2132 182 2105 182 2103 182 2102 182 2101 182 2076 199 2060 182 2060 181 2059 181 2058 181 2028 181 2027 181 2026 181 2025 181 1997 200 1974 200 1974 224"/></Shape>
+	    <String CONTENT="N. Amer"
+                    HPOS="1973"
+                    VPOS="181"
+                    WIDTH="284"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

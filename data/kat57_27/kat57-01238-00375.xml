@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00375.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1468"
+          PHYSICAL_IMG_NR="31"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1468">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1466"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1467 2319 1467 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="171 187 732 187" 
+                    HPOS="170"
+                    VPOS="140"
+                    WIDTH="561"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="170 185 170 204 456 204 462 209 462 210 463 210 464 210 466 210 467 210 493 204 527 210 528 210 529 210 543 204 559 210 560 210 561 210 731 203 731 185 730 155 693 155 690 155 655 144 654 144 653 144 652 144 650 144 636 154 626 145 625 145 624 145 622 145 621 145 608 151 595 144 594 144 593 144 592 144 551 152 532 143 531 143 529 143 528 143 527 143 527 144 515 155 515 156 467 156 466 155 434 140 433 140 431 140 430 140 414 148 397 140 396 140 327 140 326 140 325 140 293 148 234 140 233 140 170 155 170 185"/></Shape>
+	    <String CONTENT="MORTILLET, Paul de"
+                    HPOS="170"
+                    VPOS="140"
+                    WIDTH="561"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2084 58 2310 58" 
+                    HPOS="2083"
+                    VPOS="7"
+                    WIDTH="225"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="2083 57 2083 80 2135 85 2136 85 2137 85 2138 85 2143 83 2149 78 2238 78 2246 84 2246 85 2247 85 2249 85 2250 86 2308 86 2308 57 2305 8 2282 29 2261 29 2242 13 2235 7 2234 7 2233 7 2231 7 2187 14 2164 7 2163 7 2162 7 2160 7 2159 7 2136 23 2129 29 2083 29 2083 57"/></Shape>
+	    <String CONTENT="Arkeol."
+                    HPOS="2083"
+                    VPOS="7"
+                    WIDTH="225"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2092 125 2277 125" 
+                    HPOS="2091"
+                    VPOS="79"
+                    WIDTH="184"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="2091 124 2091 149 2275 144 2275 124 2275 99 2223 79 2222 79 2168 79 2167 79 2165 79 2126 100 2091 100 2091 124"/></Shape>
+	    <String CONTENT="Allm."
+                    HPOS="2091"
+                    VPOS="79"
+                    WIDTH="184"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="163 286 2266 286" 
+                    HPOS="162"
+                    VPOS="250"
+                    WIDTH="2102"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="162 285 162 311 370 316 371 316 504 311 577 309 624 311 714 316 715 316 740 311 751 309 910 309 950 310 1060 316 1062 316 1098 310 1111 309 1122 310 1152 315 1153 315 1235 310 1261 309 1278 310 1344 316 1345 316 1404 310 1415 309 1426 310 1481 316 1483 318 2026 318 2026 316 2059 309 2060 309 2064 309 2158 315 2159 315 2264 308 2264 285 2264 259 2218 250 2217 250 2160 258 2054 250 1924 250 1923 250 1885 258 1855 250 1853 250 1852 250 1697 258 1601 250 1600 250 1527 258 1377 252 1376 252 1332 258 1297 250 1178 250 1177 250 1086 258 1037 250 1036 250 684 258 657 250 655 250 540 250 539 250 490 258 435 252 434 252 398 259 162 259 162 285"/></Shape>
+	    <String CONTENT="Origine du culte des morts. Les sépultures préhistoriques. Préface de"
+                    HPOS="162"
+                    VPOS="250"
+                    WIDTH="2102"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="186 391 847 391" 
+                    HPOS="185"
+                    VPOS="348"
+                    WIDTH="661"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="185 390 185 413 298 407 315 413 316 413 318 414 363 414 363 413 364 413 365 413 365 412 371 407 408 413 409 413 442 407 463 413 464 413 466 413 517 407 845 413 846 390 845 348 781 355 772 349 769 348 768 348 767 348 669 348 668 348 666 348 665 348 658 353 635 368 577 363 567 355 564 353 562 353 561 353 560 353 559 353 549 357 531 363 456 362 453 359 441 348 440 348 439 348 424 348 423 348 422 348 420 348 405 360 394 369 345 369 337 363 327 354 326 354 325 354 324 354 323 354 321 354 310 363 304 368 185 368 185 390"/></Shape>
+	    <String CONTENT="... A. Chervin. [Ill.]"
+                    HPOS="185"
+                    VPOS="348"
+                    WIDTH="661"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1335 488 1803 491" 
+                    HPOS="1333"
+                    VPOS="450"
+                    WIDTH="469"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1334 486 1333 507 1377 517 1379 517 1459 510 1464 510 1474 518 1474 519 1475 519 1476 519 1506 523 1507 523 1567 511 1572 511 1573 512 1588 523 1589 523 1590 523 1645 524 1647 524 1705 521 1706 521 1708 521 1717 513 1722 513 1762 521 1763 521 1801 515 1802 490 1802 464 1774 451 1773 451 1771 451 1688 456 1640 450 1639 450 1589 461 1579 455 1578 455 1577 455 1576 455 1574 455 1573 455 1563 463 1562 464 1525 464 1523 463 1491 451 1490 451 1489 451 1487 451 1459 462 1459 463 1392 463 1391 462 1379 452 1377 452 1376 452 1375 452 1334 461 1334 486"/></Shape>
+	    <String CONTENT="8:o Paris 1914."
+                    HPOS="1333"
+                    VPOS="450"
+                    WIDTH="469"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="292 598 1378 593" 
+                    HPOS="290"
+                    VPOS="544"
+                    WIDTH="1087"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="291 596 291 634 348 634 349 634 405 616 433 621 434 621 495 615 544 631 545 631 546 631 638 614 692 614 710 626 712 626 713 626 714 626 774 614 868 621 870 621 871 621 896 612 948 612 1015 628 1016 628 1018 628 1076 612 1135 630 1136 630 1137 630 1139 630 1172 619 1227 619 1255 631 1256 631 1257 631 1377 630 1377 592 1374 544 1343 545 1342 545 1289 565 1205 563 1172 554 1171 554 1169 554 1168 554 1135 566 1040 566 1014 552 1013 552 1011 552 953 562 904 551 903 551 901 551 872 566 844 559 843 559 841 559 840 559 839 559 828 567 791 554 790 554 789 554 788 554 737 567 713 559 712 559 710 559 709 559 691 568 650 568 518 549 517 549 516 549 477 568 464 562 463 562 462 562 438 566 397 549 396 549 290 549 291 596"/></Shape>
+	    <String CONTENT="[Bilbiothèque préhistorique. Vol. 1.]"
+                    HPOS="290"
+                    VPOS="544"
+                    WIDTH="1087"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="2004 1436 2203 1439" 
+                    HPOS="2001"
+                    VPOS="1399"
+                    WIDTH="201"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="2003 1434 2001 1448 2033 1461 2034 1461 2036 1461 2097 1454 2110 1463 2111 1463 2113 1463 2114 1463 2115 1463 2116 1463 2116 1461 2125 1454 2126 1453 2131 1454 2176 1464 2178 1464 2179 1464 2201 1456 2202 1438 2201 1412 2146 1399 2115 1399 2114 1399 2113 1399 2111 1399 2111 1400 2102 1409 2099 1410 2003 1405 2003 1434"/></Shape>
+	    <String CONTENT="22.3.46"
+                    HPOS="2001"
+                    VPOS="1399"
+                    WIDTH="201"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

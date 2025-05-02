@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01334-00267.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1464"
+          PHYSICAL_IMG_NR="48"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1464">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1462"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1463 2319 1463 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="164 152 925 148" 
+                    HPOS="162"
+                    VPOS="91"
+                    WIDTH="761"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="163 151 164 186 194 175 239 184 257 187 258 187 259 187 269 184 278 180 320 180 330 181 372 184 383 192 384 192 385 192 386 192 388 192 421 181 467 191 468 191 469 191 471 191 491 176 507 167 608 173 618 173 619 173 629 172 683 165 690 170 721 195 722 195 723 195 724 196 822 196 822 195 823 195 824 195 851 173 894 180 895 180 897 180 898 180 923 164 923 147 918 107 884 122 815 122 803 109 784 92 784 91 783 91 782 91 754 91 752 91 751 91 750 91 750 92 731 111 726 115 705 112 704 112 688 97 688 96 687 96 685 96 583 92 582 92 580 92 579 92 545 115 535 123 456 123 443 118 417 111 416 111 414 111 413 111 388 119 378 123 374 119 340 93 339 93 338 93 247 93 246 93 245 93 244 93 209 124 162 124 163 151"/></Shape>
+	    <String CONTENT="Ólason Páll Eggert"
+                    HPOS="162"
+                    VPOS="91"
+                    WIDTH="761"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2111 52 2255 49" 
+                    HPOS="2108"
+                    VPOS="1"
+                    WIDTH="146"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="2194 1 2182 1 2175 1 2161 6 2150 1 2145 1 2133 1 2122 1 2108 3 2110 51 2110 67 2252 84 2254 48 2251 9 2215 9 2213 7 2199 1 2194 1"/></Shape>
+	    <String CONTENT="Hist"
+                    HPOS="2108"
+                    VPOS="1"
+                    WIDTH="146"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="243 232 2112 224" 
+                    HPOS="241"
+                    VPOS="173"
+                    WIDTH="1870"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="242 231 242 252 2111 244 2111 223 2107 180 2038 187 2016 180 1995 173 1994 173 1913 173 1912 173 1911 173 1889 180 1840 197 1779 195 1728 181 1707 176 1706 176 1704 176 1687 181 1643 196 1595 197 1547 183 1525 175 1524 175 1446 175 1444 175 1443 175 1424 183 1388 196 1331 183 1299 176 1131 176 1130 176 1128 176 1105 184 1080 192 1050 186 1049 186 966 193 936 185 923 181 922 181 921 181 920 181 910 185 868 202 772 203 477 203 381 187 336 180 335 180 241 187 242 231"/></Shape>
+	    <String CONTENT="Grunndrag av Islands historie. Oversatt av Fredrik"
+                    HPOS="241"
+                    VPOS="173"
+                    WIDTH="1870"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="235 316 560 313" 
+                    HPOS="233"
+                    VPOS="263"
+                    WIDTH="325"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="234 315 234 324 333 336 334 336 380 330 491 334 493 334 494 334 495 334 495 333 506 322 558 320 558 312 552 263 517 292 504 292 473 272 464 264 463 264 462 264 461 264 460 264 458 264 444 274 413 292 358 289 352 283 335 268 335 267 334 267 333 267 286 267 285 267 284 267 283 267 283 268 258 291 257 294 233 294 234 315"/></Shape>
+	    <String CONTENT="Paasche."
+                    HPOS="233"
+                    VPOS="263"
+                    WIDTH="325"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="274 424 1133 428" 
+                    HPOS="273"
+                    VPOS="384"
+                    WIDTH="859"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="273 423 273 445 329 437 340 446 341 446 342 446 344 447 434 447 434 446 436 446 486 437 550 446 551 446 596 439 633 447 637 447 638 447 657 447 807 441 897 448 909 448 910 448 911 448 912 448 923 441 989 448 994 448 995 448 997 448 1014 440 1054 440 1130 448 1132 427 1131 385 1067 386 1066 386 1045 397 971 386 970 386 969 386 967 386 950 397 899 391 898 391 865 397 823 384 822 384 821 384 820 384 817 384 768 396 732 384 731 384 729 384 728 384 726 384 698 390 665 384 662 384 661 384 660 384 635 397 563 397 521 387 519 387 485 395 472 385 471 385 469 385 468 385 467 385 466 385 450 396 400 396 383 386 381 386 273 384 273 423"/></Shape>
+	    <String CONTENT="[Islandskr småskrifter Nr 4.]"
+                    HPOS="273"
+                    VPOS="384"
+                    WIDTH="859"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="240 486 684 482" 
+                    HPOS="237"
+                    VPOS="450"
+                    WIDTH="446"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="239 485 239 508 280 513 281 513 283 513 284 513 284 512 288 508 296 502 325 508 330 509 331 509 333 509 334 509 334 508 344 501 384 501 395 508 402 516 403 516 405 516 406 517 462 517 462 516 463 516 482 508 496 503 506 508 515 513 516 513 517 513 551 508 585 505 600 508 618 514 619 514 621 514 622 514 635 508 644 506 682 508 683 481 679 450 599 467 578 467 566 453 563 452 563 451 562 451 561 451 560 451 519 452 518 452 517 452 517 453 515 455 508 461 501 456 500 455 499 455 497 455 496 455 495 455 494 455 493 456 475 468 384 463 383 463 381 463 380 463 373 468 366 462 366 461 364 461 363 461 362 461 361 461 345 469 334 462 328 457 327 457 325 457 324 457 323 457 302 463 277 469 237 466 239 485"/></Shape>
+	    <String CONTENT="Se: Island"
+                    HPOS="237"
+                    VPOS="450"
+                    WIDTH="446"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1525 391 2041 394" 
+                    HPOS="1523"
+                    VPOS="337"
+                    WIDTH="517"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1524 390 1523 408 1560 422 1562 422 1563 422 1590 418 1602 428 1602 429 1603 429 1604 429 1606 429 1607 429 1646 412 1654 409 1680 409 1686 414 1692 419 1693 419 1695 419 1696 419 1697 419 1707 414 1711 413 1719 416 1739 420 1740 420 1741 420 1764 417 1776 416 1779 418 1790 429 1790 430 1791 430 1792 430 1794 431 1830 431 1830 430 1831 430 1848 420 1867 411 1934 412 1956 425 1966 430 1967 430 1968 430 2039 428 2040 392 2039 342 1959 345 1945 339 1944 339 1942 339 1941 339 1922 346 1920 347 1920 346 1912 340 1911 340 1909 340 1908 340 1907 340 1906 340 1906 341 1898 347 1881 366 1844 366 1828 350 1815 340 1815 339 1814 339 1813 339 1812 339 1759 351 1739 337 1737 337 1736 337 1709 337 1708 337 1707 337 1706 337 1706 339 1686 356 1678 364 1610 364 1606 359 1584 339 1584 337 1582 337 1581 337 1570 337 1569 337 1568 337 1567 337 1567 339 1541 362 1538 363 1524 363 1524 390"/></Shape>
+	    <String CONTENT="8:o Oslo 1927"
+                    HPOS="1523"
+                    VPOS="337"
+                    WIDTH="517"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="387 569 1732 569" 
+                    HPOS="386"
+                    VPOS="514"
+                    WIDTH="1345"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="386 568 386 591 483 605 484 605 541 591 543 590 667 590 668 590 684 599 685 599 687 599 729 590 737 589 742 590 767 599 768 599 770 599 809 595 851 605 853 605 912 596 975 605 976 606 1119 606 1119 605 1120 605 1177 588 1196 583 1393 583 1419 586 1447 590 1448 590 1449 590 1464 586 1473 584 1484 586 1551 599 1552 599 1553 599 1569 590 1599 595 1601 595 1602 595 1629 585 1632 584 1636 585 1670 596 1671 596 1673 596 1731 584 1731 568 1731 514 1686 514 1685 514 1684 514 1682 514 1662 524 1632 518 1631 518 1630 518 1579 539 1476 518 1457 514 1322 514 1321 514 1320 514 1307 520 1265 539 1182 539 1145 523 1131 517 1130 517 1128 517 1127 517 1104 524 1075 533 1027 533 1005 525 988 519 987 519 986 519 984 519 971 525 945 540 760 540 739 529 707 514 706 514 705 514 704 514 648 530 618 540 576 540 561 531 530 516 529 516 441 516 440 516 439 516 386 534 386 568"/></Shape>
+	    <String CONTENT="Islandske småskrifter... { Kulturhist"
+                    HPOS="386"
+                    VPOS="514"
+                    WIDTH="1345"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1455 639 1539 639" 
+                    HPOS="1454"
+                    VPOS="589"
+                    WIDTH="84"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1454 638 1454 655 1466 663 1468 663 1469 663 1470 663 1471 663 1487 657 1497 655 1537 663 1538 638 1536 594 1520 599 1516 595 1510 590 1510 589 1509 589 1508 589 1507 589 1473 590 1471 590 1454 599 1454 638"/></Shape>
+	    <String CONTENT="Isl"
+                    HPOS="1454"
+                    VPOS="589"
+                    WIDTH="84"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="2120 106 2236 109" 
+                    HPOS="2118"
+                    VPOS="68"
+                    WIDTH="117"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="2119 104 2118 134 2122 139 2123 139 2123 140 2124 140 2125 140 2127 140 2128 140 2129 140 2143 131 2147 129 2162 134 2184 141 2185 141 2186 141 2234 140 2235 108 2235 80 2219 70 2218 70 2217 70 2216 70 2215 70 2197 79 2185 68 2184 68 2183 68 2182 68 2119 76 2119 104"/></Shape>
+	    <String CONTENT="Isl."
+                    HPOS="2118"
+                    VPOS="68"
+                    WIDTH="117"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

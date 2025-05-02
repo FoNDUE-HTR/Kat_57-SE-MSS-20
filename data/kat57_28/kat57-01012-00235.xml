@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01012-00235.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="20"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2311 1471 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="101 183 1052 172" 
+                    HPOS="99"
+                    VPOS="107"
+                    WIDTH="952"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="100 182 100 197 191 209 192 209 290 208 292 208 338 196 342 195 344 196 366 206 368 206 414 207 416 207 417 207 418 207 433 195 434 193 439 195 477 206 478 206 479 206 481 206 506 199 519 206 520 206 521 206 616 197 656 203 657 203 658 203 660 203 670 195 689 203 690 203 692 203 751 201 752 201 753 201 768 192 773 190 830 191 995 196 996 196 1050 188 1051 171 1049 137 951 137 898 107 897 107 852 107 851 107 850 107 849 107 809 139 808 141 744 141 744 139 701 123 700 123 699 123 698 123 697 123 672 141 654 141 647 141 616 123 614 123 613 123 595 126 522 111 521 111 487 112 485 112 484 112 439 141 371 144 360 144 359 144 299 115 298 115 204 115 203 115 169 121 168 121 166 121 133 147 132 148 99 148 100 182"/></Shape>
+	    <String CONTENT="Lefèvre-Pontalis Pierre"
+                    HPOS="99"
+                    VPOS="107"
+                    WIDTH="952"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="139 289 1578 270" 
+                    HPOS="137"
+                    VPOS="220"
+                    WIDTH="1439"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="138 288 139 316 213 315 214 315 244 304 294 312 295 312 296 312 331 300 423 307 424 307 499 301 533 307 548 310 549 310 566 306 618 296 715 304 744 305 746 305 747 305 758 302 786 295 919 295 930 299 940 301 941 301 942 301 1005 296 1041 294 1056 295 1094 300 1095 300 1130 294 1142 291 1147 293 1167 302 1168 302 1169 302 1214 291 1227 289 1244 291 1324 301 1325 301 1478 300 1479 300 1498 290 1526 299 1527 299 1529 299 1530 299 1576 283 1576 269 1575 236 1518 220 1516 220 1515 220 1412 222 1411 222 1365 239 1336 250 1292 244 1290 244 1289 244 1263 251 1195 246 1194 246 1192 246 1191 246 1181 252 1054 249 1052 249 989 255 957 245 906 228 905 228 904 228 859 237 823 230 822 230 820 230 787 246 765 258 624 258 591 250 537 234 536 234 535 234 533 234 490 251 465 262 397 262 360 252 299 236 298 236 233 236 231 236 184 237 182 237 137 255 138 288"/></Shape>
+	    <String CONTENT="Notes sur des amulettes siamoises. [Ill."
+                    HPOS="137"
+                    VPOS="220"
+                    WIDTH="1439"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="141 480 244 480" 
+                    HPOS="139"
+                    VPOS="424"
+                    WIDTH="103"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="139 479 139 488 163 500 164 500 165 501 215 501 215 500 217 500 242 488 242 479 242 446 218 446 213 441 195 425 195 424 193 424 192 424 191 424 139 430 139 479"/></Shape>
+	    <String CONTENT="Se"
+                    HPOS="139"
+                    VPOS="424"
+                    WIDTH="103"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1995 48 2273 51" 
+                    HPOS="1992"
+                    VPOS="8"
+                    WIDTH="280"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1994 47 1992 68 2081 74 2082 74 2083 74 2105 67 2115 63 2119 67 2123 69 2123 71 2124 71 2125 71 2126 71 2127 71 2138 66 2141 66 2143 66 2175 74 2177 74 2178 74 2179 74 2191 68 2213 76 2215 76 2216 76 2217 76 2218 76 2218 74 2226 67 2271 63 2272 50 2271 26 2204 26 2202 25 2192 17 2191 17 2190 17 2132 8 2131 8 2130 8 2082 22 2046 8 2045 8 2044 8 2043 8 1994 23 1994 47"/></Shape>
+	    <String CONTENT="[Relvet"
+                    HPOS="1992"
+                    VPOS="8"
+                    WIDTH="280"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1984 121 2202 121" 
+                    HPOS="1983"
+                    VPOS="76"
+                    WIDTH="218"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1983 120 1983 141 2013 148 2015 148 2016 148 2029 142 2030 142 2034 142 2061 148 2062 149 2110 149 2110 148 2111 148 2113 148 2116 144 2119 142 2127 144 2142 149 2143 149 2145 149 2201 145 2201 120 2201 94 2167 76 2165 76 2100 76 2099 76 2098 76 2097 76 2097 77 2077 95 2048 95 2024 83 2023 83 2022 83 2021 83 1983 94 1983 120"/></Shape>
+	    <String CONTENT="Ostas."
+                    HPOS="1983"
+                    VPOS="76"
+                    WIDTH="218"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1420 367 2028 361" 
+                    HPOS="1418"
+                    VPOS="304"
+                    WIDTH="609"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="1419 366 1419 380 1438 393 1439 393 1440 393 1441 393 1443 393 1472 380 1495 398 1497 398 1498 398 1499 398 1500 398 1540 377 1541 377 1597 377 1599 379 1616 393 1616 394 1617 394 1618 394 1619 394 1621 394 1622 394 1645 380 1754 398 1756 398 1757 398 1792 379 1800 375 1803 379 1827 399 1827 401 1828 401 1829 401 1830 402 1902 402 1902 401 1903 401 1904 401 1904 399 1916 387 1921 391 1922 391 1924 391 1925 391 1926 391 1959 382 1983 392 1984 392 1985 392 1986 392 1988 392 2006 381 2027 381 2027 360 2026 314 2006 304 2005 304 2003 304 1952 306 1951 306 1926 317 1905 327 1866 323 1865 323 1864 323 1862 323 1844 339 1741 334 1740 334 1738 334 1737 334 1730 339 1716 327 1695 307 1695 306 1694 306 1693 306 1692 306 1610 307 1608 307 1607 307 1578 332 1565 342 1481 341 1476 337 1457 323 1456 323 1455 323 1454 323 1452 323 1418 337 1419 366"/></Shape>
+	    <String CONTENT="8:o Paris 1926."
+                    HPOS="1418"
+                    VPOS="304"
+                    WIDTH="609"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="136 582 2257 550" 
+                    HPOS="133"
+                    VPOS="493"
+                    WIDTH="2123"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="134 581 134 620 423 626 424 626 473 615 526 602 706 599 766 610 828 621 829 621 949 620 1012 607 1063 593 1197 592 1386 597 1396 599 1457 612 1459 612 1590 610 1591 610 1649 596 1650 596 1659 596 1713 596 1714 596 1722 594 1767 583 1806 593 1859 605 1860 607 1927 607 1927 605 1992 590 2034 580 2254 585 2256 549 2254 495 2051 493 2050 493 2049 493 2028 500 1980 516 1881 504 1880 504 1878 504 1823 521 1760 521 1704 511 1703 511 1616 522 1570 510 1531 500 1530 500 1529 500 1448 501 1446 501 1405 513 1346 504 1344 504 1252 505 1251 505 1202 518 1185 523 1168 520 1140 513 1138 513 1106 521 1086 526 1045 522 916 511 915 511 914 511 866 527 841 536 618 539 576 539 560 534 510 518 509 518 508 518 425 537 423 537 422 537 336 525 335 525 269 540 268 540 266 540 201 525 200 525 198 525 133 543 134 581"/></Shape>
+	    <String CONTENT="Annales du musée Guimet. Bibliothèque de vulgarisation."
+                    HPOS="133"
+                    VPOS="493"
+                    WIDTH="2123"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="155 668 576 662" 
+                    HPOS="153"
+                    VPOS="618"
+                    WIDTH="422"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="154 667 154 695 206 695 206 694 207 694 208 694 225 683 272 693 278 694 279 694 281 694 282 694 283 693 304 678 322 678 353 678 369 691 369 693 370 693 371 693 373 693 374 693 376 691 398 684 431 689 433 689 434 689 435 689 449 678 500 685 501 685 503 685 522 678 530 684 530 685 531 685 532 685 574 689 575 661 574 636 535 618 533 618 532 618 531 618 487 637 463 619 462 619 461 619 445 619 444 619 443 619 441 619 428 631 406 619 404 619 403 619 402 619 357 639 357 640 339 640 339 639 322 623 322 621 321 621 320 621 244 621 242 621 241 621 240 621 240 623 223 641 222 641 220 641 190 632 188 632 187 632 186 632 185 632 185 634 176 641 176 642 153 642 154 667"/></Shape>
+	    <String CONTENT="T. 45. Relvet."
+                    HPOS="153"
+                    VPOS="618"
+                    WIDTH="422"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="394 728 557 728" 
+                    HPOS="393"
+                    VPOS="683"
+                    WIDTH="162"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="393 727 393 748 555 737 555 727 555 700 535 683 533 683 532 683 531 683 530 683 498 695 482 702 449 702 434 688 434 686 433 686 431 686 393 683 393 727"/></Shape>
+	    <String CONTENT="Inst."
+                    HPOS="393"
+                    VPOS="683"
+                    WIDTH="162"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="388 793 1084 785" 
+                    HPOS="386"
+                    VPOS="744"
+                    WIDTH="697"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="387 792 387 813 416 829 417 829 418 829 419 829 482 813 495 824 495 825 497 825 498 825 538 835 539 835 541 835 582 812 600 819 601 819 602 819 603 819 623 810 645 828 646 828 647 828 649 828 650 828 687 809 732 809 762 830 763 830 764 830 866 831 867 831 868 831 870 831 870 830 893 807 943 820 944 820 946 820 947 820 978 810 1002 824 1003 824 1005 824 1006 824 1007 824 1021 814 1049 816 1050 816 1051 816 1083 803 1083 783 1081 744 1034 744 1033 744 1032 744 1030 744 1030 745 1018 755 974 758 973 758 971 758 962 766 873 766 844 750 836 747 835 747 817 747 816 747 814 747 813 747 806 751 780 767 743 754 742 754 741 754 738 754 671 769 655 756 646 749 645 749 644 749 643 749 586 751 585 751 584 751 574 759 557 771 466 771 450 762 428 751 427 751 396 751 395 751 393 751 392 751 392 753 386 759 387 792"/></Shape>
+	    <String CONTENT="Paris. Musee Guimet."
+                    HPOS="386"
+                    VPOS="744"
+                    WIDTH="697"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

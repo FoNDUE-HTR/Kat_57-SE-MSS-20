@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00344.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1476"
+          PHYSICAL_IMG_NR="12"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1476">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1474"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1475 2323 1475 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="244 177 938 183" 
+                    HPOS="242"
+                    VPOS="134"
+                    WIDTH="695"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="243 175 242 212 308 214 310 214 311 214 312 214 313 212 319 207 403 211 498 215 499 215 551 209 608 202 628 209 643 212 644 212 645 212 647 212 658 207 668 204 690 207 713 211 714 211 752 206 777 204 875 204 877 205 894 214 895 214 896 214 936 204 937 182 936 138 907 138 906 138 905 138 904 138 904 140 895 148 872 140 871 140 869 140 868 140 851 150 798 150 754 148 743 138 743 137 741 137 740 137 701 137 700 137 698 137 697 137 697 138 688 146 664 138 658 136 656 136 589 136 588 136 586 136 580 138 558 146 529 138 516 135 515 135 514 135 513 135 505 138 490 143 455 138 453 138 452 138 440 145 415 138 403 135 402 135 401 135 399 135 392 138 381 142 369 138 356 134 355 134 354 134 322 138 282 143 243 138 243 175"/></Shape>
+	    <String CONTENT="MORTENSON, Kay [pseud. ]"
+                    HPOS="242"
+                    VPOS="134"
+                    WIDTH="695"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="282 279 692 276" 
+                    HPOS="280"
+                    VPOS="239"
+                    WIDTH="411"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="281 277 281 307 333 302 343 309 346 313 348 313 349 313 350 313 351 313 361 309 364 308 364 309 371 316 372 316 374 316 375 316 460 309 471 309 477 309 505 314 506 314 508 314 519 309 537 302 577 307 578 307 579 307 580 307 580 306 586 301 606 308 607 308 608 308 610 308 611 308 622 301 664 301 688 311 691 275 687 247 596 252 581 248 549 239 548 239 547 239 546 239 545 239 529 249 522 253 493 253 489 249 479 241 478 241 477 241 476 241 446 247 365 241 364 241 362 241 361 241 342 253 339 254 280 254 281 277"/></Shape>
+	    <String CONTENT="e: FALK, Georg"
+                    HPOS="280"
+                    VPOS="239"
+                    WIDTH="411"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

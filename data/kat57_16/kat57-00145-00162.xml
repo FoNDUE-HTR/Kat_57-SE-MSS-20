@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00162.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2332"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="48"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2332"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2330"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2331 1477 2331 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="113 48 459 48" 
+                    HPOS="112"
+                    VPOS="9"
+                    WIDTH="346"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="112 46 112 66 140 66 141 66 153 76 155 76 156 76 157 76 247 70 306 66 349 66 362 73 364 76 365 76 367 76 368 77 458 77 458 46 458 20 412 20 411 19 399 9 397 9 396 9 395 9 394 9 373 18 357 25 342 17 326 9 325 9 323 9 322 9 307 17 289 27 195 27 183 14 179 11 179 9 178 9 177 9 176 9 112 12 112 46"/></Shape>
+	    <String CONTENT="Kurashiki"
+                    HPOS="112"
+                    VPOS="9"
+                    WIDTH="346"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="94 204 352 204" 
+                    HPOS="93"
+                    VPOS="169"
+                    WIDTH="258"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="93 203 93 234 136 234 136 232 137 232 146 230 177 221 203 226 209 227 210 227 211 227 213 227 214 226 221 221 245 224 262 226 263 226 264 226 272 222 280 219 296 221 320 225 321 225 351 218 351 203 351 169 93 169 93 203"/></Shape>
+	    <String CONTENT="BERICHTE"
+                    HPOS="93"
+                    VPOS="169"
+                    WIDTH="258"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2095 38 2290 41" 
+                    HPOS="2093"
+                    VPOS="2"
+                    WIDTH="195"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="2094 36 2093 50 2112 62 2113 62 2115 62 2116 62 2174 51 2203 64 2205 64 2244 65 2245 65 2246 65 2287 52 2288 40 2287 19 2227 19 2223 14 2210 3 2210 2 2208 2 2207 2 2206 2 2205 2 2185 9 2176 2 2175 2 2174 2 2173 2 2094 6 2094 36"/></Shape>
+	    <String CONTENT="Ekon"
+                    HPOS="2093"
+                    VPOS="2"
+                    WIDTH="195"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2107 96 2277 93" 
+                    HPOS="2105"
+                    VPOS="57"
+                    WIDTH="171"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="2106 94 2106 124 2153 119 2170 121 2190 124 2191 124 2192 124 2205 119 2221 112 2275 113 2276 92 2272 57 2232 59 2230 59 2223 62 2195 76 2105 76 2106 94"/></Shape>
+	    <String CONTENT="Inst."
+                    HPOS="2105"
+                    VPOS="57"
+                    WIDTH="171"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="77 304 2307 278" 
+                    HPOS="75"
+                    VPOS="234"
+                    WIDTH="2231"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="76 302 76 322 388 330 389 330 482 320 501 319 631 319 845 320 846 320 926 317 1034 312 1047 316 1060 320 1061 320 1063 321 1137 321 1137 320 1138 320 1155 315 1162 314 1197 315 1259 317 1260 317 1261 317 1271 315 1286 310 1367 314 1451 317 1452 317 2304 306 2306 277 2303 242 2222 235 2221 235 2160 242 2091 234 2090 234 2053 241 1998 234 1996 234 1995 234 1952 246 1948 247 1876 247 1834 247 1668 242 1666 242 1584 250 1559 251 1543 250 1456 240 1454 240 1453 240 1411 251 1405 252 1400 251 1380 247 1379 247 1355 252 1342 253 1308 252 1135 243 1134 243 967 246 907 256 893 258 879 257 819 247 817 247 569 259 518 262 495 261 432 256 431 256 362 262 332 264 307 263 246 257 245 257 190 264 163 267 75 266 76 302"/></Shape>
+	    <String CONTENT="des Ohara Instituts für landwirtschaftliche Forschungen in Kurashiki, Pro-"
+                    HPOS="75"
+                    VPOS="234"
+                    WIDTH="2231"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="88 398 1412 390" 
+                    HPOS="86"
+                    VPOS="355"
+                    WIDTH="1325"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="87 397 88 444 144 423 206 431 208 431 209 431 230 426 306 440 314 442 315 442 842 439 843 439 863 432 895 419 930 427 931 427 984 417 1105 417 1132 427 1140 431 1141 431 1143 431 1165 427 1223 416 1410 422 1411 389 1410 367 1373 357 1372 357 1250 355 1249 355 1204 363 1183 357 1182 357 1181 357 1017 364 900 358 899 358 856 365 826 359 825 359 824 359 804 369 750 360 748 360 747 360 719 370 555 370 528 363 527 363 526 363 448 371 284 367 283 367 86 374 87 397"/></Shape>
+	    <String CONTENT="vinz Okayama, Japan. Erstattet von M. Kondo."
+                    HPOS="86"
+                    VPOS="355"
+                    WIDTH="1325"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="86 505 371 510" 
+                    HPOS="83"
+                    VPOS="468"
+                    WIDTH="287"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="85 504 83 525 179 523 189 533 192 534 192 535 193 535 194 535 195 535 197 535 203 533 227 523 258 524 275 537 280 540 282 540 283 540 284 541 369 541 370 509 369 481 315 470 314 470 312 470 294 480 290 482 266 482 259 480 221 468 220 468 194 468 193 468 192 468 190 468 190 469 179 479 178 481 165 481 163 479 153 469 153 468 152 468 151 468 150 468 85 477 85 504"/></Shape>
+	    <String CONTENT="Bd 1 - 10."
+                    HPOS="83"
+                    VPOS="468"
+                    WIDTH="287"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="72 647 545 643" 
+                    HPOS="70"
+                    VPOS="597"
+                    WIDTH="474"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="71 646 72 692 99 677 152 676 172 688 176 690 177 690 178 690 179 690 215 689 240 704 241 704 242 704 243 705 335 705 335 704 336 704 337 704 353 694 373 700 374 700 375 700 376 700 395 692 411 699 412 699 413 699 415 699 458 676 465 673 543 673 544 642 543 614 506 597 505 597 386 597 385 597 384 597 383 597 383 598 365 613 363 617 357 613 325 598 323 598 266 598 264 598 263 598 262 598 262 599 247 613 243 617 70 613 71 646"/></Shape>
+	    <String CONTENT="Forts.: Kat. 1958-"
+                    HPOS="70"
+                    VPOS="597"
+                    WIDTH="474"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="622 727 844 723" 
+                    HPOS="619"
+                    VPOS="662"
+                    WIDTH="224"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="620 726 620 772 719 778 720 778 721 778 768 759 781 753 843 752 843 722 840 662 768 671 698 665 691 665 689 665 688 665 687 665 670 674 619 667 620 726"/></Shape>
+	    <String CONTENT="p 2489"
+                    HPOS="619"
+                    VPOS="662"
+                    WIDTH="224"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="1668 484 2331 479" 
+                    HPOS="1665"
+                    VPOS="424"
+                    WIDTH="665"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1666 482 1668 509 1686 504 1743 508 1776 511 1777 511 1778 511 1789 508 1801 504 1804 507 1817 517 1818 517 1819 517 1820 517 1821 517 1823 517 1839 507 1844 504 1867 507 1915 511 1916 511 1951 504 1956 504 1958 504 2019 523 2020 523 2021 523 2022 523 2024 523 2024 522 2037 508 2072 503 2078 502 2079 503 2096 518 2097 518 2099 518 2122 523 2123 523 2216 522 2217 522 2238 513 2288 522 2290 522 2291 522 2330 498 2330 477 2327 424 2230 427 2229 427 2228 427 2203 444 2178 429 2176 429 2154 429 2153 429 2152 429 2150 429 2093 455 2065 444 2064 444 2063 444 2035 448 2004 440 2003 440 2001 440 2000 440 1999 440 1973 456 1961 445 1959 445 1958 445 1957 445 1956 445 1955 445 1948 452 1941 445 1940 445 1939 445 1937 445 1936 445 1935 445 1920 458 1894 458 1831 445 1830 445 1829 445 1793 458 1760 449 1759 449 1757 449 1756 449 1740 455 1714 445 1703 440 1702 440 1701 440 1700 440 1698 440 1691 445 1679 453 1665 447 1666 482"/></Shape>
+	    <String CONTENT="8:o Kurashiki 1916-56."
+                    HPOS="1665"
+                    VPOS="424"
+                    WIDTH="665"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01198-00337.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="24"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2327 1479 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="109 186 852 181" 
+                    HPOS="107"
+                    VPOS="118"
+                    WIDTH="744"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="108 185 108 207 128 207 155 231 155 233 156 233 157 233 159 233 252 231 264 240 265 240 266 240 267 241 292 241 292 240 342 239 344 239 345 239 345 238 355 228 437 228 481 235 482 235 483 235 503 228 516 238 518 238 519 238 520 239 550 239 550 238 551 238 552 238 552 236 586 204 603 214 604 214 605 214 606 214 629 208 650 214 651 214 652 214 653 214 655 214 674 202 851 201 851 180 848 131 829 127 827 127 826 127 825 127 817 133 792 152 741 152 711 136 692 124 690 124 689 124 688 124 687 124 671 131 656 118 655 118 653 118 602 118 600 118 599 118 598 118 568 141 553 152 541 152 531 143 504 119 504 118 503 118 502 118 482 118 481 118 479 118 478 118 478 119 450 145 439 156 384 156 371 149 338 133 336 133 335 133 303 139 270 122 268 122 191 120 189 120 188 120 187 120 187 122 152 156 152 157 107 157 108 185"/></Shape>
+	    <String CONTENT="Meyrick, Edward"
+                    HPOS="107"
+                    VPOS="118"
+                    WIDTH="744"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="127 295 2093 284" 
+                    HPOS="124"
+                    VPOS="226"
+                    WIDTH="1968"
+                    HEIGHT="130">
+            <Shape><Polygon POINTS="125 294 125 329 212 329 220 330 328 356 329 356 408 355 409 355 457 340 510 355 511 355 513 355 598 353 599 353 661 335 685 334 831 325 912 325 973 336 994 340 995 340 1063 337 1139 334 1170 337 1248 350 1249 350 1250 350 1286 339 1297 336 1328 339 1373 344 1374 344 1401 340 1505 323 1714 320 1769 340 1770 340 1771 340 1813 339 1829 344 1841 347 1843 347 1844 347 2092 345 2092 283 2089 246 1903 235 1902 235 1823 238 1795 244 1780 247 1760 244 1676 228 1675 228 1674 228 1643 236 1569 226 1568 226 1566 226 1513 242 1492 250 1407 250 1385 242 1366 235 1365 235 1364 235 1328 241 1315 244 1297 241 1211 229 1057 229 1056 229 1007 240 954 254 716 254 663 239 639 231 637 231 636 231 604 238 552 250 511 238 510 238 509 238 508 238 504 238 444 246 382 238 351 233 350 233 349 233 338 236 292 255 239 236 235 235 234 235 233 235 124 235 125 294"/></Shape>
+	    <String CONTENT="Se: Lepidopterorum catalogus... P.6, 10, 13, 17, 19"
+                    HPOS="124"
+                    VPOS="226"
+                    WIDTH="1968"
+                    HEIGHT="130"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1359 391 1554 394" 
+                    HPOS="1357"
+                    VPOS="335"
+                    WIDTH="196"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1358 390 1357 414 1417 403 1429 411 1432 413 1433 413 1434 413 1436 413 1437 413 1438 413 1440 410 1444 408 1453 409 1490 418 1491 418 1492 418 1494 418 1507 408 1516 415 1517 415 1518 415 1519 415 1521 415 1522 415 1522 414 1532 404 1533 404 1552 404 1553 393 1553 357 1523 341 1522 341 1521 341 1519 341 1518 341 1518 342 1502 357 1502 358 1479 358 1477 357 1437 335 1436 335 1399 335 1397 335 1396 335 1395 335 1371 356 1370 356 1358 356 1358 390"/></Shape>
+	    <String CONTENT="Zool."
+                    HPOS="1357"
+                    VPOS="335"
+                    WIDTH="196"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1322 458 1645 461" 
+                    HPOS="1320"
+                    VPOS="410"
+                    WIDTH="324"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="1321 457 1320 514 1375 515 1376 515 1378 515 1379 515 1380 514 1418 488 1473 488 1484 495 1485 495 1486 495 1487 495 1517 489 1535 504 1537 504 1538 504 1539 504 1540 504 1542 504 1556 494 1569 500 1570 500 1571 500 1572 500 1582 495 1616 513 1624 516 1626 516 1627 516 1628 516 1643 511 1644 460 1644 416 1579 411 1577 411 1576 411 1575 411 1575 413 1566 420 1565 421 1564 420 1553 413 1552 413 1550 413 1549 413 1548 413 1547 413 1537 421 1519 436 1489 436 1447 434 1438 427 1415 410 1413 410 1412 410 1396 410 1395 410 1394 410 1392 410 1392 411 1370 431 1368 434 1362 431 1343 424 1342 424 1341 424 1339 424 1321 432 1321 457"/></Shape>
+	    <String CONTENT="{ Insekt."
+                    HPOS="1320"
+                    VPOS="410"
+                    WIDTH="324"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

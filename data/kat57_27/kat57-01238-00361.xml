@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00361.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="22"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2323 1471 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="161 222 610 222" 
+                    HPOS="160"
+                    VPOS="172"
+                    WIDTH="449"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="160 220 160 239 357 239 359 239 391 245 392 246 392 245 423 239 425 239 428 239 451 245 452 245 454 245 609 239 609 220 608 184 477 188 471 185 447 172 446 172 280 172 279 172 278 172 277 172 260 185 235 185 201 172 200 172 198 172 197 172 160 188 160 220"/></Shape>
+	    <String CONTENT="MORTIER, Raoul"
+                    HPOS="160"
+                    VPOS="172"
+                    WIDTH="449"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="163 325 514 321" 
+                    HPOS="160"
+                    VPOS="284"
+                    WIDTH="352"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="161 323 161 352 192 352 193 352 217 363 218 363 219 363 220 363 222 363 233 353 235 350 278 350 285 354 299 361 300 361 301 361 331 355 332 355 342 361 343 361 344 361 346 361 381 356 392 355 413 358 445 360 446 360 447 360 449 360 451 358 457 354 511 359 512 320 510 285 462 284 461 284 460 284 458 284 458 285 456 287 449 293 441 288 436 284 435 284 434 284 433 284 323 285 322 285 289 294 274 299 223 299 220 298 192 288 191 288 190 288 188 288 160 298 161 323"/></Shape>
+	    <String CONTENT="Se: CHANSON"
+                    HPOS="160"
+                    VPOS="284"
+                    WIDTH="352"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="280 428 2272 424" 
+                    HPOS="278"
+                    VPOS="381"
+                    WIDTH="1993"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="279 426 279 446 359 455 360 455 489 447 860 455 861 455 947 446 954 446 979 446 1258 453 1260 453 1366 446 1373 446 1382 446 1603 453 1604 453 1770 446 1797 445 1952 445 1955 445 1980 452 1981 452 1982 453 2249 453 2249 452 2250 452 2271 445 2271 423 2267 383 2216 391 2180 383 2166 381 1811 381 1809 381 1775 386 1730 394 1462 394 1442 388 1434 386 1433 386 1300 382 1299 382 1261 390 1235 394 1071 391 987 390 986 390 964 392 928 396 911 392 898 390 896 390 876 392 850 396 817 393 769 388 768 388 731 393 711 396 665 393 530 387 528 387 458 396 449 396 431 396 311 390 310 390 278 396 279 426"/></Shape>
+	    <String CONTENT="La, de Roland. D´après le manuscrit d´Oxford, avec une transscrip-"
+                    HPOS="278"
+                    VPOS="381"
+                    WIDTH="1993"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="288 528 1509 531" 
+                    HPOS="285"
+                    VPOS="493"
+                    WIDTH="1223"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="287 527 285 547 315 554 316 554 385 552 431 561 433 561 617 552 668 549 720 553 812 560 813 560 839 554 842 554 845 554 862 561 863 561 865 561 898 555 906 554 910 555 927 563 928 563 930 564 1003 564 1003 563 1004 563 1022 556 1042 550 1301 550 1319 559 1320 559 1321 559 1346 554 1376 561 1384 563 1385 564 1506 564 1508 529 1506 506 1473 506 1473 505 1455 494 1454 494 1452 494 1451 494 1402 501 1346 494 1344 494 1343 494 1316 505 1308 505 1231 502 1213 494 1212 494 1211 494 1125 502 1108 494 1106 494 1020 494 1019 494 958 505 953 505 950 505 926 494 925 494 923 494 866 504 823 494 822 494 820 494 802 504 758 504 748 504 721 493 720 493 719 493 666 504 663 504 660 504 565 496 564 496 563 496 561 496 549 504 530 498 528 498 527 498 526 498 510 504 509 505 384 505 381 504 354 493 353 493 352 493 287 502 287 527"/></Shape>
+	    <String CONTENT="tion assonancée par Raoul Mortier. 1940."
+                    HPOS="285"
+                    VPOS="493"
+                    WIDTH="1223"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1557 555 1810 552" 
+                    HPOS="1554"
+                    VPOS="520"
+                    WIDTH="255"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="1555 554 1555 582 1600 586 1601 586 1602 586 1603 586 1611 580 1624 571 1683 572 1688 576 1705 591 1706 591 1708 591 1709 592 1752 592 1752 591 1753 591 1754 591 1773 574 1808 570 1809 552 1807 534 1776 533 1752 520 1750 520 1721 520 1720 520 1719 520 1717 520 1703 529 1695 536 1673 537 1614 537 1595 526 1585 521 1584 521 1582 521 1554 523 1555 554"/></Shape>
+	    <String CONTENT="Fornfr"
+                    HPOS="1554"
+                    VPOS="520"
+                    WIDTH="255"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1581 519 1668 519" 
+                    HPOS="1580"
+                    VPOS="462"
+                    WIDTH="87"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1580 518 1580 527 1666 532 1667 518 1667 473 1656 463 1656 462 1655 462 1654 462 1629 462 1628 462 1627 462 1625 462 1600 484 1596 486 1580 486 1580 518"/></Shape>
+	    <String CONTENT="itt"
+                    HPOS="1580"
+                    VPOS="462"
+                    WIDTH="87"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1542 616 2304 616" 
+                    HPOS="1541"
+                    VPOS="575"
+                    WIDTH="762"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="1541 615 1541 666 1619 648 1642 663 1644 663 1645 663 1679 664 1681 664 1682 664 1730 647 1775 648 1776 648 1777 648 1779 648 1779 647 1787 640 1854 640 1867 651 1868 651 1869 651 1871 651 1872 651 1885 646 1893 652 1893 653 1894 653 1895 653 1896 655 1916 655 1916 653 1917 653 1919 653 1936 641 1968 655 1969 655 1970 655 2022 655 2050 664 2051 664 2052 664 2054 664 2093 652 2112 667 2114 667 2115 667 2116 667 2138 666 2163 683 2166 686 2168 686 2169 686 2170 688 2303 688 2303 615 2303 594 2247 594 2208 575 2207 575 2206 575 2204 575 2147 590 2072 575 2071 575 2070 575 2068 575 2068 576 2050 594 1990 594 1971 586 1970 586 1969 586 1921 593 1884 575 1883 575 1829 575 1828 575 1827 575 1798 587 1776 577 1775 577 1774 577 1773 577 1771 577 1753 594 1709 594 1684 575 1683 575 1682 575 1609 575 1608 575 1607 575 1606 575 1606 576 1598 582 1565 577 1564 577 1563 577 1562 577 1541 591 1541 615"/></Shape>
+	    <String CONTENT="[Roland, Chanson de, 1940]"
+                    HPOS="1541"
+                    VPOS="575"
+                    WIDTH="762"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

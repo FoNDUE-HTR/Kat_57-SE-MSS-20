@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00208.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="19"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2319 1471 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="216 167 482 164" 
+                    HPOS="214"
+                    VPOS="118"
+                    WIDTH="266"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="215 166 215 196 273 196 273 195 274 195 284 191 309 182 327 188 333 191 334 191 336 191 337 191 343 188 354 182 437 182 439 182 457 190 458 190 460 190 461 190 480 180 480 163 478 127 409 118 408 118 407 118 375 127 344 120 343 120 342 120 306 126 256 121 255 121 214 130 215 166"/></Shape>
+	    <String CONTENT="BERICHTE"
+                    HPOS="214"
+                    VPOS="118"
+                    WIDTH="266"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="216 270 2140 265" 
+                    HPOS="214"
+                    VPOS="226"
+                    WIDTH="1925"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="215 269 215 290 451 289 458 290 480 295 482 295 549 290 570 289 575 290 604 299 606 299 607 300 658 300 658 299 696 291 836 298 837 298 883 289 895 288 917 289 983 295 985 295 1123 289 1160 288 1185 289 1301 296 1302 296 1652 295 1653 295 1674 289 1802 295 1803 295 1839 288 1851 285 1913 288 2113 295 2115 295 2116 295 2139 287 2139 264 2137 233 2035 226 2034 226 2032 226 2012 231 1988 239 1884 239 1863 231 1843 226 1842 226 1755 226 1754 226 1753 226 1738 231 1722 239 1409 239 1342 231 1336 231 1334 231 1326 231 1220 239 1199 231 1196 230 1194 230 926 229 925 229 882 231 739 240 698 231 691 230 690 230 682 231 649 236 501 231 467 230 466 230 460 231 414 242 345 242 299 231 294 230 293 230 214 230 215 269"/></Shape>
+	    <String CONTENT="Wissenschaftliche, der Tomsker Staats-Universität.T.85-   1932-"
+                    HPOS="214"
+                    VPOS="226"
+                    WIDTH="1925"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="208 370 1827 375" 
+                    HPOS="206"
+                    VPOS="331"
+                    WIDTH="1620"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="207 369 206 409 701 412 702 412 704 412 728 404 756 396 819 392 880 392 898 399 899 399 900 399 952 392 1089 392 1152 401 1177 403 1179 403 1214 399 1280 393 1321 398 1386 408 1387 408 1499 404 1500 404 1520 397 1526 394 1544 397 1608 404 1609 404 1610 404 1630 396 1634 394 1686 394 1689 394 1712 406 1713 406 1765 409 1766 409 1767 409 1825 393 1826 374 1825 333 1655 332 1653 332 1652 332 1648 333 1610 343 1516 333 1515 333 1513 333 1512 333 1421 347 1353 337 1352 337 1158 345 915 334 914 334 868 344 734 344 688 333 674 331 673 331 652 333 591 343 538 333 521 331 520 331 505 333 462 343 428 333 425 333 424 333 423 333 418 333 382 342 326 333 318 333 317 333 316 333 315 333 301 339 207 334 207 369"/></Shape>
+	    <String CONTENT="Se:Trudy Tomskogo gosudarstvennogo universiteta. | Acta"
+                    HPOS="206"
+                    VPOS="331"
+                    WIDTH="1620"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1681 464 1802 461" 
+                    HPOS="1679"
+                    VPOS="407"
+                    WIDTH="122"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1680 463 1680 472 1717 484 1718 484 1720 484 1721 484 1743 474 1755 483 1756 483 1758 483 1759 483 1760 483 1761 483 1761 482 1775 469 1776 469 1799 469 1801 460 1799 433 1759 407 1758 407 1756 407 1755 407 1740 408 1739 408 1738 408 1705 436 1679 436 1680 463"/></Shape>
+	    <String CONTENT="As."
+                    HPOS="1679"
+                    VPOS="407"
+                    WIDTH="122"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1666 550 1855 547" 
+                    HPOS="1663"
+                    VPOS="491"
+                    WIDTH="190"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="1664 549 1666 588 1691 576 1705 587 1706 587 1707 587 1709 587 1710 587 1711 587 1740 570 1781 570 1810 588 1812 588 1813 588 1814 588 1853 587 1853 545 1852 509 1821 493 1820 493 1819 493 1818 493 1776 511 1755 493 1754 493 1753 493 1726 491 1724 491 1723 491 1722 491 1691 513 1663 513 1664 549"/></Shape>
+	    <String CONTENT="[Tomsk ]"
+                    HPOS="1663"
+                    VPOS="491"
+                    WIDTH="190"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

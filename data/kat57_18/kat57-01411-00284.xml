@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01411-00284.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1488"
+          PHYSICAL_IMG_NR="20"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1488">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1486"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1487 2315 1487 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="199 167 1408 166" 
+                    HPOS="197"
+                    VPOS="110"
+                    WIDTH="1210"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="198 166 198 188 240 182 259 189 267 192 269 192 270 192 310 189 352 186 357 189 363 193 364 193 365 193 436 194 437 194 493 193 494 193 502 189 517 182 584 182 597 189 599 190 600 190 601 190 602 190 604 190 609 189 632 183 676 189 685 190 687 190 688 190 690 189 702 186 712 189 735 199 736 199 738 200 802 200 802 199 803 199 826 190 847 182 888 190 917 195 919 195 920 195 941 190 947 189 965 190 1004 193 1006 193 1007 193 1012 190 1028 182 1074 190 1077 190 1079 190 1080 190 1081 190 1115 182 1138 190 1161 199 1162 199 1163 200 1260 200 1260 199 1261 199 1283 190 1290 189 1405 190 1407 164 1402 126 1360 142 1287 145 1251 127 1215 110 1214 110 1169 110 1168 110 1167 110 1128 128 1094 146 1084 141 1082 141 1081 141 1037 147 1009 137 1008 137 1007 137 895 147 868 131 842 115 841 115 839 115 838 115 837 115 806 124 754 110 752 110 599 110 597 110 596 110 595 110 555 135 542 142 523 135 502 126 501 126 499 126 498 126 481 135 463 145 424 147 395 140 394 140 393 140 269 147 235 137 222 133 220 133 219 133 197 137 198 166"/></Shape>
+	    <String CONTENT="Piezsch, Gottfried August"
+                    HPOS="197"
+                    VPOS="110"
+                    WIDTH="1210"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2069 63 2244 63" 
+                    HPOS="2067"
+                    VPOS="26"
+                    WIDTH="175"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="2067 62 2067 88 2088 88 2088 86 2090 86 2091 86 2092 85 2103 75 2117 81 2118 81 2120 81 2167 76 2174 79 2191 86 2193 86 2194 86 2242 74 2242 62 2240 26 2211 37 2180 29 2162 26 2160 26 2159 26 2158 26 2158 27 2153 32 2147 38 2067 38 2067 62"/></Shape>
+	    <String CONTENT="Filos"
+                    HPOS="2067"
+                    VPOS="26"
+                    WIDTH="175"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1984 111 2284 121" 
+                    HPOS="1982"
+                    VPOS="70"
+                    WIDTH="301"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="1982 141 2054 135 2065 147 2069 152 2070 152 2070 153 2071 153 2072 153 2074 153 2075 153 2090 150 2116 141 2127 151 2132 156 2133 156 2134 156 2136 156 2137 156 2138 156 2143 152 2168 138 2195 138 2230 157 2232 158 2234 158 2280 159 2283 120 2283 76 2227 71 2226 71 2225 71 2215 76 2182 95 2153 95 2134 78 2127 71 2127 70 2126 70 2124 70 2123 70 2122 70 2121 70 2111 78 2091 91 2035 90 2024 79 2017 73 2015 73 2014 73 2013 73 2012 73 2010 73 2010 74 2003 80 1997 86 1984 80 1983 110 1982 141"/></Shape>
+	    <String CONTENT="Lefnadsf"
+                    HPOS="1982"
+                    VPOS="70"
+                    WIDTH="301"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="163 286 2308 281" 
+                    HPOS="161"
+                    VPOS="224"
+                    WIDTH="2146"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="162 285 162 327 284 327 284 326 285 326 287 324 337 308 416 301 676 305 677 305 678 305 709 295 797 303 798 303 870 296 958 303 960 303 961 303 996 295 1156 298 1255 312 1256 312 1357 297 1452 297 1502 307 1503 307 1654 298 1756 303 1757 303 1797 295 1971 305 1977 307 2030 322 2031 322 2033 323 2251 323 2251 322 2252 322 2306 303 2307 280 2304 239 2280 234 2278 234 2277 234 2262 238 2185 261 2148 261 2074 240 2072 240 2071 240 2070 240 1993 260 1926 256 1843 235 1812 229 1811 229 1809 229 1787 235 1696 261 1554 251 1553 251 1551 251 1518 262 1278 262 1205 239 1204 239 1203 239 1140 239 1110 231 1091 226 1090 226 1089 226 1087 226 1070 231 1017 246 947 230 917 224 782 224 781 224 780 224 760 229 638 265 496 265 385 228 379 225 378 225 377 225 161 225 162 285"/></Shape>
+	    <String CONTENT="Qvinnans höga bestämmelse såsom jungfru"
+                    HPOS="161"
+                    VPOS="224"
+                    WIDTH="2146"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="174 381 2269 386" 
+                    HPOS="172"
+                    VPOS="334"
+                    WIDTH="2096"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="173 380 172 401 203 409 204 409 325 405 468 427 470 427 471 427 487 422 699 431 700 431 702 431 774 412 843 417 844 417 893 407 982 417 983 417 1038 407 1050 405 1137 406 1140 407 1180 419 1182 419 1183 419 1337 409 1381 406 1396 409 1487 430 1488 430 1489 430 1549 410 1561 406 1626 406 1642 410 1713 431 1714 431 1715 431 1756 426 1786 434 1787 434 1788 435 2023 435 2023 434 2024 434 2087 414 2107 407 2266 414 2268 385 2267 367 2208 365 2136 343 2134 343 2133 343 2132 343 2055 365 2054 365 1730 365 1730 364 1630 337 1628 337 1465 337 1463 337 1462 337 1379 364 1376 365 1276 365 1272 364 1235 352 1234 352 1233 352 1184 363 1184 364 1094 364 1092 363 972 336 971 336 852 363 849 363 847 363 760 336 759 336 697 334 493 334 492 334 491 334 423 352 368 341 367 341 365 341 307 358 173 360 173 380"/></Shape>
+	    <String CONTENT="maka, husfru och moder. Ofvers. fran tyskan."
+                    HPOS="172"
+                    VPOS="334"
+                    WIDTH="2096"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1247 480 2131 493" 
+                    HPOS="1245"
+                    VPOS="440"
+                    WIDTH="884"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1246 479 1245 500 1318 498 1329 504 1333 507 1334 507 1336 507 1337 507 1357 505 1409 499 1461 507 1498 513 1499 513 1500 513 1502 513 1508 508 1519 502 1541 509 1546 510 1548 510 1549 510 1550 510 1554 509 1575 502 1591 510 1598 514 1600 514 1601 514 1620 510 1630 509 1674 512 1776 519 1777 519 1809 515 1844 510 1858 517 1865 519 1866 519 1868 519 1883 517 1933 507 1987 517 1988 517 2064 509 2081 520 2082 520 2084 520 2127 522 2129 492 2128 473 2087 465 2086 465 2085 465 2069 472 2064 473 2033 473 2029 471 2014 461 2013 461 2012 461 2010 461 2009 461 2008 461 1994 469 1994 471 1941 471 1937 468 1931 463 1930 463 1928 463 1927 463 1926 463 1910 468 1901 471 1897 468 1868 447 1866 447 1865 447 1864 447 1863 447 1824 467 1818 471 1806 471 1801 466 1778 448 1777 448 1776 448 1775 448 1773 448 1750 460 1724 447 1723 447 1721 447 1720 447 1719 447 1694 463 1693 465 1685 463 1661 460 1659 460 1658 460 1657 460 1652 463 1643 468 1622 468 1616 462 1595 443 1594 443 1592 443 1560 443 1559 443 1558 443 1556 443 1536 461 1529 466 1493 460 1483 458 1482 458 1476 460 1453 465 1430 458 1420 456 1419 456 1417 456 1406 458 1396 460 1393 457 1367 441 1365 441 1364 441 1278 440 1277 440 1276 440 1246 453 1246 479"/></Shape>
+	    <String CONTENT="12º Stockholm u. a"
+                    HPOS="1245"
+                    VPOS="440"
+                    WIDTH="884"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

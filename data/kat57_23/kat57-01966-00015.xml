@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01966-00015.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1476"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1476">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1474"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1475 2311 1475 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="105 79 1024 71" 
+                    HPOS="103"
+                    VPOS="23"
+                    WIDTH="920"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="104 78 104 95 177 110 178 110 179 110 180 110 191 100 244 99 335 120 337 120 386 119 387 119 388 119 414 99 420 94 439 99 467 108 468 108 470 108 518 100 557 94 568 100 584 111 585 111 586 111 588 111 589 111 609 102 610 100 611 102 629 116 631 116 632 116 633 118 713 118 713 116 714 116 716 116 732 103 746 91 777 91 804 91 819 99 820 99 821 99 823 99 824 99 834 94 847 103 849 103 850 103 851 103 852 103 888 91 940 91 970 105 989 114 990 114 991 114 992 114 1023 105 1023 70 1017 43 1005 51 946 51 936 44 909 23 908 23 906 23 890 23 889 23 787 24 786 24 785 24 757 45 746 54 734 54 725 45 701 25 700 25 698 25 697 25 696 25 695 25 668 46 658 54 534 54 524 47 495 28 494 28 493 28 463 28 462 28 461 28 460 28 435 49 426 56 396 56 385 49 358 33 356 33 355 33 354 33 353 33 318 50 303 56 216 50 203 50 175 30 174 30 173 30 130 30 129 30 127 30 126 30 103 47 104 78"/></Shape>
+	    <String CONTENT="University, Univ. of Alabama]"
+                    HPOS="103"
+                    VPOS="23"
+                    WIDTH="920"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="206 249 1086 249" 
+                    HPOS="205"
+                    VPOS="209"
+                    WIDTH="880"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="205 248 205 289 244 286 251 290 258 295 259 295 260 295 262 295 284 290 306 285 444 285 456 291 465 295 466 295 467 295 468 295 479 291 495 285 506 291 511 295 513 295 514 295 515 296 573 296 573 295 574 295 575 295 578 292 583 289 617 292 637 293 638 293 647 292 682 285 711 292 719 295 721 295 722 295 723 295 724 295 727 292 735 285 762 293 765 293 766 293 767 293 769 293 771 293 802 285 818 293 820 295 821 295 823 296 952 296 952 295 953 295 954 295 970 285 984 292 985 292 986 292 1047 285 1082 295 1085 248 1085 218 1066 209 1065 209 1064 209 953 215 901 209 900 209 899 209 872 220 834 220 821 209 820 209 819 209 818 209 697 217 679 211 677 211 676 211 675 211 657 220 597 220 552 209 551 209 550 209 548 209 536 220 519 220 499 209 498 209 497 209 441 215 382 209 381 209 205 218 205 248"/></Shape>
+	    <String CONTENT="UNIVERSITY OF ALABAMA STUDIES"
+                    HPOS="205"
+                    VPOS="209"
+                    WIDTH="880"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1947 84 2069 84" 
+                    HPOS="1946"
+                    VPOS="22"
+                    WIDTH="122"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="1946 83 1946 97 1974 108 1976 108 1977 108 2000 103 2026 98 2037 108 2040 109 2040 110 2041 110 2042 110 2043 111 2068 111 2068 83 2067 38 2051 40 2049 40 2028 22 2027 22 2026 22 2005 22 2004 22 2003 22 2001 22 2001 23 1972 50 1968 55 1946 55 1946 83"/></Shape>
+	    <String CONTENT="Acta"
+                    HPOS="1946"
+                    VPOS="22"
+                    WIDTH="122"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1963 142 2197 142" 
+                    HPOS="1962"
+                    VPOS="98"
+                    WIDTH="234"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="1962 141 1962 163 1988 173 1989 173 1990 173 1992 173 1993 173 1993 172 2000 164 2001 164 2051 166 2051 167 2065 180 2065 182 2067 182 2068 182 2069 182 2089 182 2096 188 2096 189 2097 189 2099 189 2100 190 2155 190 2155 189 2156 189 2196 172 2196 141 2196 111 2158 99 2156 99 2155 99 2154 99 2121 110 2107 98 2106 98 2105 98 2104 98 2102 98 2053 110 2016 98 2015 98 2014 98 2013 98 1985 113 1962 113 1962 141"/></Shape>
+	    <String CONTENT="N. Amer."
+                    HPOS="1962"
+                    VPOS="98"
+                    WIDTH="234"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1265 348 2169 351" 
+                    HPOS="1263"
+                    VPOS="312"
+                    WIDTH="905"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="1264 346 1263 369 1293 383 1294 383 1295 384 1330 384 1330 383 1331 383 1332 383 1344 373 1448 378 1449 378 1450 378 1451 378 1459 372 1493 383 1494 383 1496 383 1554 381 1555 381 1556 381 1565 373 1566 373 1592 384 1593 384 1594 386 1722 386 1722 384 1723 384 1739 377 1755 371 1790 378 1803 381 1805 381 1806 381 1811 378 1822 373 1837 380 1838 380 1839 380 1840 380 1841 380 1843 380 1856 375 1862 380 1864 381 1864 382 1865 382 1866 382 1867 382 1869 382 1870 382 1872 380 1883 372 1937 372 1956 382 1957 383 1958 383 1960 383 1961 383 1962 383 1963 383 1965 382 1981 372 2033 382 2035 382 2036 382 2037 382 2052 372 2090 372 2116 386 2117 386 2118 386 2120 387 2166 387 2168 350 2166 318 2048 327 1960 316 1951 316 1950 316 1949 316 1947 316 1933 328 1867 328 1817 316 1816 316 1691 325 1659 314 1658 314 1624 314 1622 314 1621 314 1576 325 1490 313 1487 313 1486 313 1485 313 1449 322 1429 313 1428 313 1427 313 1374 324 1264 312 1264 346"/></Shape>
+	    <String CONTENT="8:o University, Ala. 1950-53"
+                    HPOS="1263"
+                    VPOS="312"
+                    WIDTH="905"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

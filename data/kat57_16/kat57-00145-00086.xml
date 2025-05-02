@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00086.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="14"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2311 1471 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="231 53 701 53" 
+                    HPOS="230"
+                    VPOS="8"
+                    WIDTH="470"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="230 52 230 67 258 66 261 67 272 78 272 79 273 79 274 79 276 80 310 80 310 79 311 79 312 79 321 72 349 79 350 79 352 79 402 73 424 78 425 78 427 78 428 78 429 78 429 77 440 66 441 66 479 66 488 73 488 74 489 74 490 74 492 74 554 69 569 79 570 79 571 79 573 79 574 79 575 79 592 68 614 79 616 79 617 80 645 80 645 79 683 77 684 77 685 77 700 66 700 52 699 25 654 29 646 23 631 9 631 8 630 8 629 8 608 8 607 8 606 8 604 8 604 9 595 18 580 8 579 8 578 8 576 8 575 8 574 8 563 15 539 8 538 8 537 8 536 8 516 18 508 23 501 18 493 9 492 9 490 9 489 9 488 9 487 9 478 17 463 29 400 23 398 23 337 29 292 9 287 8 285 8 230 8 230 52"/></Shape>
+	    <String CONTENT="Halle , Kantges."
+                    HPOS="230"
+                    VPOS="8"
+                    WIDTH="470"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="243 144 563 147" 
+                    HPOS="241"
+                    VPOS="99"
+                    WIDTH="321"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="242 143 241 158 416 170 417 171 546 171 546 170 547 170 560 163 562 145 562 115 528 106 527 106 526 106 525 106 509 115 500 118 493 114 478 104 477 104 476 104 474 104 473 104 472 104 458 112 441 123 355 123 336 121 323 110 312 100 312 99 311 99 310 99 261 99 260 99 258 99 242 106 242 143"/></Shape>
+	    <String CONTENT="Bericht"
+                    HPOS="241"
+                    VPOS="99"
+                    WIDTH="321"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="238 234 1687 234" 
+                    HPOS="236"
+                    VPOS="193"
+                    WIDTH="1450"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="236 233 236 257 398 261 400 261 411 260 449 253 500 261 565 269 566 269 614 262 628 260 634 262 658 272 660 272 661 272 715 262 721 262 742 263 882 272 883 272 884 272 906 264 941 253 1106 253 1211 268 1244 272 1245 273 1337 273 1337 272 1338 272 1346 269 1387 253 1483 253 1499 260 1500 260 1502 260 1536 256 1579 272 1581 272 1583 272 1584 273 1686 273 1686 233 1684 193 1612 203 1573 193 1572 193 1570 193 1569 193 1518 199 1424 195 1423 195 1363 209 1320 209 1281 196 1279 196 1278 196 1227 208 1190 193 1189 193 1187 193 1153 193 1152 193 1151 193 1149 193 1119 206 1084 195 1083 195 1075 193 1018 193 1017 193 1012 193 952 209 784 209 754 197 753 197 684 195 627 193 625 193 624 193 622 195 595 209 541 209 495 195 490 193 489 193 488 193 487 193 483 195 452 209 359 209 327 195 326 195 325 195 323 195 236 195 236 233"/></Shape>
+	    <String CONTENT="über die Vorträge der Kantgesellschaft"
+                    HPOS="236"
+                    VPOS="193"
+                    WIDTH="1450"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="270 392 1138 392" 
+                    HPOS="269"
+                    VPOS="356"
+                    WIDTH="868"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="269 391 269 417 274 420 276 420 277 420 278 420 279 420 290 414 295 413 467 413 483 419 495 425 497 425 498 425 536 421 546 420 553 421 601 433 602 433 603 433 623 423 640 415 660 424 676 431 677 431 733 434 735 434 736 434 737 434 737 433 744 426 746 426 747 426 757 434 758 434 759 434 845 436 846 436 847 436 863 430 890 418 943 429 944 429 946 429 985 414 1034 414 1063 435 1065 436 1066 436 1067 436 1068 437 1137 437 1137 391 1135 356 1114 366 1093 356 1092 356 1090 356 1089 356 1088 356 1084 356 1043 368 992 360 991 360 948 368 927 359 924 358 922 358 860 356 859 356 857 356 847 360 829 369 726 369 715 363 709 359 708 359 706 359 705 359 698 363 688 369 618 369 611 364 601 358 600 358 598 358 597 358 548 365 533 366 531 365 517 356 516 356 515 356 440 356 439 356 438 356 418 366 416 369 375 369 373 368 344 356 343 356 342 356 341 356 327 363 296 358 295 358 294 358 269 368 269 391"/></Shape>
+	    <String CONTENT="1-2 i Kantstudien. Bd 18-19]"
+                    HPOS="269"
+                    VPOS="356"
+                    WIDTH="868"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1588 309 2094 314" 
+                    HPOS="1586"
+                    VPOS="272"
+                    WIDTH="507"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1587 307 1586 338 1714 329 1748 329 1762 342 1763 342 1764 342 1765 342 1767 342 1768 342 1783 331 1828 331 1859 342 1860 342 1861 342 1947 332 1965 343 1967 343 1968 343 1969 343 1970 343 1995 333 2006 343 2006 344 2007 344 2008 344 2010 345 2092 345 2093 312 2089 274 2066 283 2038 277 2037 277 2035 277 2034 277 2034 278 2024 285 2008 276 2007 274 2006 274 2005 274 2003 274 2002 274 1999 276 1981 284 1965 277 1958 273 1957 273 1956 273 1954 273 1953 273 1948 277 1931 288 1877 288 1867 278 1861 273 1860 273 1859 273 1840 272 1839 272 1838 272 1818 279 1817 279 1812 279 1724 272 1722 272 1721 272 1698 282 1691 285 1673 285 1671 282 1665 277 1665 276 1664 276 1662 276 1661 276 1660 276 1645 283 1641 284 1638 283 1623 277 1622 277 1621 277 1587 283 1587 307"/></Shape>
+	    <String CONTENT="8:o Berlin 1915."
+                    HPOS="1586"
+                    VPOS="272"
+                    WIDTH="507"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2097 40 2258 43" 
+                    HPOS="2094"
+                    VPOS="1"
+                    WIDTH="162"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="2178 1 2154 6 2148 1 2143 1 2134 1 2096 4 2096 39 2094 57 2235 63 2237 63 2238 63 2255 56 2256 42 2256 9 2179 1 2178 1"/></Shape>
+	    <String CONTENT="Filos"
+                    HPOS="2094"
+                    VPOS="1"
+                    WIDTH="162"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="2105 89 2287 96" 
+                    HPOS="2103"
+                    VPOS="50"
+                    WIDTH="183"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="2104 88 2103 104 2145 118 2146 118 2147 118 2181 115 2208 111 2222 120 2229 126 2231 126 2232 126 2282 127 2286 95 2286 61 2277 55 2276 55 2275 55 2273 55 2237 62 2229 63 2219 62 2167 50 2165 50 2164 50 2142 58 2136 52 2135 52 2134 52 2132 52 2104 57 2104 88"/></Shape>
+	    <String CONTENT="Sällsk."
+                    HPOS="2103"
+                    VPOS="50"
+                    WIDTH="183"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

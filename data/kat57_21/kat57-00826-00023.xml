@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00826-00023.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2319 1471 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="244 183 1042 191" 
+                    HPOS="241"
+                    VPOS="126"
+                    WIDTH="800"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="242 182 241 207 252 217 252 218 253 218 255 218 377 219 379 220 477 220 477 219 549 209 560 219 560 220 561 220 563 220 564 220 612 213 671 222 672 222 673 222 704 212 748 217 749 217 750 217 761 210 772 222 772 223 774 223 775 223 776 223 777 223 815 212 836 218 837 218 839 218 840 218 841 218 852 212 923 212 936 222 937 222 938 222 939 222 941 222 942 222 952 213 975 219 976 219 977 219 1040 212 1041 190 1040 152 990 152 988 150 970 136 969 136 967 136 966 136 918 147 888 138 887 138 885 138 884 138 857 148 855 150 815 150 813 148 792 130 791 130 790 130 775 128 640 127 639 127 637 127 636 127 619 138 570 144 550 147 533 144 488 136 487 136 456 139 425 126 424 126 423 126 422 126 420 126 393 142 392 143 358 143 357 142 342 132 341 132 339 132 338 132 337 132 336 132 321 141 315 144 242 141 242 182"/></Shape>
+	    <String CONTENT="JAAKKOLA, [Kaarle] Jalmari"
+                    HPOS="241"
+                    VPOS="126"
+                    WIDTH="800"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="244 284 1424 281" 
+                    HPOS="241"
+                    VPOS="244"
+                    WIDTH="1182"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="242 283 242 317 397 307 575 307 606 315 607 315 608 315 609 315 625 307 683 315 709 317 710 317 869 312 931 311 941 312 976 316 977 316 979 316 980 316 987 311 990 310 993 311 1007 316 1008 316 1009 317 1194 317 1194 316 1196 316 1217 309 1226 306 1307 306 1313 307 1334 315 1336 315 1337 315 1338 315 1356 307 1360 306 1421 306 1423 280 1420 250 1316 244 1315 244 1286 250 1271 255 1185 255 1160 251 1102 244 1101 244 887 252 855 253 852 252 834 244 833 244 831 244 768 253 755 255 733 253 608 245 607 245 526 255 523 255 521 255 451 245 450 245 398 255 371 245 370 245 369 245 300 253 279 245 278 245 277 245 276 245 241 256 242 283"/></Shape>
+	    <String CONTENT="Se: Vuoden 1616 valitusluettelot...1936."
+                    HPOS="241"
+                    VPOS="244"
+                    WIDTH="1182"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="276 381 1349 388" 
+                    HPOS="273"
+                    VPOS="342"
+                    WIDTH="1075"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="274 380 273 413 306 424 307 424 309 424 310 424 344 415 376 424 377 424 379 424 426 419 482 425 483 425 484 425 510 418 549 423 550 423 552 423 566 414 568 414 570 414 591 420 592 420 593 420 622 415 628 414 633 415 673 426 674 426 676 426 677 426 694 420 715 425 716 425 717 425 718 425 742 415 743 415 765 424 766 424 768 424 803 415 808 415 813 415 861 425 862 425 911 418 961 426 963 426 1039 419 1060 429 1061 429 1062 429 1347 418 1348 387 1347 343 1203 343 1202 343 1201 343 1198 344 1170 360 1142 345 1140 345 1139 345 1138 345 1137 345 1112 360 1060 345 1058 345 1057 345 1056 345 1051 345 982 359 965 348 964 348 963 348 961 348 960 348 948 353 922 347 896 342 895 342 894 342 877 348 846 359 764 349 760 349 759 349 747 349 622 356 610 350 603 347 602 347 601 347 599 347 585 352 576 354 571 352 565 347 564 347 563 347 561 347 560 347 548 352 534 356 393 356 387 354 365 345 364 345 363 345 361 345 332 354 327 355 322 354 306 349 305 349 304 349 274 354 274 380"/></Shape>
+	    <String CONTENT="i: Suomen historian lähteitä.1. |Hist."
+                    HPOS="273"
+                    VPOS="342"
+                    WIDTH="1075"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1218 477 1326 474" 
+                    HPOS="1215"
+                    VPOS="412"
+                    WIDTH="110"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1217 475 1217 484 1262 493 1263 493 1264 493 1266 493 1266 491 1267 491 1273 484 1301 491 1302 491 1304 491 1305 491 1325 482 1325 473 1323 437 1271 412 1269 412 1268 412 1267 412 1266 412 1229 439 1229 440 1215 440 1217 475"/></Shape>
+	    <String CONTENT="Fin."
+                    HPOS="1215"
+                    VPOS="412"
+                    WIDTH="110"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1215 555 1379 558" 
+                    HPOS="1213"
+                    VPOS="516"
+                    WIDTH="165"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1214 554 1213 588 1256 592 1257 592 1258 592 1274 586 1277 586 1278 586 1296 592 1298 592 1299 592 1300 592 1315 585 1318 582 1322 583 1333 590 1334 590 1336 590 1337 590 1338 590 1345 583 1347 582 1377 582 1378 556 1378 527 1361 516 1360 516 1359 516 1336 516 1334 516 1333 516 1332 516 1332 517 1317 529 1317 531 1304 531 1302 529 1278 516 1277 516 1275 516 1274 516 1273 516 1255 531 1252 532 1214 532 1214 554"/></Shape>
+	    <String CONTENT="Saml."
+                    HPOS="1213"
+                    VPOS="516"
+                    WIDTH="165"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

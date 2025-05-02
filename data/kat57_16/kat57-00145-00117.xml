@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00117.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="28"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2311 1471 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="190 206 547 203" 
+                    HPOS="187"
+                    VPOS="131"
+                    WIDTH="359"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="188 204 188 220 233 220 252 229 254 229 255 229 316 220 330 229 331 229 332 229 333 229 392 222 446 225 447 225 449 225 450 225 456 219 457 219 476 228 477 228 478 228 506 222 520 226 521 226 522 226 524 226 546 219 546 202 544 149 517 136 516 136 515 136 514 136 485 145 481 148 476 145 456 133 455 133 454 133 452 133 451 133 450 133 435 143 398 166 322 166 306 166 269 134 266 131 265 131 263 131 187 131 188 204"/></Shape>
+	    <String CONTENT="Bericht"
+                    HPOS="187"
+                    VPOS="131"
+                    WIDTH="359"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="161 300 2269 311" 
+                    HPOS="159"
+                    VPOS="177"
+                    WIDTH="2108"
+                    HEIGHT="162">
+            <Shape><Polygon POINTS="160 299 159 327 849 326 962 333 971 333 973 333 981 333 1071 327 1106 334 1113 334 1114 334 1174 334 1540 329 1575 336 1581 337 1583 337 1638 337 1956 332 2080 339 2097 339 2098 339 2114 339 2231 333 2265 339 2267 310 2265 261 2150 258 2148 258 2147 258 2071 284 2008 282 2007 282 2006 282 1979 288 1844 266 1843 266 1746 278 1683 260 1682 260 1681 260 1680 260 1622 277 1482 263 1481 263 1418 277 1348 273 1347 273 1346 273 1322 279 1216 257 1146 257 1144 257 1103 267 1070 255 1068 255 1067 255 959 272 859 244 857 244 818 242 682 197 627 180 625 180 160 177 160 299"/></Shape>
+	    <String CONTENT="Zweiter, über die Revision der Titel 24 bis 33 des schweizerischen"
+                    HPOS="159"
+                    VPOS="177"
+                    WIDTH="2108"
+                    HEIGHT="162"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="171 404 985 408" 
+                    HPOS="169"
+                    VPOS="364"
+                    WIDTH="815"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="170 403 169 421 193 431 195 431 196 431 229 424 252 433 254 433 255 433 256 433 257 433 268 424 288 431 289 431 290 431 292 431 322 424 352 431 353 431 354 431 418 426 478 433 479 433 526 425 564 434 565 434 566 434 597 425 661 434 662 434 663 434 679 425 685 431 685 433 687 433 688 433 689 433 758 428 770 435 771 435 773 435 774 435 816 426 874 426 883 435 884 435 886 435 887 435 982 425 984 407 980 374 944 385 901 375 876 369 874 369 873 369 872 369 865 375 849 388 817 388 796 376 780 366 779 366 778 366 776 366 775 366 755 376 748 380 741 377 712 366 711 366 710 366 709 366 708 366 708 368 695 377 685 387 498 387 485 380 455 365 454 365 409 364 408 364 407 364 406 364 406 365 391 379 375 382 363 385 359 382 355 379 354 379 353 379 352 379 331 382 296 364 295 364 200 364 198 364 197 364 196 364 170 381 170 403"/></Shape>
+	    <String CONTENT="Obligationenrechts. 1925"
+                    HPOS="169"
+                    VPOS="364"
+                    WIDTH="815"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="163 512 1692 520" 
+                    HPOS="160"
+                    VPOS="456"
+                    WIDTH="1531"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="161 511 160 556 294 531 362 531 393 540 395 540 396 540 503 534 576 547 578 547 633 539 671 548 672 548 771 533 841 550 843 550 844 550 890 549 922 555 960 563 1200 564 1201 564 1202 564 1233 554 1283 538 1518 544 1519 544 1548 538 1595 553 1597 553 1599 553 1600 553 1601 553 1603 553 1637 543 1688 552 1691 518 1688 484 1649 488 1617 482 1605 480 1603 480 1591 482 1546 488 1526 480 1492 467 1491 467 1489 467 1488 467 1466 475 1425 462 1424 462 1423 462 1422 462 1381 478 1362 486 1221 488 1181 474 1144 461 1143 461 1142 461 1081 472 1050 478 1025 472 990 461 989 461 897 460 895 460 894 460 873 468 839 483 765 467 743 462 742 462 741 462 730 466 676 485 471 485 423 460 417 457 416 457 310 457 309 457 308 457 304 458 272 467 242 457 241 457 161 456 161 511"/></Shape>
+	    <String CONTENT="Se : Schweizerisches Obligationenrecht. 1923"
+                    HPOS="160"
+                    VPOS="456"
+                    WIDTH="1531"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1521 570 1733 566" 
+                    HPOS="1519"
+                    VPOS="540"
+                    WIDTH="213"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1520 569 1520 597 1530 602 1531 602 1532 602 1533 602 1535 602 1542 597 1549 592 1576 592 1595 594 1627 599 1628 599 1629 599 1646 593 1653 591 1662 592 1705 599 1707 599 1708 599 1732 590 1732 565 1729 545 1640 549 1622 544 1608 540 1607 540 1606 540 1605 540 1597 544 1586 550 1570 544 1564 542 1563 542 1562 542 1519 543 1520 569"/></Shape>
+	    <String CONTENT="Beilage"
+                    HPOS="1519"
+                    VPOS="540"
+                    WIDTH="213"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1794 498 1909 491" 
+                    HPOS="1790"
+                    VPOS="462"
+                    WIDTH="118"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="1792 496 1792 505 1824 505 1837 510 1855 517 1856 517 1857 517 1908 513 1908 490 1905 467 1868 462 1867 462 1790 471 1792 496"/></Shape>
+	    <String CONTENT="Jur."
+                    HPOS="1790"
+                    VPOS="462"
+                    WIDTH="118"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1795 560 1993 557" 
+                    HPOS="1792"
+                    VPOS="527"
+                    WIDTH="200"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="1794 559 1794 577 1991 578 1992 556 1988 533 1970 538 1964 534 1954 527 1953 527 1952 527 1921 527 1920 527 1919 527 1918 527 1907 537 1903 539 1860 539 1856 538 1838 531 1837 531 1835 531 1834 531 1833 531 1821 539 1821 540 1792 540 1794 559"/></Shape>
+	    <String CONTENT="Civilr"
+                    HPOS="1792"
+                    VPOS="527"
+                    WIDTH="200"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1800 616 1969 619" 
+                    HPOS="1797"
+                    VPOS="575"
+                    WIDTH="171"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="1799 615 1797 644 1967 641 1968 618 1968 597 1937 590 1936 590 1918 592 1899 596 1894 591 1880 576 1880 575 1878 575 1877 575 1876 575 1799 582 1799 615"/></Shape>
+	    <String CONTENT="Schw."
+                    HPOS="1797"
+                    VPOS="575"
+                    WIDTH="171"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

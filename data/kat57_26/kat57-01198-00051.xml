@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01198-00051.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="49"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2323 1479 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="316 220 989 220" 
+                    HPOS="315"
+                    VPOS="175"
+                    WIDTH="673"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="315 219 315 252 320 257 321 257 323 257 324 259 672 259 672 257 673 257 705 246 711 244 900 244 901 244 910 250 911 250 912 250 914 250 988 242 988 219 988 186 969 178 968 178 967 178 932 186 931 187 726 187 721 183 701 175 700 175 699 175 537 181 510 176 509 176 508 176 506 176 506 177 502 181 497 186 452 181 429 178 428 178 414 180 387 185 376 180 363 175 362 175 361 175 315 178 315 219"/></Shape>
+	    <String CONTENT="MEYER-BENFEY, Heinrich"
+                    HPOS="315"
+                    VPOS="175"
+                    WIDTH="673"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="301 324 1514 327" 
+                    HPOS="299"
+                    VPOS="263"
+                    WIDTH="1214"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="300 323 299 344 445 352 446 352 555 347 584 346 592 347 616 353 618 353 619 353 659 349 678 346 694 349 732 356 733 356 842 350 881 349 886 351 895 355 896 355 898 355 899 355 914 351 920 350 955 351 1032 356 1033 356 1034 356 1047 352 1068 347 1090 353 1107 357 1108 357 1110 358 1248 358 1248 357 1249 357 1255 355 1270 349 1322 356 1337 357 1338 357 1339 357 1343 356 1359 349 1439 349 1455 356 1456 356 1458 356 1459 356 1476 351 1511 357 1513 326 1513 296 1472 283 1471 283 1470 283 1469 283 1438 293 1429 296 1412 293 1376 286 1375 286 1374 286 1360 291 1349 296 1334 291 1321 286 1319 286 1318 286 1317 286 1303 289 1260 303 1195 291 1194 291 1192 291 1174 297 1148 286 1143 283 1142 283 1141 283 1127 284 1039 299 955 288 954 288 853 297 798 288 796 288 758 297 614 283 613 283 611 283 558 300 510 286 509 286 508 286 506 286 492 291 446 282 420 266 419 265 418 265 416 265 300 263 300 323"/></Shape>
+	    <String CONTENT="Mittelhochdeutsche Übungsstücke. 2 Aufl."
+                    HPOS="299"
+                    VPOS="263"
+                    WIDTH="1214"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="293 440 578 440" 
+                    HPOS="292"
+                    VPOS="388"
+                    WIDTH="285"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="292 439 292 467 354 488 355 488 356 488 421 487 423 487 424 487 437 477 444 472 486 467 540 468 574 485 577 439 577 408 551 394 550 394 548 394 547 394 546 394 534 405 519 395 518 395 516 395 515 395 514 395 488 409 487 410 453 410 452 409 394 388 393 388 334 388 333 388 331 388 330 388 330 389 309 409 309 410 292 410 292 439"/></Shape>
+	    <String CONTENT="Häfte 1-2"
+                    HPOS="292"
+                    VPOS="388"
+                    WIDTH="285"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1492 424 2084 428" 
+                    HPOS="1490"
+                    VPOS="381"
+                    WIDTH="593"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1491 423 1490 456 1609 457 1611 457 1612 457 1618 455 1638 447 1645 453 1646 453 1648 453 1649 453 1730 448 1739 453 1739 455 1740 455 1741 455 1743 455 1744 455 1747 453 1765 448 1789 453 1820 460 1821 460 1876 453 1926 460 1928 460 1929 460 1946 452 1971 460 1972 460 1973 460 1974 460 1976 460 1976 458 1983 451 1984 451 2082 451 2083 427 2083 384 2019 384 2018 384 2016 384 2014 384 1989 394 1981 386 1979 386 1979 384 1978 384 1977 384 1976 384 1974 384 1973 384 1972 386 1963 392 1950 386 1946 384 1945 384 1944 384 1942 384 1941 384 1940 386 1924 397 1854 388 1835 386 1834 386 1833 386 1831 386 1831 387 1829 388 1819 398 1788 398 1763 389 1740 382 1739 382 1738 382 1696 390 1670 395 1664 390 1652 382 1651 382 1650 382 1649 382 1648 382 1625 392 1618 394 1609 392 1576 381 1575 381 1574 381 1572 381 1548 393 1546 393 1530 386 1529 386 1528 386 1491 393 1491 423"/></Shape>
+	    <String CONTENT="8:o Halle a.S. 1920."
+                    HPOS="1490"
+                    VPOS="381"
+                    WIDTH="593"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2087 82 2276 87" 
+                    HPOS="2084"
+                    VPOS="43"
+                    WIDTH="191"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="2085 81 2084 111 2113 112 2114 112 2115 112 2116 112 2120 108 2134 98 2173 103 2210 108 2211 108 2274 94 2275 86 2275 56 2229 43 2227 43 2208 43 2206 43 2205 43 2204 43 2204 44 2192 54 2127 45 2126 45 2085 50 2085 81"/></Shape>
+	    <String CONTENT="Språkv."
+                    HPOS="2084"
+                    VPOS="43"
+                    WIDTH="191"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2087 180 2279 180" 
+                    HPOS="2085"
+                    VPOS="141"
+                    WIDTH="193"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="2085 178 2085 209 2136 209 2140 212 2175 244 2177 244 2178 244 2179 245 2225 245 2225 244 2226 244 2227 244 2251 223 2278 220 2278 178 2278 157 2206 141 2205 141 2204 141 2177 154 2145 145 2143 145 2142 145 2141 145 2140 145 2125 156 2115 149 2114 149 2113 149 2111 149 2110 149 2085 156 2085 178"/></Shape>
+	    <String CONTENT="Fornty."
+                    HPOS="2085"
+                    VPOS="141"
+                    WIDTH="193"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

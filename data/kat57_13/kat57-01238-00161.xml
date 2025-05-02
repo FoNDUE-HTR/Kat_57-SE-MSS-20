@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00161.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1476"
+          PHYSICAL_IMG_NR="9"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1476">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1474"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1475 2327 1475 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2077 63 2214 63" 
+                    HPOS="2076"
+                    VPOS="2"
+                    WIDTH="137"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="2076 62 2076 75 2099 86 2100 86 2101 86 2213 75 2213 62 2213 11 2149 2 2148 2 2147 2 2145 2 2145 3 2118 27 2110 35 2076 35 2076 62"/></Shape>
+	    <String CONTENT="Med."
+                    HPOS="2076"
+                    VPOS="2"
+                    WIDTH="137"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="297 209 1166 212" 
+                    HPOS="295"
+                    VPOS="173"
+                    WIDTH="870"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="296 207 295 233 313 246 314 246 316 246 317 247 536 247 536 246 537 246 538 246 558 233 584 233 655 241 657 241 658 241 670 234 725 241 727 241 728 241 751 234 777 243 778 243 780 243 877 236 908 246 909 246 910 246 956 238 1000 248 1001 248 1002 248 1004 248 1018 236 1082 236 1093 244 1095 244 1096 244 1097 244 1164 234 1165 211 1165 183 1084 175 1082 175 1081 175 1069 182 1066 183 1063 182 1042 175 1040 175 1039 175 1038 175 1026 182 1024 183 936 183 922 182 868 174 867 174 866 174 865 174 855 182 853 183 809 183 801 182 739 174 738 174 706 180 700 182 686 180 606 174 605 174 604 174 590 180 588 182 574 180 515 174 514 174 474 179 461 173 460 173 458 173 296 179 296 207"/></Shape>
+	    <String CONTENT="MORSING, Christen Thorkelsen"
+                    HPOS="295"
+                    VPOS="173"
+                    WIDTH="870"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2027 145 2254 143" 
+                    HPOS="2025"
+                    VPOS="81"
+                    WIDTH="227"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="2026 143 2026 172 2079 162 2128 162 2153 172 2154 172 2155 172 2156 172 2158 172 2159 172 2181 164 2193 172 2195 172 2196 172 2197 172 2252 170 2252 142 2248 102 2241 104 2239 102 2222 86 2222 84 2220 84 2219 84 2218 84 2217 84 2208 88 2202 82 2202 81 2201 81 2200 81 2133 81 2132 81 2131 81 2129 81 2099 108 2090 114 2025 111 2026 143"/></Shape>
+	    <String CONTENT="[  Patol."
+                    HPOS="2025"
+                    VPOS="81"
+                    WIDTH="227"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="303 314 2211 314" 
+                    HPOS="302"
+                    VPOS="279"
+                    WIDTH="1907"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="302 313 302 338 440 345 441 345 586 339 613 345 615 345 616 346 829 346 829 345 830 345 851 339 898 345 899 345 946 339 988 345 989 345 1033 339 1165 339 1183 345 1184 345 1186 345 1246 339 1346 345 1347 345 1455 339 2166 345 2168 345 2209 338 2209 313 2209 279 2126 279 2124 279 2123 279 2102 286 2069 280 2068 280 1929 285 1817 280 1782 279 1781 279 1757 280 1677 286 1565 281 1507 279 1506 279 1492 281 1470 287 1370 287 1333 282 1303 279 1301 279 1300 279 1289 282 1277 287 1208 287 1181 282 1148 279 1146 279 1100 284 1068 286 1050 284 1023 279 1022 279 1021 279 1004 284 994 287 718 287 714 285 697 279 696 279 638 279 637 279 605 285 599 287 378 287 377 286 343 279 342 279 302 286 302 313"/></Shape>
+	    <String CONTENT="Christiern Thorckelsen Morsings danske Skrifter.Pestbog etc.Ved"
+                    HPOS="302"
+                    VPOS="279"
+                    WIDTH="1907"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="306 416 1207 421" 
+                    HPOS="303"
+                    VPOS="382"
+                    WIDTH="902"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="305 415 303 437 337 439 351 451 353 451 354 451 355 451 407 441 425 448 426 448 428 448 429 448 430 448 442 440 458 440 473 451 474 451 476 451 552 452 553 453 645 453 645 452 647 452 670 441 673 441 677 441 718 448 719 448 721 448 738 442 741 441 751 442 786 447 787 447 869 444 900 442 914 444 981 455 983 455 1204 446 1205 420 1204 393 1102 386 1101 386 1045 392 1031 393 1026 392 1008 386 1007 386 1006 386 981 391 975 386 975 384 974 384 973 384 932 384 931 384 930 384 906 392 903 392 899 391 868 384 867 384 830 391 824 392 821 391 814 384 813 384 812 384 771 384 770 384 769 384 756 391 754 392 750 391 727 383 725 383 724 383 723 383 722 383 711 391 709 391 703 391 638 383 637 383 547 389 530 391 526 389 508 382 506 382 505 382 305 388 305 415"/></Shape>
+	    <String CONTENT="Axel Hansen og Knud Jensenius."
+                    HPOS="303"
+                    VPOS="382"
+                    WIDTH="902"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1495 523 2080 523" 
+                    HPOS="1494"
+                    VPOS="479"
+                    WIDTH="585"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1494 522 1494 542 1581 542 1582 542 1589 548 1590 548 1592 548 1593 548 1594 548 1615 543 1620 542 1626 543 1666 552 1667 552 1711 544 1725 542 1728 544 1749 557 1750 557 1752 557 1753 558 1796 558 1796 557 1797 557 1798 557 1817 546 1832 551 1833 551 1834 551 1835 551 1837 551 1843 546 1845 544 1851 546 1889 557 1891 557 1892 557 2079 548 2079 522 2076 484 2060 489 2048 484 2036 479 2035 479 1945 479 1944 479 1942 479 1941 479 1941 480 1935 484 1929 492 1728 492 1721 487 1711 479 1710 479 1709 479 1675 479 1674 479 1641 487 1624 490 1517 489 1515 488 1509 482 1508 482 1507 482 1506 482 1504 482 1494 487 1494 522"/></Shape>
+	    <String CONTENT="8:o København 1937."
+                    HPOS="1494"
+                    VPOS="479"
+                    WIDTH="585"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="305 621 1193 626 1477 635" 
+                    HPOS="303"
+                    VPOS="583"
+                    WIDTH="1173"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="303 619 303 646 348 643 380 648 394 650 396 650 406 648 431 643 482 649 513 653 514 653 531 650 573 642 591 650 594 651 595 651 596 651 604 650 648 643 668 651 669 651 670 651 671 651 675 651 727 643 767 653 780 655 781 655 796 653 823 648 839 654 844 655 845 655 1027 658 1028 659 1096 659 1096 658 1097 658 1098 658 1100 656 1118 646 1325 646 1390 660 1395 660 1396 661 1475 661 1476 634 1475 583 1307 590 1287 585 1285 585 1284 585 1283 585 1263 592 1167 585 1162 585 1161 585 1160 585 1133 600 1070 600 1029 586 1021 584 1020 584 1018 584 999 586 951 594 935 587 933 587 932 587 931 587 911 596 894 587 892 586 890 586 889 586 882 587 845 596 817 589 809 586 808 586 807 586 805 586 802 589 788 596 743 596 722 589 700 583 698 583 697 583 666 590 642 595 594 590 540 585 538 585 495 591 484 592 479 591 451 583 450 583 449 583 303 592 303 619"/></Shape>
+	    <String CONTENT="Se:Klassisk dansk Medicine...Vol.1. ( Med"
+                    HPOS="303"
+                    VPOS="583"
+                    WIDTH="1173"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1380 714 1522 710" 
+                    HPOS="1378"
+                    VPOS="654"
+                    WIDTH="142"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1379 713 1379 738 1417 750 1418 750 1419 750 1454 749 1455 749 1472 741 1483 736 1494 742 1503 746 1504 746 1506 746 1520 742 1520 709 1517 666 1482 671 1478 669 1461 654 1460 654 1459 654 1428 654 1427 654 1426 654 1378 674 1379 713"/></Shape>
+	    <String CONTENT="Saml."
+                    HPOS="1378"
+                    VPOS="654"
+                    WIDTH="142"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

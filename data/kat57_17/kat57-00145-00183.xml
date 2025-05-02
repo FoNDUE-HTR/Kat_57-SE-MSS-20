@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00183.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2319 1479 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="156 60 1068 56" 
+                    HPOS="154"
+                    VPOS="9"
+                    WIDTH="912"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="155 59 155 111 186 111 186 109 187 109 188 109 235 78 262 99 263 99 265 99 291 106 309 109 310 111 415 111 415 109 471 103 472 103 473 103 477 101 489 93 505 99 511 102 513 102 514 102 515 102 516 102 520 99 558 77 625 77 654 96 656 96 657 96 658 96 659 96 661 96 661 94 686 77 738 91 740 91 741 91 742 91 743 91 768 76 812 76 854 87 857 90 873 103 874 103 875 103 876 103 878 103 917 87 947 76 964 86 997 107 999 107 1000 107 1001 107 1002 107 1003 107 1027 91 1052 93 1053 93 1054 93 1055 93 1066 85 1066 55 1064 12 1049 9 1048 9 1047 9 1045 9 1042 12 1026 22 1002 12 997 11 996 11 995 11 969 13 910 19 902 14 896 9 895 9 894 9 848 9 847 9 846 9 844 9 836 16 822 25 791 28 777 22 775 22 774 22 773 22 759 29 741 17 731 11 730 11 728 11 700 11 699 11 698 11 696 11 685 18 680 22 675 18 664 11 663 11 662 11 617 11 616 11 615 11 614 11 603 19 588 30 462 30 448 22 429 12 427 12 394 12 393 12 392 12 390 12 374 24 365 32 238 32 226 27 192 13 191 13 189 13 188 13 154 27 155 59"/></Shape>
+	    <String CONTENT="Geografkongr. Interm.II,1875"
+                    HPOS="154"
+                    VPOS="9"
+                    WIDTH="912"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="87 207 354 207" 
+                    HPOS="86"
+                    VPOS="166"
+                    WIDTH="267"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="86 205 86 234 113 247 114 247 115 247 117 247 145 240 170 247 171 247 172 247 173 247 204 235 222 246 223 246 224 246 256 247 257 247 259 247 260 247 275 238 298 247 299 247 300 247 302 247 326 235 353 235 353 205 353 172 86 166 86 205"/></Shape>
+	    <String CONTENT="BERICHTE"
+                    HPOS="86"
+                    VPOS="166"
+                    WIDTH="267"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2050 60 2245 66" 
+                    HPOS="2047"
+                    VPOS="6"
+                    WIDTH="197"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="2049 59 2047 104 2085 106 2086 106 2088 106 2104 99 2142 83 2158 83 2165 93 2176 103 2176 104 2178 104 2179 104 2180 104 2181 104 2183 104 2202 88 2204 88 2205 88 2222 94 2223 94 2225 94 2226 94 2243 85 2244 65 2244 32 2174 30 2160 23 2128 6 2127 6 2126 6 2049 11 2049 59"/></Shape>
+	    <String CONTENT="Geogr"
+                    HPOS="2047"
+                    VPOS="6"
+                    WIDTH="197"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="88 311 2200 308" 
+                    HPOS="86"
+                    VPOS="271"
+                    WIDTH="2113"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="87 310 87 333 294 341 296 341 378 334 381 334 386 334 674 341 675 341 722 334 723 334 725 334 758 344 759 344 760 344 1016 336 1213 342 1214 342 1319 334 1340 333 1357 334 1435 342 1436 342 1536 334 1573 331 2011 331 2028 334 2064 341 2065 341 2199 334 2199 307 2195 278 1964 278 1958 277 1930 271 1929 271 1899 277 1893 278 1877 277 1806 271 1805 271 1600 277 1542 278 1531 277 1497 271 1496 271 1408 277 1362 279 1341 277 1309 272 1308 272 1274 277 1249 279 1203 277 1140 272 1036 272 1034 272 1012 276 995 279 904 276 825 273 823 273 810 276 788 281 756 276 743 275 742 275 725 276 677 281 658 276 649 273 648 273 647 273 622 276 577 281 86 276 87 310"/></Shape>
+	    <String CONTENT="über den internationalen geographischen Congress und die damit verbun-"
+                    HPOS="86"
+                    VPOS="271"
+                    WIDTH="2113"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="87 413 1511 413" 
+                    HPOS="86"
+                    VPOS="376"
+                    WIDTH="1424"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="86 411 86 445 247 442 254 445 266 451 267 451 268 451 270 451 284 445 292 442 308 445 337 450 339 450 373 445 390 442 408 445 442 450 444 450 550 445 592 442 596 444 615 452 616 452 617 452 645 447 703 472 704 472 705 473 1193 473 1193 472 1195 472 1237 456 1312 457 1336 468 1338 468 1339 468 1340 468 1431 442 1510 442 1510 411 1510 387 1441 387 1409 376 1408 376 1303 376 1302 376 1301 376 1281 386 1229 376 1228 376 1227 376 1207 383 1126 376 1124 376 1123 376 1094 386 1060 377 1059 377 1058 377 938 384 857 376 855 376 728 386 682 376 680 376 679 376 652 386 603 376 601 376 558 384 518 376 516 376 515 376 493 384 468 377 467 377 466 377 464 377 447 386 128 379 127 379 86 386 86 411"/></Shape>
+	    <String CONTENT="dene geographische Ausstellung zu Paris 1875..."
+                    HPOS="86"
+                    VPOS="376"
+                    WIDTH="1424"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1343 511 1780 511" 
+                    HPOS="1341"
+                    VPOS="469"
+                    WIDTH="438"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="1341 510 1341 537 1392 537 1408 541 1436 548 1450 561 1450 562 1451 562 1452 562 1454 562 1455 562 1456 562 1468 551 1496 563 1497 563 1498 564 1556 564 1556 563 1557 563 1559 563 1576 551 1599 537 1651 537 1688 558 1695 563 1697 563 1698 563 1699 564 1779 564 1779 510 1779 485 1761 485 1745 471 1745 469 1744 469 1742 469 1683 469 1682 469 1681 469 1665 477 1642 469 1641 469 1640 469 1639 469 1637 469 1612 485 1546 485 1523 469 1521 469 1520 469 1519 469 1481 471 1480 471 1478 471 1478 472 1465 485 1445 485 1382 469 1381 469 1380 469 1341 484 1341 510"/></Shape>
+	    <String CONTENT="8:o Wien 1875."
+                    HPOS="1341"
+                    VPOS="469"
+                    WIDTH="438"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1557 1415 1784 1412" 
+                    HPOS="1555"
+                    VPOS="1362"
+                    WIDTH="228"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1556 1414 1556 1434 1572 1441 1573 1441 1575 1441 1600 1436 1612 1445 1613 1445 1614 1445 1615 1445 1616 1445 1641 1438 1661 1431 1676 1438 1677 1438 1678 1438 1679 1438 1711 1430 1782 1443 1783 1410 1781 1366 1747 1362 1746 1362 1745 1362 1739 1365 1729 1371 1710 1365 1700 1362 1699 1362 1698 1362 1697 1362 1689 1365 1667 1375 1636 1375 1626 1366 1625 1366 1624 1366 1623 1366 1621 1366 1620 1366 1620 1367 1612 1376 1586 1376 1555 1365 1556 1414"/></Shape>
+	    <String CONTENT="22.3.54"
+                    HPOS="1555"
+                    VPOS="1362"
+                    WIDTH="228"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01334-00005.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="32"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2319 1471 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="155 171 362 174" 
+                    HPOS="153"
+                    VPOS="127"
+                    WIDTH="208"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="154 170 153 204 163 212 164 212 165 212 166 212 230 207 299 213 300 213 301 213 303 213 303 212 316 199 360 199 361 172 360 131 314 138 300 132 293 130 291 130 228 127 226 127 154 137 154 170"/></Shape>
+	    <String CONTENT="OKÁČ, A"
+                    HPOS="153"
+                    VPOS="127"
+                    WIDTH="208"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2137 175 2271 175" 
+                    HPOS="2135"
+                    VPOS="130"
+                    WIDTH="135"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="2135 174 2135 197 2270 192 2270 174 2270 142 2240 130 2239 130 2237 130 2236 130 2209 138 2181 130 2180 130 2178 130 2177 130 2176 130 2176 131 2160 144 2160 145 2135 145 2135 174"/></Shape>
+	    <String CONTENT="Acta"
+                    HPOS="2135"
+                    VPOS="130"
+                    WIDTH="135"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2147 231 2282 228" 
+                    HPOS="2143"
+                    VPOS="186"
+                    WIDTH="138"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="2145 230 2145 237 2174 237 2175 237 2205 258 2207 258 2208 258 2209 260 2236 260 2236 258 2237 258 2281 234 2281 226 2280 198 2254 186 2253 186 2252 186 2251 186 2250 186 2236 197 2232 199 2203 199 2200 196 2193 190 2193 188 2192 188 2191 188 2189 188 2143 193 2145 230"/></Shape>
+	    <String CONTENT="Tjeck"
+                    HPOS="2143"
+                    VPOS="186"
+                    WIDTH="138"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="155 274 2127 271" 
+                    HPOS="153"
+                    VPOS="231"
+                    WIDTH="1973"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="154 273 154 296 225 305 226 306 487 306 487 305 550 298 559 298 685 298 691 299 728 305 729 305 791 299 815 296 1188 296 1212 300 1241 304 1242 304 1348 300 1478 295 1498 300 1502 301 1504 301 1505 302 2126 302 2126 269 2122 231 2010 242 1594 242 1563 233 1556 231 1555 231 1554 231 1534 233 1446 242 1289 241 1267 234 1261 233 1259 233 1258 233 1248 234 1206 242 1074 235 1033 233 1031 233 987 235 872 242 839 235 823 233 821 233 755 234 754 234 747 236 723 244 700 236 693 234 691 234 690 234 664 236 606 242 583 236 574 234 572 234 571 234 523 236 437 242 393 237 363 234 277 234 276 234 274 234 262 237 246 242 153 239 154 273"/></Shape>
+	    <String CONTENT="Se: Spisy vydávané přírodovědeckou fakultou Masarykovy university"
+                    HPOS="153"
+                    VPOS="231"
+                    WIDTH="1973"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="243 370 2260 377" 
+                    HPOS="241"
+                    VPOS="328"
+                    WIDTH="2018"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="242 369 241 388 287 397 288 397 572 391 619 398 620 398 845 392 915 399 916 399 1131 393 1191 399 1826 402 1828 402 1879 396 2133 403 2134 403 2135 403 2154 397 2258 397 2259 376 2257 344 2009 336 2008 336 2007 336 1985 342 1960 348 1857 348 1810 341 1770 334 1769 334 1767 334 1753 339 1732 347 1559 347 1512 338 1498 336 1496 336 1463 337 1339 345 1307 336 1298 333 1296 333 1295 333 1247 336 1161 341 1126 334 1107 332 1106 332 1105 332 1095 334 1060 345 916 345 812 344 777 332 772 331 771 331 770 331 760 332 694 343 660 331 658 331 657 331 656 331 641 331 476 338 436 329 435 329 242 328 242 369"/></Shape>
+	    <String CONTENT="Čís.135.O vážkovém stanovení hliníku metodou kyanátovou. Dělení od"
+                    HPOS="241"
+                    VPOS="328"
+                    WIDTH="2018"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="243 469 2281 472" 
+                    HPOS="241"
+                    VPOS="437"
+                    WIDTH="2039"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="242 468 241 494 321 501 322 501 472 495 491 495 664 495 668 496 683 501 684 501 685 501 790 496 828 495 839 496 864 501 866 501 945 498 988 495 1258 495 1298 499 1347 502 1348 502 1459 499 1544 496 1578 499 1613 502 1614 502 1690 500 1782 496 1835 500 1867 502 1868 502 1883 500 1910 496 2278 501 2280 471 2279 447 2156 447 2155 446 2127 439 2126 439 2124 439 2045 446 2041 446 2039 446 1987 439 1818 439 1816 439 1815 439 1789 446 1786 446 1767 446 1637 440 1636 440 1510 445 1480 446 1473 445 1440 439 1439 439 1299 445 1263 446 1256 445 1228 437 1226 437 1225 437 1152 445 1143 445 1127 445 971 437 970 437 887 444 873 445 864 444 821 437 820 437 752 444 737 445 728 444 693 437 602 437 601 437 599 437 581 444 576 445 242 444 242 468"/></Shape>
+	    <String CONTENT="manganu zinku. (Gravimetric determination of aluminium by the cy-"
+                    HPOS="241"
+                    VPOS="437"
+                    WIDTH="2039"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="244 571 1910 579" 
+                    HPOS="241"
+                    VPOS="537"
+                    WIDTH="1668"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="242 570 241 603 366 604 368 604 371 604 407 597 447 602 449 602 478 596 504 604 507 605 509 605 510 607 813 607 813 605 814 605 815 605 841 598 932 598 982 605 991 607 992 607 1001 605 1041 599 1154 605 1155 605 1156 605 1172 599 1188 607 1196 609 1197 609 1198 610 1295 610 1295 609 1296 609 1302 607 1317 601 1414 607 1467 610 1468 610 1491 608 1529 602 1906 608 1909 578 1909 554 1869 543 1868 543 1655 542 1653 542 1578 552 1577 552 1576 552 1529 542 1528 542 1458 552 1452 552 1446 552 1410 545 1409 545 1128 549 1113 549 1112 549 1066 539 1010 539 1009 539 1008 539 986 549 985 549 938 549 938 548 917 539 916 539 915 539 846 548 842 548 840 548 780 540 779 540 726 548 718 548 712 548 652 537 651 537 591 547 588 547 585 547 547 540 545 540 511 545 490 537 489 537 488 537 449 545 372 538 371 538 370 538 345 545 343 545 242 545 242 570"/></Shape>
+	    <String CONTENT="anate method. Separation from manganese and zinc). 1931."
+                    HPOS="241"
+                    VPOS="537"
+                    WIDTH="1668"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

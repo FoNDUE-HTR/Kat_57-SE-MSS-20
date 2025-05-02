@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00213.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="32"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2319 1477 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="168 166 641 163" 
+                    HPOS="166"
+                    VPOS="125"
+                    WIDTH="474"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="167 165 167 179 195 187 197 187 273 181 282 187 283 187 284 187 285 188 351 188 351 187 352 187 364 181 388 187 389 187 390 187 429 179 464 190 465 190 466 192 624 192 624 190 625 190 627 190 640 178 640 162 638 129 490 125 489 125 487 125 486 125 486 126 480 131 438 128 437 128 436 128 434 128 427 134 422 137 370 137 362 135 349 130 348 130 347 130 317 136 309 137 306 136 296 130 295 130 294 130 293 130 292 130 290 130 279 136 277 139 236 139 236 137 214 126 213 126 211 126 210 126 166 139 167 165"/></Shape>
+	    <String CONTENT="Mortara, Giorgio"
+                    HPOS="166"
+                    VPOS="125"
+                    WIDTH="474"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2087 49 2265 45" 
+                    HPOS="2084"
+                    VPOS="8"
+                    WIDTH="180"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="2085 48 2085 66 2143 76 2145 76 2183 70 2246 73 2247 73 2248 73 2249 73 2264 64 2264 44 2262 22 2222 22 2200 8 2199 8 2198 8 2196 8 2195 8 2165 19 2145 8 2143 8 2142 8 2108 9 2106 9 2105 9 2084 22 2085 48"/></Shape>
+	    <String CONTENT="Statist"
+                    HPOS="2084"
+                    VPOS="8"
+                    WIDTH="180"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2098 117 2236 117" 
+                    HPOS="2096"
+                    VPOS="66"
+                    WIDTH="138"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="2096 115 2096 136 2154 136 2233 149 2234 115 2234 91 2202 91 2199 87 2172 66 2170 66 2169 66 2168 66 2096 78 2096 115"/></Shape>
+	    <String CONTENT="Allm."
+                    HPOS="2096"
+                    VPOS="66"
+                    WIDTH="138"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="174 267 2265 264" 
+                    HPOS="172"
+                    VPOS="229"
+                    WIDTH="2092"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="173 266 174 301 394 301 394 300 399 300 474 290 547 298 548 298 614 290 850 290 878 299 883 300 884 300 885 300 948 299 1223 289 1266 298 1275 299 1276 300 1600 300 1600 299 1621 296 1676 289 1759 289 1781 296 1792 299 1793 299 1795 300 1872 300 1872 299 1888 295 1920 289 2260 294 2264 263 2260 235 2029 237 2013 235 1983 229 1982 229 1949 235 1930 238 1834 238 1823 235 1803 229 1802 229 1673 229 1671 229 1670 229 1650 235 1641 237 1621 235 1596 231 1595 231 1578 235 1564 238 1381 238 1329 235 1220 229 1219 229 1174 235 1145 240 1074 240 1055 235 1032 230 830 230 829 230 804 235 798 236 783 235 725 230 724 230 723 230 705 235 693 240 548 240 535 235 517 230 516 230 412 230 411 230 383 235 365 238 172 236 173 266"/></Shape>
+	    <String CONTENT="Nozioni elementari sull´impiego delle rappresentazioni grafiche nella"
+                    HPOS="172"
+                    VPOS="229"
+                    WIDTH="2092"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="173 368 520 368" 
+                    HPOS="172"
+                    VPOS="335"
+                    WIDTH="347"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="172 367 172 386 518 392 519 367 519 346 434 344 417 335 416 335 415 335 367 336 365 336 349 344 336 335 335 335 333 335 245 335 243 335 172 344 172 367"/></Shape>
+	    <String CONTENT="statistica."
+                    HPOS="172"
+                    VPOS="335"
+                    WIDTH="347"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="178 567 281 571" 
+                    HPOS="176"
+                    VPOS="530"
+                    WIDTH="104"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="177 566 176 585 211 592 213 592 279 587 280 570 280 541 177 530 177 566"/></Shape>
+	    <String CONTENT="Se:"
+                    HPOS="176"
+                    VPOS="530"
+                    WIDTH="104"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1158 467 1983 471" 
+                    HPOS="1156"
+                    VPOS="427"
+                    WIDTH="826"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1156 466 1156 490 1198 488 1209 491 1240 497 1241 497 1243 497 1261 491 1273 487 1306 491 1357 497 1358 497 1360 497 1374 491 1384 487 1391 491 1395 495 1397 495 1398 495 1399 495 1435 491 1471 488 1489 492 1522 498 1524 498 1525 498 1542 492 1552 488 1557 492 1564 497 1565 497 1567 497 1604 498 1605 498 1606 498 1618 492 1626 488 1674 488 1686 492 1706 500 1707 500 1708 501 1775 501 1775 500 1776 500 1792 493 1801 490 1822 493 1857 500 1859 500 1913 493 1951 490 1979 493 1982 470 1982 442 1944 429 1942 429 1849 429 1848 429 1846 429 1824 440 1819 444 1782 444 1776 440 1760 432 1759 432 1758 432 1696 439 1686 440 1684 439 1679 434 1678 434 1676 434 1675 434 1620 439 1609 439 1606 438 1589 432 1588 432 1586 432 1585 432 1573 438 1565 443 1532 443 1526 438 1512 428 1511 428 1510 428 1509 428 1508 428 1478 437 1463 442 1452 437 1429 427 1427 427 1378 427 1377 427 1376 427 1374 427 1360 436 1357 438 1356 436 1349 431 1349 429 1347 429 1346 429 1345 429 1344 429 1320 436 1301 442 1214 442 1202 434 1186 427 1185 427 1184 427 1182 427 1156 433 1156 466"/></Shape>
+	    <String CONTENT="8:o Città di Castello 1930."
+                    HPOS="1156"
+                    VPOS="427"
+                    WIDTH="826"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="176 668 1377 671" 
+                    HPOS="173"
+                    VPOS="609"
+                    WIDTH="1203"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="174 667 173 708 431 709 432 709 433 709 446 705 476 697 519 702 521 702 572 693 734 693 757 700 758 700 760 700 839 694 858 702 863 703 864 703 866 703 867 703 871 702 885 694 910 700 914 702 915 702 916 702 926 700 963 695 977 700 1000 709 1001 709 1002 710 1036 710 1036 709 1037 709 1060 699 1064 698 1070 699 1105 706 1106 706 1107 706 1138 699 1203 710 1204 710 1206 710 1249 698 1273 703 1275 703 1374 695 1376 670 1376 636 1354 628 1352 628 1351 628 1318 635 1314 635 1309 635 1234 617 1233 617 1232 617 1186 631 1181 634 1150 634 1140 630 1119 623 1118 623 1117 623 1087 629 1043 640 922 625 914 625 912 625 911 625 910 625 867 640 830 631 829 631 827 631 797 644 655 638 654 638 653 638 628 645 593 629 592 629 591 629 519 644 481 634 480 634 479 634 478 634 476 634 457 646 404 646 384 635 383 635 381 635 341 636 287 612 284 610 283 610 174 609 174 667"/></Shape>
+	    <String CONTENT="Giornale degli economisti.Anno 45/1930/."
+                    HPOS="173"
+                    VPOS="609"
+                    WIDTH="1203"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1403 737 1684 742" 
+                    HPOS="1400"
+                    VPOS="677"
+                    WIDTH="283"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="1402 736 1400 766 1462 767 1463 767 1464 767 1467 766 1487 759 1529 759 1540 766 1543 769 1545 769 1546 769 1547 769 1562 766 1586 761 1600 766 1607 769 1609 769 1610 769 1611 769 1612 769 1617 766 1625 762 1680 766 1683 741 1683 709 1646 709 1641 705 1618 695 1617 695 1616 695 1615 695 1614 695 1604 703 1602 705 1573 706 1564 700 1537 678 1536 678 1535 678 1533 678 1532 678 1503 690 1469 677 1468 677 1467 677 1413 678 1411 678 1410 678 1410 679 1402 686 1402 736"/></Shape>
+	    <String CONTENT="{ Polit. ekon."
+                    HPOS="1400"
+                    VPOS="677"
+                    WIDTH="283"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="1486 814 1670 817" 
+                    HPOS="1484"
+                    VPOS="767"
+                    WIDTH="185"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1485 812 1484 842 1545 833 1580 842 1581 842 1583 842 1633 836 1647 847 1648 847 1649 847 1650 848 1668 848 1669 816 1669 790 1633 790 1626 784 1623 782 1622 782 1621 782 1620 782 1618 782 1617 782 1616 783 1609 789 1593 780 1581 774 1580 774 1485 767 1485 812"/></Shape>
+	    <String CONTENT="Tidskr."
+                    HPOS="1484"
+                    VPOS="767"
+                    WIDTH="185"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

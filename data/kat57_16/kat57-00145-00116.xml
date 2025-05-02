@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00116.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2308"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="27"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2308"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2306"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2307 1479 2307 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="208 95 431 88" 
+                    HPOS="204"
+                    VPOS="22"
+                    WIDTH="226"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="207 94 209 114 220 106 229 112 231 114 233 114 234 114 235 114 236 114 247 111 270 103 280 108 291 115 292 115 293 115 294 115 377 113 378 113 379 113 395 99 397 97 430 96 430 87 426 59 346 65 318 46 282 22 281 22 280 22 278 22 223 24 222 24 204 32 207 94"/></Shape>
+	    <String CONTENT="[Wien"
+                    HPOS="204"
+                    VPOS="22"
+                    WIDTH="226"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="184 199 477 196" 
+                    HPOS="182"
+                    VPOS="134"
+                    WIDTH="294"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="183 198 183 213 282 218 283 218 284 218 298 212 299 212 307 212 375 219 376 219 474 209 476 194 471 144 451 150 445 145 437 139 436 139 435 139 434 139 432 139 431 139 420 146 395 164 333 164 317 160 309 154 289 135 289 134 288 134 287 134 286 134 225 135 224 135 223 135 223 136 198 161 196 162 182 162 183 198"/></Shape>
+	    <String CONTENT="Bericht"
+                    HPOS="182"
+                    VPOS="134"
+                    WIDTH="294"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1906 79 2105 82" 
+                    HPOS="1904"
+                    VPOS="22"
+                    WIDTH="200"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1905 78 1904 91 1931 102 1932 102 1934 102 1935 102 1963 94 2003 106 2004 106 2005 106 2103 92 2104 81 2104 22 2076 22 2074 22 2073 22 2053 28 2021 40 2011 35 1989 23 1988 23 1987 23 1986 23 1984 23 1962 43 1951 51 1905 51 1905 78"/></Shape>
+	    <String CONTENT="Med"
+                    HPOS="1904"
+                    VPOS="22"
+                    WIDTH="200"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1825 154 2246 149" 
+                    HPOS="1823"
+                    VPOS="98"
+                    WIDTH="422"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="1824 152 1824 202 1895 202 1895 201 1897 201 1905 197 1941 178 1984 180 1986 180 1987 180 2035 167 2072 167 2097 186 2103 191 2104 191 2105 191 2106 191 2141 183 2192 172 2211 180 2215 181 2216 181 2217 181 2245 177 2245 148 2240 98 2199 117 2176 115 2174 115 2173 115 2135 128 2036 128 2015 115 1993 102 1992 102 1990 102 1989 102 1892 103 1891 103 1823 128 1824 152"/></Shape>
+	    <String CONTENT="Sjukv. - anst"
+                    HPOS="1823"
+                    VPOS="98"
+                    WIDTH="422"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="180 309 2222 320" 
+                    HPOS="177"
+                    VPOS="180"
+                    WIDTH="2044"
+                    HEIGHT="170">
+            <Shape><Polygon POINTS="178 308 177 330 319 331 357 340 358 340 432 331 450 330 460 331 500 340 502 340 544 333 556 330 614 333 709 336 710 336 745 333 761 331 767 333 783 337 784 337 785 337 968 334 983 334 985 334 1013 340 1015 340 1244 335 1297 334 1305 335 1361 346 1363 346 1747 340 1767 347 1768 347 1770 347 1841 342 1994 350 1995 350 2220 337 2221 319 2219 288 2062 271 2061 271 2060 271 2032 277 1967 294 1904 273 1903 273 1902 273 1900 273 1836 291 1756 272 1675 268 1673 268 1572 281 1460 257 1459 257 1408 261 1390 255 1388 255 1387 255 1312 265 1222 261 1221 261 1219 261 1155 283 1099 271 1097 271 1048 277 991 262 990 262 989 262 928 273 827 249 772 249 643 204 579 182 578 182 178 180 178 308"/></Shape>
+	    <String CONTENT="Zweiter, über die Privatheilanstalt für Gemüthskranke auf dem"
+                    HPOS="177"
+                    VPOS="180"
+                    WIDTH="2044"
+                    HEIGHT="170"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="192 420 2179 437" 
+                    HPOS="189"
+                    VPOS="372"
+                    WIDTH="1989"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="191 419 189 471 288 482 441 483 442 483 444 483 482 472 560 448 615 448 974 451 1049 472 1102 487 1104 487 1184 490 1185 492 1308 492 1308 490 1381 483 1382 483 1411 473 1422 468 1500 466 1530 472 1532 472 1533 472 1561 463 1627 473 1670 479 1671 479 1932 477 2003 483 2004 483 2046 473 2051 473 2056 473 2093 479 2094 479 2095 479 2115 473 2124 472 2176 473 2178 436 2177 405 2035 386 2034 386 1935 398 1892 390 1891 390 1889 390 1862 399 1851 403 1839 399 1791 384 1789 384 1733 383 1731 383 1730 383 1689 397 1675 403 1613 403 1546 394 1528 393 1527 393 1525 393 1520 394 1500 400 1465 394 1464 394 1328 399 1289 390 1276 388 1275 388 1254 389 1200 395 1181 388 1154 378 1153 378 1152 378 1150 378 1120 388 1094 395 1069 387 1042 377 1041 377 1039 377 973 386 948 388 919 384 889 381 888 381 870 383 815 394 779 382 757 374 756 374 659 374 658 374 657 374 640 379 609 390 477 392 404 389 365 376 354 372 352 372 351 372 191 372 191 419"/></Shape>
+	    <String CONTENT="Erdberge zu Wien III., Leonhardgasse 1-5 von Wilhelm Svetlin"
+                    HPOS="189"
+                    VPOS="372"
+                    WIDTH="1989"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1415 540 2196 549" 
+                    HPOS="1413"
+                    VPOS="494"
+                    WIDTH="782"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="1414 538 1413 556 1490 557 1497 561 1520 568 1522 568 1523 568 1524 568 1525 568 1534 562 1537 561 1538 562 1554 572 1555 572 1556 572 1557 572 1559 572 1575 563 1581 561 1597 564 1620 571 1622 571 1623 571 1624 571 1639 567 1660 561 1669 568 1692 588 1693 588 1694 588 1696 588 1697 588 1746 572 1775 562 1804 574 1805 574 1807 574 1808 574 1809 574 1847 563 1870 577 1915 606 1916 606 1918 606 1919 606 1920 606 1931 601 2146 609 2147 609 2148 609 2194 592 2195 548 2193 513 2179 518 2150 513 2121 508 2120 508 2119 508 2118 508 2110 513 2094 522 2037 522 1997 513 1978 509 1977 509 1976 509 1966 513 1957 516 1951 513 1934 500 1932 500 1931 500 1882 499 1881 499 1879 499 1878 499 1863 509 1846 499 1845 499 1844 499 1842 499 1841 499 1841 500 1826 513 1819 519 1749 513 1740 513 1739 513 1735 513 1709 518 1662 515 1659 513 1628 497 1627 497 1541 495 1540 495 1539 495 1538 495 1520 510 1503 495 1502 495 1501 495 1466 494 1465 494 1464 494 1463 494 1439 513 1438 514 1414 514 1414 538"/></Shape>
+	    <String CONTENT="8ᵒ Wien und Leipzig 1891."
+                    HPOS="1413"
+                    VPOS="494"
+                    WIDTH="782"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

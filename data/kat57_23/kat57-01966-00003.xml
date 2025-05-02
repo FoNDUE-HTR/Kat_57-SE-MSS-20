@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01966-00003.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2308"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2308"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2306"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2307 1479 2307 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="255 48 1140 42" 
+                    HPOS="252"
+                    VPOS="6"
+                    WIDTH="887"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="254 46 254 59 288 66 289 66 291 66 302 60 304 60 377 60 382 61 391 67 392 67 393 67 394 67 395 67 407 62 412 60 428 62 452 66 453 66 455 66 466 64 482 59 489 64 513 78 514 78 515 78 516 78 518 78 544 65 550 61 597 60 611 66 627 72 629 72 630 72 664 66 705 60 720 67 737 77 738 77 740 78 791 78 791 77 793 77 807 70 821 62 841 70 857 76 858 76 859 76 861 76 877 71 886 67 893 71 902 77 904 77 905 77 906 77 965 76 967 76 974 72 993 62 1026 61 1138 75 1139 41 1137 22 1068 13 1067 13 1065 13 1064 13 1054 22 1032 22 1020 22 1018 22 963 6 962 6 960 6 959 6 932 16 920 8 919 8 917 8 837 7 836 7 835 7 817 14 798 7 796 7 795 7 794 7 793 7 772 24 745 24 693 25 671 25 669 24 647 8 646 8 645 8 587 8 585 8 584 8 583 8 555 25 520 25 484 8 483 8 482 8 481 8 445 25 423 19 421 19 420 19 367 25 344 9 342 9 341 9 297 9 296 9 294 9 252 25 254 46"/></Shape>
+	    <String CONTENT="Berkeley. Univ. of California"
+                    HPOS="252"
+                    VPOS="6"
+                    WIDTH="887"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="236 188 1238 192" 
+                    HPOS="234"
+                    VPOS="117"
+                    WIDTH="1003"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="235 187 234 198 266 212 267 212 268 212 270 212 304 202 397 209 398 209 488 202 540 210 541 210 574 204 616 220 618 220 619 222 752 222 752 220 753 220 754 220 779 204 784 201 809 204 826 207 827 207 872 205 952 202 983 207 1022 213 1023 213 1058 208 1073 205 1083 208 1108 215 1110 215 1111 215 1174 212 1184 219 1185 219 1186 219 1187 219 1236 209 1237 191 1237 162 1201 136 1200 136 1199 136 1197 136 1196 136 1143 164 1141 166 1091 166 1088 164 1006 119 1005 119 901 118 843 118 842 118 841 118 840 118 780 162 779 164 778 162 709 125 708 125 706 125 705 125 632 159 614 150 613 150 611 150 610 150 609 150 593 161 589 164 573 161 519 155 518 155 468 161 457 162 455 161 362 117 361 117 360 117 358 117 357 117 297 161 293 162 235 161 235 187"/></Shape>
+	    <String CONTENT="University Chronicle"
+                    HPOS="234"
+                    VPOS="117"
+                    WIDTH="1003"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="237 290 1236 293" 
+                    HPOS="235"
+                    VPOS="255"
+                    WIDTH="999"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="236 289 235 302 313 312 314 312 439 304 440 304 461 319 462 319 463 319 465 319 511 315 553 321 555 321 556 321 597 305 598 304 599 305 630 324 631 324 632 324 736 325 737 325 811 315 865 325 867 325 868 325 869 325 896 307 900 305 931 305 935 308 953 321 954 321 956 321 957 321 991 314 1016 321 1017 321 1018 323 1137 323 1137 321 1138 321 1184 309 1200 305 1232 309 1234 292 1232 271 1165 275 1158 271 1139 261 1138 261 1137 261 1136 261 1116 271 1107 276 1028 276 1020 271 1015 268 1013 268 1012 268 1011 268 1010 268 1007 271 1001 275 991 271 970 263 969 263 968 263 967 263 965 263 956 271 951 275 946 271 933 262 932 262 931 262 875 256 874 256 873 256 872 256 849 271 846 275 788 275 784 271 763 256 762 256 761 256 694 255 693 255 692 255 690 255 666 272 662 275 568 275 566 272 542 255 541 255 540 255 483 255 482 255 481 255 479 255 451 272 449 273 439 272 400 267 399 267 398 267 388 272 386 273 375 272 366 272 345 255 344 255 342 255 305 255 304 255 303 255 302 255 278 270 271 263 270 263 268 263 267 263 266 263 236 272 236 289"/></Shape>
+	    <String CONTENT=".The.. An official record"
+                    HPOS="235"
+                    VPOS="255"
+                    WIDTH="999"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="252 408 665 404" 
+                    HPOS="250"
+                    VPOS="350"
+                    WIDTH="414"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="251 407 251 423 261 432 261 434 262 434 263 434 265 434 266 434 292 426 307 434 308 434 309 435 336 435 336 434 337 434 339 434 339 432 346 426 366 434 367 434 368 434 419 432 420 432 421 432 432 424 437 421 509 421 514 425 520 431 520 432 521 432 523 432 524 432 553 426 582 420 663 427 664 403 663 366 646 360 645 360 643 360 642 360 641 360 641 361 636 366 630 372 615 372 605 366 588 355 587 355 585 355 584 355 583 355 582 355 568 366 564 368 561 366 551 356 551 355 550 355 548 355 547 355 546 355 526 366 513 373 469 373 462 366 447 352 447 351 446 351 445 351 444 351 442 351 414 366 413 366 391 350 389 350 388 350 387 350 368 351 367 351 366 351 366 352 352 365 346 372 334 365 307 351 305 351 267 351 266 351 265 351 263 351 250 361 251 407"/></Shape>
+	    <String CONTENT="Vol. 1-35:1."
+                    HPOS="250"
+                    VPOS="350"
+                    WIDTH="414"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2033 80 2211 84" 
+                    HPOS="2031"
+                    VPOS="14"
+                    WIDTH="179"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="2032 78 2031 94 2052 103 2053 103 2055 103 2098 99 2120 98 2208 107 2210 83 2210 22 2190 25 2189 24 2179 17 2179 16 2178 16 2177 16 2141 14 2140 14 2139 14 2137 14 2108 39 2090 53 2032 53 2032 78"/></Shape>
+	    <String CONTENT="Acta"
+                    HPOS="2031"
+                    VPOS="14"
+                    WIDTH="179"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1942 152 2215 149" 
+                    HPOS="1940"
+                    VPOS="107"
+                    WIDTH="274"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1941 151 1941 177 1998 171 2041 176 2063 177 2064 177 2066 177 2072 175 2082 170 2122 172 2176 176 2177 176 2214 168 2214 148 2210 119 2156 123 2151 120 2134 107 2132 107 2131 107 2130 107 2088 114 2030 108 2029 108 2007 109 2005 109 2004 109 1984 124 1982 127 1940 127 1941 151"/></Shape>
+	    <String CONTENT="N.Amer"
+                    HPOS="1940"
+                    VPOS="107"
+                    WIDTH="274"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1561 416 2275 434" 
+                    HPOS="1559"
+                    VPOS="356"
+                    WIDTH="715"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="1560 415 1559 436 1577 446 1578 446 1580 446 1581 446 1609 437 1613 436 1710 436 1715 441 1718 444 1719 444 1720 444 1722 444 1723 444 1729 441 1739 439 1754 442 1771 447 1772 447 1773 447 1775 447 1786 444 1791 442 1798 445 1865 468 1866 468 1966 469 1967 469 1968 469 1970 469 1988 456 2076 473 2077 473 2078 473 2124 457 2139 452 2155 458 2171 463 2172 463 2173 463 2174 463 2176 463 2180 460 2183 457 2185 460 2198 467 2199 467 2200 467 2201 467 2203 467 2219 461 2222 460 2227 461 2250 467 2251 467 2252 467 2273 462 2274 432 2274 384 2224 379 2222 379 2221 379 2213 383 2187 393 2176 384 2174 384 2173 384 2172 384 2171 384 2143 392 2126 383 2125 383 2124 383 2088 390 2051 383 2050 383 2048 383 2020 390 1939 390 1916 378 1889 363 1888 363 1850 362 1849 362 1847 362 1846 362 1833 374 1819 377 1776 386 1766 376 1750 361 1750 360 1749 360 1747 360 1614 356 1613 356 1612 356 1560 372 1560 415"/></Shape>
+	    <String CONTENT="8º Berkeley 1898-1933"
+                    HPOS="1559"
+                    VPOS="356"
+                    WIDTH="715"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="234 525 1766 533" 
+                    HPOS="231"
+                    VPOS="483"
+                    WIDTH="1534"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="233 524 231 555 288 559 289 559 291 559 305 556 323 550 450 547 553 557 578 558 579 558 593 557 648 548 794 557 796 557 798 557 799 557 836 550 907 556 911 558 933 568 935 568 936 569 1088 569 1088 568 1141 558 1165 555 1180 559 1192 563 1194 563 1195 563 1222 559 1237 557 1249 559 1281 566 1282 566 1284 566 1306 559 1316 557 1327 559 1342 563 1343 563 1344 563 1345 563 1355 559 1374 553 1403 559 1414 562 1416 562 1477 561 1509 559 1513 561 1549 572 1550 572 1551 573 1641 573 1641 572 1703 561 1728 557 1762 561 1765 532 1765 503 1728 490 1726 490 1725 490 1724 490 1685 503 1680 505 1612 505 1607 501 1580 490 1578 490 1545 489 1483 489 1482 489 1481 489 1453 500 1446 504 1335 504 1324 499 1296 489 1295 489 1244 488 1075 488 1074 488 1073 488 1041 495 980 487 979 487 978 487 947 495 928 500 773 500 759 494 745 488 743 488 742 488 741 488 725 493 709 500 672 500 657 493 640 485 638 485 600 484 599 484 551 492 511 498 431 498 418 490 402 483 400 483 341 483 340 483 339 483 319 489 297 497 273 489 266 487 265 487 263 487 233 488 233 524"/></Shape>
+	    <String CONTENT="Vol. 9- : The University of California chronicle"
+                    HPOS="231"
+                    VPOS="483"
+                    WIDTH="1534"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

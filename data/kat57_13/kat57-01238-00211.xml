@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00211.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2340"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="31"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2340"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2338"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2339 1479 2339 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="200 301 692 298" 
+                    HPOS="198"
+                    VPOS="254"
+                    WIDTH="492"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="199 300 199 336 424 337 425 337 426 337 428 337 435 331 447 320 572 320 587 328 595 331 597 331 598 331 625 326 650 321 689 324 690 297 688 266 611 259 610 259 609 259 595 263 588 266 567 263 545 260 543 260 513 262 445 267 426 260 410 254 409 254 408 254 407 254 405 254 398 260 392 263 386 260 384 257 383 257 382 257 381 257 379 257 372 259 356 263 344 259 335 255 334 255 333 255 314 257 292 262 286 257 283 255 282 255 281 255 280 255 198 255 199 300"/></Shape>
+	    <String CONTENT="MORTARA, Giorgio"
+                    HPOS="198"
+                    VPOS="254"
+                    WIDTH="492"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2058 64 2284 64" 
+                    HPOS="2057"
+                    VPOS="19"
+                    WIDTH="226"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="2057 62 2057 91 2283 88 2283 62 2283 24 2261 24 2259 24 2258 24 2257 24 2257 25 2242 39 2214 39 2190 24 2184 19 2183 19 2182 19 2180 19 2179 19 2178 19 2173 24 2157 38 2130 38 2106 24 2100 19 2099 19 2098 19 2096 19 2057 23 2057 62"/></Shape>
+	    <String CONTENT="Statist"
+                    HPOS="2057"
+                    VPOS="19"
+                    WIDTH="226"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2057 144 2276 148" 
+                    HPOS="2055"
+                    VPOS="106"
+                    WIDTH="220"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="2055 160 2098 171 2099 171 2274 168 2275 148 2273 120 2171 124 2129 111 2121 108 2120 108 2087 107 2085 107 2084 107 2083 107 2083 108 2074 115 2057 106 2056 143 2055 160"/></Shape>
+	    <String CONTENT="Allm."
+                    HPOS="2055"
+                    VPOS="106"
+                    WIDTH="220"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="191 399 2222 402" 
+                    HPOS="188"
+                    VPOS="361"
+                    WIDTH="2033"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="189 398 188 418 219 425 220 425 918 421 1202 420 1228 423 1263 426 1264 427 2220 427 2221 400 2220 371 2138 363 2137 363 1976 370 1942 371 1928 370 1855 362 1853 362 1852 362 1825 370 1819 371 1793 370 1671 362 1670 362 1610 370 1596 372 1364 372 1270 370 1218 368 1202 361 1201 361 1200 361 949 363 948 363 932 368 928 371 819 371 812 368 783 361 782 361 780 361 662 368 634 370 576 368 341 361 340 361 288 368 272 370 189 368 189 398"/></Shape>
+	    <String CONTENT="Lezioni di statistica metodologica dettate nel R. instituto superiore"
+                    HPOS="188"
+                    VPOS="361"
+                    WIDTH="2033"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="194 496 1522 503" 
+                    HPOS="192"
+                    VPOS="468"
+                    WIDTH="1328"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="193 495 192 518 341 519 460 534 461 534 546 521 617 534 619 534 932 522 983 526 996 536 997 536 999 536 1000 537 1194 537 1194 536 1254 526 1286 537 1287 537 1289 537 1342 526 1392 534 1393 534 1395 534 1412 525 1519 525 1520 501 1519 474 193 468 193 495"/></Shape>
+	    <String CONTENT="di scienze economiche e commerciali di Roma."
+                    HPOS="192"
+                    VPOS="468"
+                    WIDTH="1328"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1447 600 2278 605" 
+                    HPOS="1445"
+                    VPOS="563"
+                    WIDTH="832"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="1446 599 1445 619 1511 632 1512 632 1557 622 1691 633 1913 635 1914 635 1992 626 2013 624 2027 626 2053 631 2055 631 2056 631 2057 631 2064 626 2071 624 2274 629 2277 604 2275 577 2252 577 2252 575 2238 566 2237 566 2236 566 2235 566 2087 575 2071 575 2068 575 2051 567 2050 567 2048 567 1969 573 1941 564 1940 564 1939 564 1886 574 1882 574 1878 574 1839 563 1837 563 1781 563 1779 563 1778 563 1760 573 1759 573 1710 563 1686 563 1684 563 1683 563 1682 563 1671 573 1670 573 1667 573 1623 563 1622 563 1620 563 1588 572 1587 573 1501 573 1499 572 1483 564 1482 564 1481 564 1446 571 1446 599"/></Shape>
+	    <String CONTENT="8:o Città di Castello 1922."
+                    HPOS="1445"
+                    VPOS="563"
+                    WIDTH="832"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

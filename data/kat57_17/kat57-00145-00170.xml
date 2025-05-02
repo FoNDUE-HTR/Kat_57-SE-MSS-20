@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00170.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2319 1471 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="190 182 436 179" 
+                    HPOS="187"
+                    VPOS="144"
+                    WIDTH="248"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="188 181 188 203 434 201 435 177 433 145 187 144 188 181"/></Shape>
+	    <String CONTENT="BERICHTE"
+                    HPOS="187"
+                    VPOS="144"
+                    WIDTH="248"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2052 85 2284 91" 
+                    HPOS="2050"
+                    VPOS="14"
+                    WIDTH="233"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="2051 84 2050 99 2074 110 2075 110 2077 110 2078 110 2088 106 2143 118 2144 118 2209 110 2236 117 2237 117 2239 117 2240 117 2241 117 2256 105 2281 105 2283 90 2283 45 2252 25 2251 25 2250 25 2248 25 2247 25 2246 25 2225 44 2224 44 2214 42 2182 38 2181 38 2180 38 2178 38 2176 40 2172 42 2167 39 2135 15 2134 15 2133 15 2086 14 2085 14 2084 14 2051 29 2051 84"/></Shape>
+	    <String CONTENT="Bild. k."
+                    HPOS="2050"
+                    VPOS="14"
+                    WIDTH="233"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2102 172 2287 177" 
+                    HPOS="2100"
+                    VPOS="111"
+                    WIDTH="186"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="2101 171 2100 190 2149 201 2150 201 2285 195 2286 176 2286 139 2252 138 2252 137 2235 120 2235 118 2234 118 2232 118 2231 118 2230 118 2210 128 2149 111 2148 111 2126 111 2124 111 2123 111 2122 111 2101 125 2101 171"/></Shape>
+	    <String CONTENT="Tidskr."
+                    HPOS="2100"
+                    VPOS="111"
+                    WIDTH="186"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="174 284 2148 290" 
+                    HPOS="171"
+                    VPOS="229"
+                    WIDTH="1976"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="172 283 171 309 2144 312 2147 289 2145 256 2108 247 2107 247 2067 255 2062 255 2054 255 1994 246 1993 246 1945 252 1894 260 1839 253 1837 253 1672 258 1509 246 1477 245 1475 245 1462 246 1359 258 1333 249 1332 249 1331 249 1224 249 1188 242 1155 236 1154 236 1105 241 991 253 915 246 914 246 872 253 797 236 786 235 785 235 763 236 635 247 603 240 602 240 601 240 518 253 428 241 426 241 398 246 355 231 353 230 352 230 172 229 172 283"/></Shape>
+	    <String CONTENT="Kritische, zur kunstgeschichtlichen Literatur. Herausgeber: Rudolf"
+                    HPOS="171"
+                    VPOS="229"
+                    WIDTH="1976"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="185 402 2261 394" 
+                    HPOS="182"
+                    VPOS="354"
+                    WIDTH="2077"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="184 401 185 436 199 430 246 436 278 440 279 441 439 441 439 440 440 440 455 435 488 424 530 424 690 424 725 434 726 434 727 434 729 434 791 430 807 434 821 437 823 437 824 437 921 434 925 434 969 423 1131 423 1160 433 1175 437 1176 437 1177 437 1289 433 1355 429 1387 431 1439 436 1440 436 1482 431 1569 420 1682 424 1699 430 1715 435 1716 435 1717 435 1818 430 1845 429 1853 430 1889 435 1890 435 1924 429 1966 423 2035 429 2066 431 2067 431 2108 429 2225 420 2254 428 2259 393 2256 354 1911 364 1818 358 1816 358 1755 364 1679 355 1673 355 1672 355 1664 355 1593 364 1564 356 1563 356 1428 356 1426 356 1424 356 1377 365 1154 360 1153 360 1019 366 992 359 991 359 990 359 988 359 963 366 856 361 855 361 853 361 828 368 672 359 660 359 658 359 450 360 447 360 371 369 182 361 184 401"/></Shape>
+	    <String CONTENT="Kautzsch, Wilhelm Pinder, Georg Swarzenski, Karl M. Swoboda. Redigiert"
+                    HPOS="182"
+                    VPOS="354"
+                    WIDTH="2077"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="185 496 1266 501" 
+                    HPOS="182"
+                    VPOS="462"
+                    WIDTH="1082"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="184 495 182 513 255 525 256 525 299 516 301 516 304 516 327 522 328 522 330 522 418 518 446 517 451 518 462 523 463 523 464 523 483 520 494 517 510 520 541 525 542 525 565 521 566 521 568 521 614 533 615 533 781 534 782 534 783 534 801 525 810 520 824 525 835 529 836 529 837 529 839 529 851 526 872 518 983 518 1002 525 1003 525 1004 525 1044 520 1067 521 1078 529 1087 536 1088 536 1089 536 1090 536 1263 532 1264 500 1264 477 1234 466 1232 466 1231 466 1186 475 1143 466 1098 466 1096 466 1095 466 1067 475 1066 475 1062 475 1008 468 1007 468 966 474 950 464 949 464 948 464 869 464 868 464 867 464 842 474 841 475 781 475 780 474 755 464 754 464 753 464 706 473 693 463 691 463 690 463 689 463 612 473 609 473 607 473 565 464 564 464 563 464 544 473 543 473 542 473 514 464 512 464 511 464 510 464 488 473 485 473 483 473 460 466 458 466 457 466 429 472 403 462 402 462 401 462 399 462 372 472 344 462 343 462 342 462 341 462 306 472 304 472 184 472 184 495"/></Shape>
+	    <String CONTENT="von Friedrich Antal und Bruno Fürst."
+                    HPOS="182"
+                    VPOS="462"
+                    WIDTH="1082"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="182 601 937 597" 
+                    HPOS="180"
+                    VPOS="556"
+                    WIDTH="756"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="181 599 181 624 290 624 299 628 322 641 323 641 325 642 344 642 344 641 345 641 365 630 375 625 440 631 441 631 488 623 505 635 509 637 510 637 511 637 512 637 514 637 515 637 515 636 517 635 521 631 552 636 564 637 565 637 566 637 569 636 588 628 609 637 610 637 612 637 613 637 614 637 630 624 650 639 660 646 661 646 662 646 663 646 664 646 666 646 676 640 685 634 700 641 716 647 717 647 718 648 776 648 776 647 777 647 779 647 783 644 797 634 810 644 814 647 815 647 817 647 818 648 934 648 936 596 934 565 916 560 915 560 914 560 912 560 900 565 893 567 885 565 861 556 860 556 858 556 857 556 831 565 825 567 821 566 808 559 807 559 737 556 736 556 734 556 704 566 685 556 684 556 683 556 682 556 639 567 633 569 630 567 610 558 609 558 608 558 517 567 441 558 440 558 439 558 415 567 407 561 406 561 404 561 403 561 402 561 401 561 390 570 387 572 280 572 278 571 263 565 262 565 261 565 260 565 240 571 239 571 214 559 213 559 212 559 211 559 209 559 209 560 197 571 197 572 180 572 181 599"/></Shape>
+	    <String CONTENT="Jahrg. 1(1927/28)-5/1932/33)"
+                    HPOS="180"
+                    VPOS="556"
+                    WIDTH="756"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1408 601 2005 597" 
+                    HPOS="1405"
+                    VPOS="554"
+                    WIDTH="599"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1407 599 1407 629 1532 628 1537 630 1547 637 1548 637 1549 637 1603 639 1604 639 1642 630 1657 626 1672 630 1705 637 1706 637 1803 630 1813 635 1814 635 1815 635 1816 635 1832 629 1836 628 1840 629 1864 636 1866 636 1867 636 1868 636 1891 629 1907 624 1928 629 1943 631 1944 631 1945 631 1947 631 1950 629 1955 625 1959 628 1966 634 1967 634 1969 634 1970 634 1971 634 1972 634 1980 628 1986 624 2001 628 2004 596 2001 554 1942 555 1940 555 1939 555 1927 566 1916 559 1915 559 1913 559 1878 556 1810 555 1809 555 1808 555 1799 559 1780 569 1700 563 1697 563 1696 563 1695 563 1694 563 1685 570 1625 570 1615 565 1603 559 1602 559 1601 559 1599 559 1583 566 1575 570 1567 566 1550 558 1549 558 1548 558 1547 558 1545 558 1534 567 1532 570 1461 570 1458 570 1431 559 1430 559 1429 559 1428 559 1405 569 1407 599"/></Shape>
+	    <String CONTENT="8:o Leipzig 1927-33"
+                    HPOS="1405"
+                    VPOS="554"
+                    WIDTH="599"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

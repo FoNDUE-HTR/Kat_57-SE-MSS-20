@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00826-00116.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="46"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2311 1477 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="248 228 740 233" 
+                    HPOS="246"
+                    VPOS="182"
+                    WIDTH="493"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="247 227 246 241 277 256 278 256 279 256 330 246 371 252 373 252 465 248 583 245 593 254 597 257 597 258 598 258 599 258 736 259 739 232 737 200 660 201 655 199 649 194 647 194 646 194 645 194 581 199 556 200 554 199 538 184 537 184 535 184 534 184 497 192 471 183 470 183 369 182 368 182 310 190 270 183 269 183 268 183 267 183 247 194 247 227"/></Shape>
+	    <String CONTENT="[JABLONSKIS, Jonas]"
+                    HPOS="246"
+                    VPOS="182"
+                    WIDTH="493"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1572 56 1942 53" 
+                    HPOS="1570"
+                    VPOS="18"
+                    WIDTH="371"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="1571 55 1571 87 1612 103 1613 103 1651 104 1653 104 1654 104 1655 104 1666 97 1680 104 1681 104 1682 105 1731 105 1731 104 1733 104 1734 104 1758 87 1840 103 1841 103 1842 103 1843 103 1843 102 1861 86 1941 84 1941 52 1938 29 1912 29 1904 20 1904 19 1903 19 1901 19 1900 19 1899 19 1864 28 1825 18 1824 18 1822 18 1821 18 1797 28 1755 18 1754 18 1752 18 1726 29 1698 19 1697 19 1696 19 1648 25 1602 19 1601 19 1600 19 1570 30 1571 55"/></Shape>
+	    <String CONTENT="Slaviska inst."
+                    HPOS="1570"
+                    VPOS="18"
+                    WIDTH="371"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="249 339 1967 342" 
+                    HPOS="247"
+                    VPOS="296"
+                    WIDTH="1718"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="248 338 247 365 384 373 385 373 413 368 443 376 444 376 445 376 519 368 561 379 562 379 642 381 644 383 756 383 756 381 757 381 780 373 804 381 805 381 806 383 884 383 884 381 885 381 927 368 948 374 949 374 950 374 1103 368 1207 378 1208 378 1305 369 1405 374 1423 383 1425 383 1426 384 1601 384 1601 383 1650 371 1729 379 1730 379 1731 379 1758 369 1878 375 1879 375 1964 368 1965 341 1964 309 1930 300 1928 300 1832 307 1776 298 1774 298 1692 305 1650 299 1649 299 1611 304 1341 298 1340 298 1338 298 1319 305 1274 299 1273 299 1272 299 1247 307 1245 309 1114 309 1101 307 974 296 973 296 931 306 929 306 872 296 814 296 812 296 811 296 783 306 782 307 599 307 598 306 575 296 573 296 572 296 496 306 490 307 399 307 395 306 365 298 364 298 363 298 362 298 333 306 330 306 248 306 248 338"/></Shape>
+	    <String CONTENT="Lietuviu kalbos gramatika. Etimologija. [Av] Rygiškiu Jono [pseud.]."
+                    HPOS="247"
+                    VPOS="296"
+                    WIDTH="1718"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="259 444 453 444" 
+                    HPOS="258"
+                    VPOS="408"
+                    WIDTH="194"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="258 443 258 469 270 475 272 475 273 475 274 475 275 475 275 474 282 469 285 466 319 466 332 471 347 477 348 477 349 479 413 479 413 477 415 477 417 476 429 470 449 477 452 443 452 421 434 421 422 410 422 408 421 408 420 408 418 408 417 408 397 416 386 408 385 408 384 408 383 408 381 408 348 419 325 408 323 408 322 408 321 408 320 408 303 419 280 408 279 408 278 408 277 408 275 408 258 418 258 443"/></Shape>
+	    <String CONTENT="2 leid."
+                    HPOS="258"
+                    VPOS="408"
+                    WIDTH="194"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1222 438 1895 441" 
+                    HPOS="1220"
+                    VPOS="403"
+                    WIDTH="674"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1221 437 1220 464 1267 465 1288 476 1289 476 1290 476 1292 476 1327 468 1446 477 1447 477 1511 469 1522 468 1527 469 1547 477 1548 477 1549 477 1550 477 1552 477 1552 476 1560 470 1561 468 1601 468 1608 470 1625 477 1627 477 1628 477 1629 477 1650 471 1654 470 1659 471 1692 479 1693 480 1736 480 1736 479 1738 479 1739 479 1749 472 1754 469 1762 472 1768 475 1770 475 1771 475 1772 475 1781 472 1794 469 1891 474 1894 440 1894 417 1861 405 1859 405 1772 405 1771 405 1770 405 1768 405 1756 416 1755 417 1710 417 1708 416 1678 405 1677 405 1676 405 1675 405 1656 413 1635 403 1634 403 1574 403 1572 403 1571 403 1570 403 1554 415 1532 406 1531 406 1529 406 1486 415 1483 415 1481 415 1470 407 1469 407 1468 407 1467 407 1391 410 1362 403 1361 403 1359 403 1329 413 1327 415 1273 415 1272 413 1262 405 1262 403 1261 403 1260 403 1258 403 1257 403 1256 403 1242 413 1240 413 1221 413 1221 437"/></Shape>
+	    <String CONTENT="8:o Kaunas &amp; Vilnius 1922."
+                    HPOS="1220"
+                    VPOS="403"
+                    WIDTH="674"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

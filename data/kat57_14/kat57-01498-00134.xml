@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01498-00134.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2304"
+          HEIGHT="1468"
+          PHYSICAL_IMG_NR="18"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2304"
+                  HEIGHT="1468">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2302"
+                   HEIGHT="1466"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1467 2303 1467 2303 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="257 192 791 198" 
+                    HPOS="255"
+                    VPOS="123"
+                    WIDTH="535"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="256 190 255 204 301 211 302 211 452 209 494 209 495 210 506 220 506 221 507 221 509 221 510 222 535 222 535 221 537 221 538 221 538 220 545 214 581 222 582 223 636 223 636 222 637 222 638 222 638 221 647 214 683 223 685 223 686 223 789 216 790 196 790 166 774 165 741 137 740 137 739 137 737 137 736 137 735 137 735 138 706 163 665 163 633 132 633 130 632 130 631 130 630 130 628 130 619 135 611 128 611 127 610 127 609 127 576 126 533 126 532 126 531 126 460 161 416 161 376 126 376 124 375 124 374 124 342 123 341 123 340 123 338 123 319 139 256 159 256 190"/></Shape>
+	    <String CONTENT="Rein Gabriel"
+                    HPOS="255"
+                    VPOS="123"
+                    WIDTH="535"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1891 104 1977 101" 
+                    HPOS="1887"
+                    VPOS="50"
+                    WIDTH="89"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1890 103 1890 129 1924 126 1938 128 1967 133 1968 133 1969 133 1971 133 1971 132 1976 126 1976 100 1971 50 1943 52 1941 52 1940 52 1925 63 1908 75 1887 75 1890 103"/></Shape>
+	    <String CONTENT="(Br"
+                    HPOS="1887"
+                    VPOS="50"
+                    WIDTH="89"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2073 55 2237 55" 
+                    HPOS="2072"
+                    VPOS="6"
+                    WIDTH="164"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="2072 53 2072 67 2089 74 2091 74 2092 74 2122 68 2130 74 2130 75 2131 75 2132 75 2133 77 2215 77 2215 75 2217 75 2236 67 2236 53 2234 13 2193 24 2186 17 2175 7 2175 6 2174 6 2173 6 2136 6 2135 6 2133 6 2132 6 2132 7 2113 23 2111 25 2072 26 2072 53"/></Shape>
+	    <String CONTENT="Hist."
+                    HPOS="2072"
+                    VPOS="6"
+                    WIDTH="164"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2084 133 2218 138" 
+                    HPOS="2082"
+                    VPOS="96"
+                    WIDTH="135"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="2083 132 2082 150 2214 160 2217 137 2215 119 2196 119 2195 118 2153 96 2152 96 2131 96 2130 96 2129 96 2127 96 2127 97 2109 113 2108 114 2083 113 2083 132"/></Shape>
+	    <String CONTENT="Fin."
+                    HPOS="2082"
+                    VPOS="96"
+                    WIDTH="135"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="233 279 2270 306" 
+                    HPOS="231"
+                    VPOS="225"
+                    WIDTH="2038"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="232 278 231 289 307 309 308 309 408 304 490 310 491 310 493 310 529 299 543 296 576 296 597 302 619 308 620 308 621 309 706 309 706 308 707 308 715 305 730 300 758 307 802 315 803 315 894 310 966 307 988 313 1005 319 1007 319 1008 319 1009 319 1026 314 1042 310 1065 315 1071 316 1073 316 1079 316 1123 310 1174 319 1230 329 1232 329 1270 321 1327 311 1482 318 1553 331 1567 332 1568 332 1574 331 1654 311 1744 311 1829 330 1961 335 1987 343 2004 349 2005 349 2267 352 2269 305 2267 272 2199 276 2182 270 2126 249 2125 249 2084 248 2083 248 2040 255 2017 248 2016 248 1897 245 1896 245 1895 245 1852 260 1792 253 1791 253 1757 260 1716 270 1627 258 1500 240 1404 239 1403 239 1402 239 1360 252 1345 258 1282 260 1210 249 1125 236 1048 234 1047 234 1046 234 1016 244 975 260 884 260 557 255 480 233 457 227 456 227 455 227 425 232 393 237 343 236 331 229 318 225 316 225 315 225 232 227 232 278"/></Shape>
+	    <String CONTENT="De loco quo arma Tavastis illaturus, appulerit Birge-"
+                    HPOS="231"
+                    VPOS="225"
+                    WIDTH="2038"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="224 362 1072 372" 
+                    HPOS="222"
+                    VPOS="331"
+                    WIDTH="849"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="223 360 222 379 323 387 324 387 325 387 326 387 336 380 347 374 371 374 382 381 390 387 391 387 392 387 393 387 445 385 472 392 473 392 474 392 510 389 511 389 512 389 520 382 528 376 587 376 602 384 626 395 627 395 882 398 883 398 915 397 916 397 917 397 931 386 938 381 1069 387 1071 371 1071 354 1046 347 1044 347 1043 347 948 353 934 353 933 353 916 338 915 338 914 338 882 337 880 337 879 337 854 348 821 338 819 338 818 338 817 338 816 338 798 351 798 352 725 352 724 351 693 335 692 335 637 335 636 335 635 335 633 335 617 347 565 341 564 341 523 348 522 348 521 348 472 332 471 332 431 332 430 332 429 332 428 332 406 347 369 347 347 331 346 331 345 331 343 331 342 331 299 344 265 333 264 333 263 333 261 333 223 344 223 360"/></Shape>
+	    <String CONTENT="rus dux disquisitio"
+                    HPOS="222"
+                    VPOS="331"
+                    WIDTH="849"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="224 541 1013 538" 
+                    HPOS="222"
+                    VPOS="486"
+                    WIDTH="789"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="223 540 223 616 237 619 238 619 239 619 241 619 243 616 283 588 298 593 299 593 301 593 302 593 303 593 345 563 609 563 660 605 675 617 676 617 677 617 679 619 742 619 742 617 743 617 745 617 768 601 775 598 781 601 810 616 811 616 812 617 899 617 899 616 900 616 931 601 972 600 973 600 975 600 975 599 978 596 987 588 1008 595 1011 537 1009 508 973 508 945 486 944 486 943 486 852 486 851 486 850 486 849 486 819 506 756 500 754 500 753 500 752 500 752 501 751 501 745 508 699 490 698 490 697 490 696 490 649 508 610 488 609 488 608 488 606 488 605 488 605 489 586 507 567 508 537 489 535 489 534 489 485 488 484 488 467 489 466 489 464 489 434 511 360 511 335 489 334 489 332 489 275 489 274 489 272 489 271 489 250 507 222 511 223 540"/></Shape>
+	    <String CONTENT="[Aven bland disp. Hfors]"
+                    HPOS="222"
+                    VPOS="486"
+                    WIDTH="789"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1590 467 2253 475" 
+                    HPOS="1588"
+                    VPOS="414"
+                    WIDTH="664"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="1589 466 1588 488 1632 504 1633 504 1634 504 1719 490 1787 534 1788 534 1790 534 1914 535 1916 535 1917 535 1918 535 1918 534 1945 508 1976 515 1977 515 1978 515 1979 515 1979 513 1990 505 2033 511 2034 511 2036 511 2053 504 2071 516 2072 516 2073 516 2075 516 2076 516 2114 504 2159 518 2160 518 2162 518 2163 518 2164 518 2181 505 2251 499 2252 474 2252 444 2229 434 2228 434 2226 434 2225 434 2224 434 2214 441 2181 433 2180 433 2179 433 2177 433 2155 445 2142 451 2036 451 2012 445 1985 437 1966 419 1966 418 1965 418 1963 418 1932 418 1930 418 1929 418 1928 418 1928 419 1898 444 1894 448 1841 448 1837 444 1808 418 1808 417 1807 417 1806 417 1709 415 1708 415 1706 415 1705 415 1705 417 1682 437 1656 415 1656 414 1655 414 1654 414 1653 414 1627 418 1626 418 1624 418 1589 440 1589 466"/></Shape>
+	    <String CONTENT="8º Helsingforsiae 1833."
+                    HPOS="1588"
+                    VPOS="414"
+                    WIDTH="664"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

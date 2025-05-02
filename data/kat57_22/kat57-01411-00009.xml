@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01411-00009.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="15"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2311 1471 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="211 252 824 244" 
+                    HPOS="208"
+                    VPOS="204"
+                    WIDTH="615"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="209 251 209 276 445 277 446 277 447 277 462 271 473 266 497 269 537 276 538 276 539 276 541 276 541 274 548 268 549 266 612 264 636 266 733 273 735 273 755 272 757 272 758 272 758 271 766 263 768 262 823 262 823 242 819 204 613 212 600 209 578 204 576 204 575 204 558 210 549 213 541 210 522 206 521 206 520 206 487 212 467 215 445 213 395 207 393 207 349 215 341 217 325 215 227 209 225 209 224 209 208 217 209 251"/></Shape>
+	    <String CONTENT="PIENAAR, W[illiam] J"
+                    HPOS="208"
+                    VPOS="204"
+                    WIDTH="615"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1925 57 2226 61" 
+                    HPOS="1922"
+                    VPOS="11"
+                    WIDTH="302"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1924 56 1922 74 1962 89 1963 89 1964 89 2044 78 2045 78 2046 78 2086 93 2087 93 2124 94 2125 95 2173 95 2173 94 2174 94 2175 94 2192 82 2196 79 2222 82 2224 60 2224 35 2179 15 2178 15 2177 15 2175 15 2143 31 2124 13 2124 12 2123 12 2121 12 2088 12 2087 12 2086 12 2084 12 2084 13 2071 26 2056 19 2055 19 2054 19 2053 19 2051 19 2042 26 2026 12 2026 11 2024 11 2023 11 2022 11 1995 14 1994 14 1992 14 1965 31 1964 31 1924 31 1924 56"/></Shape>
+	    <String CONTENT="Litt.-hist."
+                    HPOS="1922"
+                    VPOS="11"
+                    WIDTH="302"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1914 137 2147 140" 
+                    HPOS="1911"
+                    VPOS="90"
+                    WIDTH="235"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="1913 136 1911 157 1929 165 1930 165 1931 165 1974 158 1988 166 1989 166 1990 166 1991 166 2066 159 2124 168 2125 168 2126 168 2145 159 2146 139 2146 110 2118 93 2116 93 2115 93 2094 93 2093 93 2092 93 2091 93 2066 110 2050 110 2028 93 2027 93 2026 93 2024 93 2023 93 2022 93 2003 107 1979 90 1978 90 1976 90 1952 90 1951 90 1949 90 1913 107 1913 136"/></Shape>
+	    <String CONTENT="Nederl."
+                    HPOS="1911"
+                    VPOS="90"
+                    WIDTH="235"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="198 345 2113 337" 
+                    HPOS="196"
+                    VPOS="300"
+                    WIDTH="1915"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="197 344 198 368 2109 356 2111 336 2109 307 1867 300 1866 300 1731 307 1692 309 1667 307 1596 301 1595 301 1594 301 1578 307 1575 307 1553 307 1413 302 1412 302 1411 302 1398 307 1390 311 1283 311 1190 307 1098 304 1097 304 1078 307 1062 311 1045 307 1027 304 1025 304 1003 307 975 312 871 307 807 305 806 305 805 305 797 307 784 312 575 307 536 307 535 307 527 307 465 315 196 309 197 344"/></Shape>
+	    <String CONTENT="English influence in Dutch literature and Justus van Effen as"
+                    HPOS="196"
+                    VPOS="300"
+                    WIDTH="1915"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="204 444 1987 437" 
+                    HPOS="202"
+                    VPOS="406"
+                    WIDTH="1784"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="203 442 203 477 279 467 360 477 362 477 363 478 478 478 478 477 479 477 482 475 499 469 544 475 558 477 559 477 560 477 566 475 609 463 735 474 760 475 762 475 958 474 959 474 968 472 996 463 1030 471 1036 472 1038 472 1039 472 1043 471 1071 462 1115 471 1137 474 1138 474 1159 471 1195 462 1545 462 1553 467 1570 473 1572 473 1573 473 1574 473 1591 466 1602 462 1612 466 1616 467 1617 467 1618 467 1627 466 1659 460 1686 466 1691 466 1692 466 1710 464 1801 460 1821 464 1850 472 1851 472 1853 472 1903 463 1927 460 1985 462 1986 436 1984 410 1640 406 1639 406 1638 406 1619 412 1614 413 1581 412 1470 407 1468 407 1369 413 1360 413 1354 413 1289 407 1288 407 1287 407 1267 413 1263 414 1234 414 1075 408 1073 408 1028 414 1027 414 995 408 994 408 692 415 650 409 649 409 647 409 628 415 439 410 438 410 436 410 420 418 255 418 229 410 228 410 227 410 225 410 202 418 203 442"/></Shape>
+	    <String CONTENT="intermediary. An aspect of eighteenth century achievement."
+                    HPOS="202"
+                    VPOS="406"
+                    WIDTH="1784"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1360 536 1960 536" 
+                    HPOS="1359"
+                    VPOS="499"
+                    WIDTH="600"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1359 534 1359 559 1369 566 1370 566 1371 566 1373 566 1421 558 1424 558 1497 558 1499 558 1510 565 1511 565 1513 565 1514 565 1515 565 1516 565 1524 560 1530 565 1530 566 1531 566 1532 566 1533 566 1535 566 1536 566 1546 559 1560 566 1562 566 1563 566 1564 566 1581 559 1623 566 1624 566 1626 566 1627 566 1627 565 1634 559 1634 558 1635 559 1651 566 1653 566 1654 566 1681 560 1687 565 1687 566 1688 566 1689 566 1691 567 1762 567 1762 566 1763 566 1764 566 1773 559 1775 558 1786 559 1823 566 1824 566 1855 560 1866 558 1876 560 1902 566 1903 566 1904 566 1905 566 1920 560 1925 558 1931 560 1945 566 1946 566 1947 566 1948 566 1959 560 1959 534 1959 512 1936 512 1922 500 1922 499 1921 499 1920 499 1919 499 1867 506 1816 499 1814 499 1813 499 1812 499 1795 512 1768 512 1738 501 1737 501 1736 501 1735 501 1715 509 1707 500 1707 499 1705 499 1704 499 1664 499 1662 499 1661 499 1660 499 1643 510 1600 499 1599 499 1597 499 1596 499 1565 510 1518 499 1516 499 1515 499 1514 499 1493 511 1418 511 1386 500 1385 500 1384 500 1383 500 1359 511 1359 534"/></Shape>
+	    <String CONTENT="8:o Cambridge 1929."
+                    HPOS="1359"
+                    VPOS="499"
+                    WIDTH="600"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="2068 1418 2241 1412" 
+                    HPOS="2066"
+                    VPOS="1362"
+                    WIDTH="174"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="2067 1416 2067 1440 2104 1442 2105 1442 2107 1442 2125 1436 2131 1433 2132 1435 2138 1441 2140 1441 2141 1441 2142 1441 2143 1441 2145 1441 2154 1433 2161 1429 2168 1432 2184 1440 2185 1440 2186 1440 2188 1440 2189 1440 2189 1438 2197 1430 2200 1427 2204 1430 2216 1435 2217 1435 2218 1435 2219 1435 2240 1426 2240 1411 2238 1370 2184 1362 2183 1362 2181 1362 2180 1362 2180 1364 2168 1373 2154 1370 2153 1370 2152 1370 2151 1370 2129 1381 2118 1387 2066 1387 2067 1416"/></Shape>
+	    <String CONTENT="8.1.54"
+                    HPOS="2066"
+                    VPOS="1362"
+                    WIDTH="174"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

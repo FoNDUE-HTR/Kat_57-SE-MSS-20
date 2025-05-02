@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01498-00095.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1496"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1496">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1494"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1495 2323 1495 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2010 59 2235 56" 
+                    HPOS="2008"
+                    VPOS="23"
+                    WIDTH="226"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="2009 58 2009 86 2070 82 2077 86 2099 105 2100 105 2102 105 2103 107 2159 107 2159 105 2183 104 2184 104 2185 104 2185 103 2206 83 2209 81 2231 82 2234 54 2230 38 2139 39 2135 38 2105 23 2104 23 2083 23 2082 23 2008 38 2009 58"/></Shape>
+	    <String CONTENT="Biogr"
+                    HPOS="2008"
+                    VPOS="23"
+                    WIDTH="226"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2080 125 2243 125" 
+                    HPOS="2079"
+                    VPOS="100"
+                    WIDTH="163"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="2079 124 2079 148 2115 148 2117 149 2123 154 2123 155 2124 155 2125 155 2127 157 2183 157 2183 155 2184 155 2185 155 2185 154 2189 152 2193 148 2241 153 2242 124 2240 100 2214 107 2079 104 2079 124"/></Shape>
+	    <String CONTENT="Tysk"
+                    HPOS="2079"
+                    VPOS="100"
+                    WIDTH="163"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="194 204 1450 207" 
+                    HPOS="192"
+                    VPOS="160"
+                    WIDTH="1256"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="193 203 192 214 230 221 231 221 274 216 299 230 300 230 301 230 302 230 320 225 346 233 347 233 662 234 663 234 664 234 699 219 701 218 784 218 787 219 820 234 821 234 822 235 945 235 945 234 946 234 947 234 968 220 974 218 1037 221 1165 229 1166 229 1255 223 1282 221 1300 223 1387 235 1388 235 1447 224 1448 206 1447 163 1425 160 1423 160 1422 160 1417 163 1365 188 1347 182 1346 182 1345 182 1344 182 1325 189 1275 185 1235 164 1229 160 1228 160 1052 160 1051 160 1029 165 1016 168 1002 165 981 160 979 160 978 160 965 165 900 188 805 177 804 177 802 177 768 188 709 180 708 180 627 188 609 179 608 179 607 179 557 188 470 188 452 179 451 179 450 179 401 184 360 169 359 169 357 169 356 169 302 187 256 169 255 169 254 169 253 169 249 169 221 175 193 170 193 203"/></Shape>
+	    <String CONTENT="Reimmann, Jacob Friederich"
+                    HPOS="192"
+                    VPOS="160"
+                    WIDTH="1256"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="204 323 2299 318" 
+                    HPOS="201"
+                    VPOS="274"
+                    WIDTH="2096"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="203 322 203 339 327 345 329 345 372 339 388 337 410 339 463 344 465 344 541 339 568 337 593 339 723 349 724 349 933 342 1142 347 1143 347 1243 337 1253 337 1261 337 1322 345 1324 345 1325 345 1354 337 1366 335 1494 335 1504 337 1532 346 1533 346 1534 346 1607 345 1608 345 1630 337 1635 336 1642 337 1683 346 1684 346 1866 345 1900 337 1915 334 1954 337 2004 341 2006 341 2045 337 2074 334 2084 336 2097 341 2098 341 2196 345 2198 346 2271 346 2271 345 2272 345 2296 336 2297 317 2295 290 2208 285 2206 285 2179 289 2145 294 2124 289 2067 274 2065 274 2002 274 2001 274 1999 274 1952 287 1935 294 1792 296 1730 286 1716 285 1715 285 1700 286 1681 289 1673 286 1637 275 1635 275 1552 275 1550 275 1549 275 1511 286 1467 297 1367 287 1366 287 1246 300 1164 300 1119 289 1118 289 1117 289 1087 300 1042 300 984 284 983 284 982 284 867 299 829 291 827 291 766 292 733 282 719 278 718 278 630 278 629 278 628 278 615 281 559 301 483 301 390 280 375 278 374 278 201 279 203 322"/></Shape>
+	    <String CONTENT="Eigene Lebensbeschreibung oder historische Nachricht"
+                    HPOS="201"
+                    VPOS="274"
+                    WIDTH="2096"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="212 439 1112 431 2282 437" 
+                    HPOS="210"
+                    VPOS="400"
+                    WIDTH="2071"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="211 438 211 458 271 465 273 465 314 458 359 452 453 458 482 460 483 460 484 460 489 458 536 443 652 457 653 457 657 457 790 453 791 453 825 443 962 443 992 453 993 453 994 453 1155 443 1199 456 1240 468 1241 468 1243 469 1415 469 1415 468 1481 455 1538 443 1574 455 1578 456 1579 456 1580 456 1638 455 1776 451 1841 453 1841 455 1885 468 1886 468 1887 469 2039 469 2039 468 2040 468 2087 453 2112 446 2160 453 2190 457 2191 457 2280 452 2281 436 2280 400 2225 400 2224 400 2223 400 2179 416 1981 416 1923 402 1911 400 1866 400 1865 400 1863 400 1853 402 1814 416 1729 416 1685 405 1668 400 1666 400 1622 400 1620 400 1619 400 1602 405 1568 416 1469 416 1445 406 1436 403 1435 403 1433 403 1418 406 1402 410 1373 407 1331 402 1330 402 1274 407 1272 407 1246 400 1245 400 1244 400 1184 408 1155 412 1139 408 1100 400 1099 400 969 410 910 415 892 411 845 400 716 400 715 400 572 413 554 415 548 413 486 400 484 400 483 400 447 408 417 402 416 402 415 402 377 415 377 416 210 416 211 438"/></Shape>
+	    <String CONTENT="von sich selbst... mit einigen Anmerkungen und"
+                    HPOS="210"
+                    VPOS="400"
+                    WIDTH="2071"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="199 543 2283 543" 
+                    HPOS="198"
+                    VPOS="499"
+                    WIDTH="2084"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="198 542 198 567 398 567 398 565 443 556 613 556 710 565 711 567 1211 567 1211 565 1213 565 1243 556 1708 556 1819 564 1820 564 1875 556 2058 563 2059 563 2204 557 2281 565 2282 542 2282 511 2249 501 2247 501 2246 501 2154 512 2133 514 2125 512 2088 499 2087 499 1903 499 1902 499 1901 499 1861 513 1840 521 1771 514 1746 512 1745 512 1744 512 1735 514 1710 522 1625 522 1597 514 1538 502 1537 502 1467 516 1450 518 1413 516 1365 512 1363 512 1362 512 1351 516 1336 521 1289 521 1277 516 1244 506 1243 506 1241 506 1186 517 1165 522 1104 522 1082 517 979 499 865 499 864 499 862 499 804 518 785 518 733 521 711 519 531 499 529 499 528 499 471 519 467 522 326 522 322 521 274 513 273 513 198 521 198 542"/></Shape>
+	    <String CONTENT="einem kurzen Vorbericht verschen von Friederich"
+                    HPOS="198"
+                    VPOS="499"
+                    WIDTH="2084"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="188 654 1047 661" 
+                    HPOS="187"
+                    VPOS="610"
+                    WIDTH="859"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="187 653 187 671 198 668 209 671 234 681 235 681 236 681 339 676 355 683 356 683 357 683 470 675 482 684 483 684 484 684 486 685 512 685 512 684 581 673 595 670 600 673 628 685 629 685 630 686 665 686 665 685 667 685 668 685 685 673 686 673 741 685 743 685 852 678 902 688 903 688 905 688 961 674 1044 674 1046 660 1044 643 917 644 861 639 837 637 836 637 827 638 799 644 721 639 719 635 701 622 701 620 700 620 699 620 698 620 696 620 695 620 675 635 674 635 673 635 653 627 652 627 650 627 649 627 648 627 639 634 630 642 576 633 572 633 571 633 568 633 531 642 514 632 502 624 501 624 499 624 498 624 466 630 456 633 448 630 430 623 428 623 427 623 426 623 412 629 398 637 379 629 327 610 326 610 219 610 218 610 216 610 187 624 187 653"/></Shape>
+	    <String CONTENT="Heinrich Theuren..."
+                    HPOS="187"
+                    VPOS="610"
+                    WIDTH="859"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1285 770 2274 765" 
+                    HPOS="1282"
+                    VPOS="705"
+                    WIDTH="990"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="1284 769 1284 790 1315 795 1316 795 1317 795 1319 795 1325 790 1340 781 1437 781 1457 790 1473 797 1474 797 1528 805 1529 805 1531 805 1532 805 1532 804 1544 792 1557 790 1580 785 1595 790 1604 792 1605 792 1607 792 1625 790 1639 787 1644 790 1673 802 1674 802 1734 804 1735 804 1736 804 1762 789 1779 780 1800 779 1824 789 1880 814 1881 814 1882 815 2007 815 2007 814 2008 814 2009 814 2047 791 2114 812 2115 812 2117 812 2118 812 2180 789 2209 777 2270 787 2272 764 2270 715 2245 711 2244 711 2242 711 2235 715 2229 719 2223 715 2210 708 2209 708 2208 708 2206 708 2145 714 2131 708 2130 708 2129 708 2128 708 2127 708 2110 718 2070 743 1875 743 1831 728 1830 728 1829 728 1827 728 1762 745 1666 745 1642 728 1609 705 1608 705 1607 705 1605 705 1488 706 1487 706 1486 706 1443 733 1410 706 1408 706 1407 706 1381 706 1380 706 1378 706 1377 706 1366 714 1344 710 1342 710 1341 710 1340 710 1305 733 1282 735 1284 769"/></Shape>
+	    <String CONTENT="8º Braunschweig 1785"
+                    HPOS="1282"
+                    VPOS="705"
+                    WIDTH="990"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

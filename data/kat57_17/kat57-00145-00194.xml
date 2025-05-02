@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00194.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="14"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2327 1479 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="151 204 405 199" 
+                    HPOS="149"
+                    VPOS="165"
+                    WIDTH="255"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="150 203 150 222 404 220 404 198 400 165 149 170 150 203"/></Shape>
+	    <String CONTENT="BERICHTE"
+                    HPOS="149"
+                    VPOS="165"
+                    WIDTH="255"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1900 76 2295 71" 
+                    HPOS="1898"
+                    VPOS="37"
+                    WIDTH="396"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1899 75 1899 94 1951 93 1954 96 1961 101 1961 102 1962 102 1964 102 1997 103 1998 103 1999 103 2001 103 2012 94 2013 93 2061 92 2066 93 2094 102 2096 102 2097 102 2176 99 2177 99 2197 92 2221 99 2223 99 2224 99 2225 99 2226 99 2226 98 2234 91 2293 88 2294 70 2293 48 2276 37 2274 37 2273 37 2229 37 2228 37 2226 37 2225 37 2210 48 2178 38 2177 38 2176 38 2094 50 2073 39 2072 39 2014 39 2013 39 2012 39 2010 39 1989 51 1957 46 1956 46 1898 53 1899 75"/></Shape>
+	    <String CONTENT="Kommunalv."
+                    HPOS="1898"
+                    VPOS="37"
+                    WIDTH="396"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1999 144 2056 148" 
+                    HPOS="1996"
+                    VPOS="106"
+                    WIDTH="60"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="1998 143 1996 162 2054 160 2055 148 2056 114 2039 106 2038 106 2036 106 2035 106 1999 115 1998 143"/></Shape>
+	    <String CONTENT="T"
+                    HPOS="1996"
+                    VPOS="106"
+                    WIDTH="60"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="146 304 2114 295" 
+                    HPOS="144"
+                    VPOS="260"
+                    WIDTH="1969"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="145 303 146 328 2110 321 2113 294 2109 265 1691 266 1679 266 1612 260 1611 260 1560 266 1545 267 1486 266 1290 261 1289 261 1250 267 1237 268 1170 267 989 262 988 262 852 268 805 270 778 268 706 263 705 263 144 270 145 303"/></Shape>
+	    <String CONTENT="über die Zustände und die Reform des ländlichen Gemeindewesens in"
+                    HPOS="144"
+                    VPOS="260"
+                    WIDTH="1969"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="143 407 436 407" 
+                    HPOS="141"
+                    VPOS="371"
+                    WIDTH="294"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="141 407 141 427 362 432 363 432 435 425 435 407 435 382 335 371 334 371 333 371 331 371 318 381 256 372 255 372 254 372 230 381 204 371 203 371 159 371 157 371 156 371 155 371 141 379 141 407"/></Shape>
+	    <String CONTENT="Preussen."
+                    HPOS="141"
+                    VPOS="371"
+                    WIDTH="294"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1191 501 1748 504" 
+                    HPOS="1189"
+                    VPOS="462"
+                    WIDTH="557"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="1189 516 1220 527 1221 527 1222 529 1279 529 1279 527 1280 527 1281 527 1295 519 1296 519 1341 519 1343 520 1360 527 1362 527 1363 527 1424 521 1426 521 1432 526 1432 527 1433 527 1434 527 1565 529 1566 529 1568 529 1569 529 1569 527 1574 524 1577 520 1590 524 1602 527 1603 527 1670 529 1671 529 1672 529 1674 529 1676 525 1682 521 1744 526 1746 503 1746 477 1674 463 1593 463 1592 463 1591 463 1590 463 1577 474 1576 476 1576 474 1569 469 1568 469 1566 469 1565 469 1564 469 1563 469 1556 474 1555 474 1543 463 1542 463 1540 463 1496 463 1495 463 1494 463 1492 463 1492 464 1482 473 1480 476 1475 473 1443 462 1442 462 1440 462 1439 462 1410 473 1405 474 1397 473 1363 464 1362 464 1360 464 1359 464 1359 466 1350 472 1348 474 1329 472 1287 467 1286 467 1285 467 1275 472 1269 474 1262 472 1234 462 1233 462 1232 462 1231 462 1206 471 1197 474 1192 471 1190 500 1189 516"/></Shape>
+	    <String CONTENT="8:o Leipzig 1890."
+                    HPOS="1189"
+                    VPOS="462"
+                    WIDTH="557"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="146 612 1597 607" 
+                    HPOS="144"
+                    VPOS="566"
+                    WIDTH="1452"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="145 611 146 643 176 635 213 642 214 642 262 642 572 641 573 641 577 640 597 630 664 638 677 640 678 640 679 640 683 638 695 632 718 638 729 641 730 641 731 641 785 637 905 629 969 636 979 636 980 636 982 636 984 635 1007 629 1136 633 1170 635 1172 635 1186 633 1223 629 1239 632 1247 635 1248 635 1249 635 1299 632 1384 627 1391 631 1406 638 1407 638 1408 638 1481 637 1482 637 1497 630 1503 627 1593 629 1596 606 1593 573 1270 566 1269 566 1268 566 1247 572 1242 573 1192 572 1047 567 1046 567 1044 567 1033 572 1027 574 1021 572 1012 567 1011 567 969 567 968 567 967 567 951 572 940 575 513 575 479 571 468 569 467 569 466 569 461 571 441 578 367 578 275 571 256 569 255 569 246 571 201 577 144 571 145 611"/></Shape>
+	    <String CONTENT="Se: Schriften des Vereins für Social politik. 44."
+                    HPOS="144"
+                    VPOS="566"
+                    WIDTH="1452"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1386 706 1764 703" 
+                    HPOS="1384"
+                    VPOS="654"
+                    WIDTH="378"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1385 705 1385 720 1418 730 1419 730 1421 730 1452 723 1505 730 1506 730 1542 723 1572 719 1611 726 1629 728 1630 728 1632 728 1639 726 1653 721 1669 727 1674 728 1675 728 1676 730 1676 728 1677 728 1681 727 1698 721 1723 726 1724 726 1725 726 1727 726 1727 725 1733 720 1760 728 1762 703 1760 682 1723 682 1679 654 1677 654 1676 654 1675 654 1674 654 1672 654 1640 677 1628 670 1627 670 1626 670 1624 670 1591 680 1561 668 1560 668 1559 668 1558 668 1534 682 1502 656 1501 656 1500 656 1437 656 1436 656 1434 656 1433 656 1433 657 1413 675 1384 682 1385 705"/></Shape>
+	    <String CONTENT="Polit. ekon."
+                    HPOS="1384"
+                    VPOS="654"
+                    WIDTH="378"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1472 781 1668 784" 
+                    HPOS="1470"
+                    VPOS="735"
+                    WIDTH="197"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="1471 780 1470 791 1569 804 1570 804 1666 796 1667 783 1667 742 1642 736 1640 736 1639 736 1638 736 1637 736 1637 737 1630 742 1627 747 1571 747 1563 742 1553 735 1552 735 1550 735 1549 735 1548 735 1524 741 1512 744 1507 741 1501 736 1501 735 1500 735 1498 735 1497 735 1471 740 1471 780"/></Shape>
+	    <String CONTENT="Sällsk"
+                    HPOS="1470"
+                    VPOS="735"
+                    WIDTH="197"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="1447 864 2101 868" 
+                    HPOS="1444"
+                    VPOS="797"
+                    WIDTH="656"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="1444 883 1473 901 1474 901 1475 901 1476 901 1526 895 1566 923 1568 923 1569 923 1664 925 1665 926 1679 926 1679 925 1680 925 1681 925 1681 923 1702 904 1730 897 1732 897 1733 897 1749 883 1750 883 1779 883 1781 883 1801 895 1802 895 1803 895 1804 896 1861 896 1892 921 1893 921 1894 921 1896 921 1897 921 1898 921 1919 902 1975 886 2014 885 2055 884 2061 885 2086 895 2087 895 2088 895 2089 895 2091 895 2099 886 2100 867 2099 806 2056 810 2039 805 2019 800 2018 800 2017 800 2015 800 2014 800 2008 805 1987 822 1956 823 1923 805 1922 805 1920 805 1919 805 1918 805 1891 821 1829 804 1808 799 1807 799 1806 799 1748 804 1730 806 1729 806 1728 806 1713 818 1696 810 1695 810 1693 810 1692 810 1658 822 1589 822 1565 802 1559 797 1558 797 1556 797 1501 797 1500 797 1498 797 1486 802 1465 812 1447 802 1445 863 1444 883"/></Shape>
+	    <String CONTENT="Verein f. Socialpolitik"
+                    HPOS="1444"
+                    VPOS="797"
+                    WIDTH="656"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

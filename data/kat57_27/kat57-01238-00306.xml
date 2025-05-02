@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00306.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2315 1477 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="281 236 1503 233" 
+                    HPOS="279"
+                    VPOS="173"
+                    WIDTH="1223"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="280 235 280 274 819 278 820 278 821 278 841 268 850 264 877 264 888 268 911 277 912 277 914 277 915 277 941 268 964 259 991 259 1013 267 1043 277 1044 277 1045 277 1047 277 1048 277 1065 266 1077 259 1218 259 1229 264 1252 277 1254 277 1255 278 1292 278 1292 277 1293 277 1324 263 1331 261 1500 261 1502 232 1500 206 1307 206 1293 200 1266 190 1265 190 1263 190 1262 190 1236 199 1218 206 1166 206 1149 197 1148 197 1146 197 1145 197 1139 197 1097 201 1085 195 1043 173 1042 173 1040 173 980 187 930 176 928 176 888 182 870 174 869 174 766 174 765 174 763 174 734 187 699 200 611 190 609 190 608 190 582 199 519 198 482 181 469 174 468 174 417 174 416 174 415 174 406 178 395 183 379 178 369 174 368 174 367 174 279 174 280 235"/></Shape>
+	    <String CONTENT="Mortensen, [Ole] Th[eodor Jensen"
+                    HPOS="279"
+                    VPOS="173"
+                    WIDTH="1223"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2037 65 2248 61" 
+                    HPOS="2035"
+                    VPOS="11"
+                    WIDTH="212"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="2036 64 2036 75 2072 75 2074 76 2083 84 2083 86 2084 86 2085 86 2086 86 2088 86 2102 80 2245 86 2247 60 2245 20 2233 14 2232 14 2230 14 2229 14 2210 23 2202 27 2165 27 2164 25 2141 11 2139 11 2138 11 2137 11 2085 12 2084 12 2083 12 2083 13 2062 33 2062 34 2035 34 2036 64"/></Shape>
+	    <String CONTENT="Zool"
+                    HPOS="2035"
+                    VPOS="11"
+                    WIDTH="212"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2031 133 2294 133" 
+                    HPOS="2030"
+                    VPOS="77"
+                    WIDTH="263"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="2030 131 2030 167 2067 171 2097 199 2097 200 2099 200 2100 200 2101 200 2171 198 2173 198 2174 198 2196 182 2216 168 2242 171 2256 187 2264 193 2264 194 2265 194 2266 194 2267 194 2293 189 2293 131 2292 84 2226 92 2218 87 2203 77 2202 77 2201 77 2200 77 2198 77 2197 77 2179 89 2168 97 2131 97 2126 92 2111 78 2111 77 2110 77 2109 77 2062 77 2060 77 2059 77 2058 77 2030 94 2030 131"/></Shape>
+	    <String CONTENT="Tagghud.]"
+                    HPOS="2030"
+                    VPOS="77"
+                    WIDTH="263"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="249 316 2072 312" 
+                    HPOS="247"
+                    VPOS="275"
+                    WIDTH="1823"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="248 315 248 344 299 337 404 343 405 343 495 336 529 343 546 347 548 347 579 343 630 336 756 342 768 342 769 342 771 342 772 342 792 335 1056 335 1105 339 1158 346 1159 346 1160 346 1181 339 1198 335 1234 339 1278 344 1461 346 1462 346 1521 337 1525 337 1530 337 1568 343 1569 343 1660 336 1703 333 1722 336 1771 344 1772 344 1889 336 1915 344 1916 344 1918 346 2011 346 2011 344 2069 333 2070 311 2068 277 1923 275 1921 275 1910 277 1852 286 1833 280 1831 280 1732 278 1622 275 1621 275 1603 278 1560 286 1449 289 1429 282 1427 282 1426 282 1351 291 1276 284 1275 284 1273 284 1247 293 1149 293 1077 280 1054 277 1053 277 1033 280 979 291 937 280 931 279 930 279 928 279 927 279 922 280 895 291 863 285 862 285 861 285 843 294 729 294 698 282 691 279 689 279 688 279 636 280 635 280 630 282 601 294 465 294 437 283 423 278 422 278 421 278 399 283 367 290 330 283 301 278 300 278 247 283 248 315"/></Shape>
+	    <String CONTENT="On the postlarval development of some Cidarids. [Ill."
+                    HPOS="247"
+                    VPOS="275"
+                    WIDTH="1823"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1341 390 1951 395" 
+                    HPOS="1339"
+                    VPOS="354"
+                    WIDTH="611"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1339 405 1360 415 1361 415 1362 416 1414 416 1414 415 1415 415 1416 415 1416 413 1426 406 1489 407 1496 415 1496 416 1498 416 1499 416 1500 416 1501 416 1527 407 1528 407 1597 407 1599 408 1606 415 1606 416 1607 416 1608 416 1610 416 1611 416 1634 410 1642 407 1644 410 1651 416 1651 417 1653 417 1654 417 1655 417 1656 417 1658 417 1664 411 1675 417 1676 417 1677 418 1798 418 1798 417 1799 417 1801 417 1805 412 1808 410 1818 412 1836 418 1838 418 1839 418 1840 418 1854 413 1865 410 1882 413 1899 418 1900 418 1902 418 1948 415 1950 394 1948 359 1840 359 1839 359 1838 359 1836 359 1818 373 1797 373 1701 373 1645 357 1644 357 1643 357 1642 357 1640 357 1640 358 1628 369 1601 370 1562 367 1553 358 1553 357 1552 357 1550 357 1549 357 1498 367 1481 357 1480 357 1479 357 1478 357 1477 357 1475 357 1467 364 1454 359 1453 359 1452 359 1451 359 1431 370 1383 370 1341 354 1340 389 1339 405"/></Shape>
+	    <String CONTENT="4:o København 1927."
+                    HPOS="1339"
+                    VPOS="354"
+                    WIDTH="611"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="244 468 2315 462" 
+                    HPOS="243"
+                    VPOS="416"
+                    WIDTH="2072"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="244 468 244 487 280 502 281 502 283 502 398 489 707 500 708 500 780 487 785 487 807 487 1229 502 1231 502 1325 487 1338 486 1514 486 1524 487 1592 500 1594 500 2206 499 2315 486 2315 462 2312 427 2042 427 2007 425 1882 416 1880 416 1808 424 1779 428 1599 428 1549 424 1463 416 1461 416 1460 416 1442 422 1428 428 1287 422 1239 420 1237 420 1209 422 1086 430 1063 420 1054 417 1052 417 916 417 914 417 898 420 857 430 761 420 743 419 742 419 729 420 655 430 571 419 561 419 243 419 244 468"/></Shape>
+	    <String CONTENT="Se: Det kgl danske Videnskabernes Selskabs Skrifter. Natur-"
+                    HPOS="243"
+                    VPOS="416"
+                    WIDTH="2072"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="408 543 2000 547" 
+                    HPOS="406"
+                    VPOS="498"
+                    WIDTH="1593"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="407 541 406 562 463 564 528 583 529 583 530 583 617 575 646 580 647 580 649 580 668 571 805 585 806 586 974 586 974 585 975 585 1015 570 1117 576 1118 576 1119 576 1154 566 1155 566 1162 566 1303 573 1304 573 1383 569 1424 586 1425 586 1426 586 1558 580 1601 587 1602 587 1738 578 1739 578 1765 569 1996 569 1999 546 1998 503 1921 501 1920 501 1919 501 1911 503 1882 514 1856 503 1854 503 1852 503 1851 503 1850 503 1847 504 1828 511 1780 504 1749 501 1648 501 1647 501 1645 501 1627 506 1603 512 1585 506 1564 500 1563 500 1452 500 1451 500 1413 508 1380 514 1366 508 1357 504 1356 504 1355 504 1353 504 1345 508 1339 511 1328 508 1289 500 1288 500 1287 500 1262 509 1238 518 1206 509 1196 507 1194 507 1193 507 1166 509 1144 512 1137 509 1100 498 1098 498 1097 498 1043 511 1010 519 808 519 793 513 774 506 773 506 772 506 771 506 745 513 731 518 670 518 662 514 644 507 643 507 641 507 593 514 577 517 561 514 523 509 522 509 521 509 506 516 501 517 407 517 407 541"/></Shape>
+	    <String CONTENT="videnskabelig og mathematisk Afdeling.8.Rækhe.11."
+                    HPOS="406"
+                    VPOS="498"
+                    WIDTH="1593"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="425 622 590 617" 
+                    HPOS="421"
+                    VPOS="572"
+                    WIDTH="167"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="423 621 423 642 588 642 588 615 586 572 524 572 523 572 522 572 521 572 511 580 501 588 486 588 477 583 464 575 463 575 461 575 460 575 459 575 458 575 458 576 445 587 444 589 421 589 423 621"/></Shape>
+	    <String CONTENT="Acta"
+                    HPOS="421"
+                    VPOS="572"
+                    WIDTH="167"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="424 678 574 681" 
+                    HPOS="422"
+                    VPOS="644"
+                    WIDTH="150"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="423 677 422 692 461 703 463 703 464 703 465 703 479 697 480 695 570 702 572 679 572 661 503 661 492 651 489 647 487 647 486 647 423 644 423 677"/></Shape>
+	    <String CONTENT="Dan."
+                    HPOS="422"
+                    VPOS="644"
+                    WIDTH="150"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="403 761 623 758" 
+                    HPOS="401"
+                    VPOS="695"
+                    WIDTH="221"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="402 759 402 782 622 779 622 757 618 731 548 731 521 715 491 695 490 695 489 695 401 695 402 759"/></Shape>
+	    <String CONTENT="[Khvn."
+                    HPOS="401"
+                    VPOS="695"
+                    WIDTH="221"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="430 828 751 833" 
+                    HPOS="428"
+                    VPOS="780"
+                    WIDTH="322"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="429 827 428 862 548 857 560 864 561 864 562 864 614 865 615 865 668 858 747 868 750 832 747 783 687 793 604 793 596 784 592 782 592 780 591 780 590 780 588 780 587 780 579 785 567 791 548 791 542 785 537 782 537 780 535 780 534 780 533 780 429 787 429 827"/></Shape>
+	    <String CONTENT="Vid.Selsk.]"
+                    HPOS="428"
+                    VPOS="780"
+                    WIDTH="322"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01411-00061.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1464"
+          PHYSICAL_IMG_NR="40"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1464">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1462"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1463 2315 1463 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1621 211 1757 208" 
+                    HPOS="1619"
+                    VPOS="129"
+                    WIDTH="136"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1620 209 1620 228 1755 225 1755 207 1752 129 1707 134 1705 134 1704 134 1704 135 1698 140 1694 145 1688 142 1677 137 1676 137 1675 137 1674 137 1672 137 1659 148 1648 158 1619 158 1620 209"/></Shape>
+	    <String CONTENT="Acta"
+                    HPOS="1619"
+                    VPOS="129"
+                    WIDTH="136"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="194 273 507 270" 
+                    HPOS="191"
+                    VPOS="219"
+                    WIDTH="315"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="192 272 192 300 204 309 206 309 207 309 208 311 294 311 294 309 295 309 307 303 396 303 397 303 399 303 417 294 461 301 462 301 506 291 506 269 503 234 439 225 438 225 436 225 435 225 435 226 428 234 409 234 401 234 386 220 386 219 385 219 384 219 347 219 346 219 292 220 291 220 290 220 272 234 257 224 256 224 255 224 253 224 191 235 192 272"/></Shape>
+	    <String CONTENT="PIERCE, E"
+                    HPOS="191"
+                    VPOS="219"
+                    WIDTH="315"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="816 268 966 268" 
+                    HPOS="815"
+                    VPOS="234"
+                    WIDTH="150"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="815 267 815 281 848 292 849 292 850 292 921 286 943 291 944 291 945 291 946 291 965 283 965 267 965 239 815 234 815 267"/></Shape>
+	    <String CONTENT="Lowe"
+                    HPOS="815"
+                    VPOS="234"
+                    WIDTH="150"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1604 259 1909 253" 
+                    HPOS="1602"
+                    VPOS="219"
+                    WIDTH="306"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1603 258 1603 279 1644 281 1646 281 1647 281 1653 279 1668 272 1680 278 1685 280 1686 280 1687 281 1724 281 1724 280 1725 280 1731 278 1746 269 1788 269 1830 275 1843 278 1844 278 1846 278 1847 278 1847 276 1848 275 1855 268 1907 274 1908 252 1906 231 1808 225 1807 225 1805 225 1777 233 1757 219 1755 219 1754 219 1735 219 1733 219 1732 219 1731 219 1713 234 1696 220 1694 220 1693 220 1660 220 1659 220 1658 220 1626 236 1626 237 1602 237 1603 258"/></Shape>
+	    <String CONTENT="N. Amer."
+                    HPOS="1602"
+                    VPOS="219"
+                    WIDTH="306"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1451 315 2277 318" 
+                    HPOS="1449"
+                    VPOS="264"
+                    WIDTH="827"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="1450 314 1449 341 1472 348 1474 348 1475 348 1476 348 1477 348 1486 342 1499 331 1548 331 1580 342 1581 342 1582 342 1657 339 1670 345 1671 345 1672 345 1674 345 1675 345 1676 345 1697 339 1729 345 1740 347 1741 347 1742 347 1748 346 1765 341 1775 346 1783 350 1785 350 1786 350 1787 350 1797 346 1821 337 1844 341 1846 341 1847 341 1848 341 1859 333 1912 333 1924 340 1925 340 1926 340 1927 340 1971 339 1984 347 1985 347 1986 347 1987 347 1988 347 1990 347 2003 336 2046 333 2079 342 2080 342 2081 342 2153 336 2187 352 2189 352 2190 352 2191 353 2275 353 2276 317 2275 273 2239 276 2231 272 2228 269 2226 269 2225 269 2224 269 2223 269 2222 269 2222 270 2219 272 2198 291 2185 291 2150 272 2148 272 2146 270 2056 267 2054 267 2053 267 2052 267 2052 268 2049 270 2026 291 1985 291 1960 269 1958 267 1957 267 1956 267 1954 267 1937 269 1913 273 1912 273 1910 273 1899 283 1846 269 1844 269 1843 269 1842 269 1812 281 1779 267 1775 265 1774 265 1772 265 1771 265 1770 265 1770 267 1769 267 1744 289 1674 284 1672 284 1567 289 1513 265 1511 265 1450 264 1450 314"/></Shape>
+	    <String CONTENT="[Gainesville. Univ. of Florida"
+                    HPOS="1449"
+                    VPOS="264"
+                    WIDTH="827"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="191 370 2043 366" 
+                    HPOS="189"
+                    VPOS="329"
+                    WIDTH="1853"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="190 369 190 391 239 398 240 398 303 392 358 401 359 401 419 394 483 401 484 401 485 401 514 392 540 400 541 400 543 400 573 395 658 401 660 401 661 401 690 392 733 397 734 397 821 391 824 391 827 391 881 397 882 397 950 391 951 391 982 400 983 400 984 401 1225 401 1225 400 1319 391 1409 400 1410 400 1505 390 1511 390 1823 390 1840 396 1841 396 1842 396 1881 390 1882 390 1930 398 1931 398 2042 389 2042 366 2040 337 1660 337 1655 336 1620 329 1500 329 1499 329 1498 329 1477 335 1474 336 1461 335 1414 330 1413 330 1411 330 1398 335 1391 337 1361 335 1305 330 1304 330 1237 335 1194 337 1160 335 1111 330 1110 330 1084 334 1064 337 992 334 910 330 909 330 802 334 685 337 638 333 614 331 613 331 590 333 527 339 447 333 425 331 424 331 413 333 372 339 189 333 190 369"/></Shape>
+	    <String CONTENT="Se: University of Florida studies.Biological science series."
+                    HPOS="189"
+                    VPOS="329"
+                    WIDTH="1853"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="315 471 2158 466" 
+                    HPOS="313"
+                    VPOS="434"
+                    WIDTH="1844"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="314 470 314 495 2157 492 2157 464 2154 441 1980 434 1979 434 1977 434 1960 440 1836 435 1835 435 1729 441 1719 441 1715 441 1672 435 1671 435 1637 441 1636 441 1633 441 1599 435 1598 435 1454 441 1449 441 1448 441 1422 435 1421 435 1420 435 1369 441 1359 442 1321 441 1148 436 1147 436 1145 436 1131 442 1128 442 1123 442 1093 436 1092 436 1055 442 1042 444 1021 442 970 437 968 437 944 442 934 444 905 442 826 437 824 437 788 442 774 444 313 444 314 470"/></Shape>
+	    <String CONTENT="Vol.4:3.An annual cycle of the plankton and chemistry of four"
+                    HPOS="313"
+                    VPOS="434"
+                    WIDTH="1844"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="546 518 1854 521" 
+                    HPOS="544"
+                    VPOS="485"
+                    WIDTH="1309"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="545 517 544 545 588 556 589 556 634 550 787 556 788 556 789 556 824 546 833 544 841 546 860 552 861 552 862 552 946 547 990 556 992 556 1054 546 1066 545 1071 546 1095 557 1096 557 1098 557 1099 557 1128 546 1133 545 1305 545 1309 547 1330 557 1331 557 1332 557 1333 557 1354 552 1419 558 1420 559 1539 559 1539 558 1541 558 1570 547 1575 546 1703 546 1707 547 1727 558 1729 558 1730 559 1799 559 1799 558 1852 547 1853 520 1853 498 1825 488 1824 488 1698 488 1697 488 1696 488 1676 497 1608 488 1607 488 1527 497 1524 497 1521 497 1477 488 1476 488 1403 496 1364 488 1362 488 1361 488 1334 496 1292 488 1291 488 1217 495 1175 486 1173 486 1172 486 1153 496 1151 496 1148 496 1092 489 1090 489 1054 496 1050 496 1046 496 1006 486 1005 486 893 494 877 485 876 485 874 485 873 485 844 495 811 485 810 485 809 485 807 485 788 495 784 495 704 486 702 486 701 486 674 495 672 495 545 495 545 517"/></Shape>
+	    <String CONTENT="aquatic habitats in Northern Florda. 1947."
+                    HPOS="544"
+                    VPOS="485"
+                    WIDTH="1309"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

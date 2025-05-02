@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01198-00290.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1470"
+          PHYSICAL_IMG_NR="40"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1470">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1468"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1469 2319 1469 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="127 105 715 102" 
+                    HPOS="125"
+                    VPOS="34"
+                    WIDTH="589"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="126 104 126 144 153 144 153 143 154 143 155 143 155 142 176 123 187 132 188 132 189 132 191 132 192 132 216 124 248 133 250 133 251 133 252 133 279 120 296 128 297 128 299 128 333 127 352 135 368 143 370 143 371 143 465 142 466 142 491 131 515 121 540 129 544 131 545 131 546 131 547 131 551 129 574 118 607 118 618 127 620 128 621 128 622 128 623 128 625 128 632 127 659 120 672 126 685 131 686 131 687 131 688 131 714 123 714 101 713 60 693 45 692 45 691 45 659 45 642 34 640 34 639 34 623 34 622 34 621 34 620 34 587 61 562 82 520 82 511 73 509 73 508 73 507 73 506 73 487 82 398 82 382 72 381 72 379 72 378 72 377 72 376 72 376 73 366 83 312 83 290 60 265 36 265 35 264 35 263 35 150 35 149 35 148 35 147 35 147 36 125 55 126 104"/></Shape>
+	    <String CONTENT="[Thompson, Fr."
+                    HPOS="125"
+                    VPOS="34"
+                    WIDTH="589"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="161 221 661 218" 
+                    HPOS="159"
+                    VPOS="180"
+                    WIDTH="501"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="160 220 160 249 392 252 393 252 394 252 395 252 395 251 401 246 410 237 468 237 477 243 480 246 481 246 482 246 484 246 485 246 486 246 486 245 487 243 496 236 557 236 566 242 574 249 576 249 577 249 578 249 579 249 607 241 623 237 659 240 660 216 659 188 640 182 639 182 638 182 637 182 636 182 627 188 622 192 487 192 479 189 449 180 448 180 447 180 446 180 444 180 444 181 433 189 431 193 389 193 387 191 376 181 375 181 373 181 324 180 323 180 247 187 175 181 174 181 172 181 171 181 159 188 160 220"/></Shape>
+	    <String CONTENT="MEYNELL, Everard"
+                    HPOS="159"
+                    VPOS="180"
+                    WIDTH="501"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="157 317 1275 317" 
+                    HPOS="156"
+                    VPOS="279"
+                    WIDTH="1118"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="156 316 156 340 191 354 192 354 193 355 372 355 372 354 373 354 405 341 408 341 626 341 629 343 642 349 643 349 644 349 674 343 683 341 693 343 751 354 752 354 753 354 754 354 764 347 920 354 921 354 922 354 943 344 949 341 962 344 991 351 992 351 1047 345 1077 341 1087 345 1109 354 1110 354 1111 354 1273 345 1274 316 1273 280 1215 279 1214 279 1213 279 1209 280 1196 286 1186 280 1185 279 1183 279 1182 279 1074 279 1073 279 1072 279 1071 279 1067 281 1051 291 975 291 953 282 948 281 947 281 946 281 944 281 941 282 922 291 878 291 823 284 774 279 773 279 745 285 720 290 705 285 689 280 688 280 687 280 686 280 672 285 661 291 605 291 582 286 536 279 535 279 534 279 533 279 520 287 518 289 507 287 486 284 485 284 451 287 431 290 419 287 372 279 371 279 370 279 368 279 355 289 352 290 343 289 297 282 296 282 295 282 294 282 284 290 281 290 270 290 182 284 181 284 180 284 156 290 156 316"/></Shape>
+	    <String CONTENT="The life of Francis Thompson. [Ill.]."
+                    HPOS="156"
+                    VPOS="279"
+                    WIDTH="1118"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="6 1450 180 1450" 
+                    HPOS="4"
+                    VPOS="1402"
+                    WIDTH="174"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="4 1449 4 1468 178 1467 178 1449 178 1416 60 1402 58 1402 57 1402 56 1402 35 1418 34 1419 4 1419 4 1449"/></Shape>
+	    <String CONTENT="17.8.46"
+                    HPOS="4"
+                    VPOS="1402"
+                    WIDTH="174"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1317 412 1879 412" 
+                    HPOS="1316"
+                    VPOS="373"
+                    WIDTH="562"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1316 411 1316 448 1356 442 1388 447 1427 453 1429 453 1430 453 1446 445 1463 437 1470 444 1478 452 1478 453 1479 453 1480 453 1481 454 1610 454 1610 453 1611 453 1637 441 1649 436 1746 436 1750 438 1766 452 1766 453 1767 453 1768 453 1769 454 1812 454 1812 453 1834 449 1835 449 1837 449 1837 448 1850 436 1878 436 1878 411 1878 389 1834 373 1833 373 1731 373 1730 373 1729 373 1728 373 1728 374 1710 390 1676 390 1665 383 1664 383 1663 383 1661 383 1622 384 1595 373 1594 373 1593 373 1592 373 1590 373 1590 374 1574 389 1542 383 1541 383 1540 383 1519 389 1489 373 1487 373 1486 373 1485 373 1455 388 1378 388 1348 378 1346 378 1345 378 1344 378 1343 378 1343 379 1332 390 1316 390 1316 411"/></Shape>
+	    <String CONTENT="8:o London 1913."
+                    HPOS="1316"
+                    VPOS="373"
+                    WIDTH="562"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2017 82 2248 86" 
+                    HPOS="2014"
+                    VPOS="15"
+                    WIDTH="233"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="2016 80 2014 101 2084 105 2089 109 2136 138 2137 138 2138 138 2190 139 2191 139 2192 139 2230 120 2231 120 2245 121 2247 85 2245 45 2214 55 2163 55 2152 45 2117 17 2116 17 2115 17 2066 15 2065 15 2063 15 2062 15 2016 42 2016 80"/></Shape>
+	    <String CONTENT="Biogr."
+                    HPOS="2014"
+                    VPOS="15"
+                    WIDTH="233"
+                    HEIGHT="124"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="2066 167 2208 172" 
+                    HPOS="2063"
+                    VPOS="120"
+                    WIDTH="144"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="2065 166 2063 186 2119 194 2130 205 2149 224 2149 225 2150 225 2152 225 2203 226 2207 171 2207 147 2154 143 2148 138 2119 120 2117 120 2116 120 2115 120 2065 127 2065 166"/></Shape>
+	    <String CONTENT="Eng."
+                    HPOS="2063"
+                    VPOS="120"
+                    WIDTH="144"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

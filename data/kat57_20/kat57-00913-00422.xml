@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00913-00422.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1476"
+          PHYSICAL_IMG_NR="32"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1476">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1474"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1475 2319 1475 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="138 250 605 250" 
+                    HPOS="138"
+                    VPOS="127"
+                    WIDTH="467"
+                    HEIGHT="160">
+            <Shape><Polygon POINTS="138 250 138 285 367 287 369 287 370 287 372 287 375 284 391 273 567 273 576 282 578 282 578 284 579 284 581 284 583 284 605 281 605 250 605 129 277 127 276 127 274 127 255 137 250 140 138 140 138 250"/></Shape>
+	    <String CONTENT="KLAIBER, Ludwig"
+                    HPOS="138"
+                    VPOS="127"
+                    WIDTH="467"
+                    HEIGHT="160"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2010 86 2166 82" 
+                    HPOS="2006"
+                    VPOS="1"
+                    WIDTH="160"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="2010 86 2010 95 2086 106 2088 106 2165 92 2166 82 2160 1 2006 1 2010 86"/></Shape>
+	    <String CONTENT="Hist."
+                    HPOS="2006"
+                    VPOS="1"
+                    WIDTH="160"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1997 170 2182 175" 
+                    HPOS="1995"
+                    VPOS="103"
+                    WIDTH="187"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1997 170 1995 181 2054 183 2077 196 2078 196 2080 196 2125 189 2133 196 2133 197 2134 197 2136 197 2137 197 2139 197 2181 186 2182 175 2182 142 2125 140 2117 134 2072 103 2070 103 2069 103 2067 103 2066 103 1997 121 1997 170"/></Shape>
+	    <String CONTENT="Ekon"
+                    HPOS="1995"
+                    VPOS="103"
+                    WIDTH="187"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1989 233 2082 228" 
+                    HPOS="1986"
+                    VPOS="175"
+                    WIDTH="96"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1989 233 1989 250 2045 271 2046 271 2048 271 2050 271 2051 271 2082 249 2082 228 2078 185 2029 175 2027 175 2026 175 1986 186 1989 233"/></Shape>
+	    <String CONTENT="Ty"
+                    HPOS="1986"
+                    VPOS="175"
+                    WIDTH="96"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="129 346 2259 346" 
+                    HPOS="129"
+                    VPOS="292"
+                    WIDTH="2130"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="129 346 129 365 273 375 274 375 476 367 516 367 2257 375 2259 346 2259 300 1672 292 1671 292 1669 292 1640 301 1625 308 1495 308 1484 301 1462 293 1460 293 1268 292 1267 292 1203 303 1180 308 848 308 842 305 805 292 803 292 635 292 634 292 568 305 560 308 129 308 129 346"/></Shape>
+	    <String CONTENT="Beiträge zur Wirtschaftspolitik oberschwäbischer Reichsstädte im aus-"
+                    HPOS="129"
+                    VPOS="292"
+                    WIDTH="2130"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="130 442 2128 448" 
+                    HPOS="129"
+                    VPOS="405"
+                    WIDTH="1999"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="130 442 129 463 2125 472 2128 448 2126 412 130 405 130 442"/></Shape>
+	    <String CONTENT="gehenden Mittelalter (Isny, Leutkirch, Memmingen und Ravensburg)."
+                    HPOS="129"
+                    VPOS="405"
+                    WIDTH="1999"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1441 541 2037 547" 
+                    HPOS="1439"
+                    VPOS="503"
+                    WIDTH="598"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1441 541 1439 562 1738 571 1740 571 1871 565 1883 565 1885 565 1904 573 1906 573 1907 573 2035 565 2037 547 2037 509 1899 507 1898 507 1896 507 1895 507 1895 509 1893 509 1885 517 1858 509 1837 504 1835 504 1834 504 1832 504 1831 504 1831 506 1826 509 1821 514 1799 509 1783 507 1781 507 1767 511 1740 515 1732 511 1720 503 1719 503 1717 503 1716 503 1674 511 1655 514 1650 511 1640 504 1639 504 1637 504 1636 504 1513 511 1489 512 1487 512 1468 503 1466 503 1465 503 1463 503 1441 511 1441 541"/></Shape>
+	    <String CONTENT="8:o Stuttgart 1927."
+                    HPOS="1439"
+                    VPOS="503"
+                    WIDTH="598"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="126 634 2005 642" 
+                    HPOS="124"
+                    VPOS="587"
+                    WIDTH="1881"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="126 634 124 675 2002 680 2005 642 2005 610 1666 605 1625 592 1623 592 1621 592 1477 605 1251 597 1249 597 934 603 875 589 873 589 872 589 504 602 456 587 455 587 162 587 161 587 159 587 126 600 126 634"/></Shape>
+	    <String CONTENT="Se: Vierteljahrschrift für Sozial- und Wirtschaftsgeschichte."
+                    HPOS="124"
+                    VPOS="587"
+                    WIDTH="1881"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="258 736 1024 741" 
+                    HPOS="257"
+                    VPOS="690"
+                    WIDTH="767"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="258 736 257 782 311 782 314 784 333 797 335 797 337 797 543 798 544 798 546 798 584 779 650 779 672 793 674 793 675 793 677 793 679 793 680 793 680 792 699 776 709 768 813 768 821 773 838 784 840 784 842 784 843 784 1022 768 1024 741 1022 714 947 701 945 701 944 701 917 712 867 693 865 693 768 691 766 691 765 691 728 701 693 691 691 691 690 691 688 691 687 691 663 710 586 699 584 699 583 699 581 699 567 710 567 712 514 712 512 710 471 694 469 694 436 694 434 694 432 694 431 694 413 707 357 690 356 690 354 690 353 690 351 690 325 709 274 696 273 696 271 696 269 696 268 696 268 698 258 706 258 736"/></Shape>
+	    <String CONTENT="Beihefte. 10. { Polit. ekon."
+                    HPOS="257"
+                    VPOS="690"
+                    WIDTH="767"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="712 825 926 825" 
+                    HPOS="712"
+                    VPOS="771"
+                    WIDTH="214"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="712 825 712 862 867 872 869 872 926 861 926 825 926 789 832 789 830 787 814 773 814 771 813 771 811 771 742 771 741 771 739 771 712 784 712 825"/></Shape>
+	    <String CONTENT="Tidskr."
+                    HPOS="712"
+                    VPOS="771"
+                    WIDTH="214"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="2006 1441 2173 1437" 
+                    HPOS="2005"
+                    VPOS="1380"
+                    WIDTH="168"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="2006 1441 2006 1475 2173 1475 2173 1437 2168 1380 2005 1397 2006 1441"/></Shape>
+	    <String CONTENT="11.8.49"
+                    HPOS="2005"
+                    VPOS="1380"
+                    WIDTH="168"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

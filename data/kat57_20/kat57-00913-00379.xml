@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00913-00379.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2332"
+          HEIGHT="1488"
+          PHYSICAL_IMG_NR="13"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2332"
+                  HEIGHT="1488">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2330"
+                   HEIGHT="1486"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1487 2331 1487 2331 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="484 248 742 243" 
+                    HPOS="480"
+                    VPOS="119"
+                    WIDTH="262"
+                    HEIGHT="214">
+            <Shape><Polygon POINTS="484 248 484 275 514 288 564 331 564 333 565 333 567 333 569 333 625 331 626 331 628 331 628 330 673 283 742 270 742 243 737 174 670 174 644 156 642 156 641 156 639 156 638 156 617 163 580 140 548 119 546 119 545 119 480 119 484 248"/></Shape>
+	    <String CONTENT="Klage"
+                    HPOS="480"
+                    VPOS="119"
+                    WIDTH="262"
+                    HEIGHT="214"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="764 431 2223 432" 
+                    HPOS="763"
+                    VPOS="366"
+                    WIDTH="1460"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="764 431 763 451 830 468 832 468 833 468 862 458 898 480 899 480 901 480 902 482 1103 482 1103 480 1105 480 1145 469 1167 480 1169 480 1170 482 1222 482 1222 480 1223 480 1275 463 1297 455 1342 464 1371 469 1372 469 1374 469 1384 464 1400 456 1417 466 1438 476 1440 476 1441 476 1490 466 1552 455 1913 455 1958 455 2022 477 2034 480 2035 480 2037 480 2038 480 2046 477 2061 472 2220 480 2223 432 2223 403 2128 399 2064 366 2062 366 1745 366 1743 366 1742 366 1668 392 1610 387 1567 366 1565 366 1504 366 1502 366 1501 366 1421 403 1419 403 1409 403 1331 399 1281 379 1279 379 1278 379 1276 379 1231 391 1204 384 1202 384 1201 384 1199 384 1198 384 1177 397 1148 386 1146 386 1145 386 999 403 997 405 764 405 764 431"/></Shape>
+	    <String CONTENT="- - in ungebundener Rede übers. v. A. Zeune"
+                    HPOS="763"
+                    VPOS="366"
+                    WIDTH="1460"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1472 604 1902 599" 
+                    HPOS="1470"
+                    VPOS="540"
+                    WIDTH="432"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="1472 604 1472 636 1517 636 1535 649 1536 649 1538 649 1539 649 1541 649 1578 636 1612 647 1613 647 1615 649 1730 649 1730 647 1732 647 1759 634 1833 646 1835 646 1902 630 1902 599 1894 545 1878 559 1809 548 1807 548 1806 548 1753 573 1666 573 1648 559 1647 559 1645 559 1644 559 1642 559 1640 559 1628 569 1605 553 1589 540 1587 540 1586 540 1498 540 1496 540 1494 540 1470 553 1472 604"/></Shape>
+	    <String CONTENT="Berlin 1836"
+                    HPOS="1470"
+                    VPOS="540"
+                    WIDTH="432"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="509 703 617 703" 
+                    HPOS="509"
+                    VPOS="670"
+                    WIDTH="108"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="509 703 511 735 532 731 537 734 546 742 548 742 549 742 551 744 589 744 589 742 591 742 617 729 617 703 617 679 586 670 585 670 583 670 581 670 564 676 554 679 509 673 509 703"/></Shape>
+	    <String CONTENT="se"
+                    HPOS="509"
+                    VPOS="670"
+                    WIDTH="108"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="535 801 1249 798" 
+                    HPOS="533"
+                    VPOS="731"
+                    WIDTH="716"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="535 801 535 837 703 837 710 841 716 846 716 848 718 848 719 848 721 848 747 843 756 841 764 843 830 869 832 869 833 869 930 867 931 867 933 867 955 849 976 835 1021 835 1037 851 1037 853 1039 853 1040 853 1042 853 1044 853 1068 848 1082 854 1103 864 1105 864 1106 864 1249 859 1249 798 1244 739 1157 742 1156 742 1108 768 960 768 951 760 949 760 947 760 946 760 944 760 942 760 942 761 934 769 846 769 821 753 788 731 787 731 785 731 591 731 589 731 588 731 586 731 549 763 549 764 533 764 535 801"/></Shape>
+	    <String CONTENT="Nibelungennoth"
+                    HPOS="533"
+                    VPOS="731"
+                    WIDTH="716"
+                    HEIGHT="138"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

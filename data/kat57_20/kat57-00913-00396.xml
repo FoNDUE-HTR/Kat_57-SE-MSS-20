@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00913-00396.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="23"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2315 1471 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="34 72 291 67" 
+                    HPOS="31"
+                    VPOS="1"
+                    WIDTH="260"
+                    HEIGHT="135">
+            <Shape><Polygon POINTS="34 72 34 105 72 105 75 107 106 134 106 136 107 136 109 136 110 136 182 134 184 134 185 134 185 132 209 112 213 108 222 112 227 113 229 113 230 113 232 113 233 113 233 112 246 102 288 113 291 67 286 1 31 1 34 72"/></Shape>
+	    <String CONTENT="Klages, L"
+                    HPOS="31"
+                    VPOS="1"
+                    WIDTH="260"
+                    HEIGHT="135"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1881 65 2061 62" 
+                    HPOS="1879"
+                    VPOS="1"
+                    WIDTH="182"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1881 65 1881 83 2059 86 2061 62 2056 1 1879 1 1881 65"/></Shape>
+	    <String CONTENT="Filos"
+                    HPOS="1879"
+                    VPOS="1"
+                    WIDTH="182"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1871 142 2082 142" 
+                    HPOS="1871"
+                    VPOS="75"
+                    WIDTH="211"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="1871 142 1871 161 1949 161 1960 167 1972 175 1973 175 1975 175 1976 175 1978 175 1980 175 1986 171 1994 163 2019 172 2031 177 2032 177 2034 179 2082 179 2082 142 2077 78 2032 105 1973 105 1941 77 1941 75 1940 75 1938 75 1871 75 1871 142"/></Shape>
+	    <String CONTENT="Saml."
+                    HPOS="1871"
+                    VPOS="75"
+                    WIDTH="211"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="152 228 596 233" 
+                    HPOS="150"
+                    VPOS="171"
+                    WIDTH="446"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="150 265 260 262 281 265 313 270 315 270 316 270 318 270 324 263 343 249 465 254 471 262 473 262 473 263 474 263 476 263 478 263 492 260 532 252 549 260 568 268 570 268 572 268 573 268 594 258 596 233 594 190 565 188 551 175 551 174 549 174 548 174 546 174 545 174 506 187 503 188 501 187 490 177 490 175 489 175 487 175 485 175 423 185 402 187 329 185 323 182 292 171 291 171 289 171 288 171 286 171 275 177 268 172 268 171 267 171 265 171 264 171 193 172 192 172 190 172 182 177 169 185 153 177 152 228 150 265"/></Shape>
+	    <String CONTENT="KLAGES, Ludwig"
+                    HPOS="150"
+                    VPOS="171"
+                    WIDTH="446"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="142 325 2243 333" 
+                    HPOS="141"
+                    VPOS="260"
+                    WIDTH="2102"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="142 325 141 349 1312 357 1314 357 1328 356 1397 349 1641 357 1683 359 1684 359 1700 359 1802 351 1831 359 1836 361 1837 361 1839 361 1900 359 2157 353 2240 361 2243 333 2241 265 2165 278 1952 273 1951 273 1884 287 1802 287 1759 268 1745 262 1743 262 1456 262 1454 262 1408 271 1338 286 1213 286 1161 273 1105 260 1103 260 985 270 963 263 961 263 960 263 958 263 931 274 924 276 897 274 835 270 833 270 803 274 779 279 766 276 755 271 754 271 752 271 750 271 739 276 725 281 704 276 645 262 644 262 642 262 583 276 564 281 142 281 142 325"/></Shape>
+	    <String CONTENT="Ludwig Klages. Erforscher und Künder des Lebens. Festschrift zum 75."
+                    HPOS="141"
+                    VPOS="260"
+                    WIDTH="2102"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="144 423 2249 429" 
+                    HPOS="142"
+                    VPOS="388"
+                    WIDTH="2107"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="144 423 142 453 214 469 216 469 217 469 246 456 292 456 358 456 361 456 431 471 433 471 434 471 479 458 485 456 642 456 655 459 699 474 701 474 703 474 870 463 937 458 982 463 1060 474 1062 474 1255 466 1438 459 1474 469 1497 475 1499 475 1501 477 1700 477 1700 475 1702 475 1711 472 1721 467 1825 472 1903 477 1905 477 1946 474 2096 463 2162 477 2166 477 2168 479 2248 479 2249 429 2249 392 144 388 144 423"/></Shape>
+	    <String CONTENT="Geburtstage des Philosophen am 10. Dezember 1947. Hrsgb. von Herbert"
+                    HPOS="142"
+                    VPOS="388"
+                    WIDTH="2107"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="142 525 564 528" 
+                    HPOS="141"
+                    VPOS="472"
+                    WIDTH="423"
+                    HEIGHT="149">
+            <Shape><Polygon POINTS="142 525 141 589 193 619 195 619 197 619 198 621 252 621 252 619 254 619 256 619 273 605 292 617 294 617 296 617 297 617 299 617 367 598 407 606 409 606 410 606 412 606 462 574 468 573 562 573 564 528 561 472 498 485 447 475 423 472 422 472 420 472 418 472 418 474 414 477 409 483 396 479 388 475 387 475 385 475 383 475 382 475 382 477 379 479 367 490 316 482 288 477 286 477 248 483 225 488 222 485 216 480 216 479 214 479 213 479 211 479 209 479 190 485 166 475 165 475 163 475 161 475 142 485 142 525"/></Shape>
+	    <String CONTENT="Hönel. [Ill.]"
+                    HPOS="141"
+                    VPOS="472"
+                    WIDTH="423"
+                    HEIGHT="149"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1335 624 1935 630" 
+                    HPOS="1333"
+                    VPOS="571"
+                    WIDTH="602"
+                    HEIGHT="142">
+            <Shape><Polygon POINTS="1335 624 1333 691 1411 708 1413 708 1414 708 1434 700 1454 705 1456 705 1458 705 1459 705 1461 705 1480 692 1485 689 1542 689 1547 692 1579 710 1580 710 1635 712 1636 712 1638 712 1705 692 1708 692 1711 692 1809 713 1810 713 1933 692 1935 630 1935 597 1868 574 1866 574 1865 574 1783 593 1782 593 1735 579 1734 579 1732 579 1731 579 1723 584 1713 574 1713 573 1711 573 1710 573 1640 573 1638 573 1636 573 1612 586 1531 571 1529 571 1490 576 1488 576 1486 576 1469 589 1466 592 1384 592 1379 587 1370 579 1368 579 1367 579 1365 579 1335 586 1335 624"/></Shape>
+	    <String CONTENT="8:o Linz a.D. 1947."
+                    HPOS="1333"
+                    VPOS="571"
+                    WIDTH="602"
+                    HEIGHT="142"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

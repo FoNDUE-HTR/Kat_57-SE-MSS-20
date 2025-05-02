@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01334-00253.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1468"
+          PHYSICAL_IMG_NR="41"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1468">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1466"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1467 2319 1467 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="151 165 1343 155" 
+                    HPOS="149"
+                    VPOS="103"
+                    WIDTH="1193"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="150 163 150 179 265 184 266 184 320 181 376 177 402 181 416 183 417 183 453 182 544 176 555 182 565 188 566 188 567 188 568 188 570 188 587 182 602 177 617 182 637 188 638 188 639 188 641 188 652 182 653 182 659 182 712 188 713 188 796 183 797 183 799 183 811 176 824 183 834 188 835 188 836 189 894 189 894 188 927 183 954 179 976 183 989 185 991 185 992 185 999 183 1016 178 1068 182 1069 182 1070 182 1095 172 1147 179 1148 179 1150 179 1169 171 1213 183 1215 183 1216 183 1217 183 1233 178 1339 184 1342 154 1338 123 1287 127 1277 123 1233 103 1232 103 1230 103 1229 103 1228 103 1195 124 1186 129 1048 129 1038 126 997 110 996 110 994 110 993 110 975 116 918 105 917 105 916 105 872 127 863 132 805 132 794 127 739 107 737 107 736 107 691 114 600 107 599 107 598 107 597 107 560 129 553 134 509 134 500 129 450 110 449 110 447 110 446 110 445 110 427 122 371 126 298 110 297 110 201 111 200 111 149 130 150 163"/></Shape>
+	    <String CONTENT="Olander, Valborg [Henrika]"
+                    HPOS="149"
+                    VPOS="103"
+                    WIDTH="1193"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="139 248 1971 240" 
+                    HPOS="137"
+                    VPOS="193"
+                    WIDTH="1833"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="138 247 138 272 249 261 386 267 387 267 446 260 469 269 471 269 472 269 570 258 750 258 917 258 950 269 961 272 962 272 964 272 998 269 1055 261 1186 267 1275 271 1276 271 1277 271 1293 266 1300 265 1327 266 1375 270 1376 270 1377 270 1392 266 1408 263 1423 266 1437 270 1438 270 1440 271 1541 271 1541 270 1576 265 1615 260 1684 265 1747 269 1748 269 1968 263 1970 239 1966 193 1923 201 1870 200 1869 200 1868 200 1832 214 1754 204 1753 204 1752 204 1722 214 1632 207 1631 207 1509 215 1458 205 1457 205 1456 205 1429 216 1344 216 1290 201 1267 195 1266 195 1265 195 1264 195 1246 203 1210 217 1046 217 1014 205 992 196 991 196 989 196 938 206 917 210 905 206 873 196 872 196 750 196 748 196 708 198 707 198 675 210 666 212 659 210 622 198 621 198 523 198 522 198 521 198 468 212 440 220 403 214 402 214 401 214 398 214 343 220 329 215 299 203 298 203 297 203 264 209 226 199 225 199 223 199 181 201 179 201 137 215 138 247"/></Shape>
+	    <String CONTENT="Helena Munktell, hennes liv och personlighet."
+                    HPOS="137"
+                    VPOS="193"
+                    WIDTH="1833"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1182 321 2011 332" 
+                    HPOS="1179"
+                    VPOS="274"
+                    WIDTH="831"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1180 320 1179 343 1226 344 1227 344 1228 344 1229 344 1229 343 1250 332 1301 332 1314 343 1316 346 1317 346 1319 346 1320 346 1321 346 1330 343 1348 338 1357 343 1361 347 1363 347 1364 347 1365 347 1397 343 1418 341 1421 343 1426 347 1427 347 1429 347 1430 347 1512 343 1516 343 1517 343 1551 349 1552 349 1554 349 1576 343 1583 341 1593 342 1616 347 1617 347 1618 347 1628 342 1639 337 1662 337 1671 342 1684 351 1686 351 1687 351 1688 352 1714 352 1714 351 1715 351 1716 351 1716 349 1725 342 1730 338 1784 338 1787 342 1798 351 1799 351 1801 351 1802 351 1803 351 1824 342 1836 351 1837 351 1839 351 1840 351 1841 351 1859 342 1862 341 1866 342 1901 353 1902 353 1903 353 2009 341 2010 331 2009 304 1996 304 1996 303 1973 285 1972 285 1971 285 1970 285 1968 285 1967 285 1949 298 1911 286 1910 286 1908 286 1907 286 1906 286 1890 298 1874 286 1873 286 1872 286 1870 286 1869 286 1852 292 1840 282 1839 282 1837 282 1836 282 1835 282 1834 282 1807 300 1806 302 1735 302 1704 300 1702 298 1676 278 1675 278 1673 278 1672 278 1617 285 1616 285 1595 296 1573 277 1572 277 1571 277 1536 276 1505 276 1503 276 1502 276 1501 276 1480 294 1476 297 1437 294 1412 275 1410 275 1409 275 1358 274 1357 274 1355 274 1354 274 1327 292 1327 293 1326 292 1303 274 1301 274 1300 274 1279 274 1278 274 1277 274 1276 274 1257 289 1211 275 1210 275 1208 275 1207 275 1180 288 1180 320"/></Shape>
+	    <String CONTENT="4º Stockholm 1920"
+                    HPOS="1179"
+                    VPOS="274"
+                    WIDTH="831"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="127 416 1397 410 2262 393" 
+                    HPOS="124"
+                    VPOS="349"
+                    WIDTH="2137"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="126 415 126 435 174 444 176 444 232 434 254 430 580 429 589 430 672 448 674 450 763 450 763 448 830 447 832 447 870 437 950 445 951 445 1049 433 1075 437 1076 437 1144 430 1210 436 1211 436 1370 430 1512 441 1513 441 1563 436 1565 436 1615 419 1617 418 1669 418 1672 419 1693 425 1694 425 1695 425 1751 424 1796 437 1797 437 1798 439 1916 439 1916 437 2048 418 2107 424 2108 424 2167 413 2171 413 2261 413 2261 392 2258 357 2173 349 2171 349 2030 357 2022 358 2021 358 1983 369 1941 362 1940 362 1880 371 1753 371 1710 364 1709 364 1621 373 1558 358 1542 355 1541 355 1540 355 1531 359 1502 369 1443 359 1407 353 1405 353 1404 353 1386 359 1381 362 1275 362 1273 362 1272 362 1223 378 1141 379 1051 379 1005 364 1004 364 1003 364 971 370 896 362 895 362 894 362 856 373 772 362 736 357 647 357 646 357 644 357 625 362 578 374 528 362 509 358 507 358 400 359 398 359 389 363 343 379 283 363 274 360 272 360 271 360 124 363 126 415"/></Shape>
+	    <String CONTENT="Se: Munktell, Helena Matilda (Biogr. [Munktell, H.M."
+                    HPOS="124"
+                    VPOS="349"
+                    WIDTH="2137"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="292 504 2286 504" 
+                    HPOS="291"
+                    VPOS="448"
+                    WIDTH="1994"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="291 502 291 541 513 541 513 540 516 540 589 523 661 523 690 532 691 532 692 532 877 523 939 539 945 540 947 540 948 541 1171 541 1171 540 1183 538 1224 529 1287 532 1288 532 1358 523 1585 523 1635 537 1650 540 1651 540 1653 541 1792 541 1792 540 1793 540 1810 537 1862 523 2170 533 2171 533 2224 526 2284 534 2285 502 2285 473 2078 473 2077 472 2056 466 2055 466 2054 466 2016 472 2011 472 2006 472 1949 463 1948 463 1946 463 1921 470 1776 470 1714 448 1713 448 1494 448 1492 448 1491 448 1421 469 1413 473 1155 473 1145 469 1086 448 1085 448 1011 448 1010 448 1009 448 964 462 905 448 904 448 781 450 780 450 742 459 710 450 709 450 642 448 641 448 639 448 588 467 575 473 490 473 474 467 441 456 440 456 357 448 356 448 354 448 291 466 291 502"/></Shape>
+	    <String CONTENT="Helena Munktell. Några minnesblad utgivna av vanner."
+                    HPOS="291"
+                    VPOS="448"
+                    WIDTH="1994"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

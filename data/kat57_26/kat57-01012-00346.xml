@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01012-00346.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2308"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="20"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2308"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2306"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2307 1477 2307 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="225 241 572 238" 
+                    HPOS="223"
+                    VPOS="198"
+                    WIDTH="348"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="224 240 224 262 264 277 266 277 267 277 293 272 311 279 312 279 314 279 353 273 395 279 396 279 451 272 469 278 470 278 471 278 473 278 507 261 571 259 571 237 568 199 480 205 474 200 471 198 470 198 469 198 468 198 451 201 439 204 434 201 426 198 425 198 423 198 422 198 404 203 386 206 369 204 345 199 343 199 342 199 341 199 333 204 330 206 314 205 268 199 267 199 223 206 224 240"/></Shape>
+	    <String CONTENT="LE FLOCH, J"
+                    HPOS="223"
+                    VPOS="198"
+                    WIDTH="348"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="224 340 1843 345" 
+                    HPOS="221"
+                    VPOS="231"
+                    WIDTH="1621"
+                    HEIGHT="140">
+            <Shape><Polygon POINTS="223 339 221 357 284 368 285 368 287 368 321 359 385 367 386 367 469 359 526 367 527 367 564 359 646 369 648 369 692 360 788 367 789 367 902 363 931 369 932 370 1000 370 1000 369 1001 369 1019 362 1038 370 1040 370 1041 371 1233 371 1233 370 1234 370 1256 362 1258 362 1336 368 1338 368 1388 362 1394 362 1403 362 1486 368 1487 368 1653 363 1667 363 1672 363 1732 370 1733 370 1840 363 1842 344 1840 314 1757 300 1755 300 1711 306 1678 311 1636 302 1616 299 1615 299 1603 301 1540 315 1484 306 1483 306 1482 306 1450 315 1412 307 1410 307 1409 307 1388 314 1219 300 1218 300 1168 310 1112 294 1111 294 1110 294 1021 315 931 315 892 304 890 304 889 304 818 307 706 272 666 253 622 232 621 232 223 231 223 339"/></Shape>
+	    <String CONTENT="Se: Universitetet i Bergen. Årbok. Naturvitensk.rekke."
+                    HPOS="221"
+                    VPOS="231"
+                    WIDTH="1621"
+                    HEIGHT="140"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1907 265 2021 260" 
+                    HPOS="1903"
+                    VPOS="208"
+                    WIDTH="117"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="1906 264 1906 280 1927 288 1928 288 1929 288 1930 288 1961 278 1964 278 1965 278 1988 285 1990 285 1991 285 1992 285 2020 275 2020 259 2018 219 1955 208 1954 208 1953 208 1951 208 1951 209 1932 225 1930 227 1903 227 1906 264"/></Shape>
+	    <String CONTENT="Acta"
+                    HPOS="1903"
+                    VPOS="208"
+                    WIDTH="117"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1915 316 2011 313" 
+                    HPOS="1913"
+                    VPOS="278"
+                    WIDTH="96"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="1914 315 1914 326 2008 330 2009 312 2008 293 1970 278 1969 278 1967 278 1966 278 1913 294 1914 315"/></Shape>
+	    <String CONTENT="Nor"
+                    HPOS="1913"
+                    VPOS="278"
+                    WIDTH="96"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1893 361 2229 366" 
+                    HPOS="1891"
+                    VPOS="322"
+                    WIDTH="336"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1892 360 1891 400 1982 407 1983 407 1985 407 1986 407 1986 406 1996 397 2002 391 2040 380 2075 380 2088 392 2088 394 2089 394 2091 394 2092 394 2093 394 2094 394 2114 386 2135 392 2150 396 2151 396 2152 396 2177 391 2188 389 2190 390 2208 405 2209 405 2210 405 2211 405 2213 405 2214 405 2214 403 2226 390 2227 365 2224 330 2202 347 2165 341 2163 341 2162 341 2149 347 2129 327 2128 327 2128 326 2126 326 2125 326 2099 326 2098 326 2097 326 2094 327 2067 342 1980 344 1955 325 1954 325 1953 325 1892 322 1892 360"/></Shape>
+	    <String CONTENT="{Bergen, Univ.]"
+                    HPOS="1891"
+                    VPOS="322"
+                    WIDTH="336"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="347 444 2222 441" 
+                    HPOS="345"
+                    VPOS="408"
+                    WIDTH="1876"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="346 443 346 464 427 472 428 472 467 465 469 465 693 465 699 465 740 472 741 472 1064 466 1184 465 1195 468 1218 472 1219 472 1256 468 1284 464 1298 468 1311 471 1312 471 1313 471 1330 468 1349 464 1366 468 1376 470 1377 470 1378 470 1449 468 1583 464 1617 469 1637 471 1638 471 2219 470 2221 440 2218 417 1860 418 1824 415 1773 410 1771 410 1751 415 1733 418 1632 415 1551 411 1550 411 1497 413 1431 417 1414 413 1397 410 1396 410 1376 413 1349 418 1314 413 1285 408 1284 408 1282 408 1265 412 1244 418 1227 412 1214 408 1213 408 1212 408 1191 412 1163 418 1144 412 1133 408 1132 408 1051 408 1049 408 983 412 831 419 789 411 782 410 781 410 775 411 743 418 707 411 694 408 693 408 345 408 346 443"/></Shape>
+	    <String CONTENT="1953:3. Quelques propriétés de la zone de transition entre eau"
+                    HPOS="345"
+                    VPOS="408"
+                    WIDTH="1876"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="580 494 2122 500" 
+                    HPOS="577"
+                    VPOS="461"
+                    WIDTH="1544"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="579 493 577 516 681 529 682 530 892 530 892 529 893 529 921 518 922 518 950 518 951 518 977 530 978 530 979 532 1059 532 1059 530 1060 530 1085 519 1086 519 1165 530 1166 530 1274 522 1346 530 1348 530 1349 530 1377 520 1378 520 1389 520 1483 527 1484 527 1567 522 1594 520 1611 522 1696 532 1698 532 1790 523 1807 522 1817 523 1870 533 1871 533 1914 524 1996 533 1997 533 2120 524 2121 498 2121 475 2093 464 2092 464 1982 464 1981 464 1980 464 1958 474 1958 475 1907 475 1905 474 1824 464 1823 464 1764 474 1760 474 1759 474 1736 463 1735 463 1733 463 1675 472 1636 463 1635 463 1633 463 1632 463 1605 472 1524 463 1523 463 1468 472 1313 472 1274 461 1272 461 1271 461 1197 470 1157 461 1095 461 1094 461 1093 461 1072 471 1070 471 952 471 930 471 911 461 910 461 909 461 908 461 878 470 872 470 757 470 725 461 724 461 723 461 645 470 639 470 637 470 609 461 608 461 607 461 606 461 579 469 579 493"/></Shape>
+	    <String CONTENT="Arctique et eau Atlantique en Mer de Norvège. 1953."
+                    HPOS="577"
+                    VPOS="461"
+                    WIDTH="1544"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

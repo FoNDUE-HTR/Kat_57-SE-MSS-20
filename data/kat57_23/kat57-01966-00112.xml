@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01966-00112.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="48"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2319 1471 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="101 59 809 53" 
+                    HPOS="99"
+                    VPOS="14"
+                    WIDTH="709"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="100 58 100 72 150 93 152 93 153 93 154 93 192 77 195 76 274 76 280 80 287 85 288 85 289 85 290 85 291 85 305 82 333 72 348 82 349 82 350 82 352 82 353 82 370 76 417 76 424 82 425 82 426 82 428 82 429 82 446 77 458 84 460 84 461 84 462 84 498 79 512 90 531 105 532 105 533 105 534 106 563 106 563 105 564 105 565 105 580 93 598 79 614 82 615 82 617 82 641 72 678 98 687 104 688 104 689 104 690 104 808 103 808 52 806 34 736 24 734 24 733 24 712 31 709 33 704 31 657 14 656 14 655 14 653 14 636 20 554 14 553 14 552 14 550 14 532 28 520 36 433 36 417 25 410 20 409 20 408 20 344 17 343 17 342 17 341 17 341 18 334 24 320 36 265 29 263 29 199 38 170 34 149 19 147 18 145 18 144 18 143 18 99 18 100 58"/></Shape>
+	    <String CONTENT="Eugene. Univ. of Oregon"
+                    HPOS="99"
+                    VPOS="14"
+                    WIDTH="709"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2078 48 2233 45" 
+                    HPOS="2075"
+                    VPOS="6"
+                    WIDTH="157"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="2077 47 2077 63 2108 63 2110 65 2116 69 2116 71 2117 71 2118 71 2120 71 2121 71 2134 66 2138 63 2143 66 2151 69 2153 69 2154 69 2170 66 2188 62 2231 67 2232 44 2231 23 2200 8 2199 8 2198 8 2197 8 2196 8 2175 22 2150 6 2149 6 2148 6 2127 6 2126 6 2124 6 2123 6 2099 25 2075 25 2077 47"/></Shape>
+	    <String CONTENT="Acta"
+                    HPOS="2075"
+                    VPOS="6"
+                    WIDTH="157"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1981 105 2292 105" 
+                    HPOS="1980"
+                    VPOS="68"
+                    WIDTH="311"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1980 104 1981 128 2010 121 2019 130 2021 131 2021 132 2023 132 2024 132 2025 133 2077 133 2077 132 2078 132 2083 130 2106 121 2196 121 2290 132 2291 104 2290 79 2269 80 2267 79 2253 71 2252 71 2251 71 2250 71 2248 71 2247 71 2247 72 2239 79 2236 83 2194 83 2183 80 2118 68 2117 68 2116 68 2115 68 2100 82 2099 83 2075 83 2074 82 2061 69 2061 68 2059 68 2058 68 2007 68 2005 68 2004 68 1980 80 1980 104"/></Shape>
+	    <String CONTENT="N. Amer."
+                    HPOS="1980"
+                    VPOS="68"
+                    WIDTH="311"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="126 292 1095 287" 
+                    HPOS="123"
+                    VPOS="244"
+                    WIDTH="971"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="125 291 125 305 222 305 223 305 233 314 234 314 235 314 236 314 238 314 239 314 249 306 341 306 419 314 420 314 422 314 423 314 434 305 435 304 440 305 473 311 474 311 538 304 554 302 561 304 593 312 595 312 596 314 650 314 650 312 710 304 726 301 741 304 769 307 770 307 771 307 785 302 791 301 798 302 830 311 831 311 833 311 904 302 909 302 912 302 952 310 953 310 1093 301 1094 285 1090 250 926 251 918 250 900 244 899 244 898 244 796 245 795 245 783 250 777 252 750 250 705 245 704 245 702 245 690 250 680 255 637 255 630 250 625 246 624 246 623 246 622 246 572 250 509 255 437 250 393 247 392 247 353 250 293 255 284 250 283 249 282 249 280 249 279 249 123 250 125 291"/></Shape>
+	    <String CONTENT="UNIVERSITY OF OREGON PUBLICATION"
+                    HPOS="123"
+                    VPOS="244"
+                    WIDTH="971"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="113 388 1422 381" 
+                    HPOS="111"
+                    VPOS="348"
+                    WIDTH="1310"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="112 387 112 430 204 425 304 431 321 431 322 431 323 431 325 431 350 415 554 415 862 424 863 424 864 424 891 417 939 428 943 428 944 428 949 428 997 418 1040 425 1041 425 1042 425 1044 425 1064 413 1089 425 1090 425 1091 425 1133 419 1187 426 1196 426 1197 426 1278 425 1279 425 1280 425 1290 419 1306 425 1307 425 1309 425 1421 424 1421 380 1419 352 1240 348 1239 348 1206 353 1180 356 1166 353 1150 349 1149 349 1148 349 1147 349 1137 353 1129 356 1123 354 1112 349 1111 349 993 349 992 349 991 349 990 349 982 355 976 359 764 359 689 358 528 353 527 353 499 359 498 359 496 359 479 353 478 353 477 353 476 353 451 359 446 360 439 359 406 354 404 354 343 360 326 363 177 363 176 361 142 354 141 354 139 354 111 361 112 387"/></Shape>
+	    <String CONTENT="Language and literature series. Vol.1:No.1."
+                    HPOS="111"
+                    VPOS="348"
+                    WIDTH="1310"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1685 388 2199 388" 
+                    HPOS="1684"
+                    VPOS="336"
+                    WIDTH="514"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1684 387 1684 407 1721 407 1722 407 1734 419 1734 420 1736 420 1737 420 1738 420 1739 420 1754 413 1777 420 1778 420 1780 420 1781 420 1782 420 1799 409 1804 407 1808 409 1825 420 1826 420 1828 420 1829 420 1918 419 1920 419 1921 419 1929 413 1938 407 1956 413 1959 414 1960 414 1961 414 1972 414 2056 407 2068 417 2072 420 2073 420 2074 420 2075 420 2198 419 2198 387 2198 336 2123 336 2122 336 2121 336 2120 336 2099 349 2056 343 2054 343 2053 343 2052 343 2052 344 2041 355 1983 355 1953 343 1951 343 1950 343 1949 343 1924 355 1862 355 1841 341 1841 339 1840 339 1839 339 1837 339 1831 341 1789 350 1763 342 1761 342 1760 342 1684 342 1684 387"/></Shape>
+	    <String CONTENT="8:o Eugene 1929."
+                    HPOS="1684"
+                    VPOS="336"
+                    WIDTH="514"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

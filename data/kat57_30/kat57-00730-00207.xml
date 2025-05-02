@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00730-00207.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="15"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2327 1479 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="242 252 1004 252" 
+                    HPOS="241"
+                    VPOS="208"
+                    WIDTH="762"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="241 251 241 267 436 267 446 268 474 273 476 273 495 268 504 267 514 270 530 273 531 273 532 273 703 271 961 267 1001 273 1003 251 1003 208 969 208 968 208 967 208 965 208 949 219 904 209 903 209 901 209 900 209 899 209 884 219 816 212 815 212 814 212 813 212 813 213 805 220 758 220 725 212 705 208 682 208 681 208 679 208 678 208 678 209 673 213 667 220 627 220 611 214 593 208 592 208 590 208 589 208 568 214 558 218 550 215 530 208 529 208 528 208 526 208 525 208 515 215 509 220 472 220 428 217 265 208 264 208 262 208 241 218 241 251"/></Shape>
+	    <String CONTENT="HERLITZ, Nils [Alexander]"
+                    HPOS="241"
+                    VPOS="208"
+                    WIDTH="762"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="244 349 1964 346" 
+                    HPOS="241"
+                    VPOS="299"
+                    WIDTH="1721"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="243 347 244 374 319 371 335 374 384 389 386 389 387 390 613 390 613 389 684 374 708 371 796 374 841 377 842 377 872 374 932 371 956 374 1025 389 1026 389 1249 388 1321 374 1353 370 1506 370 1524 374 1563 388 1564 388 1565 388 1734 386 1735 386 1765 374 1782 370 1962 374 1962 345 1960 303 1857 299 1856 299 1839 303 1813 310 1723 310 1702 304 1686 299 1685 299 1570 299 1569 299 1568 299 1547 304 1535 308 1416 309 1406 305 1391 299 1390 299 1389 299 1320 305 1315 305 1307 305 1167 299 1165 299 1120 307 1094 312 1000 312 984 307 957 302 956 302 919 308 900 310 883 308 842 300 841 300 772 308 750 312 241 312 243 347"/></Shape>
+	    <String CONTENT="Se: LOTHIGIUS, Wilh[elm], HALLANDER, Åke, &amp; HERLITZ, Nils,"
+                    HPOS="241"
+                    VPOS="299"
+                    WIDTH="1721"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="359 450 1304 447" 
+                    HPOS="356"
+                    VPOS="411"
+                    WIDTH="946"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="357 448 357 466 388 474 389 474 391 474 392 474 405 468 444 474 445 474 446 474 467 467 472 466 483 467 542 474 544 474 721 468 830 464 856 468 882 473 883 474 1037 474 1037 473 1038 473 1040 473 1043 469 1051 464 1062 469 1069 473 1070 473 1072 473 1090 469 1120 464 1167 471 1191 473 1192 473 1194 473 1202 471 1218 466 1242 471 1254 473 1255 473 1257 473 1258 473 1260 471 1271 464 1300 471 1302 446 1300 423 1241 411 1167 411 1165 411 1164 411 1142 421 1142 423 1093 423 1093 421 1072 413 1070 413 1069 413 1068 413 1048 421 1044 421 1005 420 996 411 995 411 994 411 993 411 946 421 945 421 943 421 909 415 908 415 906 415 893 421 874 413 873 413 872 413 832 421 826 423 819 421 780 413 779 413 726 421 716 423 711 421 697 416 695 416 694 416 669 421 661 423 657 421 645 415 643 415 642 415 608 421 597 423 584 421 529 413 528 413 526 413 525 413 513 421 509 424 465 424 460 421 440 413 439 413 437 413 356 420 357 448"/></Shape>
+	    <String CONTENT="Ett ekonomiskt skogsbruk. 1938."
+                    HPOS="356"
+                    VPOS="411"
+                    WIDTH="946"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="277 554 1917 543" 
+                    HPOS="275"
+                    VPOS="505"
+                    WIDTH="1640"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="276 553 276 585 301 592 302 592 368 585 446 578 468 585 486 590 487 590 488 592 618 592 618 590 619 590 635 584 647 579 678 584 684 584 685 584 687 584 689 584 713 577 741 583 756 587 757 587 777 583 822 574 870 582 872 582 951 578 961 582 974 588 975 588 977 588 1278 585 1316 580 1371 573 1439 579 1452 580 1453 580 1465 579 1558 569 1649 575 1650 575 1857 568 1913 577 1915 542 1913 513 1825 505 1824 505 1746 513 1729 514 1685 513 1535 509 1534 509 1417 514 1389 515 1378 514 1328 509 1327 509 1326 509 1312 515 1308 516 1301 515 1279 510 1278 510 1243 515 1232 516 1222 515 1186 509 1185 509 1058 516 1000 519 985 516 967 513 965 513 882 516 833 519 813 518 771 513 769 513 737 518 719 520 705 518 683 513 682 513 646 518 619 521 560 518 483 514 482 514 275 519 276 553"/></Shape>
+	    <String CONTENT="I: Nordisk rotogravyrs handböcker för jordbrukare. 21."
+                    HPOS="275"
+                    VPOS="505"
+                    WIDTH="1640"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1970 525 2125 519" 
+                    HPOS="1966"
+                    VPOS="469"
+                    WIDTH="158"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1968 524 1968 538 1997 545 1998 545 2124 534 2124 518 2120 484 2065 487 2047 478 2030 469 2029 469 2028 469 1966 471 1968 524"/></Shape>
+	    <String CONTENT="Ekon"
+                    HPOS="1966"
+                    VPOS="469"
+                    WIDTH="158"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1949 580 2210 580" 
+                    HPOS="1948"
+                    VPOS="531"
+                    WIDTH="261"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="1948 579 1948 604 2078 608 2080 608 2089 606 2121 601 2128 606 2128 608 2129 608 2130 608 2131 609 2209 609 2209 579 2209 543 2194 531 2193 531 2192 531 2141 531 2140 531 2139 531 2107 547 2103 543 2103 542 2102 542 2100 542 2099 542 2098 542 2068 551 2060 553 2057 551 2040 535 2040 534 2039 534 2038 534 2022 534 2020 534 2019 534 2018 534 1994 552 1992 555 1948 555 1948 579"/></Shape>
+	    <String CONTENT="Lanth."
+                    HPOS="1948"
+                    VPOS="531"
+                    WIDTH="261"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00246.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="43"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2311 1471 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="235 244 827 239" 
+                    HPOS="233"
+                    VPOS="192"
+                    WIDTH="592"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="234 242 234 264 266 279 267 279 268 279 528 278 566 277 568 277 569 277 569 276 582 263 775 267 776 267 825 260 825 237 822 206 809 206 808 206 796 193 796 192 795 192 793 192 720 192 719 192 717 192 693 206 692 207 573 207 559 196 558 196 557 196 555 196 493 208 489 208 487 208 418 195 417 195 416 195 414 195 398 207 360 207 350 199 349 199 348 199 347 199 346 199 326 207 292 196 290 196 289 196 288 196 287 196 277 204 261 199 260 199 258 199 257 199 233 208 234 242"/></Shape>
+	    <String CONTENT="BÉRINGUIER, Richard"
+                    HPOS="233"
+                    VPOS="192"
+                    WIDTH="592"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="235 346 1298 346" 
+                    HPOS="234"
+                    VPOS="305"
+                    WIDTH="1063"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="234 345 234 363 265 371 266 371 267 371 358 364 365 364 366 364 396 375 397 375 398 375 400 375 401 375 416 366 454 366 473 376 474 376 476 377 704 377 704 376 705 376 706 376 722 366 724 365 758 364 781 366 806 370 807 370 808 370 818 368 829 364 839 368 857 375 859 375 860 375 913 369 928 376 930 376 931 376 932 376 952 368 963 364 1060 364 1079 369 1093 372 1094 372 1095 372 1097 372 1104 369 1114 364 1149 370 1164 371 1165 371 1175 370 1200 364 1211 370 1216 372 1217 372 1218 372 1219 372 1225 370 1234 366 1249 370 1272 376 1273 376 1275 376 1276 376 1297 370 1297 345 1297 318 1238 305 1159 305 1158 305 1157 305 1156 305 1137 318 1083 318 1059 305 1057 305 1056 305 1018 311 942 305 941 305 851 317 833 309 832 309 830 309 780 315 744 305 743 305 742 305 741 305 739 305 720 317 683 317 665 307 663 307 662 307 661 307 634 317 552 305 551 305 472 317 411 305 409 305 408 305 362 318 288 318 269 309 268 309 267 309 266 309 234 317 234 345"/></Shape>
+	    <String CONTENT="Se: Die Rolande Deutschlands. 1890."
+                    HPOS="234"
+                    VPOS="305"
+                    WIDTH="1063"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="271 447 1953 442" 
+                    HPOS="268"
+                    VPOS="397"
+                    WIDTH="1684"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="269 446 269 484 393 484 395 484 455 500 456 500 457 500 458 500 508 488 590 505 591 505 807 504 865 491 898 504 899 504 900 504 931 498 963 502 964 502 965 502 992 494 1023 501 1024 501 1025 501 1027 501 1061 486 1065 485 1086 486 1109 488 1110 488 1119 486 1154 480 1249 482 1263 486 1293 496 1294 496 1295 496 1337 488 1359 483 1385 488 1389 488 1390 488 1396 488 1451 482 1476 488 1481 489 1482 489 1483 489 1499 488 1552 483 1581 488 1648 501 1649 502 1749 502 1749 501 1751 501 1783 489 1808 479 1881 489 1908 493 1909 493 1951 489 1952 441 1948 397 1753 407 1725 397 1724 397 1722 397 1721 397 1720 397 1719 397 1675 408 1574 408 1549 397 1547 397 1546 397 1545 397 1532 397 1459 404 1383 398 1378 398 1376 398 1375 398 1348 409 1275 402 1273 402 1272 402 1254 410 1201 410 1153 402 1152 402 1108 410 1067 403 1066 403 1065 403 1040 410 884 410 834 401 833 401 780 410 629 406 628 406 590 412 538 401 537 401 452 401 451 401 450 401 449 401 423 412 381 401 379 401 377 401 376 401 268 401 269 446"/></Shape>
+	    <String CONTENT="i: Schriften des Vereins für die Geschichte Berlins. 27."
+                    HPOS="268"
+                    VPOS="397"
+                    WIDTH="1684"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1475 530 1615 530" 
+                    HPOS="1473"
+                    VPOS="488"
+                    WIDTH="141"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1473 529 1473 543 1511 553 1513 553 1554 548 1585 544 1612 550 1614 529 1614 491 1597 488 1596 488 1595 488 1594 488 1592 488 1584 495 1572 504 1558 504 1552 498 1546 493 1546 491 1545 491 1543 491 1515 488 1514 488 1513 488 1511 488 1494 501 1493 502 1473 502 1473 529"/></Shape>
+	    <String CONTENT="Hist."
+                    HPOS="1473"
+                    VPOS="488"
+                    WIDTH="141"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1494 598 1540 595" 
+                    HPOS="1491"
+                    VPOS="547"
+                    WIDTH="49"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1493 597 1497 646 1540 620 1538 594 1532 547 1491 558 1493 597"/></Shape>
+	    <String CONTENT="Ty"
+                    HPOS="1491"
+                    VPOS="547"
+                    WIDTH="49"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1441 668 1628 672" 
+                    HPOS="1439"
+                    VPOS="629"
+                    WIDTH="188"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1440 667 1439 685 1466 689 1467 689 1468 689 1479 685 1492 680 1529 684 1606 691 1607 691 1608 691 1626 682 1627 670 1627 648 1579 632 1578 632 1576 632 1575 632 1574 632 1570 636 1565 630 1564 630 1564 629 1563 629 1562 629 1514 629 1513 629 1511 629 1510 629 1510 630 1494 645 1478 637 1477 637 1476 637 1475 637 1473 637 1466 645 1465 645 1440 645 1440 667"/></Shape>
+	    <String CONTENT="Sällsk"
+                    HPOS="1439"
+                    VPOS="629"
+                    WIDTH="188"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1420 766 2261 756" 
+                    HPOS="1418"
+                    VPOS="689"
+                    WIDTH="842"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="1419 765 1419 796 1460 801 1461 801 1462 801 1464 801 1468 797 1486 786 1551 792 1552 792 1645 783 1675 797 1682 801 1683 801 1684 801 1686 801 1694 797 1705 792 1716 797 1742 808 1743 808 1838 809 1839 809 1840 809 1841 809 1859 798 1862 796 1866 798 1886 805 1887 805 1888 805 1889 805 1908 798 1945 782 1969 798 1980 805 1981 805 1983 805 2012 807 2013 807 2015 807 2016 807 2026 798 2038 787 2056 792 2057 792 2059 792 2060 792 2061 792 2061 791 2072 782 2093 785 2108 798 2109 798 2110 798 2111 798 2113 798 2131 791 2140 798 2141 799 2142 799 2143 799 2145 799 2146 799 2151 798 2213 782 2235 798 2237 798 2238 798 2239 799 2260 799 2260 755 2256 694 2235 696 2228 694 2217 689 2216 689 2215 689 2194 694 2165 701 2164 701 2163 701 2163 702 2150 713 2100 707 2099 707 2098 707 2097 707 2076 721 2051 705 2050 705 2049 705 2048 705 2046 705 2045 705 2022 724 1972 717 1970 717 1969 717 1968 717 1957 726 1898 726 1862 710 1861 710 1860 710 1859 710 1827 728 1747 728 1691 696 1687 695 1686 695 1684 695 1601 696 1600 696 1599 696 1599 697 1584 709 1556 711 1520 697 1519 697 1518 697 1516 697 1418 697 1419 765"/></Shape>
+	    <String CONTENT="[Berlin, Verein f. die Geschichte"
+                    HPOS="1418"
+                    VPOS="689"
+                    WIDTH="842"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1621 866 2094 862" 
+                    HPOS="1618"
+                    VPOS="823"
+                    WIDTH="475"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1619 864 1619 888 1682 885 1693 891 1700 897 1702 897 1703 897 1725 899 1726 899 1727 899 1738 894 1747 889 1751 894 1756 897 1756 899 1757 899 1758 899 1759 899 1780 895 1791 902 1792 902 1794 902 1795 902 1796 902 1797 902 1808 895 1828 883 1898 881 1915 891 1916 891 1918 891 1919 891 1964 885 2002 901 2011 905 2012 905 2013 905 2093 904 2093 861 2091 840 2040 836 2018 823 2017 823 2016 823 1995 823 1994 823 1992 823 1991 823 1976 836 1956 823 1954 823 1953 823 1934 823 1932 823 1931 823 1895 841 1850 841 1839 830 1839 829 1838 829 1837 829 1835 829 1834 829 1807 839 1789 828 1787 828 1786 828 1785 828 1784 828 1783 828 1783 829 1774 835 1762 825 1760 825 1759 825 1722 825 1721 825 1720 825 1719 825 1695 842 1666 842 1650 826 1650 825 1649 825 1648 825 1646 825 1645 825 1644 825 1618 839 1619 864"/></Shape>
+	    <String CONTENT="d. Stadt Berlin ]"
+                    HPOS="1618"
+                    VPOS="823"
+                    WIDTH="475"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

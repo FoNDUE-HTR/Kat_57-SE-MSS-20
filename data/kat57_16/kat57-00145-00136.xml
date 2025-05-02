@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00136.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="37"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2327 1471 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="233 211 559 214" 
+                    HPOS="230"
+                    VPOS="165"
+                    WIDTH="328"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="231 210 230 223 310 234 311 234 338 228 350 225 365 229 386 235 387 235 555 236 558 213 558 185 524 171 522 171 521 171 520 171 499 180 471 166 470 166 468 166 467 166 440 182 435 184 369 182 366 180 359 174 359 172 358 172 357 172 355 172 354 172 341 176 328 166 328 165 327 165 326 165 274 165 273 165 272 165 271 165 271 166 260 177 231 177 231 210"/></Shape>
+	    <String CONTENT="Berichte"
+                    HPOS="230"
+                    VPOS="165"
+                    WIDTH="328"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="224 298 2261 302" 
+                    HPOS="222"
+                    VPOS="255"
+                    WIDTH="2038"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="223 296 222 320 303 320 309 321 353 329 354 329 435 325 471 333 472 333 473 333 812 321 840 321 845 321 894 332 895 332 897 332 916 326 965 332 967 332 1122 326 1286 336 1287 336 1365 327 1418 332 1419 332 1421 332 1451 322 1454 322 1581 322 1586 323 1643 336 1644 336 1645 336 1675 325 1719 323 1749 322 1808 323 1837 323 1898 337 1899 338 2072 338 2072 337 2126 325 2259 325 2260 301 2259 260 2140 260 2139 260 2137 260 2115 266 1834 260 1833 260 1770 268 1726 258 1725 258 1646 274 1580 274 1505 261 1504 261 1503 261 1464 272 1410 263 1408 263 1347 274 1244 274 938 273 884 257 883 257 882 257 774 272 697 263 695 263 564 271 490 256 489 256 303 263 223 255 223 296"/></Shape>
+	    <String CONTENT="der Biologischen Süsswasserstation der Kaiserlichen Naturforscher-"
+                    HPOS="222"
+                    VPOS="255"
+                    WIDTH="2038"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="230 384 1122 396" 
+                    HPOS="228"
+                    VPOS="348"
+                    WIDTH="893"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="229 383 228 398 296 412 298 412 358 402 373 399 391 402 430 408 431 408 472 404 493 402 498 404 525 418 526 418 527 419 580 419 580 418 581 418 605 407 614 402 641 407 670 413 671 413 699 408 716 406 721 409 728 415 730 415 731 415 732 415 776 410 823 404 850 412 860 414 861 414 862 414 878 412 901 409 933 413 952 415 953 415 963 414 991 408 1003 415 1021 424 1022 424 1023 424 1120 417 1121 394 1121 375 1032 375 1030 374 1001 359 1000 359 998 359 997 359 969 372 968 374 941 374 940 372 903 355 901 355 846 355 845 355 844 355 843 355 832 365 819 355 819 354 818 354 817 354 776 354 775 354 774 354 740 370 738 370 672 370 671 369 625 352 624 352 623 352 554 368 552 368 539 368 532 368 508 352 506 352 505 352 504 352 503 352 501 352 479 366 479 368 454 368 452 366 428 349 427 349 425 349 400 349 398 349 397 349 396 349 375 365 357 365 316 365 293 348 292 348 290 348 261 348 260 348 258 348 229 363 229 383"/></Shape>
+	    <String CONTENT="Gesellschaft zu St. Petersburg."
+                    HPOS="228"
+                    VPOS="348"
+                    WIDTH="893"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="230 479 509 479" 
+                    HPOS="229"
+                    VPOS="437"
+                    WIDTH="279"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="229 478 229 496 238 502 239 502 240 502 241 502 242 502 255 496 261 494 265 498 272 504 272 505 273 505 274 505 276 505 277 505 278 505 278 504 284 499 285 498 295 500 314 502 315 502 316 502 317 502 319 501 325 495 331 500 332 500 333 500 335 500 382 494 404 506 409 510 411 510 412 510 506 512 508 478 508 450 490 437 489 437 488 437 487 437 485 437 484 437 460 452 460 453 430 453 430 452 401 437 400 437 398 437 397 437 396 437 371 453 339 453 333 447 333 446 332 446 331 446 330 446 328 446 314 450 298 437 296 437 295 437 257 437 256 437 255 437 229 451 229 478"/></Shape>
+	    <String CONTENT="Bd 1-4:1, 5."
+                    HPOS="229"
+                    VPOS="437"
+                    WIDTH="279"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1438 479 2126 485" 
+                    HPOS="1435"
+                    VPOS="439"
+                    WIDTH="690"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1437 478 1435 490 1459 501 1460 501 1461 501 1462 501 1488 491 1516 502 1518 502 1519 502 1520 502 1521 502 1536 491 1537 491 1573 491 1578 493 1621 509 1622 509 1623 509 1678 499 1708 509 1709 509 1710 509 1711 509 1722 502 1727 507 1727 509 1729 509 1730 509 1731 509 1774 505 1780 510 1780 511 1781 511 1783 511 1859 512 1860 512 1861 512 1887 500 1899 495 1913 501 1926 507 1927 507 1929 507 1930 507 1947 502 1972 495 2028 495 2045 505 2056 510 2058 510 2059 510 2060 510 2070 505 2078 501 2083 506 2092 513 2093 513 2094 513 2096 513 2097 513 2124 506 2125 484 2124 447 2091 444 2089 444 2088 444 2087 444 2087 445 2085 446 2076 455 2058 446 2056 446 2055 446 2054 446 2053 446 2051 446 2033 462 1992 462 1970 447 1969 447 1968 447 1953 445 1920 442 1919 442 1918 442 1916 442 1916 444 1914 445 1899 461 1851 461 1774 460 1756 444 1754 444 1753 444 1752 444 1751 444 1732 453 1691 444 1689 444 1688 444 1687 444 1671 458 1653 458 1618 442 1612 440 1611 440 1560 439 1559 439 1558 439 1557 439 1557 440 1554 441 1546 450 1504 441 1489 439 1488 439 1437 440 1437 478"/></Shape>
+	    <String CONTENT="8ᵒ S Peterburg 1901-27"
+                    HPOS="1435"
+                    VPOS="439"
+                    WIDTH="690"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="225 590 1052 601 2183 601" 
+                    HPOS="224"
+                    VPOS="485"
+                    WIDTH="1957"
+                    HEIGHT="190">
+            <Shape><Polygon POINTS="224 588 224 628 354 640 355 640 409 629 411 629 412 629 539 668 541 668 542 668 593 658 612 664 613 664 614 664 758 631 832 639 932 670 933 670 935 672 986 672 986 670 1114 642 1223 670 1224 670 1225 670 1430 666 1462 673 1464 673 1656 674 1657 675 1709 675 1709 674 1710 674 1824 634 2179 634 2181 599 2179 558 2069 560 2026 552 1990 544 1989 544 1988 544 1972 549 1898 575 1837 571 1737 542 1736 542 1735 542 1660 556 1622 553 1621 553 1619 553 1532 580 1446 555 1445 555 1444 555 1400 560 1385 554 1384 554 1383 554 1381 554 1353 563 1227 559 1225 559 1157 575 1008 566 1007 566 957 575 866 544 865 544 863 544 770 544 639 500 598 486 597 486 224 485 224 588"/></Shape>
+	    <String CONTENT="Se: Trudy Borodinskoj presnovodnoj biologičeskoj stancii v Karelii"
+                    HPOS="224"
+                    VPOS="485"
+                    WIDTH="1957"
+                    HEIGHT="190"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1695 715 1912 715" 
+                    HPOS="1694"
+                    VPOS="663"
+                    WIDTH="217"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1694 713 1694 729 1715 732 1726 743 1726 744 1727 744 1729 744 1730 744 1911 732 1911 713 1911 688 1824 688 1815 680 1790 663 1789 663 1788 663 1786 663 1785 663 1753 670 1720 663 1719 663 1718 663 1694 670 1694 713"/></Shape>
+	    <String CONTENT="Naturv."
+                    HPOS="1694"
+                    VPOS="663"
+                    WIDTH="217"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1698 787 1859 787" 
+                    HPOS="1697"
+                    VPOS="731"
+                    WIDTH="160"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1697 786 1697 801 1790 813 1791 814 1824 814 1824 813 1826 813 1827 813 1835 805 1840 802 1855 805 1857 786 1857 751 1828 742 1827 742 1826 742 1824 742 1823 742 1817 747 1799 761 1763 761 1732 736 1727 731 1726 731 1725 731 1697 731 1697 786"/></Shape>
+	    <String CONTENT="{Inst."
+                    HPOS="1697"
+                    VPOS="731"
+                    WIDTH="160"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1725 857 1768 854" 
+                    HPOS="1720"
+                    VPOS="809"
+                    WIDTH="47"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1724 856 1724 877 1767 877 1767 853 1763 818 1742 809 1741 809 1740 809 1738 809 1720 815 1724 856"/></Shape>
+	    <String CONTENT="R"
+                    HPOS="1720"
+                    VPOS="809"
+                    WIDTH="47"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="1690 943 1981 946" 
+                    HPOS="1688"
+                    VPOS="908"
+                    WIDTH="292"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1689 942 1688 962 1697 970 1698 970 1699 970 1700 970 1763 962 1785 971 1786 971 1788 971 1823 964 1884 972 1886 972 1979 964 1980 945 1979 911 1952 911 1951 911 1950 911 1920 923 1886 910 1884 910 1883 910 1882 910 1853 924 1789 924 1774 917 1773 917 1772 917 1729 922 1713 908 1711 908 1710 908 1689 908 1689 942"/></Shape>
+	    <String CONTENT="[Leningrad"
+                    HPOS="1688"
+                    VPOS="908"
+                    WIDTH="292"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="1709 1005 2199 1002" 
+                    HPOS="1707"
+                    VPOS="966"
+                    WIDTH="490"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1708 1004 1708 1026 1826 1030 1835 1037 1837 1037 1838 1037 1839 1037 1902 1029 1920 1026 1946 1027 1946 1029 1957 1037 1957 1038 1958 1038 1959 1038 1961 1040 2022 1040 2022 1038 2023 1038 2054 1030 2058 1027 2100 1027 2107 1030 2123 1037 2124 1037 2125 1037 2197 1030 2197 1000 2194 980 2091 980 2089 980 2077 971 2076 971 2075 971 2073 971 2072 971 2055 980 2011 975 2010 975 2008 975 1985 981 1984 981 1962 966 1961 966 1959 966 1958 966 1892 976 1873 966 1872 966 1871 966 1803 981 1767 967 1765 967 1736 967 1735 967 1734 967 1707 981 1708 1004"/></Shape>
+	    <String CONTENT="Borodinsk. presnov."
+                    HPOS="1707"
+                    VPOS="966"
+                    WIDTH="490"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    
+                    BASELINE="1722 1079 2127 1079" 
+                    HPOS="1721"
+                    VPOS="1043"
+                    WIDTH="405"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1721 1078 1721 1112 1789 1106 1802 1112 1830 1124 1832 1124 1833 1126 1872 1126 1872 1124 1873 1124 1899 1111 1911 1105 1990 1105 2004 1110 2039 1124 2040 1124 2042 1126 2099 1126 2099 1124 2100 1124 2102 1124 2126 1110 2126 1078 2123 1045 2109 1057 2054 1057 2011 1046 1997 1043 1970 1043 1969 1043 1968 1043 1967 1043 1962 1047 1947 1056 1923 1054 1916 1048 1914 1046 1914 1045 1913 1045 1911 1045 1910 1045 1909 1045 1900 1048 1882 1056 1827 1053 1822 1050 1815 1043 1813 1043 1812 1043 1811 1043 1810 1043 1795 1050 1783 1056 1775 1051 1765 1043 1764 1043 1763 1043 1762 1043 1721 1051 1721 1078"/></Shape>
+	    <String CONTENT="biologič. stancija]"
+                    HPOS="1721"
+                    VPOS="1043"
+                    WIDTH="405"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

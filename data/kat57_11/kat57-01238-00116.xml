@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00116.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2336"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="42"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2336"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2334"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2335 1477 2335 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="173 168 673 168" 
+                    HPOS="172"
+                    VPOS="120"
+                    WIDTH="500"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="172 167 172 182 671 187 672 167 672 139 544 139 540 136 529 131 528 131 527 131 480 135 455 137 446 135 411 124 410 124 409 124 362 125 360 125 359 125 346 134 341 136 332 134 295 120 294 120 197 120 195 120 194 120 172 130 172 167"/></Shape>
+	    <String CONTENT="MORSBACH, Lorenz"
+                    HPOS="172"
+                    VPOS="120"
+                    WIDTH="500"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2017 48 2287 43" 
+                    HPOS="2015"
+                    VPOS="1"
+                    WIDTH="271"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="2225 1 2222 1 2202 17 2195 23 2175 23 2170 18 2152 2 2151 2 2149 2 2099 2 2098 2 2096 2 2058 24 2056 25 2015 25 2016 46 2016 61 2056 68 2057 68 2095 65 2124 62 2141 67 2163 73 2164 73 2165 73 2167 73 2183 68 2188 67 2190 68 2198 73 2199 73 2200 73 2201 73 2286 72 2286 41 2281 13 2257 20 2249 14 2232 1 2225 1"/></Shape>
+	    <String CONTENT="Litt.-hist."
+                    HPOS="2015"
+                    VPOS="1"
+                    WIDTH="271"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2121 101 2170 101" 
+                    HPOS="2120"
+                    VPOS="67"
+                    WIDTH="49"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="2120 100 2120 121 2169 112 2169 100 2169 67 2120 67 2120 100"/></Shape>
+	    <String CONTENT="Ny"
+                    HPOS="2120"
+                    VPOS="67"
+                    WIDTH="49"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1966 161 2293 158" 
+                    HPOS="1963"
+                    VPOS="114"
+                    WIDTH="329"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1965 160 1965 183 2068 181 2079 188 2092 197 2093 197 2094 197 2126 198 2127 198 2161 197 2162 197 2177 190 2205 179 2226 193 2228 194 2230 194 2231 194 2232 195 2292 195 2292 157 2289 136 2186 136 2164 115 2164 114 2163 114 2162 114 2127 114 2126 114 2125 114 2099 120 2044 115 2042 115 2041 115 1998 137 1963 139 1965 160"/></Shape>
+	    <String CONTENT="Shakespeare"
+                    HPOS="1963"
+                    VPOS="114"
+                    WIDTH="329"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="168 262 2172 278" 
+                    HPOS="166"
+                    VPOS="225"
+                    WIDTH="2004"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="166 283 324 294 325 294 452 286 487 294 489 294 575 288 645 296 646 296 757 289 760 289 762 289 938 299 940 300 1054 300 1054 299 1087 291 1090 291 1100 291 1270 301 1271 301 1347 294 1351 294 1357 294 1553 304 1554 304 1669 296 1678 296 1681 296 1724 305 1726 305 1834 298 1845 298 1861 298 2025 307 2026 307 2169 300 2170 277 2170 248 2014 248 2005 246 1971 238 1970 238 1862 245 1844 245 1838 243 1807 237 1806 237 1735 242 1689 246 1420 246 1287 237 1213 234 1212 234 1192 236 1151 242 1101 235 1069 231 1068 231 1036 235 979 241 942 234 930 231 928 231 927 231 919 234 905 236 842 232 782 229 781 229 751 231 676 238 624 230 608 227 607 227 596 230 558 238 475 238 428 229 427 229 348 236 282 226 274 225 168 225 167 261 166 283"/></Shape>
+	    <String CONTENT="Shakespeares dramatische Kunst und ihre Voraussetzungen. Mit einem"
+                    HPOS="166"
+                    VPOS="225"
+                    WIDTH="2004"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="168 364 1169 369" 
+                    HPOS="166"
+                    VPOS="331"
+                    WIDTH="1002"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="167 363 166 387 227 396 229 396 373 390 416 389 427 391 459 397 460 397 492 391 502 390 521 391 575 397 576 397 681 394 708 392 724 394 774 399 776 399 777 399 778 399 784 394 789 391 808 395 834 399 835 399 855 395 873 391 894 395 916 400 917 400 940 396 957 392 978 396 1000 400 1001 401 1099 401 1099 400 1111 397 1133 392 1165 397 1168 368 1166 343 1038 335 1037 335 979 342 973 342 967 342 916 333 915 333 914 333 896 341 858 333 857 333 856 333 825 341 824 341 823 341 789 333 788 333 752 341 750 341 747 341 724 333 723 333 721 333 633 339 632 339 620 332 619 332 618 332 617 332 571 339 570 339 569 339 549 332 548 332 547 332 545 332 516 339 513 341 426 341 416 339 348 331 347 331 346 331 344 331 335 338 325 331 324 331 322 331 321 331 167 337 167 363"/></Shape>
+	    <String CONTENT="Ausblick auf die Hamlet-Tragödie."
+                    HPOS="166"
+                    VPOS="331"
+                    WIDTH="1002"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1305 473 1889 478" 
+                    HPOS="1303"
+                    VPOS="436"
+                    WIDTH="585"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1304 472 1303 487 1336 500 1338 500 1339 500 1340 500 1341 500 1349 492 1363 500 1365 500 1366 500 1367 500 1368 500 1377 492 1399 497 1400 497 1402 497 1403 497 1403 496 1410 490 1436 490 1447 501 1447 502 1448 502 1450 502 1451 502 1452 502 1469 493 1506 503 1508 503 1509 503 1510 503 1530 495 1537 502 1537 503 1538 503 1540 503 1541 503 1593 497 1614 504 1615 504 1616 504 1666 498 1686 504 1687 504 1689 504 1690 504 1729 492 1743 504 1743 506 1744 506 1745 506 1747 506 1797 498 1841 504 1843 504 1844 504 1845 504 1859 493 1887 493 1888 477 1887 448 1862 448 1862 447 1855 440 1855 439 1854 439 1853 439 1822 439 1820 439 1819 439 1818 439 1811 445 1809 447 1798 445 1743 438 1742 438 1740 438 1739 438 1733 444 1731 445 1718 444 1678 438 1676 438 1675 438 1674 438 1668 443 1663 447 1599 447 1574 440 1554 437 1553 437 1501 439 1427 443 1418 437 1415 436 1414 436 1413 436 1411 436 1399 437 1361 443 1304 436 1304 472"/></Shape>
+	    <String CONTENT="8:o Göttingen 1940."
+                    HPOS="1303"
+                    VPOS="436"
+                    WIDTH="585"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="168 566 2157 582" 
+                    HPOS="166"
+                    VPOS="529"
+                    WIDTH="1990"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="167 565 166 593 321 605 709 608 710 608 747 599 757 598 834 601 899 603 900 603 901 603 906 602 924 597 1069 597 1107 604 1145 609 1147 609 1245 605 1355 601 1394 607 1441 614 1442 614 1504 608 1553 603 1695 603 1733 610 1748 613 1749 613 1750 613 1760 610 1786 604 1818 610 1819 610 1849 604 1951 612 1952 612 2004 608 2027 613 2050 619 2051 619 2052 619 2154 614 2156 581 2153 544 2008 550 1983 543 1979 541 1978 541 1977 541 1958 543 1851 549 1726 549 1697 540 1695 540 1694 540 1692 540 1678 540 1546 546 1408 546 1366 539 1351 537 1166 535 1165 535 1164 535 1158 537 1139 543 1122 537 1121 537 1119 537 1118 537 1115 537 1085 543 984 537 931 533 930 533 876 535 781 540 682 534 672 534 671 534 654 534 516 538 490 533 469 529 468 529 167 530 167 565"/></Shape>
+	    <String CONTENT="Se: Abhandlungen der Gesellschaft der Wissenschaften zu Göttingen."
+                    HPOS="166"
+                    VPOS="529"
+                    WIDTH="1990"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="283 668 1767 681" 
+                    HPOS="280"
+                    VPOS="631"
+                    WIDTH="1486"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="282 667 280 694 309 704 310 704 364 705 365 705 418 695 427 694 448 695 579 708 580 708 640 699 687 706 688 706 721 699 731 698 842 698 855 702 883 710 884 710 885 710 973 703 1023 699 1055 704 1097 711 1099 711 1129 705 1132 705 1135 705 1182 713 1480 715 1482 715 1533 711 1615 704 1683 710 1684 710 1734 705 1763 714 1766 679 1764 646 1618 651 1589 644 1583 642 1581 642 1580 642 1567 644 1512 650 1493 642 1492 642 1490 642 1489 642 1480 642 1415 649 1331 641 1312 640 1310 640 1309 640 1304 641 1278 649 1174 649 1084 639 1078 639 1076 639 1074 639 1025 646 979 638 975 638 974 638 963 638 843 644 688 636 687 636 659 642 645 636 644 636 643 636 576 641 457 634 455 634 454 634 434 640 412 633 411 633 410 633 349 638 282 631 282 667"/></Shape>
+	    <String CONTENT="Philologisch-historische Klasse. Folge 3. Nr. 25."
+                    HPOS="280"
+                    VPOS="631"
+                    WIDTH="1486"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="1678 766 1826 758" 
+                    HPOS="1674"
+                    VPOS="715"
+                    WIDTH="151"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1676 764 1676 780 1774 783 1775 783 1825 772 1825 757 1819 715 1797 722 1790 720 1776 716 1775 716 1774 716 1772 716 1771 716 1753 727 1752 729 1674 742 1676 764"/></Shape>
+	    <String CONTENT="Acta"
+                    HPOS="1674"
+                    VPOS="715"
+                    WIDTH="151"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="1481 887 1780 873 2167 865" 
+                    HPOS="1479"
+                    VPOS="817"
+                    WIDTH="688"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="1481 887 1481 921 1563 922 1564 922 1566 922 1567 922 1572 919 1587 908 1638 916 1686 924 1687 924 1742 913 1745 913 1748 913 1788 921 1790 921 1791 921 1817 911 1844 898 1983 897 1999 905 2015 913 2017 913 2018 913 2167 898 2167 865 2161 822 2113 834 2097 825 2087 817 2086 817 2084 817 2082 817 2010 818 2009 818 2007 818 2007 820 1998 830 1986 841 1954 841 1943 831 1929 822 1927 822 1926 822 1898 822 1897 822 1895 822 1894 822 1878 834 1873 839 1838 844 1818 838 1790 828 1788 828 1786 828 1785 828 1783 828 1767 841 1759 847 1734 847 1708 844 1657 834 1655 834 1654 834 1631 842 1615 831 1614 831 1612 831 1611 831 1527 833 1526 833 1479 852 1481 887"/></Shape>
+	    <String CONTENT="/[Göttingen, Ges. d. Wiss.]"
+                    HPOS="1479"
+                    VPOS="817"
+                    WIDTH="688"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    
+                    BASELINE="2062 1455 2188 1455" 
+                    HPOS="2061"
+                    VPOS="1417"
+                    WIDTH="125"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="2061 1454 2061 1464 2094 1470 2095 1470 2096 1470 2114 1463 2117 1461 2119 1463 2124 1468 2124 1469 2125 1469 2126 1469 2170 1470 2172 1470 2173 1470 2174 1470 2186 1463 2186 1454 2186 1418 2108 1417 2106 1417 2105 1417 2104 1417 2104 1418 2098 1423 2095 1427 2061 1427 2061 1454"/></Shape>
+	    <String CONTENT="9.9.40"
+                    HPOS="2061"
+                    VPOS="1417"
+                    WIDTH="125"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

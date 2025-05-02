@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00244.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2332"
+          HEIGHT="1470"
+          PHYSICAL_IMG_NR="45"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2332"
+                  HEIGHT="1470">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2330"
+                   HEIGHT="1468"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1469 2331 1469 2331 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="148 227 622 231" 
+                    HPOS="145"
+                    VPOS="182"
+                    WIDTH="476"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="147 226 145 251 170 268 171 268 172 268 174 268 287 263 322 269 323 269 384 263 436 268 437 268 438 268 439 268 458 252 517 252 537 263 539 263 540 263 541 263 564 253 620 253 621 230 620 199 579 199 579 198 551 186 550 186 548 186 518 192 491 184 490 184 488 184 487 184 463 198 461 198 459 198 414 184 412 184 411 184 410 184 372 197 371 197 332 183 330 183 329 183 268 189 231 182 230 182 147 194 147 226"/></Shape>
+	    <String CONTENT="MORTENSEN, Hans"
+                    HPOS="145"
+                    VPOS="182"
+                    WIDTH="476"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="11 315 610 328 2320 328" 
+                    HPOS="8"
+                    VPOS="263"
+                    WIDTH="2311"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="9 314 8 344 126 344 128 344 180 356 181 356 245 352 270 360 272 360 273 361 627 361 627 360 738 347 742 347 745 347 787 360 789 360 897 361 898 361 986 349 1009 346 1073 350 1197 356 1198 356 1251 350 1270 349 1301 351 1385 357 1387 357 1412 352 1453 362 1454 362 1455 362 1504 352 1521 349 1546 352 1566 355 1567 355 1654 352 1809 349 1830 354 1866 363 1867 363 1868 363 1930 356 2020 360 2021 360 2046 355 2068 351 2317 356 2319 327 2318 287 2207 268 1867 268 1866 268 1751 269 1692 280 1677 282 1643 280 1567 273 1566 273 1491 278 1475 279 1470 278 1438 269 1437 269 1436 269 1349 276 1279 282 1210 275 1186 273 1184 273 1173 275 1107 289 567 289 490 285 433 269 432 269 431 269 388 276 332 269 330 269 280 270 208 287 124 264 121 263 120 263 9 263 9 314"/></Shape>
+	    <String CONTENT="Acta Se: Nachrichten der Akademie der Wissenschaften in Göttingen.Phil.-hist."
+                    HPOS="8"
+                    VPOS="263"
+                    WIDTH="2311"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="32 384 67 381" 
+                    HPOS="26"
+                    VPOS="331"
+                    WIDTH="40"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="31 383 31 399 66 399 66 380 61 331 26 331 31 383"/></Shape>
+	    <String CONTENT="T"
+                    HPOS="26"
+                    VPOS="331"
+                    WIDTH="40"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="12 454 231 449" 
+                    HPOS="9"
+                    VPOS="399"
+                    WIDTH="221"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="11 453 11 498 36 496 37 496 39 496 67 475 102 475 120 487 131 496 132 496 133 496 174 497 175 497 176 497 177 497 207 476 208 475 230 472 230 448 226 417 181 417 174 414 167 409 166 409 165 409 164 409 162 409 155 412 153 414 150 412 131 399 129 399 128 399 127 399 85 407 64 412 9 404 11 453"/></Shape>
+	    <String CONTENT="Göttingen"
+                    HPOS="9"
+                    VPOS="399"
+                    WIDTH="221"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="268 408 496 408" 
+                    HPOS="267"
+                    VPOS="374"
+                    WIDTH="228"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="267 407 267 423 284 431 285 431 286 431 495 425 495 407 495 385 422 377 421 377 420 377 419 377 405 385 348 385 338 376 338 374 336 374 335 374 281 374 280 374 279 374 278 374 267 382 267 407"/></Shape>
+	    <String CONTENT="Klasse."
+                    HPOS="267"
+                    VPOS="374"
+                    WIDTH="228"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="11 524 2301 530" 
+                    HPOS="8"
+                    VPOS="488"
+                    WIDTH="2292"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="9 523 8 546 470 556 471 556 910 550 936 557 937 557 938 557 1251 551 1281 557 1283 557 1382 552 1664 558 1665 558 1797 552 1843 559 1844 559 1898 553 1954 559 1955 559 2298 552 2300 529 2298 499 1676 492 1675 492 1596 497 1569 498 1559 497 1531 492 1530 492 1459 497 1428 498 1416 497 1383 491 1382 491 1290 496 1267 497 631 497 621 494 596 490 595 490 545 494 524 496 508 494 466 488 465 488 9 492 9 523"/></Shape>
+	    <String CONTENT="Akad.d.  1944:12. Warum fehlt die ordenszeitliche deutsche Bauernsiedlung im"
+                    HPOS="8"
+                    VPOS="488"
+                    WIDTH="2292"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="30 605 169 602" 
+                    HPOS="26"
+                    VPOS="558"
+                    WIDTH="141"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="29 603 29 648 80 641 115 663 128 672 129 672 131 672 132 672 167 671 167 601 164 583 107 583 95 572 80 559 80 558 79 558 78 558 77 558 26 561 29 603"/></Shape>
+	    <String CONTENT="Wiss."
+                    HPOS="26"
+                    VPOS="558"
+                    WIDTH="141"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="537 581 1000 581" 
+                    HPOS="536"
+                    VPOS="547"
+                    WIDTH="463"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="536 580 536 600 574 607 575 607 736 603 824 601 843 605 859 607 860 607 879 605 911 601 921 606 925 607 926 607 927 607 999 606 999 580 999 557 863 547 862 547 861 547 833 556 813 547 812 547 811 547 810 547 786 557 724 557 698 547 697 547 627 547 626 547 624 547 604 556 555 547 553 547 552 547 536 554 536 580"/></Shape>
+	    <String CONTENT="Baltikum? 1944."
+                    HPOS="536"
+                    VPOS="547"
+                    WIDTH="463"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="547 636 1808 632" 
+                    HPOS="545"
+                    VPOS="596"
+                    WIDTH="1262"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="546 635 546 662 588 655 610 661 611 661 612 662 801 662 801 661 861 654 885 660 887 660 888 660 933 654 1086 660 1088 660 1283 652 1466 659 1468 659 1512 651 1805 657 1807 630 1803 600 1675 605 1638 600 1613 596 1612 596 1579 600 1534 605 1525 600 1524 599 1523 599 1521 599 1398 599 1396 599 1387 600 1359 605 1328 600 1307 597 1306 597 1305 597 1300 600 1287 607 1240 607 1221 600 1211 597 1210 597 1209 597 1193 600 1160 607 1138 601 1132 599 1131 599 1129 599 1128 599 1127 599 1124 601 1115 606 1099 601 1096 600 1095 600 1094 600 1093 600 1091 600 1090 601 1078 608 860 608 759 601 734 600 732 600 724 601 704 606 691 601 686 600 685 600 683 600 545 601 546 635"/></Shape>
+	    <String CONTENT="[Göttinger geographische Einzelstudien.4.]"
+                    HPOS="545"
+                    VPOS="596"
+                    WIDTH="1262"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="274 733 2229 746" 
+                    HPOS="272"
+                    VPOS="677"
+                    WIDTH="1955"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="273 732 272 754 291 761 292 761 294 761 539 757 586 757 591 758 607 763 609 763 749 764 751 764 791 759 810 758 855 760 948 765 949 765 1008 761 1050 759 1064 761 1085 766 1086 766 1165 763 1230 760 1256 764 1281 768 1283 768 1284 768 1294 764 1302 761 1412 761 2225 772 2227 744 2226 723 2178 710 2177 710 2176 710 2105 720 2102 720 2004 705 2003 705 1911 715 1879 719 1743 717 1697 710 1635 703 1634 703 1604 709 1585 711 1557 708 1519 701 1518 701 1490 705 1466 709 1448 704 1436 701 1434 701 1433 701 1409 704 1366 708 1332 701 1321 700 1319 700 1318 700 1314 701 1292 709 1269 703 1268 703 1267 703 1227 710 1118 699 1117 699 1023 710 949 703 948 703 863 710 802 699 801 699 665 704 568 694 567 694 515 704 455 681 448 678 447 678 273 677 273 732"/></Shape>
+	    <String CONTENT="1949:11. Der siedlungskundliche Wert der Kartierung von Wüstungs-"
+                    HPOS="272"
+                    VPOS="677"
+                    WIDTH="1955"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="542 784 1923 795" 
+                    HPOS="540"
+                    VPOS="752"
+                    WIDTH="1382"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="541 784 540 812 645 820 647 820 709 814 946 817 995 839 996 839 997 839 998 839 1013 833 1058 841 1060 842 1143 842 1143 841 1186 833 1219 841 1220 841 1221 841 1295 840 1296 840 1354 820 1398 819 1448 844 1449 844 1580 845 1582 845 1583 845 1610 839 1756 846 1757 846 1758 846 1836 823 1901 829 1903 829 1904 829 1921 821 1922 793 1922 769 1890 760 1889 760 1786 760 1785 760 1784 760 1769 768 1768 768 1709 766 1662 766 1649 759 1648 759 1646 759 1564 765 1550 758 1548 758 1547 758 1374 764 1373 764 1359 757 1357 757 1356 757 1314 764 1312 764 1160 764 1160 763 1143 755 1142 755 1140 755 1085 763 1079 763 1078 763 1060 754 1058 754 1057 754 1019 761 1018 761 1015 761 885 753 884 753 883 753 863 760 789 753 787 753 751 760 746 760 618 760 617 759 596 752 595 752 594 752 541 758 541 784"/></Shape>
+	    <String CONTENT="fluren.Von Hans Mortensen,Kurt Scharlau. 1949."
+                    HPOS="540"
+                    VPOS="752"
+                    WIDTH="1382"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

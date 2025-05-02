@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00730-00246.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="39"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2327 1477 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="102 222 517 222" 
+                    HPOS="101"
+                    VPOS="184"
+                    WIDTH="415"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="101 221 101 246 118 258 119 258 120 258 121 259 305 259 305 258 306 258 307 258 327 241 328 241 443 241 484 252 485 252 486 252 487 252 516 240 516 221 516 194 399 194 365 184 364 184 363 184 362 184 328 194 305 194 293 184 291 184 290 184 289 184 288 184 256 192 194 184 193 184 156 193 121 184 120 184 119 184 118 184 101 193 101 221"/></Shape>
+	    <String CONTENT="HERMAN, Henry"
+                    HPOS="101"
+                    VPOS="184"
+                    WIDTH="415"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="99 324 1831 318" 
+                    HPOS="97"
+                    VPOS="275"
+                    WIDTH="1733"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="98 323 98 401 319 401 320 401 330 397 360 384 521 352 573 367 575 367 576 367 665 360 710 368 711 368 713 368 741 355 809 352 833 362 835 362 836 362 943 360 1056 339 1109 346 1111 346 1205 338 1246 347 1247 347 1289 341 1341 352 1342 352 1411 338 1474 346 1475 346 1476 346 1501 335 1608 331 1676 332 1830 358 1830 317 1829 289 1781 275 1779 275 1623 275 1622 275 1555 288 1494 278 1492 278 1372 289 1369 289 1368 289 1324 277 1322 277 1321 277 1244 285 1196 282 1194 282 1193 282 1175 289 1171 289 1118 289 1093 279 1092 279 1091 279 1007 290 1000 290 997 290 971 282 970 282 969 282 968 282 952 288 886 282 885 282 751 290 723 291 710 290 654 282 652 282 614 288 503 279 502 279 445 290 433 294 286 294 282 290 256 280 254 280 253 280 192 286 131 280 130 280 129 280 97 290 98 323"/></Shape>
+	    <String CONTENT="Se: Murray,D.C. &amp; Herman,H.,I röfvarehänder.Roman...1893."
+                    HPOS="97"
+                    VPOS="275"
+                    WIDTH="1733"
+                    HEIGHT="126"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1884 288 2025 288" 
+                    HPOS="1883"
+                    VPOS="221"
+                    WIDTH="141"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1883 286 1884 320 1909 314 1931 317 1944 320 1946 320 1947 320 1948 320 1952 316 1969 305 2023 312 2024 286 2023 241 1970 241 1964 236 1947 221 1946 221 1944 221 1943 221 1883 230 1883 286"/></Shape>
+	    <String CONTENT="Vitt"
+                    HPOS="1883"
+                    VPOS="221"
+                    WIDTH="141"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1882 353 2017 358" 
+                    HPOS="1879"
+                    VPOS="312"
+                    WIDTH="137"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="1880 352 1879 374 1905 384 1906 384 1907 384 1909 384 1911 384 1930 378 1946 392 1963 407 1963 408 1964 408 1965 408 2012 410 2016 357 2016 337 1957 336 1943 326 1927 312 1926 312 1925 312 1923 312 1880 315 1880 352"/></Shape>
+	    <String CONTENT="Eng"
+                    HPOS="1879"
+                    VPOS="312"
+                    WIDTH="137"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

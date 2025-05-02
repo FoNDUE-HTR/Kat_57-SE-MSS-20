@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00329.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1484"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1484">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1482"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1483 2319 1483 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="211 72 1059 78" 
+                    HPOS="208"
+                    VPOS="18"
+                    WIDTH="850"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="210 71 208 98 237 98 239 100 259 116 260 116 262 116 263 117 332 117 332 116 333 116 335 116 356 103 387 85 474 85 488 91 489 91 490 91 492 91 518 85 614 91 615 91 617 91 631 86 643 96 643 97 644 97 645 97 646 97 648 97 665 90 687 100 688 100 690 100 691 100 692 100 701 93 719 101 720 101 722 101 723 101 724 101 734 93 746 103 748 103 749 103 750 103 751 103 766 97 785 115 790 118 790 119 791 119 792 119 793 121 847 121 847 119 848 119 857 116 894 100 913 108 915 108 916 108 969 97 989 101 1010 119 1010 121 1011 121 1012 121 1014 122 1057 122 1058 77 1056 28 978 39 976 39 975 39 967 48 889 48 857 46 828 27 827 27 826 27 824 27 780 37 750 24 749 24 748 24 746 24 704 39 683 39 666 23 665 22 664 22 662 22 622 22 620 22 619 22 618 22 592 45 580 45 534 22 531 21 530 21 529 21 528 21 526 21 526 22 492 44 463 44 427 21 426 21 425 21 424 21 422 21 421 21 421 22 399 42 379 43 356 43 326 21 325 21 324 21 210 18 210 71"/></Shape>
+	    <String CONTENT="Vejle Amts Landboforening"
+                    HPOS="208"
+                    VPOS="18"
+                    WIDTH="850"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="191 182 1529 190" 
+                    HPOS="189"
+                    VPOS="131"
+                    WIDTH="1339"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="190 181 189 218 441 225 442 225 487 220 488 220 493 217 514 207 612 207 661 216 667 217 669 217 670 217 672 216 686 208 755 208 796 216 860 227 861 228 978 228 978 227 979 227 1015 215 1019 212 1075 211 1087 213 1124 226 1125 226 1126 226 1127 226 1150 213 1155 212 1192 212 1197 213 1235 226 1236 226 1237 226 1239 226 1289 213 1294 212 1302 213 1343 218 1344 218 1527 211 1528 189 1527 164 1453 155 1451 155 1391 160 1352 163 1339 159 1309 149 1308 149 1307 149 1305 149 1281 158 1268 162 1258 157 1242 148 1241 148 1240 148 1239 148 1223 155 1219 158 1158 160 1146 154 1135 148 1134 148 1132 148 1051 152 1014 153 1005 150 973 139 972 139 970 139 861 145 850 140 849 140 848 140 847 140 831 145 807 154 785 148 784 148 782 148 734 159 592 159 541 147 540 147 539 147 504 158 399 136 392 134 390 134 382 134 311 143 289 133 288 132 286 132 190 131 190 181"/></Shape>
+	    <String CONTENT="MORTENSEN, Rasmus &amp; JENSEN, Sv[end] Karlskov"
+                    HPOS="189"
+                    VPOS="131"
+                    WIDTH="1339"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2027 54 2220 54" 
+                    HPOS="2026"
+                    VPOS="13"
+                    WIDTH="193"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="2026 53 2026 75 2098 71 2114 74 2140 79 2141 79 2143 79 2157 72 2162 71 2169 72 2193 79 2195 79 2196 79 2197 79 2219 71 2219 53 2219 34 2169 34 2169 33 2148 23 2146 23 2145 23 2144 23 2128 30 2112 14 2112 13 2111 13 2109 13 2051 13 2050 13 2049 13 2047 13 2026 29 2026 53"/></Shape>
+	    <String CONTENT="Ekon."
+                    HPOS="2026"
+                    VPOS="13"
+                    WIDTH="193"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2039 133 2249 129" 
+                    HPOS="2036"
+                    VPOS="80"
+                    WIDTH="212"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="2038 132 2038 150 2247 149 2248 128 2245 89 2218 82 2217 82 2216 82 2214 82 2201 91 2187 100 2180 93 2174 89 2174 87 2172 87 2171 87 2170 87 2169 87 2155 93 2136 80 2135 80 2134 80 2133 80 2087 81 2086 81 2085 81 2085 82 2065 102 2062 105 2036 105 2038 132"/></Shape>
+	    <String CONTENT="Sällsk"
+                    HPOS="2036"
+                    VPOS="80"
+                    WIDTH="212"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2087 213 2223 216" 
+                    HPOS="2085"
+                    VPOS="173"
+                    WIDTH="137"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="2086 212 2085 226 2117 238 2118 238 2119 238 2221 237 2222 215 2222 192 2151 190 2149 187 2128 173 2127 173 2125 173 2098 173 2097 173 2096 173 2094 173 2094 174 2086 180 2086 212"/></Shape>
+	    <String CONTENT="Dan."
+                    HPOS="2085"
+                    VPOS="173"
+                    WIDTH="137"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="197 283 2273 299" 
+                    HPOS="195"
+                    VPOS="249"
+                    WIDTH="2076"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="195 305 269 316 270 316 352 307 414 316 415 316 416 316 436 310 594 319 596 319 829 312 920 321 1155 324 1156 324 1279 315 1352 325 1354 325 1631 317 1747 317 1801 328 1803 328 1888 322 1920 328 1921 328 2061 324 2211 331 2212 331 2270 321 2271 298 2271 273 1892 270 1882 269 1791 260 1790 260 1674 267 1636 268 1623 265 1591 259 1590 259 1564 265 1555 267 1476 264 1287 257 1286 257 1214 260 1153 264 970 258 823 253 822 253 779 255 706 260 685 254 678 253 677 253 550 252 549 252 542 253 514 259 482 252 473 251 472 251 451 252 369 258 351 251 347 249 346 249 197 249 196 281 195 305"/></Shape>
+	    <String CONTENT="Vejle Amts Landboforening gennem 100 Aar. Traek af Vejleegnens histo-"
+                    HPOS="195"
+                    VPOS="249"
+                    WIDTH="2076"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="194 387 1816 405" 
+                    HPOS="191"
+                    VPOS="351"
+                    WIDTH="1624"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="192 385 191 411 221 409 243 414 255 416 257 416 269 414 294 409 314 415 333 421 335 421 336 421 371 415 403 410 417 416 419 416 420 416 421 416 434 416 561 413 593 419 626 425 628 425 693 420 714 419 720 420 737 426 738 426 855 427 857 427 974 426 989 424 1027 417 1059 425 1082 430 1167 431 1168 432 1211 432 1211 431 1213 431 1223 427 1241 420 1414 421 1450 430 1455 431 1456 431 1470 431 1570 424 1595 432 1605 436 1606 436 1607 436 1663 434 1731 430 1812 435 1815 404 1815 366 1644 363 1643 363 1633 364 1582 373 1545 364 1539 363 1538 363 1528 364 1485 369 1461 363 1449 361 1448 361 1446 361 1427 363 1411 366 1392 363 1361 359 1360 359 1340 363 1305 371 1260 363 1236 359 1235 359 1214 363 1176 369 1129 362 1090 357 1089 357 1088 357 1073 362 1057 368 1040 362 1021 356 1020 356 1019 356 1017 356 1004 362 991 367 844 367 834 361 816 353 814 353 776 353 775 353 774 353 754 361 748 363 739 361 711 353 709 353 708 353 707 353 686 361 678 364 625 364 568 363 561 361 531 351 530 351 529 351 463 359 453 361 424 359 263 352 262 352 192 358 192 385"/></Shape>
+	    <String CONTENT="riske, landbrugsfaglige og kulturelle Udvikling. [Ill. ]"
+                    HPOS="191"
+                    VPOS="351"
+                    WIDTH="1624"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1503 503 1966 508" 
+                    HPOS="1501"
+                    VPOS="463"
+                    WIDTH="464"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1502 502 1501 528 1526 535 1527 535 1528 535 1529 535 1543 529 1552 525 1574 530 1582 531 1584 531 1601 530 1646 528 1653 531 1671 544 1673 544 1674 544 1735 545 1736 545 1737 545 1738 545 1753 534 1763 528 1820 534 1821 534 1822 534 1824 534 1824 533 1827 530 1835 536 1846 546 1847 546 1848 546 1850 547 1897 547 1897 546 1898 546 1925 539 1939 535 1962 539 1965 507 1965 479 1944 479 1942 478 1926 467 1925 467 1924 467 1923 467 1879 472 1851 464 1850 464 1822 464 1821 464 1820 464 1794 477 1793 477 1791 477 1733 463 1732 463 1696 469 1662 463 1660 463 1659 463 1622 476 1618 476 1616 474 1595 469 1594 469 1592 469 1560 474 1558 474 1535 463 1534 463 1533 463 1532 463 1531 463 1518 474 1517 474 1502 474 1502 502"/></Shape>
+	    <String CONTENT="8:o Vejle 1951."
+                    HPOS="1501"
+                    VPOS="463"
+                    WIDTH="464"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="2055 1451 2223 1454" 
+                    HPOS="2052"
+                    VPOS="1393"
+                    WIDTH="170"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="2054 1450 2052 1472 2072 1476 2073 1476 2075 1476 2076 1476 2076 1475 2078 1474 2085 1467 2101 1467 2114 1475 2115 1476 2117 1476 2118 1476 2119 1476 2120 1476 2123 1475 2136 1467 2161 1476 2165 1477 2166 1477 2167 1477 2169 1477 2170 1477 2171 1476 2181 1469 2219 1477 2222 1453 2222 1404 2145 1393 2144 1393 2143 1393 2118 1402 2054 1402 2054 1450"/></Shape>
+	    <String CONTENT="29/3 1952"
+                    HPOS="2052"
+                    VPOS="1393"
+                    WIDTH="170"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

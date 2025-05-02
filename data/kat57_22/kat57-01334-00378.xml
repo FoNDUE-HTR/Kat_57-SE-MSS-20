@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01334-00378.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2323 1471 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="203 183 971 195" 
+                    HPOS="201"
+                    VPOS="139"
+                    WIDTH="769"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="202 182 201 210 220 222 222 222 223 222 288 224 385 225 386 225 466 215 482 223 483 223 484 223 485 223 510 217 519 214 528 217 543 220 544 220 546 220 547 220 548 220 552 217 560 212 604 212 634 219 660 226 661 226 662 226 689 220 709 217 716 222 728 230 730 230 731 230 732 231 770 231 770 230 771 230 773 230 784 223 800 214 938 215 966 228 970 193 970 149 943 149 942 149 941 149 914 164 881 153 879 153 878 153 830 155 829 155 812 164 786 150 779 147 777 147 731 147 730 147 728 147 727 147 723 150 709 163 669 163 654 152 654 150 652 150 651 150 650 150 649 150 647 150 647 152 629 161 608 152 592 144 591 144 541 143 539 143 538 143 537 143 526 152 517 160 498 160 487 153 478 147 477 147 476 147 474 147 473 147 472 147 462 153 452 159 406 159 397 153 386 145 385 145 384 145 321 141 320 141 319 141 289 150 256 139 255 139 253 139 252 139 223 154 220 155 202 155 202 182"/></Shape>
+	    <String CONTENT="OLBERT, Ernst A [pseud.]"
+                    HPOS="201"
+                    VPOS="139"
+                    WIDTH="769"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="205 286 825 282" 
+                    HPOS="203"
+                    VPOS="251"
+                    WIDTH="621"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="204 285 204 318 323 315 328 320 342 332 342 333 343 333 344 333 346 333 514 332 515 332 534 322 544 329 546 329 547 329 608 331 609 331 611 331 636 316 645 312 655 316 660 318 661 318 662 318 663 318 665 318 665 317 666 316 672 311 703 311 710 316 720 322 721 322 722 322 723 322 748 320 768 327 769 327 770 327 771 327 796 315 801 312 804 315 811 320 812 320 813 320 814 320 815 320 824 315 824 280 820 258 690 258 658 251 657 251 656 251 570 260 544 251 543 251 542 251 541 251 539 251 539 252 531 260 511 252 510 252 509 252 375 258 359 252 358 252 357 252 301 262 223 253 222 253 220 253 203 262 204 285"/></Shape>
+	    <String CONTENT="Se: Oehlrich, Conrad"
+                    HPOS="203"
+                    VPOS="251"
+                    WIDTH="621"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

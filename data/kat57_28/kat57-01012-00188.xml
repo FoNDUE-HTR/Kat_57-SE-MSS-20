@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01012-00188.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2319 1477 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="131 164 661 164" 
+                    HPOS="130"
+                    VPOS="120"
+                    WIDTH="530"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="130 163 130 178 325 178 328 178 356 185 357 185 358 185 359 185 381 178 385 178 407 178 409 179 415 184 415 185 416 185 417 185 418 187 458 187 458 185 459 185 460 185 469 179 470 178 470 179 480 185 481 185 482 185 484 185 660 179 660 163 660 130 611 128 609 128 608 128 607 128 603 130 597 135 592 130 590 128 588 128 587 128 586 128 585 128 579 130 571 134 565 130 550 121 549 121 548 121 547 121 545 121 544 121 533 130 490 124 489 124 447 131 425 124 423 124 422 124 421 124 420 124 420 125 411 133 407 136 344 136 341 134 322 124 321 124 320 124 319 124 317 124 303 134 300 135 298 134 264 120 263 120 179 120 178 120 177 120 130 135 130 163"/></Shape>
+	    <String CONTENT="Lefèvre, Frédéric"
+                    HPOS="130"
+                    VPOS="120"
+                    WIDTH="530"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="128 264 864 260" 
+                    HPOS="125"
+                    VPOS="227"
+                    WIDTH="738"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="126 263 129 294 139 286 147 294 149 295 150 295 151 295 152 295 154 295 158 293 173 286 184 293 186 294 187 294 188 294 189 294 197 293 224 286 243 291 255 295 256 295 257 295 301 291 348 286 354 290 358 294 359 294 360 294 362 294 363 294 372 290 381 285 443 285 447 289 452 294 453 294 454 294 455 295 494 295 494 294 495 294 496 294 496 293 502 288 506 285 533 288 608 294 609 294 611 294 612 294 623 286 625 284 628 285 638 293 639 293 640 293 641 294 735 294 735 293 863 282 863 259 859 238 738 238 734 237 705 227 704 227 683 227 682 227 681 227 680 227 680 229 669 237 667 240 639 240 636 237 618 229 617 229 616 229 543 237 542 237 540 237 531 229 529 229 528 229 490 229 489 229 487 229 486 229 473 237 466 241 442 241 437 237 425 229 423 229 422 229 421 229 384 230 383 230 381 230 372 237 367 241 356 237 341 232 340 232 338 232 337 232 326 237 320 240 304 237 272 231 271 231 269 231 257 237 255 238 253 237 247 231 247 230 246 230 245 230 243 230 242 230 219 237 204 242 178 242 172 237 163 230 162 230 161 230 160 230 125 236 126 263"/></Shape>
+	    <String CONTENT="L´amour de vivre. Roman."
+                    HPOS="125"
+                    VPOS="227"
+                    WIDTH="738"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1380 361 1849 364" 
+                    HPOS="1378"
+                    VPOS="322"
+                    WIDTH="470"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1379 360 1378 383 1411 394 1413 394 1414 395 1468 395 1468 394 1469 394 1489 384 1536 394 1537 395 1637 395 1637 394 1638 394 1639 394 1650 386 1654 385 1681 385 1684 386 1691 394 1691 395 1692 395 1694 395 1695 396 1732 396 1732 395 1733 395 1734 395 1743 387 1744 387 1845 389 1848 363 1848 335 1813 323 1812 323 1724 323 1723 323 1684 333 1679 333 1671 333 1618 326 1617 326 1616 326 1615 326 1609 332 1607 332 1602 332 1520 326 1519 326 1492 331 1485 332 1482 331 1468 326 1467 326 1466 326 1464 326 1455 331 1453 332 1452 331 1441 322 1440 322 1439 322 1437 322 1379 330 1379 360"/></Shape>
+	    <String CONTENT="8:o Paris 1932."
+                    HPOS="1378"
+                    VPOS="322"
+                    WIDTH="470"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2173 54 2274 54" 
+                    HPOS="2172"
+                    VPOS="2"
+                    WIDTH="101"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="2172 52 2172 76 2271 78 2273 52 2273 25 2239 22 2204 2 2202 2 2183 2 2182 2 2180 2 2179 2 2179 3 2172 11 2172 52"/></Shape>
+	    <String CONTENT="Vitt."
+                    HPOS="2172"
+                    VPOS="2"
+                    WIDTH="101"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2194 113 2249 117" 
+                    HPOS="2190"
+                    VPOS="68"
+                    WIDTH="59"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="2193 112 2190 141 2246 141 2248 115 2249 76 2227 68 2226 68 2225 68 2223 68 2222 68 2222 70 2206 83 2202 86 2194 86 2193 112"/></Shape>
+	    <String CONTENT="Fr."
+                    HPOS="2190"
+                    VPOS="68"
+                    WIDTH="59"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

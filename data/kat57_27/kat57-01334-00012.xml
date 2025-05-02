@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01334-00012.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="35"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2315 1471 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="155 236 621 233" 
+                    HPOS="153"
+                    VPOS="185"
+                    WIDTH="467"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="154 235 154 267 363 273 364 273 388 269 390 269 391 269 391 268 398 261 402 258 460 260 571 262 572 262 620 255 620 231 617 207 483 207 435 198 426 197 425 197 424 197 423 197 423 198 412 209 391 209 371 196 358 185 356 185 355 185 354 185 323 191 310 185 309 185 307 185 306 185 305 185 305 186 298 192 293 197 282 191 278 188 277 188 276 188 274 188 273 188 272 188 269 191 261 197 222 188 208 186 153 186 154 235"/></Shape>
+	    <String CONTENT="OKAKURA, Kakuzo"
+                    HPOS="153"
+                    VPOS="185"
+                    WIDTH="467"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1804 40 2238 37" 
+                    HPOS="1802"
+                    VPOS="4"
+                    WIDTH="435"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="1803 39 1803 63 1819 63 1838 82 1838 83 1840 83 1841 83 1842 84 1909 84 1909 83 1911 83 1912 83 1934 68 1951 57 1973 63 1974 63 1976 63 2174 62 2193 78 2194 78 2195 78 2236 80 2237 36 2235 7 2217 4 2216 4 2215 4 2214 4 2214 6 2211 7 2201 17 2160 17 2150 8 2146 6 2145 6 2144 6 2143 6 2109 9 2068 15 2059 12 2047 4 2046 4 2044 4 2021 6 2020 6 2019 6 2010 13 2005 15 2003 13 1995 7 1995 6 1994 6 1993 6 1974 6 1973 6 1972 6 1971 6 1971 7 1963 14 1960 18 1909 18 1907 15 1886 6 1885 6 1884 6 1882 6 1851 17 1838 6 1837 6 1836 6 1815 6 1814 6 1813 6 1811 6 1811 7 1802 14 1803 39"/></Shape>
+	    <String CONTENT="(Br.) Kulturhist."
+                    HPOS="1802"
+                    VPOS="4"
+                    WIDTH="435"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1935 89 2013 89" 
+                    HPOS="1934"
+                    VPOS="55"
+                    WIDTH="77"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="1934 88 1934 106 2010 111 2011 88 2011 67 1960 55 1959 55 1957 55 1934 66 1934 88"/></Shape>
+	    <String CONTENT="As."
+                    HPOS="1934"
+                    VPOS="55"
+                    WIDTH="77"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="142 338 2224 351" 
+                    HPOS="139"
+                    VPOS="301"
+                    WIDTH="2084"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="139 358 664 364 716 372 717 372 819 365 884 365 904 374 905 374 906 374 1253 369 1295 376 1465 377 1467 377 1814 371 1988 380 1989 380 2024 372 2222 372 2223 350 2223 325 2155 317 2154 317 2123 323 2079 315 2078 315 2036 323 1976 323 1905 323 1901 322 1867 315 1865 315 1712 320 1675 321 1670 320 1642 310 1641 310 1640 310 1503 318 1468 320 1462 317 1437 309 1436 309 1273 307 1272 307 1270 307 1247 316 1241 317 1230 315 1197 309 1196 309 1194 309 1170 315 1167 315 1161 315 1085 306 1084 306 1020 314 992 316 971 312 933 306 932 306 931 306 911 312 897 316 831 311 745 305 744 305 675 310 620 314 599 309 575 304 574 304 549 309 529 312 507 307 495 306 494 306 472 307 415 312 394 307 379 302 377 302 376 302 375 302 361 306 342 312 318 306 299 301 298 301 296 301 264 306 224 311 142 305 141 337 139 358"/></Shape>
+	    <String CONTENT="Das Buch vom Tee. Aus dem Englischen von Marguerite und Ulrich Stein-"
+                    HPOS="139"
+                    VPOS="301"
+                    WIDTH="2084"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="179 437 340 439" 
+                    HPOS="176"
+                    VPOS="401"
+                    WIDTH="163"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="176 471 222 473 223 473 224 473 225 473 231 468 235 466 246 468 271 473 272 473 338 463 339 437 339 413 302 402 301 402 300 402 264 403 263 403 262 403 257 407 250 413 222 406 220 406 219 406 218 406 193 412 180 401 177 436 176 471"/></Shape>
+	    <String CONTENT="orff."
+                    HPOS="176"
+                    VPOS="401"
+                    WIDTH="163"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="145 538 493 541" 
+                    HPOS="143"
+                    VPOS="500"
+                    WIDTH="348"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="144 537 143 552 165 560 166 560 168 560 247 555 304 561 305 561 306 561 307 561 307 560 315 554 338 554 478 563 479 563 480 563 482 563 490 554 491 540 491 516 447 507 446 507 445 507 444 507 433 515 408 506 407 506 406 506 404 506 403 506 393 512 355 501 354 501 353 501 352 501 320 513 309 502 309 501 307 501 306 501 261 500 244 500 242 500 241 500 240 500 240 501 228 512 198 501 197 501 196 501 144 511 144 537"/></Shape>
+	    <String CONTENT="11/25 Taus."
+                    HPOS="143"
+                    VPOS="500"
+                    WIDTH="348"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="163 653 784 649" 
+                    HPOS="160"
+                    VPOS="608"
+                    WIDTH="623"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="161 652 161 684 181 685 182 685 184 685 185 684 210 670 260 684 267 686 268 686 269 686 271 686 272 686 274 684 282 679 306 684 307 684 309 684 310 684 338 669 417 669 455 684 456 684 490 685 491 685 493 685 494 685 495 684 516 670 572 674 574 674 575 674 576 674 576 673 577 673 581 668 623 668 639 683 639 684 640 684 641 684 642 685 662 685 662 684 663 684 664 684 664 683 673 675 694 684 696 684 697 684 699 684 783 683 783 648 782 613 769 609 767 609 766 609 765 609 764 609 760 613 750 620 699 613 658 608 657 608 656 608 641 614 625 620 605 614 590 609 588 609 587 609 586 609 585 609 577 614 566 621 528 615 509 612 507 612 506 612 505 612 505 613 502 615 495 623 482 623 474 615 468 610 468 609 467 609 466 609 464 609 463 609 462 609 455 615 448 621 429 615 407 609 406 609 385 609 383 609 382 609 381 609 371 617 361 624 341 624 333 617 326 610 325 610 323 610 322 610 321 610 302 617 285 623 239 621 233 618 219 610 218 610 169 610 168 610 166 610 165 610 160 613 161 652"/></Shape>
+	    <String CONTENT="[Insel-Bücherei 274.]"
+                    HPOS="160"
+                    VPOS="608"
+                    WIDTH="623"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1399 549 1981 554" 
+                    HPOS="1397"
+                    VPOS="512"
+                    WIDTH="582"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1398 548 1397 580 1534 575 1545 581 1546 581 1548 581 1549 581 1576 576 1583 582 1586 583 1586 585 1587 585 1588 585 1589 585 1591 585 1599 582 1618 576 1625 582 1632 588 1633 588 1635 588 1636 590 1659 590 1659 588 1660 588 1674 582 1685 576 1692 582 1701 590 1702 590 1703 590 1833 591 1835 591 1978 582 1979 553 1978 528 1959 528 1959 527 1947 517 1947 516 1946 516 1945 516 1903 516 1902 516 1901 516 1900 516 1889 526 1879 517 1879 516 1878 516 1876 516 1875 516 1836 521 1826 515 1825 515 1824 515 1783 515 1782 515 1781 515 1779 515 1766 526 1765 527 1719 527 1717 526 1702 517 1701 517 1700 517 1627 525 1625 525 1605 516 1604 516 1603 516 1602 516 1600 516 1589 525 1581 518 1579 518 1578 518 1577 518 1576 518 1565 525 1564 525 1545 512 1544 512 1543 512 1541 512 1540 512 1539 512 1522 523 1438 512 1437 512 1436 512 1398 522 1398 548"/></Shape>
+	    <String CONTENT="8:o Leipzig [1919]."
+                    HPOS="1397"
+                    VPOS="512"
+                    WIDTH="582"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

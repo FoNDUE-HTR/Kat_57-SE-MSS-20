@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00913-00424.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="33"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2327 1471 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="204 94 651 94" 
+                    HPOS="204"
+                    VPOS="1"
+                    WIDTH="447"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="204 94 204 113 434 121 436 121 437 121 439 121 439 120 442 118 452 110 479 110 487 118 490 120 490 121 492 121 493 121 495 123 532 123 532 121 533 121 535 121 538 118 549 110 619 110 648 120 651 94 651 1 204 1 204 94"/></Shape>
+	    <String CONTENT="Below, G. von"
+                    HPOS="204"
+                    VPOS="1"
+                    WIDTH="447"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="177 260 642 260" 
+                    HPOS="177"
+                    VPOS="209"
+                    WIDTH="465"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="177 260 177 298 404 298 404 297 405 297 407 297 410 294 426 281 640 289 642 260 642 219 399 209 397 209 396 209 394 209 394 211 385 219 385 220 334 220 334 219 322 209 321 209 319 209 276 209 275 209 273 209 271 209 260 219 260 220 177 220 177 260"/></Shape>
+	    <String CONTENT="KLAIBER, Ludwig"
+                    HPOS="177"
+                    VPOS="209"
+                    WIDTH="465"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="171 356 1891 359" 
+                    HPOS="169"
+                    VPOS="298"
+                    WIDTH="1722"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="171 356 169 375 216 386 217 388 576 388 576 386 578 386 602 378 605 378 666 380 915 386 916 386 942 381 958 378 969 381 982 386 983 386 985 386 1010 381 1031 378 1101 383 1164 386 1165 386 1216 383 1277 380 1291 384 1304 388 1306 388 1307 388 1309 388 1321 384 1339 380 1379 384 1409 388 1411 388 1465 384 1566 380 1768 388 1797 388 1799 388 1805 388 1859 380 1886 388 1891 359 1891 317 1676 313 1634 300 1633 300 1631 300 1428 302 1365 311 1149 300 1148 300 1029 314 905 305 903 305 701 313 630 302 629 302 578 313 512 298 434 298 433 298 431 298 378 313 171 313 171 356"/></Shape>
+	    <String CONTENT="Georg von Below. Verzeichnis seiner Schriften bearbeitet."
+                    HPOS="169"
+                    VPOS="298"
+                    WIDTH="1722"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1333 456 1922 463" 
+                    HPOS="1331"
+                    VPOS="415"
+                    WIDTH="591"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1333 456 1331 474 1366 487 1368 487 1369 488 1422 488 1422 487 1424 487 1425 487 1440 475 1448 475 1464 475 1476 487 1476 488 1478 488 1479 488 1481 490 1583 490 1583 488 1585 488 1586 488 1586 487 1596 477 1625 490 1626 490 1628 490 1676 482 1685 490 1687 490 1689 490 1690 490 1692 490 1693 490 1708 479 1709 479 1768 479 1773 480 1803 491 1805 491 1807 491 1920 482 1922 463 1922 428 1787 420 1786 420 1784 420 1757 426 1746 429 1736 426 1716 420 1714 420 1712 420 1711 420 1709 420 1700 426 1693 431 1637 431 1630 426 1609 416 1607 416 1606 416 1604 416 1602 416 1593 424 1551 416 1550 416 1548 416 1547 416 1547 418 1537 426 1534 428 1518 426 1465 420 1464 420 1403 426 1395 426 1393 426 1382 416 1382 415 1381 415 1379 415 1377 415 1333 424 1333 456"/></Shape>
+	    <String CONTENT="8:o Stuttgart 1929."
+                    HPOS="1331"
+                    VPOS="415"
+                    WIDTH="591"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1974 81 2246 85" 
+                    HPOS="1973"
+                    VPOS="1"
+                    WIDTH="273"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="1974 81 1973 99 2123 107 2153 120 2155 120 2156 120 2244 107 2246 85 2246 1 1974 1 1974 81"/></Shape>
+	    <String CONTENT="Bibliogr."
+                    HPOS="1973"
+                    VPOS="1"
+                    WIDTH="273"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1997 156 2241 161" 
+                    HPOS="1995"
+                    VPOS="112"
+                    WIDTH="246"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="1995 179 2067 195 2068 195 2070 195 2096 188 2126 203 2127 203 2180 204 2182 204 2183 204 2185 204 2198 193 2204 188 2238 195 2241 161 2241 136 2182 123 2180 123 2178 123 2163 128 2142 132 2086 123 2084 123 2083 123 2062 129 1998 112 1997 156 1995 179"/></Shape>
+	    <String CONTENT="Monogr."
+                    HPOS="1995"
+                    VPOS="112"
+                    WIDTH="246"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="172 557 2314 563" 
+                    HPOS="171"
+                    VPOS="507"
+                    WIDTH="2143"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="172 557 171 579 338 606 340 606 429 598 640 606 642 606 701 597 731 605 733 605 734 605 816 597 857 606 859 606 860 606 964 603 966 603 1025 584 1028 584 1237 584 1259 586 1323 592 1325 592 1397 586 1412 586 1419 587 1472 600 1473 600 1475 600 1476 600 1515 589 1610 589 1681 606 1682 606 1684 606 1762 589 1775 586 1783 589 1842 611 1843 611 1845 613 2027 613 2027 611 2028 611 2103 590 2110 589 2311 590 2314 563 2314 526 2164 512 2163 512 1791 522 1653 525 1636 520 1599 511 1598 511 1596 511 1543 520 1513 526 1246 526 1114 517 1010 511 1009 511 954 515 889 522 867 515 852 511 851 511 849 511 758 514 583 522 525 512 493 507 492 507 457 512 409 519 172 511 172 557"/></Shape>
+	    <String CONTENT="Se: Vierteljahrschrift für Sozial- und Wirtschaftsgeschichte. Beihefte."
+                    HPOS="171"
+                    VPOS="507"
+                    WIDTH="2143"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="297 662 798 657" 
+                    HPOS="295"
+                    VPOS="608"
+                    WIDTH="503"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="297 662 297 700 361 700 361 699 362 699 367 697 389 688 428 696 452 699 453 699 455 699 457 699 461 694 472 686 546 691 626 696 627 696 629 696 664 686 675 684 686 686 752 696 753 696 755 696 798 681 798 657 793 633 725 633 721 633 696 616 694 616 693 616 691 616 690 616 688 616 688 617 670 633 669 635 608 635 602 633 524 608 522 608 463 608 461 608 426 609 425 609 423 609 423 611 399 635 396 638 374 638 370 635 343 611 343 609 342 609 340 609 338 609 337 609 295 632 297 662"/></Shape>
+	    <String CONTENT="14. { Polit. ekon"
+                    HPOS="295"
+                    VPOS="608"
+                    WIDTH="503"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="512 751 704 755" 
+                    HPOS="511"
+                    VPOS="705"
+                    WIDTH="193"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="512 751 511 809 701 826 704 755 704 724 685 724 685 723 669 708 669 707 667 707 666 707 664 707 662 707 630 718 607 705 605 705 603 705 602 705 560 721 559 721 512 721 512 751"/></Shape>
+	    <String CONTENT="Tidskr"
+                    HPOS="511"
+                    VPOS="705"
+                    WIDTH="193"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00210.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="21"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2327 1471 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="295 263 559 260" 
+                    HPOS="293"
+                    VPOS="226"
+                    WIDTH="265"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="294 262 294 280 337 280 343 283 368 299 369 299 370 299 371 299 403 298 404 298 406 298 420 287 434 279 474 283 481 290 487 295 487 296 488 296 489 296 490 296 558 293 558 258 554 226 293 226 294 262"/></Shape>
+	    <String CONTENT="BERICHTE"
+                    HPOS="293"
+                    VPOS="226"
+                    WIDTH="265"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="292 364 2257 357" 
+                    HPOS="289"
+                    VPOS="320"
+                    WIDTH="1967"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="290 363 290 386 377 394 379 394 380 394 406 387 411 386 419 387 482 397 483 398 595 398 595 397 649 387 660 386 687 387 800 396 801 396 873 388 887 387 910 388 1003 393 1005 393 1115 388 1234 383 1410 383 1430 390 1435 391 1437 391 1438 391 1446 390 1477 382 1560 382 1586 390 1599 393 1600 393 1601 394 1840 394 1840 393 1875 391 1975 381 2055 381 2087 391 2091 392 2092 392 2093 392 2256 391 2256 356 2254 331 2150 320 1916 320 1915 320 1860 331 1818 325 1817 325 1684 331 1606 321 1471 321 1470 321 1408 328 1259 322 1257 322 1256 322 1228 333 1075 333 1003 326 1002 326 957 331 935 323 933 323 932 323 809 333 741 323 740 323 681 334 613 325 439 325 438 325 436 325 398 336 289 336 290 363"/></Shape>
+	    <String CONTENT="zur Runenforschung.In Zusammenarbeit mit G.Baesecke... (&amp;) H.Zeiss"
+                    HPOS="289"
+                    VPOS="320"
+                    WIDTH="1967"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="292 467 1223 464" 
+                    HPOS="289"
+                    VPOS="431"
+                    WIDTH="933"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="290 466 290 486 343 495 344 495 346 495 360 488 362 488 392 494 393 494 395 494 408 489 431 496 433 496 434 496 435 496 454 489 493 498 494 498 495 498 522 491 589 498 590 498 591 498 609 490 617 488 628 490 656 496 657 496 708 491 738 488 751 491 767 496 768 496 769 496 770 496 771 496 779 491 787 486 795 491 796 493 797 493 798 493 800 493 801 493 803 491 817 486 872 486 886 493 889 494 890 494 892 494 893 494 897 493 916 486 980 486 1027 494 1044 496 1045 496 1222 495 1222 463 1219 440 1160 431 1159 431 1158 431 1157 431 1148 437 1138 431 1137 431 1136 431 1135 431 1105 437 1070 431 1068 431 1027 439 1017 431 1016 431 1014 431 982 431 981 431 980 431 952 439 932 431 931 431 838 431 836 431 722 441 633 441 617 433 616 433 614 433 613 433 612 433 603 440 548 434 547 434 546 434 544 434 533 441 384 441 359 434 358 434 357 434 355 434 335 440 315 433 314 433 312 433 311 433 289 440 290 466"/></Shape>
+	    <String CONTENT="herausgegeben von Helmut Arntz."
+                    HPOS="289"
+                    VPOS="431"
+                    WIDTH="933"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="297 570 554 566" 
+                    HPOS="295"
+                    VPOS="527"
+                    WIDTH="258"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="296 569 296 586 354 596 355 596 357 596 377 586 381 585 395 586 457 593 458 594 544 594 544 593 546 593 547 593 547 592 553 585 553 565 548 527 508 540 478 532 467 528 466 528 465 528 463 528 454 533 436 542 420 536 408 531 407 531 406 531 404 531 403 531 403 532 397 537 391 543 371 543 359 539 335 531 333 531 332 531 331 531 295 542 296 569"/></Shape>
+	    <String CONTENT="Bd 1:H.1"
+                    HPOS="295"
+                    VPOS="527"
+                    WIDTH="258"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1487 560 1989 563" 
+                    HPOS="1484"
+                    VPOS="525"
+                    WIDTH="504"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1486 559 1484 575 1524 587 1525 587 1526 587 1562 580 1584 588 1585 588 1586 588 1587 588 1589 588 1589 587 1601 577 1624 577 1737 590 1738 590 1740 590 1741 590 1751 582 1832 590 1833 590 1834 590 1835 590 1835 588 1846 578 1893 590 1894 590 1947 580 1965 587 1967 587 1968 587 1969 587 1986 577 1988 561 1988 528 1860 526 1859 526 1857 526 1856 526 1856 527 1854 529 1845 537 1812 537 1806 529 1802 527 1802 526 1801 526 1800 526 1799 526 1797 526 1788 529 1770 537 1729 531 1707 527 1705 527 1687 531 1664 536 1657 531 1650 525 1649 525 1648 525 1646 525 1645 525 1628 531 1617 537 1540 537 1532 532 1520 526 1519 526 1518 526 1486 532 1486 559"/></Shape>
+	    <String CONTENT="8:o Leipzig 1939"
+                    HPOS="1484"
+                    VPOS="525"
+                    WIDTH="504"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="303 673 2017 667" 
+                    HPOS="300"
+                    VPOS="628"
+                    WIDTH="1716"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="301 672 301 701 427 701 427 700 428 700 452 693 557 699 558 699 559 699 579 691 666 699 667 699 719 690 872 699 886 699 887 699 895 699 997 689 1083 697 1086 697 1087 699 1153 699 1153 697 1154 697 1176 689 1244 697 1251 697 1252 697 1260 697 1345 688 1603 693 1605 693 1810 686 1849 693 1850 693 1958 686 1979 695 1980 695 1981 695 1983 695 2016 694 2016 666 2012 628 1950 639 1822 639 1791 628 1789 628 1788 628 1786 628 1779 628 1724 635 1624 629 1617 629 1616 629 1613 629 1573 639 1491 629 1482 629 1481 629 1457 629 1314 636 1297 630 1295 630 1294 630 1293 630 1291 630 1251 640 1229 634 1228 634 1227 634 1225 634 1201 640 1060 639 1041 631 1038 630 1036 630 1035 630 1028 631 984 641 908 634 906 634 905 634 887 642 782 642 762 632 758 631 757 631 755 631 748 632 713 641 662 635 661 635 590 642 300 635 301 672"/></Shape>
+	    <String CONTENT="[Institut für Runenforschung an der Universität Giessen. ]"
+                    HPOS="300"
+                    VPOS="628"
+                    WIDTH="1716"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="287 774 1345 771" 
+                    HPOS="284"
+                    VPOS="736"
+                    WIDTH="1059"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="285 772 285 805 395 805 398 807 422 815 423 815 424 815 425 815 443 810 528 823 530 823 585 809 589 809 592 809 649 820 650 820 709 812 710 812 753 823 754 823 755 823 757 823 775 815 801 818 802 818 803 818 816 813 836 804 917 804 931 810 932 810 933 810 970 804 989 815 998 821 1000 821 1001 821 1002 821 1052 820 1054 820 1067 816 1110 804 1156 818 1168 821 1169 821 1170 821 1343 820 1343 770 1340 744 1318 744 1315 744 1305 736 1304 736 1303 736 1302 736 1300 736 1299 736 1288 744 1286 744 1271 744 1131 736 1130 736 1090 744 1089 744 1088 744 1059 736 1057 736 965 736 964 736 963 736 936 744 922 736 921 736 920 736 870 736 868 736 806 745 800 745 797 745 773 737 771 737 770 737 717 745 713 745 710 745 689 739 688 739 687 739 605 745 597 745 596 745 576 738 575 738 574 738 466 745 462 745 461 745 427 737 425 737 424 737 423 737 422 737 408 745 408 747 339 747 339 745 321 738 320 738 319 738 284 745 285 772"/></Shape>
+	    <String CONTENT="Se: Runenberichte. Bd 1ff.   1939-41"
+                    HPOS="284"
+                    VPOS="736"
+                    WIDTH="1059"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="747 866 996 870" 
+                    HPOS="744"
+                    VPOS="819"
+                    WIDTH="251"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="746 864 744 885 795 885 796 885 797 885 806 878 829 884 839 886 840 886 841 886 843 886 850 883 866 877 882 883 901 889 903 889 904 889 905 889 906 889 914 883 948 891 949 891 951 891 952 891 994 878 995 869 995 825 953 823 952 823 951 823 949 823 944 828 928 841 893 841 881 830 870 820 868 820 867 820 866 820 865 820 863 820 863 821 852 831 844 840 834 840 825 832 808 819 807 819 806 819 784 819 782 819 781 819 780 819 780 820 762 836 759 837 746 837 746 864"/></Shape>
+	    <String CONTENT="Arkeol"
+                    HPOS="744"
+                    VPOS="819"
+                    WIDTH="251"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="753 929 1012 925" 
+                    HPOS="751"
+                    VPOS="888"
+                    WIDTH="260"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="752 928 752 951 857 953 859 953 860 953 866 950 882 943 895 949 904 953 905 953 906 953 908 953 915 949 930 942 1008 946 1011 924 1008 902 928 888 927 888 926 888 904 896 859 889 857 889 856 889 855 889 840 899 829 894 828 894 827 894 825 894 824 894 824 895 816 902 798 890 797 890 796 890 795 890 793 890 792 890 792 891 779 905 751 905 752 928"/></Shape>
+	    <String CONTENT="Tidskr."
+                    HPOS="751"
+                    VPOS="888"
+                    WIDTH="260"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01198-00061.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="45"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2315 1477 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="128 251 817 254" 
+                    HPOS="125"
+                    VPOS="200"
+                    WIDTH="691"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="126 250 125 264 149 273 150 273 151 273 272 268 303 267 312 268 333 273 335 274 441 274 441 273 442 273 443 273 444 272 449 268 454 272 455 273 457 273 458 273 459 274 522 274 522 273 528 273 585 267 601 274 608 278 609 278 611 279 815 279 816 253 816 220 773 220 772 218 763 211 762 211 761 211 760 211 758 211 744 218 739 220 647 220 643 214 641 214 641 213 640 213 639 213 638 213 636 213 633 214 622 219 546 219 540 211 532 204 532 203 530 203 529 203 528 203 459 209 396 215 367 206 349 201 348 201 236 201 235 201 234 201 232 201 231 203 209 218 189 218 165 204 163 204 126 200 126 250"/></Shape>
+	    <String CONTENT="MEYER-FÖRSTER, Wilhelm"
+                    HPOS="125"
+                    VPOS="200"
+                    WIDTH="691"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="131 356 1576 364" 
+                    HPOS="130"
+                    VPOS="310"
+                    WIDTH="1445"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="130 355 130 389 242 381 263 391 266 391 267 391 268 391 269 391 272 391 312 380 344 391 346 391 441 396 442 396 443 396 457 392 484 385 507 392 521 397 522 397 523 397 545 394 581 386 633 390 634 390 715 383 742 395 744 395 745 395 747 395 788 391 808 396 820 399 821 399 822 399 835 396 885 384 952 384 978 397 979 397 980 397 981 397 983 397 984 397 1012 387 1039 395 1040 395 1042 395 1092 384 1207 384 1238 400 1241 401 1243 401 1244 402 1336 402 1336 401 1337 401 1339 401 1369 386 1433 401 1438 402 1440 403 1574 403 1575 363 1575 319 1416 316 1415 316 1414 316 1410 319 1384 332 1335 332 1270 330 1244 319 1235 315 1234 315 1233 315 1204 319 1139 326 1113 319 1107 316 1106 316 1105 316 1095 319 1071 323 1059 319 1056 317 1055 317 1054 317 1053 317 1050 319 1020 327 983 319 965 314 964 314 834 312 832 312 831 312 815 319 794 326 744 327 473 327 418 319 380 312 379 312 378 312 356 319 330 325 311 319 290 310 289 310 288 310 287 310 267 319 250 325 130 319 130 355"/></Shape>
+	    <String CONTENT="Alt-Heidelberg. Schauspiel in 5 Aufzügen. [Ill.]"
+                    HPOS="130"
+                    VPOS="310"
+                    WIDTH="1445"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="118 569 910 569" 
+                    HPOS="117"
+                    VPOS="522"
+                    WIDTH="792"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="117 567 117 597 129 605 130 605 131 605 204 609 205 609 206 609 230 597 240 591 261 597 264 598 266 598 267 598 268 598 272 597 304 589 368 599 420 607 421 607 422 607 423 607 432 601 449 589 519 602 560 609 561 609 562 609 564 609 574 603 597 589 636 598 638 598 676 589 781 589 805 605 806 605 808 605 907 609 909 567 909 522 880 522 879 522 878 522 858 532 819 522 814 522 813 522 804 523 762 528 684 524 678 524 677 524 676 524 652 537 639 527 638 527 636 527 635 527 585 529 570 525 556 522 555 522 554 522 553 522 551 522 548 525 534 538 457 538 438 529 437 529 436 529 434 529 404 537 384 528 376 524 375 524 374 524 373 524 363 528 342 538 257 538 243 529 240 528 238 528 237 528 236 528 229 529 203 537 195 530 187 523 186 523 184 523 183 523 182 523 181 523 173 528 155 522 153 522 152 522 151 522 117 530 117 567"/></Shape>
+	    <String CONTENT="[Sonderheft der „Woche&quot; No. 2.]"
+                    HPOS="117"
+                    VPOS="522"
+                    WIDTH="792"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1330 460 1827 463" 
+                    HPOS="1328"
+                    VPOS="403"
+                    WIDTH="498"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="1329 459 1328 482 1371 485 1404 502 1405 502 1406 503 1436 503 1436 502 1437 502 1438 502 1438 501 1449 491 1461 501 1461 502 1462 502 1463 502 1464 503 1521 503 1521 502 1522 502 1554 485 1596 485 1603 492 1603 493 1605 493 1606 493 1607 493 1608 493 1610 493 1618 486 1640 503 1642 503 1643 503 1644 504 1698 504 1698 503 1700 503 1701 503 1724 486 1749 486 1760 496 1760 497 1761 497 1762 497 1764 497 1765 497 1789 490 1798 497 1798 498 1799 498 1801 498 1802 498 1803 498 1804 498 1825 485 1826 461 1825 422 1713 428 1697 418 1679 405 1677 405 1676 405 1565 403 1564 403 1563 403 1562 403 1546 415 1530 426 1500 426 1486 416 1485 416 1484 416 1483 416 1481 416 1452 428 1394 428 1351 410 1336 403 1335 403 1334 403 1332 403 1331 403 1329 405 1329 459"/></Shape>
+	    <String CONTENT="8:o Berlin 1902."
+                    HPOS="1328"
+                    VPOS="403"
+                    WIDTH="498"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2098 45 2187 41" 
+                    HPOS="2095"
+                    VPOS="1"
+                    WIDTH="91"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="2144 1 2132 1 2120 1 2112 1 2095 4 2097 44 2097 64 2123 64 2137 72 2150 82 2152 82 2153 82 2154 82 2186 80 2186 40 2184 4 2148 1 2144 1"/></Shape>
+	    <String CONTENT="Vitt."
+                    HPOS="2095"
+                    VPOS="1"
+                    WIDTH="91"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2099 104 2131 99" 
+                    HPOS="2090"
+                    VPOS="50"
+                    WIDTH="47"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="2097 103 2105 152 2137 150 2129 98 2120 50 2090 55 2097 103"/></Shape>
+	    <String CONTENT="Ty"
+                    HPOS="2090"
+                    VPOS="50"
+                    WIDTH="47"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="2023 1453 2214 1450" 
+                    HPOS="2021"
+                    VPOS="1377"
+                    WIDTH="192"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="2022 1452 2022 1466 2115 1475 2116 1475 2181 1474 2182 1474 2213 1464 2213 1449 2210 1377 2157 1385 2021 1381 2022 1452"/></Shape>
+	    <String CONTENT="8.4.65"
+                    HPOS="2021"
+                    VPOS="1377"
+                    WIDTH="192"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

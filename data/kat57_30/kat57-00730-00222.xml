@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00730-00222.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="23"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2315 1477 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2053 49 2189 61" 
+                    HPOS="2049"
+                    VPOS="1"
+                    WIDTH="140"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="2049 65 2085 68 2097 75 2120 87 2121 87 2182 92 2187 60 2189 13 2150 19 2105 6 2104 6 2102 6 2101 6 2083 13 2056 1 2052 48 2049 65"/></Shape>
+	    <String CONTENT="med"
+                    HPOS="2049"
+                    VPOS="1"
+                    WIDTH="140"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="201 168 751 168" 
+                    HPOS="200"
+                    VPOS="124"
+                    WIDTH="550"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="200 167 200 192 374 192 374 190 375 190 376 190 376 189 383 184 434 184 441 189 443 192 444 192 445 192 447 193 543 193 543 192 544 192 553 189 565 184 579 188 590 192 591 192 592 192 750 187 750 167 750 134 710 124 709 124 634 130 603 124 602 124 601 124 599 124 599 125 588 135 587 136 564 137 558 135 537 125 535 125 534 125 533 125 532 125 532 126 522 135 519 139 500 139 492 135 457 124 455 124 454 124 453 124 431 136 427 139 381 139 379 136 351 124 349 124 348 124 347 124 346 124 328 137 326 137 320 137 229 126 227 126 226 126 225 126 225 128 214 137 214 139 200 139 200 167"/></Shape>
+	    <String CONTENT="HERLYN, Karl-Ewald"
+                    HPOS="200"
+                    VPOS="124"
+                    WIDTH="550"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2079 134 2278 139" 
+                    HPOS="2077"
+                    VPOS="83"
+                    WIDTH="200"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="2078 133 2077 155 2154 165 2155 165 2157 165 2175 158 2205 177 2223 189 2224 189 2226 189 2227 189 2275 188 2277 137 2274 100 2235 112 2214 105 2213 105 2212 105 2165 109 2142 88 2138 86 2138 84 2137 84 2136 84 2078 83 2078 133"/></Shape>
+	    <String CONTENT="Kirurg."
+                    HPOS="2077"
+                    VPOS="83"
+                    WIDTH="200"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="184 272 2122 267" 
+                    HPOS="182"
+                    VPOS="226"
+                    WIDTH="1939"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="183 270 183 293 314 293 315 293 349 300 351 300 725 293 776 293 798 293 912 299 914 299 962 294 984 291 1037 294 1144 299 1145 299 1170 294 1188 290 1218 294 1239 296 1240 298 1350 298 1350 296 1351 296 1357 294 1368 290 1489 295 1548 296 1549 296 1578 295 1656 289 2121 295 2121 266 2118 230 1838 226 1836 226 1813 230 1772 236 1692 231 1691 231 1607 237 1206 232 1204 232 1149 240 1040 240 1022 232 1021 232 1020 232 949 238 916 231 905 229 904 229 902 229 895 231 872 240 750 240 729 231 721 229 720 229 719 229 370 230 359 231 312 240 263 231 250 230 248 230 182 231 183 270"/></Shape>
+	    <String CONTENT="Die Wiederherstellungschirurgie, insbesondere die Verwendung der"
+                    HPOS="182"
+                    VPOS="226"
+                    WIDTH="1939"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="182 371 1903 379" 
+                    HPOS="181"
+                    VPOS="336"
+                    WIDTH="1721"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1902 338 1719 338 1718 338 1706 339 1645 347 1581 339 1566 338 1565 338 1557 339 1523 347 1496 339 1490 338 1489 338 1488 338 1486 338 1480 339 1453 348 1361 348 1340 339 1328 336 1326 336 1325 336 1305 341 1282 346 1250 341 1223 336 1222 336 1171 341 1150 342 1123 341 1050 336 1049 336 1048 336 1034 341 1023 346 938 346 928 341 914 336 912 336 911 336 868 341 841 344 830 341 814 336 813 336 811 336 741 342 728 343 182 343 181 370 181 402 277 397 303 402 346 412 562 413 564 413 565 413 604 402 638 394 1037 394 1068 402 1095 408 1096 408 1171 402 1190 401 1193 402 1206 407 1207 407 1208 407 1231 402 1259 396 1279 402 1300 408 1302 408 1388 410 1389 410 1390 410 1417 402 1433 397 1448 402 1490 417 1491 417 1707 418 1708 418 1709 418 1772 402 1786 399 1899 401 1902 378 1902 338"/></Shape>
+	    <String CONTENT="Rollappenplastik. Mit einem Geleitwort von R.Stich. [Ill.]"
+                    HPOS="181"
+                    VPOS="336"
+                    WIDTH="1721"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1324 471 1901 478" 
+                    HPOS="1321"
+                    VPOS="438"
+                    WIDTH="579"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1323 470 1321 495 1353 508 1355 508 1356 508 1445 507 1446 507 1479 498 1543 508 1544 508 1546 508 1579 498 1623 512 1624 512 1707 513 1708 514 1753 514 1753 513 1754 513 1782 501 1898 501 1900 477 1900 452 1874 443 1873 443 1872 443 1817 448 1807 442 1805 442 1804 442 1707 440 1706 440 1704 440 1703 440 1696 448 1674 440 1672 440 1671 440 1626 448 1621 448 1612 448 1543 440 1542 440 1541 440 1523 445 1515 448 1505 445 1477 438 1475 438 1474 438 1473 438 1461 444 1457 447 1323 443 1323 470"/></Shape>
+	    <String CONTENT="4:o Stuttgart 1949."
+                    HPOS="1321"
+                    VPOS="438"
+                    WIDTH="579"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

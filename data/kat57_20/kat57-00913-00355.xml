@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00913-00355.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2308"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2308"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2306"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2307 1479 2307 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="228 247 852 242" 
+                    HPOS="224"
+                    VPOS="1"
+                    WIDTH="628"
+                    HEIGHT="281">
+            <Shape><Polygon POINTS="228 247 228 277 569 282 570 282 572 282 602 272 609 269 850 268 852 242 847 1 224 1 228 247"/></Shape>
+	    <String CONTENT="KLAFFENBACH, Günther"
+                    HPOS="224"
+                    VPOS="1"
+                    WIDTH="628"
+                    HEIGHT="281"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="228 343 1494 336" 
+                    HPOS="226"
+                    VPOS="288"
+                    WIDTH="1268"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="228 343 228 368 348 365 356 370 367 380 369 380 370 380 372 381 529 381 529 380 578 368 605 364 695 364 703 368 709 373 711 373 713 373 714 373 786 368 868 362 879 367 897 376 898 376 900 378 1175 378 1175 376 1241 375 1242 375 1244 375 1255 365 1263 360 1490 364 1494 336 1490 301 1318 288 1316 288 1314 288 1290 301 1270 301 1177 301 1154 301 940 290 938 290 871 301 860 303 850 301 807 292 727 292 725 292 724 292 703 301 700 303 695 301 661 292 660 292 658 292 578 300 557 293 556 293 554 293 553 293 533 301 525 306 476 306 469 301 449 293 447 293 445 293 373 301 349 304 327 301 271 295 269 295 226 301 228 343"/></Shape>
+	    <String CONTENT="Se: Herzog, Rudolf &amp; Klaffenbach, Günther"
+                    HPOS="226"
+                    VPOS="288"
+                    WIDTH="1268"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="348 439 1247 442" 
+                    HPOS="346"
+                    VPOS="400"
+                    WIDTH="901"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="348 439 346 456 369 468 370 468 372 468 1246 461 1247 442 1247 415 1214 402 1212 402 1106 402 1105 402 1103 402 1101 402 1084 413 949 402 948 402 946 402 917 413 901 402 900 402 898 402 897 402 895 402 893 402 884 410 839 404 837 404 836 404 802 413 797 413 794 413 746 400 745 400 743 400 684 412 684 413 637 413 637 412 625 402 625 400 623 400 621 400 620 400 564 412 561 412 559 412 513 404 511 404 509 404 487 412 476 402 476 400 474 400 473 400 471 400 425 412 420 412 417 412 378 404 377 404 375 404 348 410 348 439"/></Shape>
+	    <String CONTENT="Asylieurkunden aus Kos. 1952."
+                    HPOS="346"
+                    VPOS="400"
+                    WIDTH="901"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="266 541 2113 533" 
+                    HPOS="265"
+                    VPOS="487"
+                    WIDTH="1848"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="266 541 269 576 287 567 612 575 633 575 634 575 645 575 881 560 1204 560 1279 568 1281 568 1401 559 1494 559 1529 568 1530 568 1532 568 1534 568 1558 559 1646 565 1647 565 1822 557 2110 568 2113 533 2108 495 1942 498 1932 495 1911 487 1910 487 1908 487 1791 496 1735 500 1727 496 1706 487 1705 487 1586 487 1585 487 1583 487 1554 496 1545 500 1511 496 1462 493 1460 493 1138 500 999 501 996 500 983 493 981 493 845 490 844 490 785 501 770 504 655 504 652 501 628 492 626 492 625 492 439 500 353 492 351 492 265 503 266 541"/></Shape>
+	    <String CONTENT="i: Abhandlungen der Deutschen Akademie der Wissenschaften zu"
+                    HPOS="265"
+                    VPOS="487"
+                    WIDTH="1848"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="351 637 2103 632" 
+                    HPOS="349"
+                    VPOS="596"
+                    WIDTH="1754"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="351 637 351 720 573 720 575 720 593 714 737 660 812 660 853 679 855 679 857 679 858 679 937 655 980 671 981 671 983 671 985 671 1012 660 1041 669 1042 669 1044 671 1125 671 1125 669 1127 669 1175 656 1255 676 1257 676 1362 671 1364 671 1394 660 1474 679 1476 679 1478 679 1513 668 1546 679 1551 680 1553 680 1554 680 1556 680 1566 679 1620 664 1662 676 1666 676 1668 676 1670 676 1759 674 1761 674 1769 671 1809 653 1913 666 1948 669 1950 669 2102 658 2103 632 2102 605 2073 596 2071 596 2070 596 1748 604 1681 596 1679 596 1678 596 1654 604 1638 596 1636 596 1634 596 1514 605 1298 597 1297 597 1129 605 1098 597 1097 597 1095 597 1002 605 953 597 951 597 949 597 933 605 620 599 618 599 524 607 463 599 461 599 349 608 351 637"/></Shape>
+	    <String CONTENT="Berlin. Klasse für Sprachen, Literatur und Kunst. 1952:1."
+                    HPOS="349"
+                    VPOS="596"
+                    WIDTH="1754"
+                    HEIGHT="124"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1650 738 1778 733" 
+                    HPOS="1649"
+                    VPOS="685"
+                    WIDTH="129"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1650 738 1650 749 1777 759 1778 733 1775 693 1732 685 1730 685 1729 685 1690 704 1679 712 1649 712 1650 738"/></Shape>
+	    <String CONTENT="Acta"
+                    HPOS="1649"
+                    VPOS="685"
+                    WIDTH="129"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

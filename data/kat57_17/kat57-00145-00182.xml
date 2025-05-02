@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00182.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="7"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2323 1471 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="21 53 161 49" 
+                    HPOS="18"
+                    VPOS="1"
+                    WIDTH="142"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="80 1 79 1 78 1 39 2 38 2 36 2 18 15 20 52 20 72 116 74 117 74 119 74 160 61 160 47 157 23 111 24 107 22 82 1 80 1"/></Shape>
+	    <String CONTENT="Rev."
+                    HPOS="18"
+                    VPOS="1"
+                    WIDTH="142"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="32 116 138 116" 
+                    HPOS="31"
+                    VPOS="68"
+                    WIDTH="106"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="31 115 31 139 137 139 137 115 137 69 111 68 110 68 109 68 107 68 101 72 96 77 93 73 87 68 85 68 84 68 83 68 82 68 80 68 80 69 74 76 73 77 31 79 31 115"/></Shape>
+	    <String CONTENT="1965"
+                    HPOS="31"
+                    VPOS="68"
+                    WIDTH="106"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1965 62 2245 59" 
+                    HPOS="1963"
+                    VPOS="13"
+                    WIDTH="281"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="1964 61 1964 100 2019 100 2019 99 2020 99 2035 93 2060 82 2076 89 2089 95 2090 95 2092 95 2093 95 2119 84 2144 74 2169 79 2208 88 2209 88 2211 88 2212 88 2212 87 2225 74 2225 73 2244 72 2244 58 2243 30 2204 13 2203 13 2202 13 2180 14 2179 14 2177 14 2158 30 2121 30 2100 17 2099 17 2098 17 2096 17 2095 17 2077 26 2047 14 2046 14 2045 14 2044 14 2043 14 2043 15 2028 29 1986 14 1985 14 1984 14 1982 14 1981 14 1963 29 1964 61"/></Shape>
+	    <String CONTENT="Kyrkohist"
+                    HPOS="1963"
+                    VPOS="13"
+                    WIDTH="281"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="149 180 406 177" 
+                    HPOS="147"
+                    VPOS="136"
+                    WIDTH="257"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="148 179 148 217 186 215 187 215 188 215 188 214 197 207 211 214 217 217 218 217 219 217 220 217 235 213 257 207 279 210 305 214 306 214 307 214 309 214 315 208 320 206 330 208 364 214 365 214 366 214 368 214 368 213 377 206 377 204 404 203 404 176 401 136 147 141 148 179"/></Shape>
+	    <String CONTENT="BERICHTE"
+                    HPOS="147"
+                    VPOS="136"
+                    WIDTH="257"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2032 137 2069 137" 
+                    HPOS="2031"
+                    VPOS="93"
+                    WIDTH="37"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="2031 136 2031 164 2068 155 2068 136 2068 94 2031 93 2031 136"/></Shape>
+	    <String CONTENT="N"
+                    HPOS="2031"
+                    VPOS="93"
+                    WIDTH="37"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="141 276 2168 279" 
+                    HPOS="138"
+                    VPOS="239"
+                    WIDTH="2028"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="139 276 138 298 161 305 163 305 164 305 427 300 467 307 468 309 755 309 755 307 800 300 803 300 808 300 883 307 884 307 976 300 991 300 995 301 1017 307 1018 307 1019 307 1020 307 1042 302 1153 309 1154 309 1202 301 1206 301 1295 301 1299 301 1325 309 1326 309 1327 310 1510 310 1510 309 1511 309 1537 302 1543 301 1582 302 1728 309 1730 309 1831 304 1878 301 2164 304 2166 278 2165 245 2061 241 2060 241 2036 244 2002 249 1957 244 1939 242 1938 242 1928 244 1901 249 1887 244 1876 240 1874 240 1791 240 1790 240 1766 244 1736 250 1639 250 1452 242 1344 240 1343 240 1342 240 1331 242 1306 249 1265 242 1244 240 1242 240 1214 242 1155 249 1127 242 1115 240 1114 240 1100 242 1073 249 930 249 909 242 896 239 895 239 726 239 725 239 710 241 682 249 253 249 231 241 224 239 223 239 222 239 139 240 139 276"/></Shape>
+	    <String CONTENT="über den Fortgang der &quot;Los von Rom Bewegung&quot;. Herausgegeben von P."
+                    HPOS="138"
+                    VPOS="239"
+                    WIDTH="2028"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="144 378 457 378" 
+                    HPOS="143"
+                    VPOS="338"
+                    WIDTH="313"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="143 377 143 410 163 420 164 420 165 420 456 410 456 377 456 352 423 352 402 341 401 341 400 341 398 341 397 341 386 350 339 338 338 338 337 338 336 338 301 350 227 338 225 338 224 338 191 347 168 338 166 338 165 338 164 338 163 338 143 349 143 377"/></Shape>
+	    <String CONTENT="Bräunlich."
+                    HPOS="143"
+                    VPOS="338"
+                    WIDTH="313"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="152 480 415 482" 
+                    HPOS="149"
+                    VPOS="446"
+                    WIDTH="265"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="150 479 149 496 198 502 200 502 201 502 217 495 227 490 249 490 253 494 261 500 261 501 262 501 263 501 265 501 266 501 267 501 267 500 276 493 279 490 304 490 306 493 316 501 316 502 317 502 319 502 320 504 339 504 339 502 341 502 342 502 354 493 365 502 366 502 368 502 369 504 386 504 386 502 387 502 413 489 414 480 414 458 395 447 393 447 392 447 391 447 390 447 368 457 364 460 359 457 339 447 338 447 312 447 311 447 310 447 309 447 309 448 301 455 296 461 284 461 277 453 269 447 269 446 268 446 267 446 266 446 265 446 252 452 239 461 200 461 190 450 186 447 186 446 185 446 184 446 182 446 150 447 150 479"/></Shape>
+	    <String CONTENT="H. 1 4 5"
+                    HPOS="149"
+                    VPOS="446"
+                    WIDTH="265"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1576 479 2251 475" 
+                    HPOS="1574"
+                    VPOS="434"
+                    WIDTH="676"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="1575 478 1575 493 1614 504 1616 504 1617 504 1618 504 1646 494 1667 505 1668 505 1669 505 1671 505 1672 505 1687 494 1688 494 1695 495 1765 505 1766 505 1797 499 1873 504 1874 504 1876 504 1892 496 1894 496 1896 496 1915 502 1916 502 1917 502 1919 502 1928 498 1937 493 2012 499 2070 502 2071 502 2072 502 2073 502 2077 499 2089 491 2147 491 2174 500 2181 502 2182 502 2184 502 2200 500 2238 495 2246 501 2250 474 2247 434 2138 434 2137 434 2136 434 2135 434 2135 435 2132 436 2119 448 2050 439 2044 439 2043 439 2034 440 1963 450 1904 444 1881 441 1879 441 1846 445 1806 450 1780 447 1722 440 1721 440 1720 440 1700 450 1696 451 1684 450 1646 445 1645 445 1644 445 1642 445 1634 451 1606 442 1604 442 1603 442 1602 442 1574 451 1575 478"/></Shape>
+	    <String CONTENT="8:o München 1899 - 1901"
+                    HPOS="1574"
+                    VPOS="434"
+                    WIDTH="676"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="158 579 2240 574" 
+                    HPOS="155"
+                    VPOS="538"
+                    WIDTH="2084"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="157 578 157 599 2238 597 2239 572 2235 539 2166 548 1904 548 1861 539 1855 539 1854 539 1849 539 1816 548 1589 540 1498 538 1496 538 1445 540 1320 549 1219 543 1218 543 1217 543 1197 549 1171 542 1162 539 1160 539 1159 539 1137 542 1108 545 1057 542 1011 539 1009 539 1008 539 998 542 975 550 747 543 726 543 725 543 717 543 644 550 619 543 613 542 612 542 611 542 596 543 565 548 384 544 257 542 256 542 255 542 244 544 218 552 155 545 157 578"/></Shape>
+	    <String CONTENT="1. Braunlich, P., Die neueste katholische Bewegung zur Befreiung vom"
+                    HPOS="155"
+                    VPOS="538"
+                    WIDTH="2084"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="233 629 2320 629" 
+                    HPOS="231"
+                    VPOS="591"
+                    WIDTH="2088"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="231 628 231 653 887 659 888 659 889 659 908 655 916 653 936 655 977 659 979 659 1066 656 1163 651 1525 656 1764 659 1765 659 1766 659 1776 657 1796 651 1921 657 1935 657 1936 657 1939 657 1974 651 2278 651 2317 657 2319 628 2319 591 2228 591 2227 591 2225 591 2195 602 2154 602 2125 591 2123 591 2122 591 2121 591 2084 602 1981 602 1954 593 1953 593 1952 593 1910 601 1841 594 1840 594 1798 602 1441 602 1396 594 1395 594 1337 601 1310 592 1309 592 1308 592 1241 601 1108 594 1106 594 1072 601 1028 593 1027 593 977 602 641 602 595 591 590 591 588 591 231 591 231 628"/></Shape>
+	    <String CONTENT="Papsttum. Ein thüringer Gruss an die deutsche Ostmark. 5. Aufl. 1899"
+                    HPOS="231"
+                    VPOS="591"
+                    WIDTH="2088"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    
+                    BASELINE="146 924 2112 927" 
+                    HPOS="143"
+                    VPOS="846"
+                    WIDTH="1968"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="144 923 143 954 250 967 251 969 546 969 546 967 547 967 588 954 609 954 673 950 682 953 692 956 693 956 694 956 695 956 705 953 720 948 760 953 807 959 808 959 809 959 829 953 851 946 889 953 958 964 959 964 1009 953 1025 949 1052 953 1105 959 1106 959 1142 953 1176 961 1177 961 1179 961 1180 961 1202 953 1242 951 1299 950 1306 951 1358 964 1359 964 1409 951 1411 951 1412 951 1452 965 1454 965 1455 965 1526 951 1533 950 2110 950 2111 926 2110 894 1963 889 1962 889 1957 889 1909 899 1834 889 1833 889 1759 897 1720 889 1719 889 1657 901 1603 888 1602 888 1601 888 1536 897 1484 888 1483 888 1430 894 1369 886 1368 886 1366 886 1330 897 1305 890 1304 890 1303 890 1192 895 1081 880 1079 880 1014 895 973 889 971 889 925 899 867 894 866 894 865 894 834 902 769 894 768 894 706 905 566 877 565 877 506 889 401 852 387 847 386 847 144 846 144 923"/></Shape>
+	    <String CONTENT="4. Réveillaud, E., Die Los von Rom-Bewegung in Frankreich. 1900."
+                    HPOS="143"
+                    VPOS="846"
+                    WIDTH="1968"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    
+                    BASELINE="150 1024 2318 1018" 
+                    HPOS="148"
+                    VPOS="988"
+                    WIDTH="2169"
+                    HEIGHT="155">
+            <Shape><Polygon POINTS="149 1023 149 1143 505 1142 506 1142 564 1126 672 1097 714 1097 715 1097 716 1097 823 1062 847 1063 849 1063 850 1063 914 1047 1028 1052 1029 1052 1085 1045 1180 1058 1181 1058 1375 1043 1422 1052 1423 1052 1628 1043 1682 1053 1683 1053 1723 1046 1884 1056 1885 1056 1925 1047 1971 1056 1973 1056 2055 1042 2177 1054 2179 1054 2274 1043 2314 1053 2317 1016 2314 988 148 992 149 1023"/></Shape>
+	    <String CONTENT="5. Braunlich, P., Das Fortschreiten der Los von Rom-Bewegung in Oester-"
+                    HPOS="148"
+                    VPOS="988"
+                    WIDTH="2169"
+                    HEIGHT="155"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_14"
+                    
+                    BASELINE="153 1275 2077 1272" 
+                    HPOS="150"
+                    VPOS="1234"
+                    WIDTH="1926"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="152 1274 152 1302 211 1316 212 1317 548 1317 548 1316 549 1316 568 1310 692 1311 693 1311 737 1302 785 1311 786 1311 836 1300 850 1297 882 1300 948 1305 949 1305 950 1305 969 1299 981 1296 1234 1296 1251 1297 1377 1314 1379 1314 1580 1299 1622 1305 1623 1305 1674 1297 1737 1306 1738 1306 1739 1306 1760 1297 2074 1294 2076 1270 2072 1234 1935 1243 1496 1236 1495 1236 1431 1246 1234 1246 1209 1236 1208 1236 1207 1236 1169 1245 1093 1236 1092 1236 1090 1236 1056 1246 890 1246 804 1235 795 1235 793 1235 782 1236 684 1246 555 1236 550 1236 393 1236 392 1236 391 1236 390 1236 370 1242 150 1237 152 1274"/></Shape>
+	    <String CONTENT="7. Bräunlich, P., Die Los von Rom-Bewegung in Steiermark. 1901."
+                    HPOS="150"
+                    VPOS="1234"
+                    WIDTH="1926"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

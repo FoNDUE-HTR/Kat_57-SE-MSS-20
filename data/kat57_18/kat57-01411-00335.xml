@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01411-00335.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="49"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2311 1471 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="161 249 693 244" 
+                    HPOS="159"
+                    VPOS="202"
+                    WIDTH="533"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="160 247 160 284 290 289 292 289 293 289 321 279 381 282 382 282 384 282 385 282 385 280 392 274 402 264 454 264 462 271 467 274 468 274 470 274 471 274 493 269 509 266 524 268 555 273 557 273 558 273 574 266 575 266 611 271 612 271 613 271 614 271 625 263 628 262 635 262 667 267 668 267 670 267 692 260 692 242 688 210 587 213 554 208 538 207 537 207 536 207 535 207 535 208 533 208 527 215 487 215 477 208 470 202 468 202 467 202 440 202 439 202 438 202 436 202 429 208 417 217 382 217 355 207 348 204 347 204 346 204 330 207 303 210 256 206 238 204 236 204 235 204 231 206 217 212 203 206 201 204 200 204 198 204 159 204 160 247"/></Shape>
+	    <String CONTENT="PIGGOT, Charles S"
+                    HPOS="159"
+                    VPOS="202"
+                    WIDTH="533"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="163 346 2239 343" 
+                    HPOS="160"
+                    VPOS="296"
+                    WIDTH="2078"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="161 345 161 368 251 379 252 379 317 369 347 379 348 379 349 379 500 372 535 379 536 380 851 380 851 379 914 368 1012 368 1048 375 1049 375 1108 368 1331 368 1373 376 1374 376 1375 376 1405 366 1546 366 1565 372 1567 372 1568 372 1677 366 1725 376 1726 376 1881 370 1922 376 1924 376 2024 370 2192 376 2194 376 2195 376 2238 364 2238 342 2235 302 1918 296 1916 296 1845 304 1811 307 1783 304 1720 296 1659 296 1657 296 1656 296 1623 305 1622 305 1621 305 1568 296 1567 296 1443 301 1421 306 1405 311 1056 311 1046 309 997 298 889 298 888 298 887 298 850 309 811 305 809 305 808 305 790 310 781 312 393 312 281 312 261 305 260 305 258 305 160 312 161 345"/></Shape>
+	    <String CONTENT="Se: Scientific results of cruise 7 of the Carnegie during 1928-1929..."
+                    HPOS="160"
+                    VPOS="296"
+                    WIDTH="2078"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="281 447 691 453" 
+                    HPOS="278"
+                    VPOS="415"
+                    WIDTH="412"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="279 446 278 461 298 462 309 472 309 473 310 473 311 473 312 473 314 473 335 463 366 474 368 474 369 474 454 468 510 475 511 475 512 475 514 475 525 468 585 477 586 477 587 477 589 477 600 467 623 478 624 478 625 479 655 479 655 478 656 478 657 478 670 468 689 468 690 452 689 429 609 419 608 419 568 426 565 426 563 426 522 419 521 419 483 425 479 425 332 424 331 423 319 415 317 415 316 415 315 415 279 421 279 446"/></Shape>
+	    <String CONTENT="Oceanography."
+                    HPOS="278"
+                    VPOS="415"
+                    WIDTH="412"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="782 413 1358 404" 
+                    HPOS="780"
+                    VPOS="358"
+                    WIDTH="577"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="781 412 781 433 819 437 820 437 822 437 836 433 855 425 866 431 868 434 870 434 871 434 872 434 888 431 927 425 938 431 940 431 941 431 942 431 943 431 946 431 979 421 1002 430 1006 431 1007 431 1008 431 1009 431 1016 430 1052 418 1109 418 1142 428 1158 433 1159 433 1160 433 1216 431 1217 431 1218 431 1218 430 1223 426 1230 419 1243 426 1250 430 1251 430 1252 430 1254 430 1255 430 1255 429 1259 426 1265 421 1290 426 1304 428 1305 428 1306 428 1313 425 1340 415 1353 425 1357 403 1356 372 1327 358 1326 358 1325 358 1324 358 1322 358 1302 374 1298 376 1272 375 1246 374 1245 374 1244 374 1243 374 1240 376 1234 381 1212 376 1130 359 1129 359 1127 359 1126 359 1126 360 1106 380 1103 385 1077 385 1073 381 1062 371 1061 371 1060 371 1059 371 1057 371 1056 371 1040 381 1035 385 1000 385 997 382 981 369 980 369 979 369 978 369 963 371 951 361 949 361 948 361 947 361 861 363 830 368 829 368 828 368 828 369 808 388 780 388 781 412"/></Shape>
+	    <String CONTENT="Naturv. Exped"
+                    HPOS="780"
+                    VPOS="358"
+                    WIDTH="577"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="889 479 1285 479" 
+                    HPOS="888"
+                    VPOS="444"
+                    WIDTH="396"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="888 478 888 490 922 501 924 501 925 501 1007 494 1169 501 1170 501 1284 490 1284 478 1283 456 1249 462 1236 453 1233 451 1232 451 1230 451 1229 451 1214 453 1169 462 1149 451 1144 448 1143 448 1142 448 1141 448 1140 448 1140 450 1137 451 1125 462 1092 453 1090 453 1089 453 1088 453 1087 453 1087 455 1078 463 1013 463 965 445 959 444 958 444 888 444 888 478"/></Shape>
+	    <String CONTENT="Carnegie"
+                    HPOS="888"
+                    VPOS="444"
+                    WIDTH="396"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1388 442 1539 437" 
+                    HPOS="1385"
+                    VPOS="369"
+                    WIDTH="153"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1387 441 1387 460 1407 468 1408 468 1410 468 1411 468 1432 461 1461 467 1462 467 1538 453 1538 436 1536 392 1506 391 1481 369 1479 369 1478 369 1477 369 1385 385 1387 441"/></Shape>
+	    <String CONTENT="Fol."
+                    HPOS="1385"
+                    VPOS="369"
+                    WIDTH="153"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="281 549 1851 549" 
+                    HPOS="279"
+                    VPOS="511"
+                    WIDTH="1571"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="279 548 279 596 332 608 333 609 493 609 493 608 554 599 597 604 598 604 600 604 627 596 694 608 695 608 820 593 822 593 825 592 846 582 1032 582 1070 590 1108 597 1109 597 1165 590 1238 607 1239 607 1369 596 1397 608 1398 608 1400 609 1551 609 1551 608 1654 585 1666 582 1849 582 1850 548 1850 513 1638 511 1637 511 1635 511 1623 513 1600 520 1572 515 1553 511 1552 511 1551 511 1541 515 1526 521 1475 521 1444 515 1418 511 1417 511 1416 511 1405 515 1392 521 1276 521 1245 516 1208 511 1207 511 1206 511 1194 516 1184 520 1169 516 1146 511 1144 511 1143 511 1130 516 1126 518 959 520 949 517 926 511 925 511 924 511 922 511 908 517 903 521 852 521 845 517 824 511 823 511 822 511 775 518 763 520 758 518 741 511 739 511 738 511 737 511 719 518 715 521 527 521 525 520 500 511 499 511 498 511 497 511 479 520 430 520 404 520 385 511 384 511 305 511 304 511 303 511 279 520 279 548"/></Shape>
+	    <String CONTENT="2:2.Radium content of ocean-bottom sediments...1944."
+                    HPOS="279"
+                    VPOS="511"
+                    WIDTH="1571"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

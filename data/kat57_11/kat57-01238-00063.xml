@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00063.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2332"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="12"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2332"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2330"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2331 1471 2331 1"/></Shape>
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2040 69 2265 65" 
+                    HPOS="2037"
+                    VPOS="2"
+                    WIDTH="227"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="2038 87 2160 76 2167 79 2174 83 2176 83 2177 83 2217 77 2239 84 2241 84 2242 84 2243 84 2264 72 2264 63 2260 29 2221 29 2217 28 2194 12 2193 12 2192 12 2190 12 2168 13 2151 2 2150 2 2149 2 2147 2 2146 2 2113 14 2095 3 2094 3 2092 3 2091 3 2073 4 2071 4 2070 4 2047 24 2043 28 2037 24 2038 68 2038 87"/></Shape>
+	    <String CONTENT="[ Filos."
+                    HPOS="2037"
+                    VPOS="2"
+                    WIDTH="227"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2074 123 2289 128" 
+                    HPOS="2071"
+                    VPOS="73"
+                    WIDTH="216"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="2073 122 2071 138 2106 148 2107 148 2108 148 2109 148 2111 148 2111 147 2114 144 2121 150 2122 150 2123 150 2124 150 2155 143 2162 142 2168 144 2192 154 2193 154 2194 154 2286 150 2287 127 2287 88 2278 82 2276 82 2275 82 2274 82 2273 82 2258 89 2221 82 2220 82 2190 88 2181 79 2181 78 2179 78 2178 78 2127 73 2125 73 2073 84 2073 122"/></Shape>
+	    <String CONTENT="Psykol."
+                    HPOS="2071"
+                    VPOS="73"
+                    WIDTH="216"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="139 197 923 183" 
+                    HPOS="137"
+                    VPOS="115"
+                    WIDTH="785"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="138 196 138 210 421 215 423 215 424 215 434 213 469 203 482 213 490 220 490 222 491 222 493 222 494 222 532 218 533 218 534 218 539 214 549 204 574 212 575 212 576 212 577 212 579 212 587 206 683 214 698 215 699 215 700 215 702 214 747 198 792 198 824 215 829 218 830 218 831 218 921 215 922 182 921 149 863 117 862 117 861 117 859 117 786 149 733 132 732 132 731 132 729 132 711 141 667 134 666 134 664 134 624 153 623 154 621 153 565 115 564 115 563 115 561 115 527 117 526 117 525 117 472 155 468 158 392 158 390 157 381 149 380 149 379 149 377 149 376 149 356 157 316 121 316 120 315 120 314 120 278 120 277 120 213 121 212 121 210 121 161 159 160 160 137 160 138 196"/></Shape>
+	    <String CONTENT="Morrison, Beulah May"
+                    HPOS="137"
+                    VPOS="115"
+                    WIDTH="785"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2056 187 2280 187" 
+                    HPOS="2055"
+                    VPOS="149"
+                    WIDTH="224"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="2055 186 2055 201 2068 201 2069 201 2107 231 2108 231 2109 231 2111 233 2162 233 2162 231 2163 231 2165 231 2195 208 2216 208 2217 208 2219 208 2220 208 2221 207 2228 201 2278 208 2279 186 2278 163 2249 164 2244 163 2208 152 2206 152 2205 152 2204 152 2203 152 2184 164 2181 166 2146 166 2144 165 2121 149 2119 149 2118 149 2079 149 2078 149 2076 149 2075 149 2055 163 2055 186"/></Shape>
+	    <String CONTENT="Exper."
+                    HPOS="2055"
+                    VPOS="149"
+                    WIDTH="224"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="131 298 2268 292" 
+                    HPOS="128"
+                    VPOS="247"
+                    WIDTH="2138"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="130 296 130 311 278 338 279 339 487 339 487 338 488 338 571 316 617 316 694 337 695 337 696 338 758 338 758 337 759 337 861 311 1016 320 1018 320 1088 314 1127 318 1128 318 1129 318 1153 311 1223 317 1224 317 1225 317 1247 310 1248 310 1252 310 1369 321 1370 321 1454 314 1557 336 1559 337 1730 337 1730 336 1830 315 1903 323 1905 323 1988 309 1990 309 2264 309 2266 291 2263 260 2215 263 2188 260 2122 247 2121 247 2119 247 2080 260 2053 268 1940 268 1912 260 1878 249 1876 249 1875 249 1874 249 1847 256 1787 249 1786 249 1722 258 1645 250 1643 250 1642 250 1615 260 1587 269 1378 269 1344 260 1337 257 1335 257 1334 257 1321 260 1269 269 1118 269 1086 260 1058 250 1057 250 1056 250 1007 260 989 262 972 260 950 255 949 255 863 258 862 258 859 260 828 269 712 269 663 260 619 251 618 251 480 257 457 251 456 251 192 251 191 251 128 258 130 296"/></Shape>
+	    <String CONTENT="A study of the major emotions in persons of defective intelli-"
+                    HPOS="128"
+                    VPOS="247"
+                    WIDTH="2138"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="171 386 379 389" 
+                    HPOS="169"
+                    VPOS="361"
+                    WIDTH="208"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="170 385 169 417 196 418 197 418 198 418 199 418 203 414 217 403 258 409 268 410 269 410 309 406 311 406 339 414 341 414 342 414 343 414 376 399 377 388 376 372 263 371 260 369 237 361 236 361 235 361 170 366 170 385"/></Shape>
+	    <String CONTENT="gence."
+                    HPOS="169"
+                    VPOS="361"
+                    WIDTH="208"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1461 482 2051 482" 
+                    HPOS="1459"
+                    VPOS="439"
+                    WIDTH="590"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1459 480 1459 496 1502 501 1512 510 1512 511 1513 511 1515 511 1516 511 1517 511 1543 500 1548 498 1572 501 1646 511 1647 511 1648 511 1649 511 1660 504 1670 499 1743 499 1782 506 1783 507 1797 520 1797 521 1798 521 1799 521 1800 522 1847 522 1847 521 1848 521 1849 521 1849 520 1860 510 1873 500 1885 511 1896 521 1897 521 1898 521 1900 522 1955 522 1955 521 1956 521 1957 521 1966 513 1977 506 1998 515 2013 521 2014 521 2015 521 2049 516 2049 480 2049 462 1981 462 1979 461 1940 451 1939 451 1938 451 1936 451 1935 451 1923 461 1922 462 1881 462 1880 461 1852 439 1851 439 1849 439 1829 439 1827 439 1826 439 1825 439 1794 458 1773 440 1773 439 1772 439 1771 439 1770 439 1740 440 1739 440 1714 452 1699 439 1697 439 1696 439 1624 439 1622 439 1621 439 1620 439 1597 460 1594 462 1532 462 1529 460 1507 441 1506 441 1505 441 1503 441 1502 441 1501 441 1473 460 1470 461 1459 460 1459 480"/></Shape>
+	    <String CONTENT="8:o Berkeley 1924"
+                    HPOS="1459"
+                    VPOS="439"
+                    WIDTH="590"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="166 570 273 570" 
+                    HPOS="165"
+                    VPOS="502"
+                    WIDTH="107"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="165 569 165 588 186 588 187 588 197 597 197 598 198 598 199 598 201 598 272 591 272 569 272 502 250 502 249 502 247 502 246 502 218 523 188 547 165 547 165 569"/></Shape>
+	    <String CONTENT="Se:"
+                    HPOS="165"
+                    VPOS="502"
+                    WIDTH="107"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="209 662 1201 688 2187 692" 
+                    HPOS="207"
+                    VPOS="612"
+                    WIDTH="1979"
+                    HEIGHT="130">
+            <Shape><Polygon POINTS="207 690 301 700 303 700 348 694 423 718 424 718 455 720 607 722 608 722 684 713 796 724 797 724 918 702 1015 724 1081 729 1083 729 1084 729 1172 707 1235 707 1237 707 1252 707 1500 711 1577 737 1578 737 1712 739 1713 739 1811 732 1911 742 1912 742 1955 739 1956 739 2011 720 2183 721 2186 691 2184 652 2069 639 2068 639 2025 648 1984 657 1927 646 1897 641 1896 641 1895 641 1880 645 1856 652 1826 645 1825 645 1824 645 1822 645 1793 653 1740 642 1708 636 1707 636 1706 636 1685 641 1638 653 1480 653 1387 635 1382 635 1381 635 1380 635 1378 635 1340 648 1285 648 1181 631 1180 631 1178 631 1173 631 1135 632 1134 632 1096 646 929 645 804 623 767 618 648 617 647 617 646 617 634 620 601 629 542 618 520 614 518 614 496 617 414 629 333 614 321 612 209 612 208 661 207 690"/></Shape>
+	    <String CONTENT="University of California publications in psychology. Vol. 3."
+                    HPOS="207"
+                    VPOS="612"
+                    WIDTH="1979"
+                    HEIGHT="130"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="1491 775 1644 772" 
+                    HPOS="1489"
+                    VPOS="731"
+                    WIDTH="154"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1490 774 1490 799 1567 789 1642 797 1643 771 1640 744 1613 744 1603 736 1603 734 1602 734 1600 734 1565 731 1564 731 1524 732 1523 732 1489 744 1490 774"/></Shape>
+	    <String CONTENT="Filos"
+                    HPOS="1489"
+                    VPOS="731"
+                    WIDTH="154"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    
+                    BASELINE="1490 831 1603 828" 
+                    HPOS="1488"
+                    VPOS="783"
+                    WIDTH="114"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1489 830 1489 843 1516 853 1517 853 1518 853 1519 853 1521 853 1530 846 1587 853 1588 853 1589 853 1591 853 1591 852 1602 841 1602 828 1598 783 1564 785 1562 785 1561 785 1555 789 1539 799 1488 799 1489 830"/></Shape>
+	    <String CONTENT="Inst"
+                    HPOS="1488"
+                    VPOS="783"
+                    WIDTH="114"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    
+                    BASELINE="1465 890 1866 892" 
+                    HPOS="1463"
+                    VPOS="847"
+                    WIDTH="402"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="1464 889 1463 912 1469 916 1470 916 1472 916 1473 916 1474 916 1475 916 1483 910 1486 908 1508 910 1562 915 1564 915 1565 915 1580 911 1586 910 1589 911 1604 917 1605 917 1607 917 1636 911 1662 906 1668 911 1668 912 1669 912 1670 912 1672 912 1690 912 1737 911 1739 912 1745 918 1746 918 1748 918 1749 918 1864 913 1865 891 1865 868 1802 868 1800 867 1773 848 1772 848 1771 848 1733 848 1732 848 1730 848 1729 848 1729 850 1710 867 1708 868 1676 868 1675 867 1653 847 1652 847 1651 847 1649 847 1648 847 1611 857 1602 848 1602 847 1600 847 1599 847 1578 847 1577 847 1576 847 1575 847 1551 866 1551 867 1540 867 1540 866 1517 847 1516 847 1515 847 1495 847 1494 847 1492 847 1491 847 1464 863 1464 889"/></Shape>
+	    <String CONTENT="Berkeley. Univ."
+                    HPOS="1463"
+                    VPOS="847"
+                    WIDTH="402"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13"
+                    
+                    BASELINE="1442 940 1772 943" 
+                    HPOS="1440"
+                    VPOS="902"
+                    WIDTH="331"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="1441 939 1440 980 1473 993 1474 993 1475 993 1476 993 1506 983 1553 966 1651 966 1683 993 1687 998 1689 998 1690 998 1691 999 1770 999 1771 942 1770 907 1727 904 1725 904 1724 904 1716 907 1710 912 1703 908 1696 904 1695 904 1694 904 1658 904 1657 904 1656 904 1633 910 1611 916 1605 910 1597 902 1595 902 1594 902 1575 902 1573 902 1572 902 1571 902 1560 911 1554 916 1524 916 1521 912 1510 902 1508 902 1507 902 1506 902 1505 902 1503 902 1491 913 1488 915 1441 915 1441 939"/></Shape>
+	    <String CONTENT="of Calif.]"
+                    HPOS="1440"
+                    VPOS="902"
+                    WIDTH="331"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

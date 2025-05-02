@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00913-00436.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2308"
+          HEIGHT="1470"
+          PHYSICAL_IMG_NR="38"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2308"
+                  HEIGHT="1470">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2306"
+                   HEIGHT="1468"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1469 2307 1469 2307 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="172 46 486 43" 
+                    HPOS="170"
+                    VPOS="1"
+                    WIDTH="316"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="172 46 172 57 279 71 280 71 341 57 397 70 398 70 456 58 465 66 467 66 469 66 470 66 472 66 473 66 486 55 486 43 481 1 170 1 172 46"/></Shape>
+	    <String CONTENT="Pommern"
+                    HPOS="170"
+                    VPOS="1"
+                    WIDTH="316"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="124 175 1432 183" 
+                    HPOS="122"
+                    VPOS="1"
+                    WIDTH="1310"
+                    HEIGHT="220">
+            <Shape><Polygon POINTS="124 175 122 200 162 213 164 213 165 215 374 215 374 213 376 213 378 213 394 202 400 199 582 199 596 202 650 216 652 216 654 216 655 216 711 202 721 200 730 202 794 216 795 216 797 216 832 204 928 215 929 215 931 215 968 202 972 202 1145 202 1159 204 1231 212 1232 212 1298 207 1315 219 1317 219 1319 219 1320 221 1401 221 1401 219 1403 219 1430 204 1432 183 1430 1 655 1 654 1 652 1 569 43 520 76 124 74 124 175"/></Shape>
+	    <String CONTENT="Klaje, Hermann [Paul Franz Adolf]"
+                    HPOS="122"
+                    VPOS="1"
+                    WIDTH="1310"
+                    HEIGHT="220"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2082 71 2215 71" 
+                    HPOS="2082"
+                    VPOS="1"
+                    WIDTH="133"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="2082 71 2082 89 2215 84 2215 71 2215 1 2082 1 2082 71"/></Shape>
+	    <String CONTENT="Hist."
+                    HPOS="2082"
+                    VPOS="1"
+                    WIDTH="133"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2102 111 2169 114" 
+                    HPOS="2097"
+                    VPOS="79"
+                    WIDTH="72"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="2102 111 2097 164 2127 170 2129 170 2130 170 2165 153 2169 114 2167 79 2102 81 2102 111"/></Shape>
+	    <String CONTENT="Ty."
+                    HPOS="2097"
+                    VPOS="79"
+                    WIDTH="72"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1977 191 2287 188" 
+                    HPOS="1976"
+                    VPOS="121"
+                    WIDTH="311"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="1977 191 1977 207 2070 219 2071 219 2154 212 2186 208 2193 212 2202 216 2204 216 2245 218 2247 218 2248 218 2250 218 2250 216 2255 213 2261 207 2283 213 2287 188 2283 130 2175 121 2173 121 2172 121 2151 132 2122 148 2043 146 2030 135 2020 127 2019 127 2017 127 2016 127 1976 135 1977 191"/></Shape>
+	    <String CONTENT="Lokalhist."
+                    HPOS="1976"
+                    VPOS="121"
+                    WIDTH="311"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="134 280 2306 280" 
+                    HPOS="134"
+                    VPOS="229"
+                    WIDTH="2172"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="134 280 134 296 181 309 183 309 564 302 891 298 917 307 933 314 934 314 936 314 974 309 1047 298 1121 310 1210 326 1212 328 1437 328 1437 326 1489 315 1577 298 1717 315 1719 315 1909 298 1976 323 1987 326 1988 326 1990 326 2014 323 2046 318 2060 323 2067 326 2068 326 2070 328 2306 328 2306 280 2306 250 2229 235 2228 235 2226 235 2191 250 2102 250 2016 229 2014 229 1934 245 1842 245 1800 229 1799 229 1551 229 1550 229 1548 229 1521 240 1468 234 1467 234 1360 248 1282 229 1280 229 1041 229 1039 229 1038 229 985 242 907 237 906 237 904 237 874 245 795 229 794 229 700 248 564 240 563 240 561 240 537 248 343 248 315 239 314 239 312 239 264 250 134 250 134 280"/></Shape>
+	    <String CONTENT="Pommern im jahre 1813. Ein Beitrag zur Geschichte der Befreiungskriege"
+                    HPOS="134"
+                    VPOS="229"
+                    WIDTH="2172"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="162 371 898 371" 
+                    HPOS="162"
+                    VPOS="331"
+                    WIDTH="736"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="162 371 162 398 394 404 395 404 433 398 446 396 457 398 497 406 499 406 551 398 563 396 574 398 622 406 623 406 625 406 658 398 666 396 673 398 706 406 708 406 709 406 711 406 713 406 713 404 721 398 722 396 778 396 780 398 787 404 787 406 789 406 791 406 792 408 866 408 866 406 867 406 898 396 898 371 896 345 835 349 826 345 791 331 789 331 646 331 644 331 642 331 641 331 623 345 623 347 540 349 537 345 520 331 518 331 516 331 465 331 464 331 462 331 433 347 427 349 162 349 162 371"/></Shape>
+	    <String CONTENT="in einzelnen Bildern."
+                    HPOS="162"
+                    VPOS="331"
+                    WIDTH="736"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="205 465 421 468" 
+                    HPOS="204"
+                    VPOS="419"
+                    WIDTH="217"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="205 465 204 506 264 508 266 508 268 508 298 500 341 489 417 491 421 468 419 430 343 440 331 433 312 419 311 419 309 419 258 419 256 419 255 419 253 419 253 420 237 436 234 438 205 438 205 465"/></Shape>
+	    <String CONTENT="T. 1-2"
+                    HPOS="204"
+                    VPOS="419"
+                    WIDTH="217"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1504 463 1993 467" 
+                    HPOS="1502"
+                    VPOS="420"
+                    WIDTH="491"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="1504 463 1502 492 1612 492 1615 494 1623 502 1623 503 1625 503 1626 503 1628 503 1693 502 1712 518 1714 518 1716 518 1748 519 1749 521 1794 521 1794 519 1795 519 1842 500 1909 519 1910 519 1912 519 1913 519 1964 494 1992 494 1993 467 1992 433 1749 438 1741 435 1712 420 1711 420 1623 420 1622 420 1620 420 1618 420 1599 435 1580 420 1579 420 1577 420 1547 420 1545 420 1543 420 1504 435 1504 463"/></Shape>
+	    <String CONTENT="8º Kolberg 1914-1915."
+                    HPOS="1502"
+                    VPOS="420"
+                    WIDTH="491"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01334-00210.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1464"
+          PHYSICAL_IMG_NR="24"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1464">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1462"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1463 2319 1463 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="119 198 993 195" 
+                    HPOS="117"
+                    VPOS="142"
+                    WIDTH="875"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="118 197 118 224 278 229 279 229 280 229 281 229 289 223 296 215 313 222 317 223 318 223 319 223 331 222 375 215 383 220 385 223 386 223 388 223 389 223 473 219 524 218 527 219 532 224 533 224 534 224 535 224 536 224 546 219 555 214 568 218 583 223 584 223 585 223 733 218 784 226 785 226 787 226 788 226 800 219 867 223 868 223 870 223 871 223 883 215 911 224 912 224 914 224 915 224 945 213 947 213 990 213 992 193 986 143 954 169 932 169 921 159 920 159 918 159 917 159 866 168 771 161 770 161 768 161 767 161 756 168 718 158 717 158 716 158 656 169 635 161 634 161 633 161 596 168 561 161 557 158 536 142 535 142 534 142 408 142 407 142 295 143 294 143 292 143 257 167 220 163 219 163 218 163 194 169 157 162 156 162 154 162 117 172 118 197"/></Shape>
+	    <String CONTENT="OLAI, Arvidus Scheningensis"
+                    HPOS="117"
+                    VPOS="142"
+                    WIDTH="875"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="118 297 1100 297" 
+                    HPOS="117"
+                    VPOS="264"
+                    WIDTH="982"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="117 296 117 324 139 334 140 334 141 334 142 334 144 334 157 325 240 325 252 334 253 334 255 334 323 335 324 335 414 334 416 334 417 334 427 325 463 334 464 334 525 325 556 335 557 335 558 336 604 336 604 335 605 335 626 325 691 335 693 335 740 326 773 335 774 335 776 336 838 336 838 335 839 335 859 326 871 335 872 335 873 335 875 336 942 336 942 335 975 328 988 334 989 334 990 334 992 334 993 334 1005 325 1099 324 1099 296 1099 275 1064 275 1050 264 1049 264 1048 264 1047 264 1045 264 1044 264 1031 275 976 275 966 268 965 268 964 268 962 268 961 268 960 268 950 275 895 275 871 265 870 265 868 265 867 265 850 274 796 274 785 264 784 264 783 264 718 264 717 264 716 264 715 264 699 274 612 264 611 264 517 272 478 264 477 264 475 264 474 264 461 275 416 275 402 264 401 264 400 264 399 264 314 270 267 264 266 264 264 264 263 264 250 275 195 275 142 264 141 264 140 264 117 274 117 296"/></Shape>
+	    <String CONTENT="Se: OLAVI, Arvidus Scheningensis"
+                    HPOS="117"
+                    VPOS="264"
+                    WIDTH="982"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

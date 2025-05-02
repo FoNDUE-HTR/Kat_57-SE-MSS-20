@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00913-00405.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1488"
+          PHYSICAL_IMG_NR="26"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1488">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1486"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1487 2327 1487 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="303 253 707 248" 
+                    HPOS="301"
+                    VPOS="148"
+                    WIDTH="406"
+                    HEIGHT="201">
+            <Shape><Polygon POINTS="303 253 303 294 325 296 380 346 380 347 381 347 383 347 384 349 434 349 434 347 436 347 437 347 437 346 487 294 518 294 575 344 577 344 579 344 580 346 625 346 625 344 627 344 628 344 628 342 680 291 707 289 707 248 702 193 622 193 590 180 588 180 587 180 585 180 534 195 495 171 463 148 461 148 460 148 458 148 380 158 373 158 301 150 303 253"/></Shape>
+	    <String CONTENT="Klage-sång"
+                    HPOS="301"
+                    VPOS="148"
+                    WIDTH="406"
+                    HEIGHT="201"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="477 423 1875 419" 
+                    HPOS="476"
+                    VPOS="328"
+                    WIDTH="1399"
+                    HEIGHT="152">
+            <Shape><Polygon POINTS="477 423 477 445 623 447 684 479 686 479 688 479 689 479 691 479 731 450 750 445 787 437 814 445 824 448 826 448 827 448 996 445 1180 442 1187 445 1240 479 1241 479 1243 479 1245 480 1516 480 1516 479 1517 479 1519 479 1569 447 1586 445 1623 440 1675 445 1756 451 1758 451 1760 451 1781 445 1800 439 1874 443 1875 419 1872 334 1638 328 1636 328 1635 328 1633 328 1612 341 1578 362 1551 349 1549 349 1548 349 1477 365 1463 355 1461 355 1460 355 1458 355 1413 355 1395 347 1357 328 1355 328 1354 328 1352 328 1312 341 1222 328 1220 328 1219 328 1158 354 1115 336 1113 336 1071 334 1070 334 1068 334 1009 358 975 373 843 373 821 363 728 330 726 330 725 330 723 330 620 370 614 373 476 373 477 423"/></Shape>
+	    <String CONTENT="- öfver människians timeliga sorg och elände..."
+                    HPOS="476"
+                    VPOS="328"
+                    WIDTH="1399"
+                    HEIGHT="152"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="303 594 1257 591" 
+                    HPOS="301"
+                    VPOS="503"
+                    WIDTH="956"
+                    HEIGHT="196">
+            <Shape><Polygon POINTS="303 594 303 681 323 681 325 683 346 697 347 697 349 697 351 699 516 699 516 697 518 697 519 697 519 695 540 676 559 657 741 657 776 663 782 668 814 695 816 695 818 695 819 697 887 697 887 695 888 695 890 695 927 666 960 663 980 662 981 663 1021 695 1023 695 1025 695 1026 697 1076 697 1076 695 1078 695 1164 657 1171 655 1256 655 1257 591 1254 519 1206 519 1204 519 1203 519 1201 519 1201 520 1161 553 943 553 920 532 893 506 893 504 891 504 890 504 888 504 887 504 885 504 866 519 798 503 797 503 795 503 794 503 774 519 749 504 747 504 745 504 744 504 742 504 710 525 678 504 676 504 675 504 585 504 583 504 582 504 580 504 580 506 535 546 527 554 508 554 502 548 457 508 457 506 455 506 453 506 378 504 376 504 375 504 373 504 315 554 301 554 303 594"/></Shape>
+	    <String CONTENT="Se J(ungblad), B.?, Klage-sång...(Br"
+                    HPOS="301"
+                    VPOS="503"
+                    WIDTH="956"
+                    HEIGHT="196"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1283 567 1537 561" 
+                    HPOS="1281"
+                    VPOS="504"
+                    WIDTH="256"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="1283 567 1283 583 1365 593 1367 593 1368 593 1394 585 1408 581 1424 586 1442 591 1444 591 1445 591 1537 586 1537 561 1532 504 1495 506 1493 506 1492 506 1488 509 1453 532 1405 532 1371 524 1323 511 1322 511 1320 511 1318 511 1281 532 1283 567"/></Shape>
+	    <String CONTENT="Biogr. Sv."
+                    HPOS="1281"
+                    VPOS="504"
+                    WIDTH="256"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1278 630 1479 626" 
+                    HPOS="1277"
+                    VPOS="575"
+                    WIDTH="202"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="1278 630 1278 676 1367 678 1368 678 1370 678 1371 678 1384 670 1394 663 1479 662 1479 626 1474 577 1379 589 1371 585 1360 575 1358 575 1357 575 1302 575 1301 575 1299 575 1298 575 1277 588 1278 630"/></Shape>
+	    <String CONTENT="[Ek,  A."
+                    HPOS="1277"
+                    VPOS="575"
+                    WIDTH="202"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1606 508 2318 503" 
+                    HPOS="1604"
+                    VPOS="429"
+                    WIDTH="714"
+                    HEIGHT="149">
+            <Shape><Polygon POINTS="1606 508 1606 578 1699 578 1699 577 1700 577 1702 577 1705 573 1769 529 1819 538 1821 538 1885 529 1901 540 1903 540 1904 540 1906 540 1986 525 2092 557 2110 562 2111 562 2113 562 2114 562 2138 556 2154 551 2164 554 2182 561 2183 561 2185 561 2187 561 2188 561 2188 559 2195 553 2201 548 2212 553 2214 553 2215 553 2217 553 2219 553 2222 553 2276 535 2315 548 2318 503 2315 429 2215 429 2214 429 2212 429 2211 429 2204 435 2190 448 2161 439 2137 429 2135 429 2134 429 2132 429 2130 429 2116 440 2077 471 1972 471 1936 451 1894 432 1893 432 1795 432 1793 432 1792 432 1790 432 1752 464 1744 471 1728 466 1679 448 1678 448 1676 448 1675 448 1673 448 1673 450 1652 471 1651 472 1604 472 1606 508"/></Shape>
+	    <String CONTENT="Fº pat. Skara u.å. /1755/."
+                    HPOS="1604"
+                    VPOS="429"
+                    WIDTH="714"
+                    HEIGHT="149"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00730-00243.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1492"
+          PHYSICAL_IMG_NR="37"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1492">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1490"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1491 2311 1491 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2031 71 2158 66" 
+                    HPOS="2029"
+                    VPOS="32"
+                    WIDTH="128"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="2030 70 2032 105 2063 92 2079 92 2096 103 2098 104 2099 104 2100 104 2101 104 2157 99 2157 65 2154 32 2132 33 2131 33 2130 33 2127 36 2103 50 2078 50 2070 43 2065 39 2065 38 2064 38 2063 38 2062 38 2060 38 2059 38 2049 47 2043 52 2029 50 2030 70"/></Shape>
+	    <String CONTENT="Vitt"
+                    HPOS="2029"
+                    VPOS="32"
+                    WIDTH="128"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2004 143 2121 146" 
+                    HPOS="2002"
+                    VPOS="89"
+                    WIDTH="118"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="2003 142 2002 155 2117 169 2120 145 2117 104 2099 109 2093 105 2070 90 2069 90 2068 90 2048 89 2047 89 2045 89 2044 89 2022 109 2019 110 2003 110 2003 142"/></Shape>
+	    <String CONTENT="Eng"
+                    HPOS="2002"
+                    VPOS="89"
+                    WIDTH="118"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="188 212 524 215" 
+                    HPOS="186"
+                    VPOS="151"
+                    WIDTH="337"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="187 211 186 223 205 232 206 232 207 232 334 227 426 233 427 233 462 227 482 233 483 233 485 233 522 225 523 213 523 195 477 181 476 181 475 181 473 181 472 181 472 182 466 187 458 193 414 193 404 185 402 185 401 185 400 185 359 193 333 175 332 175 330 175 295 167 281 152 281 151 279 151 278 151 277 151 187 154 187 211"/></Shape>
+	    <String CONTENT="Herman"
+                    HPOS="186"
+                    VPOS="151"
+                    WIDTH="337"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="688 217 903 217" 
+                    HPOS="687"
+                    VPOS="165"
+                    WIDTH="215"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="687 216 687 227 797 238 818 258 818 259 819 259 820 259 822 261 870 261 870 259 871 259 873 259 902 239 902 216 901 193 804 193 797 187 771 165 769 165 768 165 721 165 720 165 718 165 687 180 687 216"/></Shape>
+	    <String CONTENT="Henry"
+                    HPOS="687"
+                    VPOS="165"
+                    WIDTH="215"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="214 302 2239 305" 
+                    HPOS="213"
+                    VPOS="244"
+                    WIDTH="2025"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="213 300 213 333 409 326 453 333 466 334 467 334 480 333 555 320 635 331 636 331 638 331 676 317 736 315 854 319 876 328 878 328 879 328 960 317 1031 330 1054 335 1055 335 1155 330 1193 329 1233 330 1358 335 1359 335 1406 330 1511 317 1578 323 1579 323 1729 319 1762 329 1772 331 1773 331 1774 331 1809 329 1916 318 2178 318 2236 326 2238 304 2234 263 2188 276 2115 276 2054 262 1987 247 1866 247 1865 247 1789 259 1758 264 1737 259 1692 247 1691 247 1457 246 1456 246 1455 246 1420 257 1365 274 1262 274 1159 254 1154 254 1152 254 1151 254 1150 254 1119 264 1083 259 1082 259 996 273 917 253 899 248 897 248 896 248 895 248 880 253 815 273 549 273 478 256 477 256 404 272 298 248 279 244 278 244 213 247 213 300"/></Shape>
+	    <String CONTENT="Juvelstölden eller Hemligheten på Well House. Kriminal"
+                    HPOS="213"
+                    VPOS="244"
+                    WIDTH="2025"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="256 384 1532 390" 
+                    HPOS="254"
+                    VPOS="351"
+                    WIDTH="1276"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="254 382 254 414 482 414 490 416 539 445 541 445 542 445 625 443 626 443 676 420 686 415 762 415 776 421 792 430 793 430 794 430 813 426 866 446 868 446 869 447 991 447 991 446 992 446 1017 436 1053 446 1054 446 1055 446 1110 438 1124 447 1125 447 1126 447 1128 448 1239 448 1239 447 1241 447 1287 428 1314 419 1402 419 1433 431 1476 448 1477 448 1478 448 1479 448 1529 432 1530 389 1528 360 1476 369 1450 359 1437 355 1436 355 1387 355 1386 355 1385 355 1384 355 1377 359 1361 369 1289 369 1220 359 1215 359 1213 359 1207 359 1115 368 1099 359 1090 354 1089 354 1019 353 1018 353 989 359 952 366 900 359 861 353 804 353 803 353 802 353 792 358 776 366 718 358 705 356 703 356 702 356 698 358 688 363 676 358 659 351 657 351 656 351 655 351 631 358 626 359 620 358 599 351 598 351 596 351 595 351 583 358 569 365 254 358 254 382"/></Shape>
+	    <String CONTENT="roman. Öfversättning fran engelskan."
+                    HPOS="254"
+                    VPOS="351"
+                    WIDTH="1276"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="330 480 458 476" 
+                    HPOS="327"
+                    VPOS="428"
+                    WIDTH="130"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="329 479 330 525 397 519 399 519 400 519 400 518 416 504 421 499 457 493 457 474 452 428 421 430 420 430 419 430 419 431 415 433 404 445 388 445 379 438 370 432 369 432 368 432 366 432 365 432 327 445 329 479"/></Shape>
+	    <String CONTENT="I-II"
+                    HPOS="327"
+                    VPOS="428"
+                    WIDTH="130"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1284 554 1996 554" 
+                    HPOS="1283"
+                    VPOS="502"
+                    WIDTH="711"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1283 576 1401 574 1411 579 1421 586 1422 586 1424 586 1425 586 1426 586 1441 580 1453 574 1458 580 1462 583 1462 584 1463 584 1465 584 1496 589 1497 589 1498 589 1514 583 1525 591 1527 591 1528 591 1529 591 1530 591 1562 581 1563 581 1564 581 1578 591 1579 591 1580 591 1581 593 1685 593 1685 591 1686 591 1705 584 1717 579 1728 585 1741 591 1742 591 1743 593 1810 593 1810 591 1812 591 1813 591 1820 586 1826 581 1833 586 1839 591 1840 591 1841 591 1843 593 1876 593 1876 591 1877 591 1886 588 1914 574 1958 574 1992 589 1994 553 1994 511 1946 506 1945 506 1943 506 1942 506 1937 511 1935 513 1930 511 1910 503 1909 503 1907 503 1877 511 1876 511 1875 511 1875 512 1858 527 1843 522 1841 522 1840 522 1839 522 1815 529 1761 523 1759 523 1687 529 1649 514 1645 513 1644 513 1642 513 1641 513 1640 513 1639 514 1624 524 1610 514 1599 507 1598 507 1596 507 1595 507 1552 509 1543 502 1542 502 1540 502 1458 502 1457 502 1456 502 1455 502 1437 517 1421 530 1376 530 1350 518 1341 514 1340 514 1339 514 1338 514 1336 514 1331 518 1315 529 1284 519 1283 553 1283 576"/></Shape>
+	    <String CONTENT="8ᵒ Stockholm 1900"
+                    HPOS="1283"
+                    VPOS="502"
+                    WIDTH="711"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

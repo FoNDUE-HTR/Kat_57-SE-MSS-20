@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01012-00183.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2319 1479 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="263 378 1373 370 2148 354" 
+                    HPOS="261"
+                    VPOS="256"
+                    WIDTH="1886"
+                    HEIGHT="185">
+            <Shape><Polygon POINTS="262 377 262 426 298 441 299 441 300 441 543 439 611 425 673 413 732 416 733 416 777 409 800 416 801 416 802 416 804 416 843 400 949 405 950 405 994 399 1026 405 1027 405 1113 390 1171 403 1172 403 1246 386 1286 397 1287 397 1288 397 1290 397 1311 390 1402 394 1403 394 1505 386 1530 392 1531 392 1533 392 1798 379 1841 379 1962 419 1973 423 1974 423 1975 423 2146 418 2147 353 2144 289 2094 284 2020 256 2019 256 2017 256 1951 257 1949 257 1850 289 1813 300 1757 299 1756 299 1755 299 1721 313 1505 316 1422 289 1375 275 1373 275 1372 275 1296 291 1249 300 1248 300 1200 321 1055 321 1000 302 999 302 997 302 996 302 981 305 916 291 897 287 896 287 895 287 884 291 790 325 706 324 620 291 572 273 571 273 569 273 305 276 304 276 261 289 262 377"/></Shape>
+	    <String CONTENT="Lefèvre, André et Cammas, Henry."
+                    HPOS="261"
+                    VPOS="256"
+                    WIDTH="1886"
+                    HEIGHT="185"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="324 693 2069 672" 
+                    HPOS="321"
+                    VPOS="608"
+                    WIDTH="1747"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="323 691 323 710 448 728 450 728 451 728 519 709 529 706 615 706 621 707 656 719 657 719 658 719 659 719 680 711 707 719 709 719 814 721 815 721 865 714 925 721 926 721 1166 703 1176 703 1181 703 1287 719 1288 719 1290 719 1334 704 1394 726 1396 726 1397 727 1449 727 1449 726 1613 723 1614 723 1674 698 1676 698 1740 694 1766 698 1821 705 1822 705 1875 696 1914 690 1952 695 1985 700 1986 700 2068 694 2068 670 2063 614 1983 640 1919 624 1917 624 1916 624 1915 624 1872 642 1766 643 1721 636 1720 636 1719 636 1692 646 1631 646 1584 626 1583 626 1582 626 1581 626 1546 627 1520 629 1519 629 1468 608 1467 608 1466 608 1166 611 1165 611 1095 640 1065 652 1028 642 980 629 979 629 978 629 976 629 925 645 892 654 798 648 791 648 703 617 701 617 700 617 563 619 562 619 471 657 464 661 321 661 323 691"/></Shape>
+	    <String CONTENT="La Vallee du Nil, Impressions et"
+                    HPOS="321"
+                    VPOS="608"
+                    WIDTH="1747"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="434 860 1136 853" 
+                    HPOS="431"
+                    VPOS="796"
+                    WIDTH="704"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="432 859 435 886 446 880 452 886 453 886 453 888 455 888 456 888 457 888 458 888 464 886 487 879 504 885 524 894 525 894 526 894 527 894 551 885 562 881 567 885 612 917 614 917 615 917 616 918 667 918 667 917 726 916 727 916 728 916 760 894 791 915 793 915 794 915 795 916 851 916 851 915 852 915 853 915 885 888 923 890 925 890 926 890 927 890 939 881 947 876 954 881 957 884 958 884 959 884 960 884 975 881 1022 873 1116 873 1132 880 1135 852 1133 800 1121 799 1119 799 1118 799 1117 799 1116 800 1092 820 1065 802 1064 802 1063 802 1061 802 1060 802 1059 802 1059 804 1032 822 1012 806 1001 796 1000 796 999 796 958 796 957 796 955 796 954 796 939 810 936 812 929 810 902 799 901 799 900 799 899 799 897 799 897 800 884 812 864 831 820 826 818 826 778 832 765 821 765 820 764 820 763 820 762 820 760 820 728 832 717 821 695 800 695 799 694 799 693 799 691 799 609 800 608 800 606 800 606 801 580 826 561 818 559 818 558 818 557 818 556 818 543 830 537 834 522 831 505 826 504 826 503 826 501 826 500 826 493 832 488 836 431 836 432 859"/></Shape>
+	    <String CONTENT="Photographies"
+                    HPOS="431"
+                    VPOS="796"
+                    WIDTH="704"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1548 874 2045 877" 
+                    HPOS="1546"
+                    VPOS="826"
+                    WIDTH="498"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="1547 873 1546 895 1552 901 1552 902 1554 902 1555 902 1556 904 1583 904 1583 902 1584 902 1586 902 1599 892 1625 896 1626 896 1628 896 1629 896 1629 895 1633 891 1636 889 1653 892 1713 904 1714 904 1715 904 1737 895 1824 904 1825 904 1826 904 1827 904 1827 902 1835 895 1840 890 1855 896 1877 905 1878 905 1879 906 1906 906 1906 905 1908 905 1922 897 1933 891 2042 899 2044 876 2043 855 2020 855 2020 854 2000 838 1999 838 1998 838 1996 838 1967 843 1957 833 1957 832 1956 832 1954 832 1953 832 1952 832 1937 838 1924 830 1922 830 1921 830 1920 830 1893 836 1892 836 1890 836 1869 853 1869 854 1778 854 1777 853 1751 828 1751 827 1750 827 1748 827 1714 826 1713 826 1689 827 1688 827 1687 827 1687 828 1662 852 1602 828 1600 828 1599 828 1598 828 1597 828 1566 852 1565 852 1547 852 1547 873"/></Shape>
+	    <String CONTENT="8º Paris 1862"
+                    HPOS="1546"
+                    VPOS="826"
+                    WIDTH="498"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

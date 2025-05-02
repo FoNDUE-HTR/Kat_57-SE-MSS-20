@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00092.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="27"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2315 1479 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="202 135 695 135" 
+                    HPOS="201"
+                    VPOS="91"
+                    WIDTH="493"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="201 134 201 155 229 170 230 170 231 170 331 164 482 170 483 170 484 170 503 161 512 156 646 156 653 164 661 170 662 170 663 170 665 170 694 164 694 134 694 101 673 94 672 94 671 94 669 94 656 102 578 102 567 92 567 91 566 91 565 91 563 91 481 101 457 91 456 91 326 91 325 91 324 91 293 99 257 93 256 93 255 93 254 93 245 99 236 92 236 91 235 91 234 91 217 91 215 91 214 91 213 91 201 98 201 134"/></Shape>
+	    <String CONTENT="MORRISSEY, Henry"
+                    HPOS="201"
+                    VPOS="91"
+                    WIDTH="493"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="204 226 2247 252" 
+                    HPOS="202"
+                    VPOS="191"
+                    WIDTH="2044"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="203 225 202 249 298 250 338 263 339 263 689 268 690 268 1064 261 1163 261 1196 272 1198 272 1199 272 1200 272 1233 263 1335 271 1336 271 1506 267 1546 277 1547 277 1548 277 1616 268 1681 279 1683 279 1758 270 1959 284 1960 284 2007 273 2050 286 2051 286 2053 286 2139 275 2244 275 2246 251 2244 217 2186 217 2185 217 2183 217 2151 225 1710 219 1662 209 1660 209 1612 218 1460 209 1459 209 1370 215 1246 214 1216 205 1215 205 1214 205 1212 205 1183 213 1114 204 1112 204 901 209 872 201 871 201 869 201 718 207 667 198 666 198 609 204 561 196 560 196 309 198 203 191 203 225"/></Shape>
+	    <String CONTENT="CEITHEARNACH UÍ Dhomhnaill nó eachtra an cheithearnaigh chaoil-"
+                    HPOS="202"
+                    VPOS="191"
+                    WIDTH="2044"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="319 332 2249 351" 
+                    HPOS="317"
+                    VPOS="299"
+                    WIDTH="1931"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="318 331 317 352 447 366 449 366 515 358 536 365 537 365 539 365 713 360 734 366 735 366 736 366 878 361 948 360 973 363 1026 371 1027 371 1111 365 1158 362 1212 367 1236 368 1237 368 1263 367 1343 363 1431 370 1447 371 1448 371 1454 371 1483 366 1499 371 1510 374 1511 374 1512 374 1553 372 1621 367 1668 373 1692 377 1694 377 1722 374 1761 371 1865 377 1918 379 1919 379 1931 378 1969 370 2023 379 2035 381 2037 381 2044 379 2063 376 2245 382 2248 350 2248 325 2029 324 1987 314 1986 314 1866 321 1864 321 1741 321 1741 320 1726 314 1724 314 1723 314 1428 316 1386 310 1385 310 1352 316 1351 316 1349 316 1332 309 1331 309 1219 307 1217 307 1100 314 1093 314 1090 314 1051 305 1050 305 1009 313 1008 313 961 304 959 304 958 304 927 312 832 303 831 303 690 309 652 302 651 302 594 309 591 309 586 309 526 300 346 299 345 299 344 299 318 305 318 331"/></Shape>
+	    <String CONTENT="riabhaigh do réir druinge. Énrí Ua Muirgheasa do chuir i n-eagar"
+                    HPOS="317"
+                    VPOS="299"
+                    WIDTH="1931"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="322 437 1462 448" 
+                    HPOS="319"
+                    VPOS="398"
+                    WIDTH="1141"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="320 436 319 464 351 468 352 468 354 468 361 466 381 457 423 457 465 466 475 467 476 467 477 467 481 466 497 458 510 466 518 471 519 471 520 471 642 472 644 472 645 472 662 466 678 461 705 466 739 473 740 474 825 474 825 473 885 467 932 462 951 467 976 474 977 474 978 474 1008 467 1026 463 1130 463 1138 468 1162 477 1163 477 1207 478 1209 478 1273 469 1338 469 1352 478 1353 478 1354 478 1356 478 1357 478 1375 468 1379 467 1386 468 1416 476 1417 476 1459 468 1460 447 1458 410 1435 420 1368 409 1364 409 1363 409 1360 409 1320 419 1300 413 1299 413 1298 413 1248 419 1240 413 1238 413 1237 413 1236 413 1210 416 1195 407 1194 407 1193 407 1191 407 1177 407 1066 414 1026 405 1024 405 1022 405 1021 405 1000 416 956 416 909 404 908 404 906 404 905 404 904 404 884 416 829 416 767 403 766 403 765 403 730 413 661 402 660 402 658 402 657 402 629 414 576 414 545 404 544 404 542 404 541 404 524 409 503 400 502 400 460 399 439 399 438 399 436 399 382 410 320 398 320 436"/></Shape>
+	    <String CONTENT="as láimhsgribhinn oirghiallaigh.1912."
+                    HPOS="319"
+                    VPOS="398"
+                    WIDTH="1141"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1468 448 1594 452" 
+                    HPOS="1465"
+                    VPOS="403"
+                    WIDTH="127"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1467 447 1465 456 1504 468 1505 468 1506 468 1507 468 1517 463 1522 461 1532 464 1549 472 1550 472 1552 473 1591 473 1592 451 1590 410 1559 423 1547 413 1536 404 1534 404 1533 404 1497 403 1496 403 1495 403 1494 403 1494 404 1479 419 1478 420 1467 420 1467 447"/></Shape>
+	    <String CONTENT="Vitt"
+                    HPOS="1465"
+                    VPOS="403"
+                    WIDTH="127"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1465 512 1833 512" 
+                    HPOS="1464"
+                    VPOS="466"
+                    WIDTH="368"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="1464 511 1465 545 1500 531 1574 531 1591 540 1592 540 1594 540 1623 534 1636 543 1636 545 1637 545 1638 545 1639 545 1641 545 1703 532 1717 543 1717 545 1718 545 1720 545 1721 546 1741 546 1741 545 1742 545 1776 532 1786 541 1786 542 1787 542 1789 542 1831 545 1832 511 1832 476 1724 466 1723 466 1722 466 1721 466 1721 467 1707 479 1699 488 1637 488 1629 482 1621 476 1620 476 1618 476 1617 476 1580 483 1570 485 1568 484 1550 467 1550 466 1549 466 1548 466 1547 466 1546 466 1527 474 1505 466 1504 466 1502 466 1501 466 1500 466 1500 467 1479 487 1479 488 1464 488 1464 511"/></Shape>
+	    <String CONTENT="Kelt. (Br.)"
+                    HPOS="1464"
+                    VPOS="466"
+                    WIDTH="368"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1478 581 1698 581" 
+                    HPOS="1476"
+                    VPOS="540"
+                    WIDTH="221"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="1476 580 1476 600 1557 611 1558 611 1559 611 1580 604 1588 601 1620 601 1626 605 1634 611 1636 611 1637 611 1638 611 1697 606 1697 580 1697 557 1679 557 1663 542 1662 542 1660 542 1659 542 1658 542 1657 542 1639 555 1620 540 1618 540 1617 540 1616 540 1547 547 1523 540 1522 540 1521 540 1520 540 1518 540 1518 541 1502 557 1476 557 1476 580"/></Shape>
+	    <String CONTENT="Folkd ."
+                    HPOS="1476"
+                    VPOS="540"
+                    WIDTH="221"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

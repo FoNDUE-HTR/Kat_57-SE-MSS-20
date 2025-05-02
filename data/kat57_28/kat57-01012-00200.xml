@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01012-00200.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2336"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2336"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2334"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2335 1477 2335 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="341 299 865 299" 
+                    HPOS="340"
+                    VPOS="246"
+                    WIDTH="524"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="340 298 340 319 354 330 356 330 357 330 358 331 592 331 592 330 593 330 612 320 617 317 633 320 664 325 665 325 666 325 677 320 685 317 754 317 758 321 763 325 763 326 765 326 766 326 767 326 768 326 782 322 797 317 863 322 864 298 864 246 850 246 848 246 847 246 846 246 831 259 804 252 803 252 802 252 734 259 718 250 713 246 712 246 710 246 652 246 651 246 624 252 591 261 521 261 495 256 433 246 432 246 340 259 340 298"/></Shape>
+	    <String CONTENT="LEFÈVRE, J[oseph]"
+                    HPOS="340"
+                    VPOS="246"
+                    WIDTH="524"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2164 85 2292 85" 
+                    HPOS="2163"
+                    VPOS="11"
+                    WIDTH="128"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="2163 84 2163 99 2254 108 2255 108 2257 108 2258 108 2270 98 2271 98 2291 98 2291 84 2291 33 2253 33 2228 11 2227 11 2226 11 2196 11 2195 11 2194 11 2193 11 2163 30 2163 84"/></Shape>
+	    <String CONTENT="Hist."
+                    HPOS="2163"
+                    VPOS="11"
+                    WIDTH="128"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2165 160 2317 160" 
+                    HPOS="2164"
+                    VPOS="99"
+                    WIDTH="152"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="2164 158 2164 182 2316 182 2316 158 2316 110 2289 104 2287 104 2286 104 2264 108 2250 110 2241 107 2222 99 2221 99 2220 99 2164 102 2164 158"/></Shape>
+	    <String CONTENT="Nederl."
+                    HPOS="2164"
+                    VPOS="99"
+                    WIDTH="152"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="339 395 2311 387" 
+                    HPOS="337"
+                    VPOS="351"
+                    WIDTH="1973"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="338 394 338 422 481 416 606 421 607 421 608 421 633 415 777 419 778 419 779 419 804 413 848 419 850 419 974 413 1076 418 1078 418 1079 418 1103 412 1303 418 1304 418 1652 410 1898 416 1899 416 1901 416 1919 408 2073 408 2094 415 2095 415 2096 415 2098 415 2116 408 2241 408 2306 415 2310 386 2306 351 2152 358 1912 353 1891 353 1889 353 1885 353 1841 359 1813 354 1808 353 1807 353 1734 354 1466 360 1435 357 1416 354 1415 354 1414 354 1407 357 1395 362 1105 362 1062 359 996 355 995 355 948 360 919 363 821 362 667 358 666 358 665 358 655 363 650 365 413 365 412 364 389 358 388 358 386 358 337 364 338 394"/></Shape>
+	    <String CONTENT="Documents concernant le recrutement de la haute magistrature dans"
+                    HPOS="337"
+                    VPOS="351"
+                    WIDTH="1973"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="341 497 1788 489" 
+                    HPOS="338"
+                    VPOS="456"
+                    WIDTH="1449"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="340 496 340 534 432 533 433 533 466 518 521 520 544 532 548 533 549 533 550 533 551 533 556 532 593 517 795 522 797 522 863 513 888 520 889 520 890 520 941 516 1023 524 1039 525 1041 525 1042 525 1047 524 1069 516 1108 523 1118 524 1119 524 1129 523 1163 516 1198 522 1224 525 1225 525 1277 520 1324 516 1336 519 1344 522 1345 522 1346 522 1347 522 1354 519 1368 513 1511 517 1536 517 1537 517 1538 517 1540 517 1554 508 1601 516 1606 516 1607 516 1616 516 1647 512 1655 514 1680 523 1681 523 1683 523 1726 513 1740 511 1785 512 1787 488 1785 466 1708 456 1707 456 1564 465 1543 466 1524 465 1416 459 1415 459 1360 465 1349 466 1345 465 1325 458 1324 458 1323 458 1322 458 1304 465 1299 468 1281 465 1240 460 1239 460 1102 465 1028 468 969 465 866 460 864 460 863 460 853 465 846 469 826 465 813 463 811 463 810 463 804 465 790 471 689 471 665 465 649 461 648 461 618 465 564 472 516 472 498 465 494 463 492 463 491 463 490 463 481 465 454 471 338 465 340 496"/></Shape>
+	    <String CONTENT="les Pays-Bas autrichiens au dix-huitième siècle."
+                    HPOS="338"
+                    VPOS="456"
+                    WIDTH="1449"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1652 591 2241 591" 
+                    HPOS="1650"
+                    VPOS="551"
+                    WIDTH="589"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1650 589 1650 608 1669 615 1670 615 1671 615 1721 609 1745 615 1747 615 1748 615 1749 615 1750 615 1759 609 1820 615 1822 615 1823 615 1848 609 1850 609 1853 609 1883 615 1885 615 2239 610 2239 589 2239 557 2101 551 2100 551 2099 551 2079 559 2068 564 2007 564 1993 560 1957 551 1956 551 1955 551 1931 560 1926 562 1920 560 1910 556 1909 556 1908 556 1859 561 1844 562 1841 561 1828 551 1827 551 1825 551 1776 551 1775 551 1774 551 1772 551 1772 553 1763 562 1761 564 1715 564 1713 562 1678 553 1676 553 1675 553 1674 553 1650 562 1650 589"/></Shape>
+	    <String CONTENT="8:o Bruxelles 1939."
+                    HPOS="1650"
+                    VPOS="551"
+                    WIDTH="589"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="339 700 2141 691" 
+                    HPOS="337"
+                    VPOS="656"
+                    WIDTH="1803"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="338 699 338 731 412 722 513 722 553 731 555 731 556 731 559 731 609 721 651 730 652 730 654 730 718 721 761 730 784 734 786 734 787 734 805 729 827 724 901 726 903 726 904 726 926 720 1025 720 1055 727 1090 735 1091 735 1190 726 1192 726 1193 726 1218 734 1219 734 1220 734 1623 732 1803 721 1901 715 2137 718 2140 690 2136 657 2098 666 1942 658 1882 656 1881 656 1853 660 1792 667 1769 660 1760 657 1759 657 1758 657 1734 661 1690 667 1659 661 1650 660 1649 660 1648 660 1643 661 1620 668 1432 663 1308 660 1307 660 1305 660 1288 665 1267 671 1212 671 1196 665 1177 660 1176 660 1110 660 1108 660 1018 661 990 667 972 671 962 667 952 663 951 663 949 663 928 667 910 671 892 668 851 661 850 661 848 661 820 668 805 673 673 673 654 670 596 662 595 662 528 671 508 673 495 671 463 666 462 666 460 666 446 672 441 673 423 672 373 667 372 667 337 672 338 699"/></Shape>
+	    <String CONTENT="Se: Académie royale de Belgique. Commission royale d´histoire."
+                    HPOS="337"
+                    VPOS="656"
+                    WIDTH="1803"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="2146 737 2269 737" 
+                    HPOS="2145"
+                    VPOS="673"
+                    WIDTH="123"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="2145 736 2145 748 2212 761 2214 761 2268 756 2268 736 2268 698 2258 688 2258 687 2257 687 2255 687 2254 687 2253 687 2241 692 2217 673 2216 673 2215 673 2191 673 2190 673 2189 673 2188 673 2188 674 2161 700 2145 700 2145 736"/></Shape>
+	    <String CONTENT="Hist."
+                    HPOS="2145"
+                    VPOS="673"
+                    WIDTH="123"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="2156 814 2268 817" 
+                    HPOS="2153"
+                    VPOS="758"
+                    WIDTH="114"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="2154 812 2153 826 2175 837 2177 837 2178 837 2265 833 2267 816 2267 779 2200 758 2199 758 2198 758 2196 758 2154 774 2154 812"/></Shape>
+	    <String CONTENT="Belg"
+                    HPOS="2153"
+                    VPOS="758"
+                    WIDTH="114"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="2156 897 2284 897" 
+                    HPOS="2154"
+                    VPOS="858"
+                    WIDTH="129"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="2154 896 2154 906 2174 916 2175 916 2177 917 2249 917 2249 916 2250 916 2252 916 2252 915 2262 906 2283 906 2283 896 2283 867 2271 858 2270 858 2269 858 2243 858 2242 858 2241 858 2239 858 2239 859 2227 869 2225 873 2218 869 2206 864 2205 864 2204 864 2202 864 2201 864 2195 869 2190 873 2154 870 2154 896"/></Shape>
+	    <String CONTENT="Inst."
+                    HPOS="2154"
+                    VPOS="858"
+                    WIDTH="129"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="2098 980 2301 977" 
+                    HPOS="2095"
+                    VPOS="912"
+                    WIDTH="205"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="2096 979 2096 996 2147 996 2152 997 2185 1009 2186 1009 2188 1009 2300 1002 2300 976 2297 940 2249 933 2248 933 2247 933 2227 939 2221 940 2218 938 2184 912 2183 912 2181 912 2138 912 2137 912 2136 912 2135 912 2106 937 2104 939 2095 937 2096 979"/></Shape>
+	    <String CONTENT="Bruxelles"
+                    HPOS="2095"
+                    VPOS="912"
+                    WIDTH="205"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

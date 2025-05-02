@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01411-00264.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2304"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="13"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2304"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2302"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2303 1471 2303 1"/></Shape>
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="192 208 838 209" 
+                    HPOS="190"
+                    VPOS="131"
+                    WIDTH="647"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="191 207 190 224 217 230 218 230 219 230 229 225 239 222 246 226 249 229 250 229 251 229 252 229 253 229 260 226 266 224 271 228 277 231 278 231 279 231 353 233 354 233 355 233 364 230 374 228 379 230 382 234 384 234 385 234 386 235 473 235 473 234 474 234 476 234 489 228 509 234 510 234 511 234 512 234 514 234 534 222 565 222 579 231 580 231 581 231 582 231 625 229 639 239 639 240 640 240 641 240 642 240 644 240 645 239 664 229 706 234 707 234 709 234 710 234 717 226 732 234 733 234 734 234 760 231 780 244 781 245 782 245 783 245 785 246 836 246 837 208 836 181 738 179 731 172 707 152 706 152 705 152 704 152 702 152 701 152 680 169 672 175 640 181 620 164 603 148 603 147 602 147 601 147 599 147 598 147 597 147 576 160 545 180 536 171 536 170 534 170 533 170 532 170 511 172 489 154 474 141 474 139 473 139 472 139 471 139 469 139 468 139 455 150 415 182 402 182 358 143 357 142 355 142 354 142 353 142 352 142 349 143 321 158 303 139 296 133 296 132 295 132 294 132 191 131 191 207"/></Shape>
+	    <String CONTENT="Pietsch, Ludwig"
+                    HPOS="190"
+                    VPOS="131"
+                    WIDTH="647"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="168 313 2261 316" 
+                    HPOS="165"
+                    VPOS="260"
+                    WIDTH="2094"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="166 312 165 336 637 337 694 347 710 349 711 349 737 348 801 344 828 350 844 353 845 353 896 352 902 352 904 352 1002 377 1003 377 1004 379 1061 379 1061 377 1062 377 1106 365 1250 365 1250 364 1251 364 1271 359 1329 344 1413 361 1493 379 1494 380 1753 380 1753 379 1754 379 1781 370 1850 345 1889 343 2027 352 2142 377 2153 379 2154 380 2258 380 2259 315 2258 277 2199 266 2198 266 2146 269 2121 261 2119 261 1993 261 1992 261 1929 273 1888 283 1662 283 1582 280 1539 271 1495 261 1494 261 1443 269 1383 280 1327 268 1295 262 1294 262 1215 267 1196 260 1194 260 1193 260 1136 267 1115 269 1105 267 1084 260 1083 260 1082 260 1010 266 982 268 969 266 939 260 938 260 909 264 834 280 720 264 718 264 717 264 671 282 445 282 385 261 380 260 379 260 166 260 166 312"/></Shape>
+	    <String CONTENT="Se: Turgenev, Ivan Sergěvič, Iwan Turgenjew an Ludwig"
+                    HPOS="165"
+                    VPOS="260"
+                    WIDTH="2094"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="300 420 1018 412" 
+                    HPOS="298"
+                    VPOS="368"
+                    WIDTH="719"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="299 419 299 435 399 452 401 452 402 452 403 452 414 445 424 452 425 452 426 452 428 452 480 441 506 435 520 441 527 445 528 445 529 445 531 445 539 442 547 440 552 442 563 450 564 450 565 450 566 450 568 450 588 444 590 444 591 444 642 458 644 458 645 458 646 458 647 458 663 446 667 442 672 446 693 457 694 457 695 457 696 457 698 457 714 447 722 453 723 453 725 453 726 453 727 453 747 447 755 445 756 445 777 429 853 429 864 437 866 437 867 437 868 437 902 430 939 453 940 455 942 455 943 455 944 456 1017 456 1017 410 1013 392 911 392 905 388 875 368 874 368 873 368 872 368 871 368 833 386 826 390 821 386 797 368 796 368 794 368 793 368 792 368 791 368 791 369 775 385 764 396 731 396 718 385 718 383 717 383 716 383 715 383 714 383 712 383 712 385 700 396 679 388 678 388 677 388 675 388 658 396 630 383 629 383 628 383 626 383 585 398 558 398 538 377 529 370 529 369 528 369 527 369 505 369 504 369 503 369 501 369 490 376 467 392 444 375 437 370 436 370 435 370 434 370 433 370 417 374 399 379 393 374 392 372 392 371 391 371 390 371 298 371 299 419"/></Shape>
+	    <String CONTENT="Pietsch. 1923.  }  Biogr."
+                    HPOS="298"
+                    VPOS="368"
+                    WIDTH="719"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="876 472 972 469" 
+                    HPOS="873"
+                    VPOS="424"
+                    WIDTH="98"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="875 471 875 491 909 494 915 501 933 517 933 518 934 518 936 518 937 518 971 512 971 468 965 424 939 440 918 440 904 431 898 428 896 428 895 428 894 428 893 428 873 434 875 471"/></Shape>
+	    <String CONTENT="Ry"
+                    HPOS="873"
+                    VPOS="424"
+                    WIDTH="98"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="814 536 1251 536" 
+                    HPOS="813"
+                    VPOS="490"
+                    WIDTH="437"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="813 534 813 560 861 559 874 561 920 572 921 572 922 572 923 572 934 565 952 581 952 582 953 582 954 582 955 583 1028 583 1028 582 1029 582 1030 582 1058 565 1068 559 1101 565 1112 567 1113 567 1115 567 1116 567 1117 566 1137 553 1248 567 1250 534 1250 490 1187 490 1186 490 1185 490 1183 490 1182 491 1155 513 1116 505 1115 505 1061 515 943 515 927 502 926 502 925 502 923 502 922 502 913 507 905 501 893 490 891 490 890 490 836 490 835 490 834 490 833 490 813 501 813 534"/></Shape>
+	    <String CONTENT="[Turgenev, I.]"
+                    HPOS="813"
+                    VPOS="490"
+                    WIDTH="437"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

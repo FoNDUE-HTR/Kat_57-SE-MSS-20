@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01498-00122.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="13"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2315 1471 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="120 228 899 233" 
+                    HPOS="117"
+                    VPOS="184"
+                    WIDTH="780"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="118 226 117 251 125 257 125 258 126 258 127 258 128 260 266 260 266 258 267 258 268 258 280 249 284 246 307 246 310 249 321 258 321 260 322 260 323 260 325 260 394 249 408 247 495 247 496 249 505 256 505 257 506 257 507 257 509 257 602 251 621 260 623 260 624 260 625 260 646 250 648 249 677 249 679 250 686 256 688 256 689 256 690 256 896 250 897 231 897 198 745 198 744 197 732 187 731 187 729 187 728 187 683 195 659 186 658 186 657 186 538 196 528 196 527 196 505 185 504 185 502 185 501 185 475 195 455 195 453 195 444 187 442 187 441 187 440 187 392 195 391 195 390 195 377 185 376 185 375 185 312 184 311 184 310 184 279 192 177 192 143 184 142 184 141 184 118 192 118 226"/></Shape>
+	    <String CONTENT="REIN, [Friedrich] Hermann"
+                    HPOS="117"
+                    VPOS="184"
+                    WIDTH="780"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="120 327 2288 324" 
+                    HPOS="117"
+                    VPOS="284"
+                    WIDTH="2170"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="118 326 120 349 220 349 251 358 252 358 253 359 583 359 583 358 585 358 617 348 619 348 685 348 1340 353 1342 353 1370 347 1375 347 1380 347 1446 356 1447 356 1528 347 1533 347 1537 347 1576 354 1577 355 1577 354 1616 347 1620 347 1763 347 1766 347 1808 356 1809 358 2227 358 2227 356 2285 345 2287 323 2285 289 2112 287 2111 287 2097 289 2079 293 2053 289 2017 284 1681 284 1680 284 1679 284 1657 290 1648 294 1479 294 1472 291 1448 285 1447 285 1446 285 1394 291 1382 293 1376 291 1346 284 1345 284 1344 284 1343 284 1319 291 1316 293 1302 291 1234 285 1232 285 1231 285 1207 293 1199 294 1187 293 1143 285 1142 285 1102 293 1091 295 803 295 799 294 764 285 763 285 723 294 720 294 701 294 467 287 466 287 404 294 287 285 285 285 218 294 157 285 155 285 154 285 117 295 118 326"/></Shape>
+	    <String CONTENT="Se: Nachrichten der Akademie der Wissenschaften in Göttingen.Math.-phys."
+                    HPOS="117"
+                    VPOS="284"
+                    WIDTH="2170"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="235 429 1325 429" 
+                    HPOS="234"
+                    VPOS="393"
+                    WIDTH="1090"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="234 428 234 446 260 455 261 455 262 455 363 453 364 453 365 453 375 447 376 447 435 455 436 455 437 455 461 448 483 455 484 455 485 455 486 455 488 455 500 447 512 447 641 455 642 455 697 448 709 447 718 448 761 455 763 456 851 456 851 455 852 455 853 455 862 448 863 448 875 448 962 453 964 453 965 453 973 448 978 447 1323 450 1324 428 1324 406 1281 406 1264 393 1263 393 1262 393 1189 393 1188 393 1187 393 1186 393 1169 404 1065 394 1064 394 1063 394 1030 406 978 406 961 393 960 393 959 393 958 393 828 402 796 393 794 393 793 393 792 393 791 393 772 406 705 406 688 393 686 393 685 393 684 393 683 393 664 403 590 393 588 393 587 393 555 404 539 393 538 393 537 393 466 393 464 393 463 393 441 404 394 397 393 397 325 402 289 393 288 393 287 393 234 404 234 428"/></Shape>
+	    <String CONTENT="Klasse.2 b.Biol.-physiol.-chem.Abt."
+                    HPOS="234"
+                    VPOS="393"
+                    WIDTH="1090"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1367 381 1477 377" 
+                    HPOS="1364"
+                    VPOS="343"
+                    WIDTH="112"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1366 380 1366 402 1476 396 1476 376 1474 354 1440 345 1438 345 1437 345 1416 355 1415 355 1400 343 1399 343 1398 343 1378 343 1377 343 1376 343 1375 343 1364 350 1366 380"/></Shape>
+	    <String CONTENT="Acta"
+                    HPOS="1364"
+                    VPOS="343"
+                    WIDTH="112"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1378 426 1437 429" 
+                    HPOS="1376"
+                    VPOS="388"
+                    WIDTH="60"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="1377 425 1376 434 1405 445 1407 445 1408 445 1409 445 1435 436 1436 428 1436 401 1408 388 1407 388 1405 388 1404 388 1377 396 1377 425"/></Shape>
+	    <String CONTENT="Ty"
+                    HPOS="1376"
+                    VPOS="388"
+                    WIDTH="60"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1386 480 2168 466" 
+                    HPOS="1383"
+                    VPOS="433"
+                    WIDTH="784"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="1384 479 1384 489 1400 500 1402 500 1403 500 1447 502 1448 502 1646 484 1698 484 1713 496 1714 496 1716 496 1717 498 1759 498 1759 496 1880 484 1889 490 1890 490 1891 490 1892 490 1894 490 1895 490 1907 482 1919 491 1919 493 1921 493 1922 493 1923 494 1970 494 1970 493 1971 493 1972 493 1990 478 2026 490 2027 490 2028 490 2030 490 2031 490 2047 478 2078 490 2079 490 2080 490 2119 482 2133 486 2134 486 2135 486 2136 486 2167 473 2167 464 2163 447 2113 447 2111 446 2086 435 2085 435 2084 435 2082 435 2081 435 2081 436 2069 446 2068 448 2064 446 2035 433 2033 433 2032 433 2016 434 2015 434 2014 434 2014 435 2001 446 1998 450 1989 446 1962 435 1961 435 1933 435 1932 435 1930 435 1929 435 1929 436 1918 446 1917 447 1914 446 1908 444 1907 444 1906 444 1905 444 1898 446 1881 452 1874 446 1864 436 1863 436 1862 436 1860 436 1859 436 1838 446 1837 446 1831 446 1773 437 1772 437 1745 439 1744 439 1743 439 1743 440 1737 445 1725 456 1532 458 1496 445 1492 444 1491 444 1490 444 1489 444 1487 444 1487 445 1476 455 1442 461 1421 445 1420 445 1419 445 1383 445 1384 479"/></Shape>
+	    <String CONTENT="Göttingen. Akad. d. Wiss."
+                    HPOS="1383"
+                    VPOS="433"
+                    WIDTH="784"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="241 531 2312 531" 
+                    HPOS="240"
+                    VPOS="491"
+                    WIDTH="2071"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="240 529 240 552 338 569 339 570 398 570 398 569 399 569 461 553 463 553 566 553 570 553 596 560 597 560 598 561 598 560 599 560 624 554 629 553 839 553 848 554 884 561 885 561 951 555 975 553 1032 555 1128 559 1129 559 1178 555 1218 553 1232 555 1274 565 1411 569 1413 570 1900 570 1900 569 1944 558 1968 553 2309 559 2311 529 2311 501 2237 491 2236 491 2022 500 2020 500 2017 500 1885 491 1884 491 1788 500 1786 500 1783 500 1717 491 1716 491 1659 500 1657 500 1653 500 1519 491 1518 491 1447 498 1421 491 1420 491 1419 491 1418 491 1392 500 1391 500 1387 500 1306 493 1305 493 1303 493 1281 500 1280 501 975 501 972 500 948 491 947 491 945 491 944 491 917 500 915 500 911 500 868 493 867 493 832 500 829 500 823 500 771 494 770 494 712 500 705 500 701 500 664 491 663 491 662 491 637 500 635 501 571 501 567 500 537 491 536 491 534 491 473 500 467 500 461 500 412 491 410 491 409 491 386 499 322 491 321 491 240 499 240 529"/></Shape>
+	    <String CONTENT="1949:2. Über die Beeinflussung von Hypoxybiosen durch Milz und Leber"
+                    HPOS="240"
+                    VPOS="491"
+                    WIDTH="2071"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="485 581 1121 581" 
+                    HPOS="484"
+                    VPOS="545"
+                    WIDTH="635"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="484 580 484 610 581 618 582 618 619 614 620 614 621 614 621 613 625 610 631 605 672 605 680 609 693 618 694 618 695 618 696 619 818 619 818 618 819 618 837 608 841 607 1119 607 1119 580 1119 558 1100 558 1088 547 1088 545 1086 545 1085 545 1084 545 1083 545 1064 553 1057 545 1056 545 1054 545 1053 545 1052 545 1032 552 1015 545 1014 545 1013 545 1012 545 1010 545 999 555 982 545 981 545 980 545 978 545 977 545 964 556 873 550 872 550 870 550 850 556 836 545 835 545 834 545 832 545 831 545 797 555 788 549 787 549 786 549 785 549 783 549 763 554 751 545 750 545 749 545 689 545 688 545 686 545 685 545 672 555 617 545 615 545 614 545 613 545 613 547 602 556 571 547 570 547 569 547 567 547 566 547 566 548 556 556 542 550 540 550 539 550 538 550 525 556 501 545 500 545 499 545 498 545 496 545 484 554 484 580"/></Shape>
+	    <String CONTENT="bei Haifischen. 1949."
+                    HPOS="484"
+                    VPOS="545"
+                    WIDTH="635"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00034.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2319 1479 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="276 213 1186 204" 
+                    HPOS="273"
+                    VPOS="155"
+                    WIDTH="912"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="275 212 275 223 403 233 404 233 461 225 531 231 532 231 534 231 556 222 558 222 616 229 617 229 619 229 649 222 667 229 668 229 669 229 670 229 693 220 694 220 699 220 783 229 784 229 862 228 863 228 864 228 875 219 876 219 905 226 906 226 907 226 909 226 928 219 932 218 986 218 991 218 1026 226 1027 226 1159 225 1160 225 1185 217 1185 203 1181 177 1069 178 1060 176 1010 155 1008 155 939 155 938 155 937 155 936 155 911 173 910 176 907 173 902 170 901 170 900 170 899 170 897 170 886 173 862 183 816 183 800 173 796 170 795 170 794 170 793 170 791 170 780 172 759 178 744 172 725 164 723 164 722 164 689 171 651 159 649 159 598 159 596 159 595 159 594 159 577 171 571 176 530 186 467 180 466 180 408 186 368 168 350 161 349 161 347 161 273 167 275 212"/></Shape>
+	    <String CONTENT="Morris William O´Connor"
+                    HPOS="273"
+                    VPOS="155"
+                    WIDTH="912"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="276 298 1812 288" 
+                    HPOS="273"
+                    VPOS="256"
+                    WIDTH="1538"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="275 297 275 315 386 328 387 328 542 319 652 325 653 325 654 325 684 315 691 314 705 315 757 324 758 324 825 315 842 314 857 315 900 323 901 323 902 323 923 315 927 315 931 315 957 321 958 321 1005 315 1043 312 1184 315 1221 316 1222 316 1244 315 1351 310 1370 315 1388 321 1390 321 1391 321 1422 315 1444 312 1462 315 1482 320 1483 321 1578 321 1578 320 1579 320 1589 315 1600 310 1618 315 1629 319 1630 319 1631 319 1663 315 1715 310 1729 315 1734 318 1735 318 1736 318 1750 315 1779 310 1810 315 1811 287 1809 266 1704 259 1703 259 1702 259 1681 265 1449 261 1447 261 1350 267 1338 267 1334 267 1287 256 1286 256 1239 267 1232 268 1211 267 1064 257 1063 257 889 268 864 270 859 268 827 260 826 260 825 260 700 266 682 260 680 260 679 260 678 260 646 268 593 261 592 261 531 270 527 270 516 270 293 262 292 262 291 262 273 268 275 297"/></Shape>
+	    <String CONTENT="Ireland 1494-1868 with two introductory chapters."
+                    HPOS="273"
+                    VPOS="256"
+                    WIDTH="1538"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="274 471 1175 466" 
+                    HPOS="272"
+                    VPOS="426"
+                    WIDTH="902"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="273 469 273 509 283 514 284 514 286 514 287 514 303 508 341 493 353 501 355 501 356 501 357 501 395 495 440 503 441 503 442 503 466 490 510 490 553 509 563 513 564 513 566 514 611 514 611 513 612 513 622 509 667 490 711 495 727 508 728 508 730 508 731 508 732 508 770 492 812 503 814 503 815 503 816 503 839 493 897 501 899 501 900 501 901 501 922 488 958 488 1006 503 1007 503 1008 503 1052 495 1081 510 1082 510 1084 511 1172 511 1174 464 1171 431 1156 429 1155 429 1154 429 1149 430 1119 444 1082 432 1081 432 1080 432 1079 432 1055 444 978 444 947 431 946 431 944 431 943 431 915 445 875 436 874 436 873 436 853 445 838 434 837 434 836 434 835 434 774 439 704 429 703 429 701 429 700 429 673 446 562 435 561 435 559 435 518 446 484 432 483 432 482 432 481 432 479 432 463 445 436 446 407 441 390 426 389 426 388 426 272 426 273 469"/></Shape>
+	    <String CONTENT="[Cambridge historial series.]"
+                    HPOS="272"
+                    VPOS="426"
+                    WIDTH="902"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2093 55 2298 58" 
+                    HPOS="2090"
+                    VPOS="2"
+                    WIDTH="207"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="2091 54 2090 67 2118 78 2120 78 2121 78 2122 78 2123 78 2133 72 2134 71 2136 72 2147 77 2148 77 2149 77 2176 76 2194 75 2197 77 2204 83 2204 85 2205 85 2206 85 2207 85 2208 85 2226 80 2250 74 2262 83 2264 86 2265 86 2266 86 2268 87 2296 87 2297 57 2297 2 2255 2 2254 2 2253 2 2245 6 2216 23 2196 23 2176 12 2154 2 2153 2 2152 2 2151 2 2149 2 2125 17 2117 20 2091 20 2091 54"/></Shape>
+	    <String CONTENT="Hist."
+                    HPOS="2090"
+                    VPOS="2"
+                    WIDTH="207"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2146 120 2269 125" 
+                    HPOS="2143"
+                    VPOS="69"
+                    WIDTH="126"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="2144 119 2143 136 2158 144 2159 144 2160 145 2266 145 2268 124 2269 70 2233 69 2232 69 2231 69 2229 69 2229 70 2227 72 2217 80 2194 74 2188 72 2186 72 2185 72 2144 76 2144 119"/></Shape>
+	    <String CONTENT="Irl"
+                    HPOS="2143"
+                    VPOS="69"
+                    WIDTH="126"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1333 375 2288 370" 
+                    HPOS="1330"
+                    VPOS="330"
+                    WIDTH="957"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1332 374 1332 416 1401 408 1446 414 1447 414 1449 414 1450 414 1467 399 1499 415 1504 418 1505 418 1507 418 1591 416 1592 416 1600 414 1640 398 1793 398 1831 409 1852 415 1853 415 1855 416 1922 416 1922 415 1924 415 1945 407 1973 397 2020 397 2037 405 2052 414 2053 414 2054 415 2128 415 2128 414 2130 414 2153 403 2170 395 2285 400 2287 370 2285 346 2197 335 2196 335 2195 335 2158 345 2144 349 2120 345 2091 341 2090 341 2069 345 2043 350 2023 345 1984 334 1983 334 1982 334 1980 334 1979 334 1963 345 1953 351 1883 351 1871 344 1842 331 1841 331 1840 331 1838 331 1806 344 1790 350 1732 345 1731 345 1656 351 1645 344 1629 330 1628 330 1626 330 1625 330 1521 331 1520 331 1489 344 1482 346 1475 344 1450 331 1449 331 1348 331 1346 331 1345 331 1344 331 1330 339 1332 374"/></Shape>
+	    <String CONTENT="[Reprint]  8ᵒ Cambridge 1898."
+                    HPOS="1330"
+                    VPOS="330"
+                    WIDTH="957"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

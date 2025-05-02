@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01498-00292.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2296"
+          HEIGHT="1470"
+          PHYSICAL_IMG_NR="33"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2296"
+                  HEIGHT="1470">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2294"
+                   HEIGHT="1468"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1469 2295 1469 2295 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="121 161 805 161" 
+                    HPOS="120"
+                    VPOS="102"
+                    WIDTH="684"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="120 160 120 178 151 186 153 186 363 180 426 186 427 186 428 186 430 186 436 180 461 187 463 187 464 188 542 188 542 187 543 187 558 180 589 187 590 187 591 187 743 181 764 187 765 187 766 187 768 187 769 187 777 180 804 180 804 160 803 133 708 134 698 132 686 128 659 104 659 102 657 102 656 102 627 102 626 102 624 102 623 102 583 131 578 134 570 131 555 124 553 124 552 124 503 131 474 134 470 131 442 104 442 102 441 102 439 102 438 102 437 102 400 115 376 104 374 104 373 104 372 104 371 104 340 129 334 134 306 129 275 124 254 104 254 102 253 102 252 102 181 102 180 102 178 102 177 102 153 121 133 120 132 120 131 120 129 120 120 126 120 160"/></Shape>
+	    <String CONTENT="Reinbot von Durne"
+                    HPOS="120"
+                    VPOS="102"
+                    WIDTH="684"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2103 58 2203 54" 
+                    HPOS="2099"
+                    VPOS="6"
+                    WIDTH="103"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="2102 57 2102 77 2134 73 2144 75 2168 80 2169 80 2171 80 2202 69 2202 53 2200 18 2157 6 2156 6 2155 6 2153 6 2152 6 2145 12 2141 14 2099 6 2102 57"/></Shape>
+	    <String CONTENT="Vitt"
+                    HPOS="2099"
+                    VPOS="6"
+                    WIDTH="103"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2098 103 2160 106" 
+                    HPOS="2096"
+                    VPOS="63"
+                    WIDTH="62"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="2097 102 2096 117 2102 122 2103 122 2104 122 2106 122 2157 120 2158 105 2158 71 2129 63 2128 63 2126 63 2097 68 2097 102"/></Shape>
+	    <String CONTENT="Ty"
+                    HPOS="2096"
+                    VPOS="63"
+                    WIDTH="62"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2042 176 2219 180" 
+                    HPOS="2039"
+                    VPOS="142"
+                    WIDTH="179"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="2041 175 2039 198 2158 205 2160 205 2217 198 2218 178 2218 144 2041 142 2041 175"/></Shape>
+	    <String CONTENT="Äldre."
+                    HPOS="2039"
+                    VPOS="142"
+                    WIDTH="179"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="151 251 2243 245" 
+                    HPOS="149"
+                    VPOS="194"
+                    WIDTH="2093"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="150 249 150 275 553 279 555 279 630 274 676 271 711 274 763 278 764 278 861 273 907 271 983 273 1192 278 1193 278 1321 271 1361 270 1400 271 1533 276 1535 276 1677 270 1718 269 1729 270 1764 275 1765 275 1929 269 1957 269 1982 269 2164 275 2166 275 2239 268 2242 245 2239 208 2146 198 2145 198 2004 207 1989 207 1979 207 1895 198 1894 198 1819 205 1804 207 1797 205 1748 194 1747 194 1656 205 1625 208 1567 204 1515 202 1514 202 1487 204 1449 208 1432 204 1396 196 1302 196 1301 196 1265 203 1242 208 1203 203 1152 197 1151 197 1118 203 1081 210 978 210 931 202 918 200 917 200 916 200 911 202 889 209 731 202 730 202 670 211 629 211 600 200 592 198 591 198 590 198 575 200 520 211 452 211 396 199 385 198 384 198 149 198 150 249"/></Shape>
+	    <String CONTENT="Der heilige Georg Reinbots von Durne. Nach sämtlichen Handschriften her-"
+                    HPOS="149"
+                    VPOS="194"
+                    WIDTH="2093"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="162 333 1143 328" 
+                    HPOS="160"
+                    VPOS="284"
+                    WIDTH="981"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="161 331 161 343 211 374 213 374 214 374 215 376 356 376 356 374 357 374 420 354 449 358 450 358 452 358 468 350 487 361 488 361 490 362 539 362 539 361 540 361 563 349 650 340 691 350 692 350 693 350 694 350 704 345 727 356 728 356 730 356 806 340 909 356 910 356 911 356 936 343 1037 351 1038 351 1141 336 1141 327 1136 292 1106 305 1073 305 1052 294 1035 285 1034 285 982 284 981 284 980 284 942 296 915 305 872 305 850 297 817 285 815 285 814 285 765 294 752 285 751 285 749 285 700 285 699 285 698 285 667 298 649 286 648 286 646 286 602 286 601 286 600 286 556 302 543 307 474 307 469 303 443 286 442 286 441 286 409 286 407 286 406 286 405 286 376 305 371 308 318 308 316 306 296 297 295 297 294 297 292 297 262 307 260 308 160 308 161 331"/></Shape>
+	    <String CONTENT="ausgegeben von Carl von Kraus."
+                    HPOS="160"
+                    VPOS="284"
+                    WIDTH="981"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="135 503 1216 497" 
+                    HPOS="133"
+                    VPOS="445"
+                    WIDTH="1082"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="134 502 134 540 350 521 379 535 381 535 382 535 383 535 412 524 439 540 441 540 442 540 443 541 481 541 481 540 482 540 483 540 508 530 520 539 521 539 523 539 524 539 525 539 564 529 578 534 579 534 580 534 581 534 626 520 704 520 724 531 725 531 726 531 774 520 818 530 819 530 872 524 889 532 890 532 891 532 950 519 997 525 998 525 1069 519 1125 536 1127 536 1128 536 1129 536 1215 535 1215 496 1212 467 1174 467 1152 452 1151 452 1150 452 1149 452 1031 461 985 445 983 445 904 445 902 445 901 445 868 454 855 445 853 445 852 445 851 445 850 445 807 459 782 449 781 449 780 449 727 460 708 447 706 447 705 447 621 447 619 447 618 447 617 447 585 469 583 471 546 471 541 470 524 459 523 459 521 459 520 459 519 459 496 470 492 472 346 472 311 470 281 469 236 449 235 449 177 449 176 449 175 449 133 469 134 502"/></Shape>
+	    <String CONTENT="[Germanische Bibliothek. Abt. 3. Bd 1.]"
+                    HPOS="133"
+                    VPOS="445"
+                    WIDTH="1082"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1398 417 1875 408" 
+                    HPOS="1396"
+                    VPOS="367"
+                    WIDTH="478"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1397 416 1397 441 1449 441 1456 442 1506 454 1508 454 1509 454 1537 443 1541 441 1595 438 1604 443 1657 478 1658 478 1660 478 1661 478 1752 476 1753 476 1754 476 1754 475 1761 467 1775 474 1776 474 1777 474 1778 474 1815 455 1852 460 1853 460 1854 460 1856 460 1874 448 1874 407 1870 367 1734 382 1718 373 1710 368 1709 368 1679 368 1678 368 1677 368 1676 368 1676 369 1668 376 1662 380 1649 376 1638 373 1636 373 1635 373 1634 373 1633 373 1633 374 1629 377 1623 384 1598 384 1586 379 1567 371 1565 371 1564 371 1499 372 1498 372 1482 380 1442 373 1440 373 1439 373 1438 373 1421 387 1418 388 1396 388 1397 416"/></Shape>
+	    <String CONTENT="8º Heidelberg 1907."
+                    HPOS="1396"
+                    VPOS="367"
+                    WIDTH="478"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

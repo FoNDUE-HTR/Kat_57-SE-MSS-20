@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01334-00206.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2336"
+          HEIGHT="1496"
+          PHYSICAL_IMG_NR="22"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2336"
+                  HEIGHT="1496">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2334"
+                   HEIGHT="1494"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1495 2335 1495 2335 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="215 246 719 250" 
+                    HPOS="213"
+                    VPOS="189"
+                    WIDTH="505"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="214 245 213 274 215 276 217 276 217 278 218 278 219 278 220 279 342 279 342 278 344 278 366 265 374 261 385 265 414 275 415 275 416 275 417 275 440 266 461 273 462 273 463 273 465 273 466 273 475 265 495 279 496 279 497 279 498 279 500 279 525 265 552 273 553 273 555 273 556 273 557 273 566 265 622 270 623 270 624 270 626 270 637 261 638 261 717 261 718 249 713 193 693 210 653 218 555 218 497 193 490 190 488 190 427 190 426 190 425 190 416 194 404 199 386 194 375 190 374 190 372 190 371 190 370 190 366 194 344 210 330 204 329 204 328 204 326 204 325 204 314 211 295 194 290 190 290 189 289 189 288 189 286 189 214 194 214 245"/></Shape>
+	    <String CONTENT="OLAI, Martinus"
+                    HPOS="213"
+                    VPOS="189"
+                    WIDTH="505"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="212 344 1158 350" 
+                    HPOS="209"
+                    VPOS="300"
+                    WIDTH="948"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="210 342 209 390 461 396 462 396 463 396 486 385 500 377 527 383 547 387 548 387 550 387 566 382 613 367 728 378 732 378 733 378 738 378 825 369 848 376 911 398 912 398 914 398 946 393 947 393 985 374 992 370 1156 370 1157 349 1156 321 1098 321 1097 320 1071 306 1070 306 1068 306 997 320 994 320 992 320 969 302 967 302 966 302 888 302 886 302 885 302 845 319 844 319 833 319 780 315 760 301 759 301 758 301 700 301 699 301 698 301 697 301 675 316 652 317 639 317 629 317 591 314 572 300 571 300 569 300 568 300 567 300 528 312 470 307 468 307 467 307 451 316 450 316 441 310 440 310 439 310 437 310 329 315 323 315 321 315 313 307 311 307 310 307 309 307 210 314 210 342"/></Shape>
+	    <String CONTENT="Se: OLSSON, [Axel Vilhelm] Martin"
+                    HPOS="209"
+                    VPOS="300"
+                    WIDTH="948"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

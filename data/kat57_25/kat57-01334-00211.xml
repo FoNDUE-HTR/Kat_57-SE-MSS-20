@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01334-00211.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="25"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2319 1479 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="244 202 1050 199" 
+                    HPOS="241"
+                    VPOS="127"
+                    WIDTH="808"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="242 201 242 234 272 250 273 250 275 250 276 250 293 241 346 250 347 250 349 250 383 241 418 254 419 254 420 255 466 255 466 254 467 254 468 254 501 229 511 223 562 228 577 229 578 229 579 229 582 228 590 223 599 228 600 228 601 228 603 228 620 228 709 222 714 225 742 251 742 252 743 252 744 252 746 254 805 254 805 252 806 252 833 239 852 252 853 252 854 252 855 254 912 254 912 252 913 252 915 252 960 223 963 222 1048 222 1049 198 1047 166 928 166 922 160 880 127 879 127 878 127 827 127 826 127 825 127 823 127 791 155 788 159 741 165 725 159 723 159 722 159 684 162 669 152 668 152 667 152 666 152 664 152 663 152 656 157 642 149 615 131 614 131 612 131 611 131 610 131 609 131 592 146 571 165 557 166 530 162 509 143 492 128 490 128 489 128 455 128 453 128 452 128 451 128 436 140 414 159 384 138 370 128 368 128 367 128 366 128 241 131 242 201"/></Shape>
+	    <String CONTENT="Olai Upsaliensis, Georgius,"
+                    HPOS="241"
+                    VPOS="127"
+                    WIDTH="808"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1960 344 2253 351" 
+                    HPOS="1958"
+                    VPOS="278"
+                    WIDTH="294"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="1959 342 1958 381 1994 382 1995 382 1996 382 2017 372 2030 383 2031 383 2032 383 2033 383 2035 383 2072 368 2110 374 2111 374 2148 367 2157 374 2158 374 2159 374 2160 374 2212 370 2231 386 2231 387 2232 387 2233 387 2249 388 2252 350 2252 296 2175 284 2174 284 2173 284 2138 293 2130 296 2127 293 2112 282 2111 282 2110 282 2109 282 2056 284 2046 278 2044 278 2043 278 2021 278 2020 278 2019 278 1993 292 1991 292 1959 292 1959 342"/></Shape>
+	    <String CONTENT="(Paleot. Sv."
+                    HPOS="1958"
+                    VPOS="278"
+                    WIDTH="294"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="237 381 1968 376" 
+                    HPOS="235"
+                    VPOS="314"
+                    WIDTH="1732"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="236 379 236 403 298 403 302 404 331 416 333 416 334 416 393 413 439 426 440 426 441 426 479 425 522 435 524 436 648 436 648 435 649 435 721 405 732 402 985 402 1020 407 1086 415 1087 415 1089 415 1111 408 1124 403 1160 407 1161 407 1190 400 1211 408 1260 426 1261 426 1262 426 1264 426 1277 423 1313 432 1314 432 1316 432 1568 431 1663 409 1694 403 1720 410 1723 410 1724 410 1725 410 1730 410 1756 404 1781 410 1806 416 1808 416 1809 416 1837 410 1885 399 1921 410 1927 413 1929 413 1930 413 1967 410 1967 374 1964 350 1890 350 1889 349 1767 314 1766 314 1662 314 1661 314 1592 326 1538 323 1536 323 1535 323 1461 346 1447 351 1316 351 1297 345 1193 315 1192 315 1191 315 1190 315 1102 344 1079 352 822 352 784 342 774 340 773 340 757 341 690 351 661 341 657 340 656 340 654 340 633 341 589 344 579 340 513 318 511 318 294 318 293 318 292 318 235 336 236 379"/></Shape>
+	    <String CONTENT="Se: Historia piissimi ac sanctissimi martyris. Jº Hussi..."
+                    HPOS="235"
+                    VPOS="314"
+                    WIDTH="1732"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2052 400 2176 404" 
+                    HPOS="2049"
+                    VPOS="362"
+                    WIDTH="126"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="2051 399 2049 437 2086 435 2093 442 2095 444 2095 445 2096 445 2097 445 2099 445 2100 445 2106 442 2116 439 2171 446 2175 403 2173 363 2155 371 2136 365 2134 365 2133 365 2132 365 2131 365 2125 368 2121 365 2118 363 2118 362 2117 362 2116 362 2115 362 2051 367 2051 399"/></Shape>
+	    <String CONTENT="1586"
+                    HPOS="2049"
+                    VPOS="362"
+                    WIDTH="126"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

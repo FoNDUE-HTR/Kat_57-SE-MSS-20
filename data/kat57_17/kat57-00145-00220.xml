@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00220.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="27"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2315 1477 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="216 56 345 53" 
+                    HPOS="214"
+                    VPOS="8"
+                    WIDTH="130"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="215 55 215 88 256 93 257 93 344 76 344 52 343 19 319 8 317 8 316 8 315 8 285 17 234 8 232 8 231 8 230 8 214 17 215 55"/></Shape>
+	    <String CONTENT="1952"
+                    HPOS="214"
+                    VPOS="8"
+                    WIDTH="130"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2050 72 2101 72" 
+                    HPOS="2049"
+                    VPOS="20"
+                    WIDTH="51"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="2049 71 2049 115 2100 104 2100 71 2100 24 2049 20 2049 71"/></Shape>
+	    <String CONTENT="(Br."
+                    HPOS="2049"
+                    VPOS="20"
+                    WIDTH="51"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2141 37 2242 33" 
+                    HPOS="2137"
+                    VPOS="1"
+                    WIDTH="103"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="2223 1 2214 1 2198 8 2173 1 2171 1 2170 1 2169 1 2137 11 2139 36 2139 52 2240 54 2240 32 2238 6 2224 1 2223 1"/></Shape>
+	    <String CONTENT="Hist."
+                    HPOS="2137"
+                    VPOS="1"
+                    WIDTH="103"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="152 235 1006 238" 
+                    HPOS="150"
+                    VPOS="192"
+                    WIDTH="855"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="151 234 150 267 342 270 343 270 344 270 354 266 370 257 396 257 415 264 427 269 428 269 429 269 431 269 441 264 452 258 481 264 486 264 487 264 492 264 514 259 527 263 544 269 545 269 546 269 586 263 614 258 638 262 682 270 683 270 684 270 686 270 698 262 704 258 753 258 757 261 767 267 768 267 769 267 771 267 810 263 817 269 819 269 820 269 821 269 850 263 857 269 858 269 859 269 861 269 862 269 886 259 899 267 900 267 901 267 902 267 943 262 973 273 974 273 975 273 976 273 1004 258 1005 237 1005 194 933 194 932 194 931 194 930 194 905 210 870 203 869 203 868 203 841 210 830 203 829 203 827 203 826 203 771 210 753 199 752 199 751 199 750 199 708 209 667 195 666 195 665 195 538 206 529 199 528 199 527 199 526 199 524 199 489 209 464 194 463 194 461 194 460 194 459 194 458 194 441 208 420 197 418 197 417 197 416 197 392 209 342 209 317 198 316 198 315 198 314 198 283 205 263 198 262 198 261 198 231 203 151 192 151 234"/></Shape>
+	    <String CONTENT="BERIJA, L/avrentij Pavlovič/"
+                    HPOS="150"
+                    VPOS="192"
+                    WIDTH="855"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="145 337 2314 353" 
+                    HPOS="142"
+                    VPOS="291"
+                    WIDTH="2171"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="144 336 142 358 202 365 203 365 300 360 307 360 312 360 388 370 389 370 492 364 593 384 595 384 675 367 741 365 750 365 752 365 880 390 979 391 1262 392 1263 392 1265 392 1318 376 1389 383 1390 383 1465 373 1470 373 1486 373 1555 376 1621 391 1622 391 1659 390 1660 390 1703 375 1709 373 1785 371 1822 376 1900 389 1902 389 1957 379 2046 386 2047 386 2110 380 2155 375 2175 380 2179 381 2180 381 2181 383 2312 383 2313 352 2313 306 2126 305 2125 305 2110 306 2046 312 2025 306 2022 305 2021 305 2020 305 2015 306 1973 315 1894 307 1893 307 1817 315 1669 304 1638 302 1637 302 1628 304 1592 314 1479 314 1398 304 1388 302 1387 302 1366 302 1225 310 1124 302 1092 300 1091 300 1080 302 1047 309 919 309 898 301 883 296 882 296 806 295 756 295 755 295 753 295 735 300 714 306 567 300 401 293 400 293 367 299 342 304 304 299 246 291 245 291 144 298 144 336"/></Shape>
+	    <String CONTENT="Reč&#x27; na 19 s&#x27;ezde V/sesojuznoj/ Kommunističeskoj/ P/artii/ (b/olševikov/)"
+                    HPOS="142"
+                    VPOS="291"
+                    WIDTH="2171"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="150 440 729 446" 
+                    HPOS="147"
+                    VPOS="400"
+                    WIDTH="581"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="149 439 147 465 158 472 160 472 161 472 162 474 162 472 163 472 165 472 178 464 199 464 206 470 206 471 208 471 209 471 210 471 242 465 250 464 253 465 290 481 291 481 293 481 294 481 333 468 341 465 351 468 367 472 368 472 369 472 391 469 407 466 411 469 428 482 429 482 431 482 432 482 433 482 434 482 450 470 457 466 487 471 497 472 498 472 500 472 503 471 518 468 530 472 558 484 559 484 661 485 662 485 664 485 665 485 675 477 694 480 696 480 697 480 698 480 698 479 700 477 708 470 724 477 728 445 728 418 649 418 647 417 635 406 635 405 634 405 633 405 606 403 604 403 549 411 530 403 529 403 528 403 527 403 526 403 512 416 511 416 510 416 452 405 450 405 449 405 431 413 397 413 381 401 380 401 379 401 378 401 340 410 294 401 293 401 291 401 290 401 279 410 267 400 266 400 264 400 263 400 262 400 238 412 197 412 168 400 167 400 166 400 165 400 163 400 149 410 149 439"/></Shape>
+	    <String CONTENT="7 oktjabrja 1952 g."
+                    HPOS="147"
+                    VPOS="400"
+                    WIDTH="581"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1517 551 2165 558" 
+                    HPOS="1515"
+                    VPOS="512"
+                    WIDTH="649"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1516 550 1515 587 1589 588 1590 588 1591 588 1592 588 1592 587 1602 578 1622 578 1656 585 1658 585 1691 580 1702 588 1703 588 1704 588 1706 588 1707 588 1730 580 1856 591 1868 592 1870 592 1874 592 1916 582 1943 592 1946 593 1947 593 1948 593 1956 592 2000 583 2010 592 2010 593 2011 593 2012 593 2014 593 2017 593 2047 587 2060 593 2063 594 2064 594 2065 596 2139 596 2139 594 2141 594 2142 594 2142 593 2147 588 2160 594 2164 557 2164 532 2144 532 2143 530 2126 518 2125 518 2123 518 2122 518 2121 518 2109 524 2104 519 2104 518 2102 518 2101 518 2100 518 2047 523 2041 518 2041 517 2040 517 2038 517 1969 517 1968 517 1967 517 1966 517 1957 522 1951 517 1951 516 1950 516 1948 516 1947 516 1884 528 1881 528 1819 528 1819 527 1794 517 1793 517 1792 517 1791 517 1789 517 1775 527 1734 527 1714 513 1713 513 1712 513 1679 513 1677 513 1676 513 1675 513 1675 514 1663 525 1597 525 1597 524 1585 513 1585 512 1584 512 1583 512 1581 512 1516 523 1516 550"/></Shape>
+	    <String CONTENT="8:o /Leningrad/ 1952."
+                    HPOS="1515"
+                    VPOS="512"
+                    WIDTH="649"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="2066 1436 2224 1436" 
+                    HPOS="2065"
+                    VPOS="1405"
+                    WIDTH="158"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="2065 1434 2065 1454 2073 1461 2073 1463 2074 1463 2075 1463 2077 1464 2104 1464 2104 1463 2105 1463 2106 1463 2126 1452 2155 1452 2170 1460 2171 1460 2173 1460 2174 1460 2175 1460 2176 1460 2189 1450 2223 1449 2223 1434 2222 1405 2065 1405 2065 1434"/></Shape>
+	    <String CONTENT="17.11.52"
+                    HPOS="2065"
+                    VPOS="1405"
+                    WIDTH="158"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

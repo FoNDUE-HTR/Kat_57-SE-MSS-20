@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00370.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2332"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="29"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2332"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2330"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2331 1479 2331 1"/></Shape>
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2018 119 2107 116" 
+                    HPOS="2014"
+                    VPOS="46"
+                    WIDTH="92"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="2017 118 2017 141 2054 136 2075 150 2081 154 2082 154 2083 154 2085 154 2106 152 2106 115 2103 59 2059 46 2058 46 2056 46 2055 46 2014 61 2017 118"/></Shape>
+	    <String CONTENT="(Br.)"
+                    HPOS="2014"
+                    VPOS="46"
+                    WIDTH="92"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2119 88 2297 88" 
+                    HPOS="2118"
+                    VPOS="16"
+                    WIDTH="178"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="2118 87 2118 103 2150 107 2162 118 2162 119 2164 119 2165 119 2166 119 2207 112 2243 106 2264 117 2269 119 2270 119 2271 120 2296 120 2296 87 2296 37 2278 30 2277 30 2276 30 2275 30 2260 39 2234 17 2233 17 2232 17 2186 16 2185 16 2183 16 2182 16 2182 17 2150 45 2149 48 2118 48 2118 87"/></Shape>
+	    <String CONTENT="Arkeol."
+                    HPOS="2118"
+                    VPOS="16"
+                    WIDTH="178"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2177 164 2270 160" 
+                    HPOS="2174"
+                    VPOS="101"
+                    WIDTH="95"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="2176 162 2176 185 2208 196 2209 196 2211 196 2269 187 2269 159 2265 108 2223 101 2222 101 2220 101 2219 101 2219 102 2197 122 2192 127 2174 127 2176 162"/></Shape>
+	    <String CONTENT="Fr."
+                    HPOS="2174"
+                    VPOS="101"
+                    WIDTH="95"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="372 271 989 266" 
+                    HPOS="370"
+                    VPOS="222"
+                    WIDTH="618"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="371 270 371 291 392 302 393 302 523 303 524 303 658 302 660 302 686 289 806 297 808 297 809 297 834 288 924 288 942 299 943 299 945 299 946 299 947 299 948 299 948 298 958 289 966 294 967 294 968 294 969 294 971 294 988 286 988 265 983 222 935 236 832 229 831 229 830 229 805 238 785 231 784 231 783 231 656 239 631 226 628 225 626 225 570 225 568 225 567 225 566 225 562 228 555 233 541 228 536 226 535 226 534 226 370 230 371 270"/></Shape>
+	    <String CONTENT="MORTILLET, Adrien de"
+                    HPOS="370"
+                    VPOS="222"
+                    WIDTH="618"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="365 372 1588 375" 
+                    HPOS="362"
+                    VPOS="331"
+                    WIDTH="1225"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="363 371 362 395 377 403 378 403 380 403 440 395 457 394 497 395 628 403 629 403 630 403 656 397 666 394 678 397 702 400 703 400 730 397 747 394 762 397 804 404 805 404 856 397 868 395 898 397 1010 404 1011 404 1013 404 1027 397 1032 395 1148 395 1158 398 1173 402 1174 402 1175 402 1196 398 1203 397 1205 398 1219 405 1220 405 1221 405 1586 398 1587 374 1587 334 1381 333 1380 333 1379 333 1378 333 1376 334 1357 346 1299 346 1267 336 1265 336 1264 336 1219 345 1182 335 1177 334 1175 334 1174 334 1167 335 1141 340 1130 335 1122 331 1121 331 1015 331 1014 331 993 335 955 345 876 345 835 336 806 331 805 331 767 336 725 342 703 336 683 331 682 331 681 331 652 337 624 344 438 344 419 337 399 333 398 333 397 333 363 337 363 371"/></Shape>
+	    <String CONTENT="La classification palethnologique. [Ill. ]"
+                    HPOS="362"
+                    VPOS="331"
+                    WIDTH="1225"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1559 471 2033 474" 
+                    HPOS="1557"
+                    VPOS="431"
+                    WIDTH="475"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1558 469 1557 513 1641 514 1642 514 1643 514 1649 511 1660 504 1666 510 1669 513 1669 514 1670 514 1671 514 1673 515 1696 515 1696 514 1697 514 1716 509 1733 504 1739 509 1745 514 1745 515 1747 515 1748 515 1749 516 1773 516 1773 515 1774 515 1775 515 1785 508 1791 501 1849 500 1869 505 1884 509 1885 509 1886 509 1887 509 1898 504 1903 503 1908 504 1947 516 1948 516 1949 516 1950 516 1979 503 1979 501 2030 500 2032 473 2032 446 2003 446 2002 445 1984 432 1982 432 1981 432 1884 432 1882 432 1881 432 1856 444 1829 434 1828 434 1827 434 1779 436 1777 436 1776 436 1769 442 1759 435 1758 435 1757 435 1713 431 1712 431 1711 431 1710 431 1691 442 1691 444 1613 444 1612 442 1595 431 1594 431 1592 431 1591 431 1590 431 1558 441 1558 469"/></Shape>
+	    <String CONTENT="8:o Paris 1908."
+                    HPOS="1557"
+                    VPOS="431"
+                    WIDTH="475"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

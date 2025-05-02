@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00730-00257.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="44"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2311 1471 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="139 78 498 73" 
+                    HPOS="137"
+                    VPOS="29"
+                    WIDTH="360"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="138 77 138 90 219 96 220 96 222 96 228 94 239 90 254 95 299 112 300 112 301 112 379 100 418 94 430 101 441 110 443 110 444 110 445 110 497 104 497 72 495 42 460 33 458 33 457 33 456 33 418 45 403 50 344 50 339 46 314 30 312 30 311 30 310 30 309 30 271 41 256 29 255 29 254 29 227 29 225 29 196 30 195 30 193 30 193 31 173 52 137 52 138 77"/></Shape>
+	    <String CONTENT="[Budapest."
+                    HPOS="137"
+                    VPOS="29"
+                    WIDTH="360"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="150 167 579 163" 
+                    HPOS="147"
+                    VPOS="107"
+                    WIDTH="431"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="149 166 149 207 363 207 363 206 364 206 365 206 374 199 404 204 406 204 407 204 408 204 408 203 422 192 429 185 467 185 473 190 477 192 477 193 478 193 479 193 481 193 482 193 483 193 489 188 494 186 510 187 542 191 543 191 576 184 578 161 573 132 564 136 555 131 537 121 536 121 535 121 533 121 532 121 522 128 506 117 505 117 504 117 503 117 501 117 500 117 485 128 461 147 443 147 427 133 425 133 424 133 423 133 422 133 420 133 406 147 312 147 277 122 257 107 256 107 255 107 170 107 169 107 168 107 147 115 149 166"/></Shape>
+	    <String CONTENT="Herman, Otto"
+                    HPOS="147"
+                    VPOS="107"
+                    WIDTH="431"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2035 75 2064 72" 
+                    HPOS="2028"
+                    VPOS="24"
+                    WIDTH="36"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="2034 74 2038 95 2064 87 2062 71 2053 24 2028 30 2034 74"/></Shape>
+	    <String CONTENT="B"
+                    HPOS="2028"
+                    VPOS="24"
+                    WIDTH="36"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2100 61 2199 56" 
+                    HPOS="2096"
+                    VPOS="9"
+                    WIDTH="101"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="2099 60 2099 76 2197 76 2197 55 2192 9 2096 11 2099 60"/></Shape>
+	    <String CONTENT="Zool"
+                    HPOS="2096"
+                    VPOS="9"
+                    WIDTH="101"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2100 99 2183 99" 
+                    HPOS="2099"
+                    VPOS="67"
+                    WIDTH="82"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="2099 98 2099 122 2180 131 2181 98 2180 69 2142 74 2099 67 2099 98"/></Shape>
+	    <String CONTENT="Inst"
+                    HPOS="2099"
+                    VPOS="67"
+                    WIDTH="82"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="160 254 2311 254" 
+                    HPOS="160"
+                    VPOS="188"
+                    WIDTH="2151"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="160 254 160 268 257 279 259 279 659 274 736 298 737 298 739 300 902 300 902 298 903 298 1002 271 1009 270 1033 271 1251 287 1253 287 1254 287 1298 273 1321 282 1323 282 1325 282 1519 273 1601 281 1641 298 1642 298 1644 298 1746 287 1791 298 1792 298 1794 300 1977 300 1977 298 1979 298 2052 274 2311 273 2311 254 2309 207 2253 209 2239 206 2156 188 2155 188 2062 206 2046 211 1937 211 1918 206 1834 191 1832 191 1701 198 1653 188 1460 188 1459 188 1385 198 1328 188 1326 188 1325 188 1280 201 1250 193 1248 193 1246 193 1191 203 1095 190 1093 190 1092 190 1036 206 1023 209 1012 206 964 188 962 188 865 188 863 188 862 188 796 206 780 209 752 206 715 201 713 201 635 206 570 209 498 206 413 201 412 201 324 206 244 209 230 206 208 198 206 198 204 198 160 204 160 254"/></Shape>
+	    <String CONTENT="Kurze Übersicht der Organisation und Arbeit der Königlich Ungarischen Orni-"
+                    HPOS="160"
+                    VPOS="188"
+                    WIDTH="2151"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="171 333 822 325" 
+                    HPOS="169"
+                    VPOS="285"
+                    WIDTH="651"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="170 332 170 347 260 375 261 375 262 375 343 374 344 374 381 354 521 354 522 354 524 354 525 354 537 344 580 359 581 359 582 359 647 348 677 348 704 361 705 361 706 361 708 361 709 361 731 348 749 353 751 353 752 353 753 353 754 353 774 339 819 338 820 323 817 298 774 304 765 298 753 288 752 288 751 288 749 288 748 288 726 299 716 305 708 300 685 285 684 285 683 285 682 285 645 291 639 287 639 285 638 285 636 285 635 285 565 287 564 287 563 287 538 304 533 307 484 307 479 305 460 289 458 289 457 289 456 289 455 289 454 289 454 290 439 306 435 309 417 306 381 301 380 301 379 301 377 301 370 307 368 310 335 310 331 309 306 290 305 290 304 290 303 290 301 290 300 290 300 291 281 309 279 311 263 311 262 310 227 291 225 291 224 291 223 291 222 291 188 311 187 312 169 312 170 332"/></Shape>
+	    <String CONTENT="thologißchen Zentrale."
+                    HPOS="169"
+                    VPOS="285"
+                    WIDTH="651"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1409 410 1821 410" 
+                    HPOS="1408"
+                    VPOS="363"
+                    WIDTH="411"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1408 409 1408 426 1422 436 1423 436 1424 436 1425 436 1427 436 1454 425 1499 425 1511 435 1511 436 1513 436 1514 436 1515 436 1584 425 1605 436 1606 436 1607 436 1682 425 1715 436 1716 436 1718 437 1753 437 1753 436 1754 436 1756 436 1770 426 1819 424 1819 409 1818 382 1765 382 1763 382 1738 374 1737 374 1736 374 1735 374 1734 374 1724 382 1722 383 1686 383 1684 382 1660 363 1659 363 1657 363 1635 363 1634 363 1633 363 1632 363 1632 364 1613 380 1592 365 1591 365 1590 365 1543 363 1542 363 1541 363 1540 363 1508 381 1489 364 1489 363 1488 363 1487 363 1457 363 1456 363 1455 363 1454 363 1430 382 1430 383 1408 383 1408 409"/></Shape>
+	    <String CONTENT="8ᵒ Berlin 1910."
+                    HPOS="1408"
+                    VPOS="363"
+                    WIDTH="411"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="192 498 1345 496 2273 480" 
+                    HPOS="190"
+                    VPOS="442"
+                    WIDTH="2082"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="191 496 191 548 357 523 474 523 520 532 521 532 576 521 731 521 793 528 795 528 856 520 909 528 910 528 952 521 1059 538 1060 538 1206 523 1421 531 1422 531 1491 517 1587 515 1715 515 1789 529 1823 537 1824 537 2179 534 2272 523 2272 479 2269 457 2184 458 2175 456 2129 442 2127 442 2126 442 2125 442 2075 456 2057 462 1972 462 1947 456 1934 453 1932 453 1904 456 1844 463 1813 456 1784 450 1783 450 1781 450 1756 456 1727 464 1586 464 1558 456 1546 452 1545 452 1543 452 1542 452 1531 456 1505 467 1451 467 1421 457 1419 457 1418 457 1347 467 1292 458 1290 458 1225 467 1186 456 1185 456 1184 456 1182 456 1180 456 1129 468 1079 456 1075 455 1073 455 1072 455 1063 456 1032 462 1000 456 986 453 985 453 958 456 927 458 917 456 893 448 892 448 890 448 780 450 743 456 683 466 618 456 587 451 586 451 554 456 516 461 476 456 466 455 465 455 463 455 461 456 436 463 402 456 386 452 385 452 190 455 191 496"/></Shape>
+	    <String CONTENT="[Sonderabdruck aus: Bericht über den 5. internationalen Ornithologen-Kongress"
+                    HPOS="190"
+                    VPOS="442"
+                    WIDTH="2082"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="249 581 611 571" 
+                    HPOS="246"
+                    VPOS="540"
+                    WIDTH="363"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="247 580 247 601 301 601 308 603 332 613 333 613 335 613 374 604 393 601 413 605 425 609 427 609 428 609 429 609 430 609 434 607 450 597 470 607 484 614 485 614 487 615 510 615 510 614 511 614 512 614 519 608 531 599 544 609 548 613 549 613 551 613 552 613 609 610 609 570 603 544 595 553 539 553 530 547 525 543 524 543 522 543 521 543 520 543 519 543 519 544 514 548 509 552 499 549 483 544 482 544 481 544 479 544 478 544 478 545 473 550 468 556 444 556 439 552 425 540 424 540 423 540 396 540 395 540 393 540 392 540 392 542 379 554 377 556 364 558 360 555 349 545 349 544 348 544 347 544 294 543 293 543 292 543 290 543 290 544 276 559 274 561 246 561 247 580"/></Shape>
+	    <String CONTENT="Berlin 1910.]"
+                    HPOS="246"
+                    VPOS="540"
+                    WIDTH="363"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

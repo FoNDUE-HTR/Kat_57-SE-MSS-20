@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01411-00048.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1464"
+          PHYSICAL_IMG_NR="33"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1464">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1462"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1463 2311 1463 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="157 203 745 197" 
+                    HPOS="154"
+                    VPOS="152"
+                    WIDTH="590"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="156 202 156 222 176 235 178 235 179 235 180 235 387 234 486 231 488 231 489 231 511 218 591 219 602 228 603 228 605 228 606 228 607 228 634 217 689 217 714 225 716 225 717 225 718 225 744 214 744 196 740 162 700 162 699 162 679 152 678 152 677 152 675 152 674 152 658 162 657 162 592 153 591 153 590 153 566 163 564 164 423 164 422 164 390 154 389 154 387 154 350 163 325 156 324 156 273 156 272 156 270 156 269 156 262 162 256 157 254 157 253 157 252 157 251 157 250 157 239 167 237 167 235 167 185 157 184 157 183 157 181 157 181 158 172 167 172 168 154 168 156 202"/></Shape>
+	    <String CONTENT="PIERANTONI, Umberto"
+                    HPOS="154"
+                    VPOS="152"
+                    WIDTH="590"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="9 308 2270 291" 
+                    HPOS="7"
+                    VPOS="250"
+                    WIDTH="2262"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="8 307 8 350 225 348 226 348 326 325 428 325 466 334 467 334 468 334 496 324 540 328 541 328 673 319 756 325 757 325 861 318 1065 334 1066 334 1067 334 1122 318 1317 328 1318 328 1320 328 1360 317 1392 325 1393 325 1394 325 1526 317 1626 320 1627 320 1628 320 1654 313 1800 326 1802 326 1856 322 1881 328 1882 328 1883 328 1963 317 2104 326 2127 328 2128 328 2130 328 2136 326 2174 317 2268 324 2269 290 2266 261 2044 261 1992 252 1991 252 1908 262 1791 263 1701 263 1677 263 1566 262 1505 250 1504 250 1293 265 1267 267 1244 265 1049 252 1048 252 923 265 841 259 840 259 800 268 788 270 773 268 740 263 739 263 621 269 608 269 603 269 491 256 490 256 48 259 47 259 7 270 8 307"/></Shape>
+	    <String CONTENT="Acta |Se: Atti della r. accademia die Lincei. Classe di scienze fisiche, ma-"
+                    HPOS="7"
+                    VPOS="250"
+                    WIDTH="2262"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="27 367 122 367" 
+                    HPOS="26"
+                    VPOS="322"
+                    WIDTH="94"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="26 366 26 378 51 389 52 389 53 389 120 378 120 366 120 340 103 340 82 322 81 322 80 322 56 322 54 322 53 322 52 322 26 337 26 366"/></Shape>
+	    <String CONTENT="It"
+                    HPOS="26"
+                    VPOS="322"
+                    WIDTH="94"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="3 434 183 437" 
+                    HPOS="1"
+                    VPOS="387"
+                    WIDTH="180"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="2 433 1 464 64 474 65 474 67 474 86 467 90 466 142 466 143 468 151 474 151 475 152 475 153 475 154 475 156 475 180 468 181 436 181 403 165 391 164 391 163 391 162 391 161 391 159 391 142 403 103 403 100 401 62 387 61 387 59 387 2 395 2 433"/></Shape>
+	    <String CONTENT="[Roma]"
+                    HPOS="1"
+                    VPOS="387"
+                    WIDTH="180"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="277 405 1189 405" 
+                    HPOS="276"
+                    VPOS="364"
+                    WIDTH="912"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="276 403 276 422 307 430 308 430 309 431 503 431 503 430 539 423 549 430 550 430 551 430 552 430 553 430 569 423 642 423 652 430 653 430 655 430 656 431 779 431 779 430 780 430 795 423 818 429 819 429 821 429 946 423 1002 430 1004 430 1048 423 1144 430 1145 430 1188 422 1188 403 1188 378 1112 364 1111 364 1110 364 1109 364 1094 375 1061 364 1060 364 1059 364 985 372 950 364 949 364 947 364 923 376 894 366 893 366 891 366 761 374 747 366 746 366 745 366 744 366 743 366 713 373 658 367 657 367 656 367 655 367 642 378 540 378 502 367 501 367 500 367 499 367 497 367 484 376 469 364 468 364 467 364 391 364 390 364 389 364 364 378 276 378 276 403"/></Shape>
+	    <String CONTENT="tematiche e naturali. Memorie."
+                    HPOS="276"
+                    VPOS="364"
+                    WIDTH="912"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="275 509 2311 498" 
+                    HPOS="273"
+                    VPOS="459"
+                    WIDTH="2037"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="274 508 275 534 328 534 386 546 387 546 849 544 904 534 923 531 944 534 966 538 967 538 985 535 1012 530 1187 531 1204 535 1245 541 1246 541 1248 541 1268 535 1290 529 1431 529 1476 535 1486 536 1487 536 1494 535 1538 528 1617 528 1648 535 1649 535 1650 535 1651 535 1670 528 1863 525 1938 536 1950 538 1952 538 1960 536 1999 528 2053 536 2055 536 2057 538 2308 538 2310 497 2308 459 2146 459 2144 459 2133 461 2080 469 1996 469 1972 462 1966 461 1965 461 1964 461 1937 462 1853 469 1791 464 1765 462 1764 462 1719 464 1626 470 1573 466 1538 463 1537 463 1473 467 1394 472 1229 469 994 466 993 466 761 474 736 474 734 474 710 468 708 468 707 468 706 468 679 474 674 475 666 474 611 468 610 468 407 477 315 469 314 469 273 478 274 508"/></Shape>
+	    <String CONTENT="Ser.6.Vol.2. I corpuscoli del tuorlo e la loro coltura in agar.1928."
+                    HPOS="273"
+                    VPOS="459"
+                    WIDTH="2037"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

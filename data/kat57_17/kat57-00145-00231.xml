@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00231.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="34"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2327 1479 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="159 181 973 184" 
+                    HPOS="156"
+                    VPOS="128"
+                    WIDTH="816"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="157 180 156 203 182 217 183 217 185 217 312 210 511 218 513 218 514 218 544 202 546 202 597 202 598 202 609 212 610 212 611 212 613 212 669 202 674 202 679 202 745 217 746 217 747 217 772 208 789 219 790 219 792 219 793 219 794 219 832 203 970 203 972 183 972 165 915 165 905 161 872 151 870 151 869 151 868 151 867 151 858 159 857 160 857 159 815 131 814 131 813 131 779 131 778 131 777 131 776 131 738 154 732 157 693 160 636 154 631 149 611 131 611 130 610 130 609 130 579 130 578 130 577 130 541 145 504 161 447 162 421 150 420 150 419 150 418 150 392 161 325 161 267 133 260 129 259 129 157 128 157 180"/></Shape>
+	    <String CONTENT="Beringen, Heinrich von"
+                    HPOS="156"
+                    VPOS="128"
+                    WIDTH="816"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="160 277 1032 285" 
+                    HPOS="157"
+                    VPOS="233"
+                    WIDTH="874"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="159 276 157 302 219 313 220 313 222 313 223 313 236 303 238 302 262 302 268 304 294 314 296 314 297 314 330 312 352 319 354 319 355 319 356 319 372 310 407 324 408 324 409 324 441 320 452 329 452 330 454 330 455 330 456 331 498 331 498 330 499 330 500 330 523 316 565 316 565 315 566 315 582 308 594 303 677 303 687 310 689 312 690 312 692 312 693 312 706 310 747 304 766 310 777 315 778 315 779 315 780 315 793 312 795 310 798 312 842 334 843 334 949 335 951 335 952 335 953 335 975 315 1030 314 1031 284 1031 267 937 267 935 265 921 259 920 259 919 259 843 263 829 265 827 263 784 238 783 238 782 238 750 238 748 238 747 238 746 238 715 262 709 262 685 263 677 262 636 252 635 252 634 252 632 252 621 260 609 250 608 250 606 250 605 250 592 252 573 236 572 236 571 236 532 236 531 236 530 236 529 236 498 260 495 260 477 255 476 255 474 255 473 255 463 259 460 261 456 259 449 254 447 254 446 254 445 254 405 259 391 260 387 259 355 234 354 234 352 234 314 234 313 234 312 234 310 234 293 247 251 233 250 233 197 233 196 233 194 233 193 233 159 252 159 276"/></Shape>
+	    <String CONTENT="Se: Heinrich von Berngen."
+                    HPOS="157"
+                    VPOS="233"
+                    WIDTH="874"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

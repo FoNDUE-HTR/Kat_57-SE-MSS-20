@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00159.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2304"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="47"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2304"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2302"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2303 1471 2303 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="294 56 1363 62" 
+                    HPOS="291"
+                    VPOS="12"
+                    WIDTH="1070"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="293 55 291 73 322 80 323 80 354 76 376 85 377 85 379 85 380 85 406 76 407 76 428 82 429 82 430 82 485 77 500 76 506 77 527 83 528 83 529 83 564 78 581 87 582 87 583 88 672 88 672 87 673 87 674 87 685 79 687 79 688 79 702 84 704 84 705 84 706 84 715 80 720 77 725 80 738 89 739 89 741 89 742 89 788 80 794 80 802 82 850 90 851 92 929 92 929 90 931 90 953 84 967 79 983 84 999 89 1001 89 1002 89 1068 85 1094 84 1132 87 1213 92 1214 92 1215 92 1223 88 1236 80 1359 89 1361 61 1360 17 1336 17 1334 17 1333 17 1290 39 1230 39 1196 17 1194 17 1193 17 1192 17 1191 17 1131 38 1042 38 1018 19 1017 19 1015 19 1014 19 971 24 959 15 958 15 956 15 955 15 954 15 932 25 912 14 911 14 910 14 909 14 907 14 906 14 882 22 837 14 834 14 833 14 831 14 830 14 793 36 721 36 687 35 660 22 658 22 657 22 656 22 626 34 597 13 596 13 595 13 503 12 501 12 500 12 496 13 456 34 412 34 361 13 359 12 358 12 357 12 293 12 293 55"/></Shape>
+	    <String CONTENT="Wien. Forsch-inst. f. Osten u. Orient"
+                    HPOS="291"
+                    VPOS="12"
+                    WIDTH="1070"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="252 134 670 139" 
+                    HPOS="250"
+                    VPOS="87"
+                    WIDTH="419"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="250 154 667 159 669 138 668 116 647 112 624 92 624 90 623 90 622 90 620 90 576 96 531 89 529 89 528 89 527 89 509 105 498 115 461 115 345 112 328 94 322 88 322 87 321 87 320 87 285 87 284 87 283 87 276 90 262 98 253 89 251 133 250 154"/></Shape>
+	    <String CONTENT="Berichte"
+                    HPOS="250"
+                    VPOS="87"
+                    WIDTH="419"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2046 62 2206 65" 
+                    HPOS="2043"
+                    VPOS="11"
+                    WIDTH="162"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="2045 61 2043 73 2077 83 2078 83 2079 83 2102 80 2111 79 2113 82 2122 89 2122 90 2123 90 2124 90 2126 90 2155 85 2172 83 2202 90 2205 63 2205 11 2160 11 2159 11 2158 11 2144 17 2124 26 2112 20 2099 14 2097 14 2096 14 2095 14 2094 14 2094 15 2085 24 2079 29 2045 29 2045 61"/></Shape>
+	    <String CONTENT="Acta"
+                    HPOS="2043"
+                    VPOS="11"
+                    WIDTH="162"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2032 115 2220 120" 
+                    HPOS="2030"
+                    VPOS="77"
+                    WIDTH="189"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="2031 114 2030 132 2216 145 2219 118 2218 95 2156 88 2155 88 2154 88 2144 93 2127 78 2126 78 2124 78 2123 78 2081 85 2063 77 2062 77 2061 77 2059 77 2058 77 2042 89 2041 90 2031 89 2031 114"/></Shape>
+	    <String CONTENT="Osterr"
+                    HPOS="2030"
+                    VPOS="77"
+                    WIDTH="189"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="255 228 2252 219" 
+                    HPOS="252"
+                    VPOS="172"
+                    WIDTH="1999"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="253 226 253 245 282 253 283 253 390 256 391 256 392 256 424 246 527 255 528 255 529 255 554 245 560 245 820 255 821 255 929 247 977 253 979 253 1258 250 1259 250 1279 242 1282 242 1291 242 1391 252 1392 252 1443 245 1477 251 1478 251 1479 251 1509 242 1515 241 1538 242 1634 249 1635 249 1745 241 1782 240 2251 240 2251 218 2250 181 2230 175 2229 175 2227 175 2198 181 2159 190 2121 181 2079 172 2013 172 2012 172 1967 182 1922 193 1716 193 1689 184 1661 175 1659 175 1574 175 1572 175 1571 175 1543 185 1516 195 1483 195 1445 185 1399 175 1398 175 1342 176 1340 176 1306 186 1295 188 1277 186 1234 180 1232 180 1203 186 1192 188 1181 186 1127 176 1126 176 1069 187 1023 197 764 197 736 188 702 179 701 179 651 179 650 179 648 179 613 190 603 192 592 190 548 180 455 180 453 180 404 191 374 197 328 191 305 188 304 188 252 191 253 226"/></Shape>
+	    <String CONTENT="des Forschungsinstituts für Osten und Orient"
+                    HPOS="252"
+                    VPOS="172"
+                    WIDTH="1999"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="268 306 1869 303" 
+                    HPOS="266"
+                    VPOS="266"
+                    WIDTH="1602"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="267 305 267 326 338 337 339 337 341 337 364 327 366 327 472 327 482 328 509 334 510 334 608 331 695 350 696 352 791 352 791 350 792 350 837 332 846 329 857 333 868 336 869 336 871 336 872 336 880 333 900 327 974 327 996 334 1023 343 1024 343 1025 343 1026 343 1046 334 1068 326 1128 326 1159 336 1160 336 1161 336 1164 336 1258 331 1289 337 1315 343 1316 343 1381 342 1409 349 1410 349 1412 349 1868 343 1868 302 1866 284 1626 284 1582 266 1581 266 1580 266 1501 280 1467 266 1466 266 1354 266 1353 266 1267 282 1225 276 1224 276 1077 283 1037 267 1036 267 1035 267 1034 267 1002 278 974 267 972 267 971 267 911 274 894 267 893 267 780 267 779 267 777 267 736 285 602 285 548 284 512 268 511 268 388 267 387 267 386 267 347 285 266 285 267 305"/></Shape>
+	    <String CONTENT="in Wien. Geleitet von A. Grohmann."
+                    HPOS="266"
+                    VPOS="266"
+                    WIDTH="1602"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="313 365 453 364" 
+                    HPOS="311"
+                    VPOS="310"
+                    WIDTH="141"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="312 364 312 372 450 377 452 363 451 320 442 315 441 315 440 315 439 315 437 315 423 322 404 310 403 310 402 310 375 310 374 310 372 310 371 310 345 332 343 334 311 334 312 364"/></Shape>
+	    <String CONTENT="Bd"
+                    HPOS="311"
+                    VPOS="310"
+                    WIDTH="141"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="286 396 638 399" 
+                    HPOS="284"
+                    VPOS="363"
+                    WIDTH="353"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="396 364 395 364 365 371 363 371 361 371 315 363 314 363 312 363 285 372 285 394 284 428 322 445 323 445 325 445 406 435 417 445 417 446 418 446 419 446 420 447 483 447 483 446 505 444 506 444 507 444 531 426 636 426 637 398 637 365 607 365 606 365 604 365 603 365 586 377 561 377 552 366 550 366 550 365 549 365 548 365 547 365 545 365 541 366 521 376 453 376 431 370 407 364 396 364"/></Shape>
+	    <String CONTENT="Folge 1 - 3"
+                    HPOS="284"
+                    VPOS="363"
+                    WIDTH="353"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1440 391 1928 389 2134 397" 
+                    HPOS="1437"
+                    VPOS="345"
+                    WIDTH="696"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1439 390 1437 414 1527 415 1528 415 1529 415 1531 415 1547 402 1570 402 1582 413 1582 414 1583 414 1585 414 1586 414 1642 412 1643 412 1667 402 1677 408 1678 408 1679 408 1680 408 1706 406 1720 415 1721 415 1722 415 1723 415 1724 415 1740 408 1775 415 1776 415 1777 415 1778 415 1796 403 1820 417 1821 417 1823 417 1824 417 1825 417 1826 417 1852 404 1875 417 1877 417 1878 417 1879 417 1880 417 1881 417 1895 406 1942 414 1943 414 1944 414 1972 403 2045 403 2073 417 2074 417 2075 418 2132 418 2133 396 2132 347 2057 347 2056 347 2054 347 2051 348 2021 365 2010 356 2009 356 2008 356 2007 356 2005 356 2004 356 1991 368 1965 368 1949 350 1945 348 1945 347 1944 347 1943 347 1942 347 1873 353 1866 353 1864 353 1843 347 1842 347 1841 347 1840 347 1839 347 1839 348 1832 354 1819 368 1759 368 1688 366 1680 358 1677 355 1677 354 1675 354 1674 354 1673 354 1647 359 1637 360 1635 359 1618 345 1616 345 1615 345 1585 345 1583 345 1582 345 1581 345 1581 347 1566 360 1561 366 1497 366 1493 363 1472 345 1470 345 1469 345 1468 345 1467 345 1439 361 1439 390"/></Shape>
+	    <String CONTENT="8:o Wien 1916 - 23"
+                    HPOS="1437"
+                    VPOS="345"
+                    WIDTH="696"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

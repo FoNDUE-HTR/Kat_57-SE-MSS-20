@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00826-00057.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="19"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2323 1471 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="34 59 1116 65" 
+                    HPOS="31"
+                    VPOS="6"
+                    WIDTH="1084"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="33 58 31 92 71 99 72 99 104 92 141 83 215 83 215 82 217 82 218 82 228 76 300 76 322 89 323 89 325 89 326 89 328 89 400 80 425 89 462 100 463 100 574 101 575 101 678 87 720 80 757 85 768 87 769 87 770 87 773 85 786 78 833 85 865 89 866 89 931 84 963 82 971 84 1017 95 1018 95 1019 95 1020 95 1069 83 1085 79 1112 82 1115 63 1115 20 1090 12 1089 12 1088 12 1087 12 1062 20 1031 31 1006 20 984 12 982 12 981 12 980 12 960 22 958 23 889 23 884 22 793 8 792 8 791 8 761 20 721 20 663 8 662 8 661 8 660 8 636 23 624 31 575 31 510 30 499 24 468 9 467 9 466 9 419 18 381 7 380 7 317 7 316 7 315 7 314 7 283 25 278 29 209 29 204 26 173 8 171 8 170 8 169 8 155 13 93 6 92 6 90 6 89 6 58 26 56 28 33 28 33 58"/></Shape>
+	    <String CONTENT="[Leiden, Maatschappij d. nederl. letterk."
+                    HPOS="31"
+                    VPOS="6"
+                    WIDTH="1084"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="262 187 513 183" 
+                    HPOS="260"
+                    VPOS="148"
+                    WIDTH="252"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="261 186 261 215 417 222 418 222 419 222 420 222 430 215 433 214 439 215 465 220 466 220 512 214 512 182 509 148 260 153 261 186"/></Shape>
+	    <String CONTENT="JAARBOEK"
+                    HPOS="260"
+                    VPOS="148"
+                    WIDTH="252"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1766 78 1983 75" 
+                    HPOS="1764"
+                    VPOS="13"
+                    WIDTH="218"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="1765 77 1765 93 1780 101 1781 101 1782 103 1857 103 1857 101 1858 101 1873 94 1879 92 1981 96 1982 74 1977 13 1953 26 1903 26 1866 14 1865 14 1863 14 1862 14 1861 14 1861 15 1851 25 1824 25 1803 14 1802 14 1801 14 1800 14 1764 14 1765 77"/></Shape>
+	    <String CONTENT="DEPÅ1"
+                    HPOS="1764"
+                    VPOS="13"
+                    WIDTH="218"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1802 156 1916 152" 
+                    HPOS="1798"
+                    VPOS="105"
+                    WIDTH="117"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="1801 155 1801 165 1831 165 1836 168 1851 180 1852 180 1854 180 1855 180 1915 172 1915 150 1911 106 1895 105 1894 105 1893 105 1892 105 1892 106 1890 106 1881 115 1846 110 1845 110 1844 110 1843 110 1843 111 1836 116 1798 109 1801 155"/></Shape>
+	    <String CONTENT="46"
+                    HPOS="1798"
+                    VPOS="105"
+                    WIDTH="117"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="254 281 2055 289" 
+                    HPOS="252"
+                    VPOS="190"
+                    WIDTH="1802"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="253 280 252 300 300 310 301 310 392 302 570 312 571 312 628 306 673 312 674 314 932 314 932 312 1036 305 1042 305 1049 305 1153 315 1154 315 1306 307 1454 316 1455 317 1617 317 1617 316 1689 309 1704 307 1721 309 1785 315 1786 315 1787 315 1809 309 1813 309 2051 310 2054 288 2051 257 2003 261 1879 250 1869 250 1868 250 1867 250 1812 263 1750 245 1744 244 1743 244 1742 244 1735 245 1638 266 1581 253 1580 253 1490 261 1425 252 1424 252 1349 264 1319 255 1317 255 1316 255 1315 255 1294 261 1247 253 1246 253 1200 261 1150 249 1149 249 1148 249 1090 262 1047 253 1046 253 954 263 885 253 884 253 883 253 852 262 811 249 809 249 753 249 646 204 617 192 615 192 253 190 253 280"/></Shape>
+	    <String CONTENT="van de Maatschappij der nederlandsche letterkunde te Leiden."
+                    HPOS="252"
+                    VPOS="190"
+                    WIDTH="1802"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="259 389 735 389" 
+                    HPOS="258"
+                    VPOS="347"
+                    WIDTH="476"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="258 388 258 403 284 415 285 415 287 417 390 417 390 415 391 415 392 415 407 406 408 404 408 406 422 412 423 412 424 412 505 406 534 404 541 407 561 415 563 415 564 415 734 408 734 388 734 360 661 347 660 347 569 352 568 352 566 352 559 358 559 359 558 358 541 352 539 352 538 352 537 352 536 352 526 358 522 360 485 360 482 358 469 349 468 349 467 349 466 349 465 349 463 349 451 358 427 347 425 347 424 347 423 347 390 356 363 349 361 349 360 349 258 355 258 388"/></Shape>
+	    <String CONTENT="1935/36- 1955/58."
+                    HPOS="258"
+                    VPOS="347"
+                    WIDTH="476"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="2133 81 2257 86" 
+                    HPOS="2131"
+                    VPOS="19"
+                    WIDTH="125"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="2132 80 2131 99 2158 99 2163 103 2171 110 2171 111 2173 111 2174 111 2254 114 2256 85 2256 34 2217 20 2216 20 2181 19 2180 19 2179 19 2177 19 2168 29 2163 31 2132 26 2132 80"/></Shape>
+	    <String CONTENT="Acta"
+                    HPOS="2131"
+                    VPOS="19"
+                    WIDTH="125"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="2131 174 2294 177" 
+                    HPOS="2130"
+                    VPOS="115"
+                    WIDTH="163"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="2130 172 2130 223 2159 215 2169 220 2185 228 2186 228 2187 229 2222 229 2222 228 2223 228 2255 213 2261 210 2292 210 2293 176 2289 123 2281 132 2246 132 2240 125 2236 122 2236 121 2235 121 2234 121 2233 121 2231 121 2230 121 2230 122 2227 125 2225 126 2225 125 2216 117 2216 116 2214 116 2213 116 2180 115 2179 115 2177 115 2130 127 2130 172"/></Shape>
+	    <String CONTENT="Nederl"
+                    HPOS="2130"
+                    VPOS="115"
+                    WIDTH="163"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1624 391 2229 391" 
+                    HPOS="1623"
+                    VPOS="352"
+                    WIDTH="605"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1623 390 1623 404 1663 412 1665 412 1696 407 1701 406 1704 407 1714 415 1715 415 1716 415 1717 415 1719 415 1748 408 1755 406 1758 408 1769 417 1770 417 1771 417 1773 417 1816 409 1843 417 1844 417 1845 417 1893 410 1905 409 1921 410 1938 413 1939 413 1941 413 1942 413 1942 412 1943 412 1949 406 1971 412 1989 417 1990 417 1991 417 2047 415 2049 415 2052 414 2067 407 2094 414 2095 414 2096 414 2098 414 2099 414 2112 406 2136 406 2153 415 2154 417 2155 417 2157 417 2158 418 2228 418 2228 390 2228 361 2209 352 2208 352 2207 352 2126 361 2095 352 2094 352 2093 352 2034 359 2016 352 2014 352 2013 352 2012 352 2011 352 2011 353 2002 360 1990 353 1989 353 1987 353 1986 353 1985 353 1966 361 1903 354 1901 354 1900 354 1899 354 1889 360 1883 355 1883 354 1882 354 1881 354 1879 354 1792 361 1781 353 1781 352 1780 352 1779 352 1741 352 1739 352 1738 352 1719 361 1662 352 1661 352 1660 352 1623 361 1623 390"/></Shape>
+	    <String CONTENT="8:o Leiden 1936- 58."
+                    HPOS="1623"
+                    VPOS="352"
+                    WIDTH="605"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="256 488 2300 491" 
+                    HPOS="253"
+                    VPOS="455"
+                    WIDTH="2046"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="255 486 253 511 299 518 300 518 373 512 374 512 403 522 404 522 406 522 600 512 609 512 611 512 646 523 647 523 937 525 938 525 1110 513 1115 513 1120 513 1247 520 1249 520 1419 513 1441 513 1445 513 1489 525 1490 526 1548 526 1548 525 1549 525 1589 513 1591 513 1595 513 1620 522 1622 522 1623 522 1825 515 1834 515 1838 515 1915 525 1916 525 2022 515 2028 515 2033 515 2096 526 2098 526 2135 518 2171 523 2173 523 2174 523 2200 515 2203 515 2297 515 2299 490 2298 462 2233 458 2231 458 2214 461 2187 466 2152 461 2131 458 2130 458 2128 458 2120 461 2103 467 2028 467 2002 461 1991 458 1990 458 1989 458 1982 461 1965 466 1836 460 1797 458 1796 458 1765 460 1645 466 1444 458 1398 457 1397 457 1396 457 1392 458 1373 466 1184 466 1158 458 1157 458 1155 458 1003 464 898 456 884 456 883 456 868 456 758 463 692 456 689 456 688 456 683 456 539 463 517 456 516 456 515 456 380 461 255 455 255 486"/></Shape>
+	    <String CONTENT="Föregangen av: Handelingen en levensberichten van de Maatschappij der"
+                    HPOS="253"
+                    VPOS="455"
+                    WIDTH="2046"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="252 592 2055 592" 
+                    HPOS="251"
+                    VPOS="555"
+                    WIDTH="1803"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="251 591 251 615 408 615 412 615 431 623 433 623 434 623 487 617 499 615 510 617 541 621 542 621 543 621 555 617 560 615 579 617 615 621 617 621 665 618 685 617 692 618 711 624 712 624 714 624 759 619 787 615 809 619 883 632 884 632 991 620 1036 615 1060 620 1084 626 1085 626 1116 621 1130 619 1142 621 1196 634 1197 635 1293 635 1293 634 1294 634 1335 623 1355 618 1387 623 1389 623 1433 615 1478 624 1517 631 1519 631 1549 624 1569 620 1591 625 1634 634 1635 635 1809 635 1809 634 1861 626 1909 620 1966 628 1989 630 1990 630 2054 628 2054 591 2054 565 2011 555 1699 555 1698 555 1616 565 1554 565 1520 555 1519 555 1517 555 1337 565 1023 565 971 558 970 558 969 558 949 565 734 565 705 556 704 556 703 556 617 564 597 556 596 556 595 556 539 564 500 555 499 555 455 564 429 555 428 555 427 555 370 564 326 555 325 555 251 564 251 591"/></Shape>
+	    <String CONTENT="nederlandsche letterkunde te Leiden. 1916/17-1934/35:1941/42."
+                    HPOS="251"
+                    VPOS="555"
+                    WIDTH="1803"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    
+                    BASELINE="244 742 687 742" 
+                    HPOS="242"
+                    VPOS="704"
+                    WIDTH="443"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="242 740 242 765 278 762 285 766 296 772 298 772 299 772 300 772 301 772 309 767 312 765 332 767 348 770 349 770 350 770 352 770 353 769 358 764 375 769 398 776 400 776 401 776 402 776 403 776 403 775 409 770 417 762 441 762 473 771 490 776 492 776 493 776 494 776 495 776 501 772 514 765 522 770 523 770 525 770 558 762 580 774 585 776 586 776 587 777 685 777 685 740 685 717 668 717 656 705 656 704 655 704 654 704 652 704 651 704 618 713 570 707 569 707 568 707 566 707 553 717 510 717 479 704 478 704 388 704 387 704 386 704 385 704 369 716 266 709 265 709 263 709 242 716 242 740"/></Shape>
+	    <String CONTENT="Forts: Kat. 1958-"
+                    HPOS="242"
+                    VPOS="704"
+                    WIDTH="443"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

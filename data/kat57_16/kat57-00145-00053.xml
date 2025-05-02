@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00053.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2316"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2316"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2314"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2315 1477 2315 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="177 61 1460 49" 
+                    HPOS="174"
+                    VPOS="4"
+                    WIDTH="1285"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="176 60 176 100 231 100 232 100 234 100 274 76 309 76 372 87 373 87 442 77 484 97 487 98 489 98 490 98 758 96 760 96 771 92 819 73 848 84 850 84 851 84 852 84 891 72 943 77 944 77 989 70 1037 84 1038 84 1039 84 1040 84 1080 70 1124 82 1125 82 1127 82 1204 67 1240 67 1263 80 1265 80 1266 80 1267 80 1304 68 1337 76 1339 76 1340 76 1366 66 1392 76 1393 76 1458 78 1459 48 1457 7 1414 4 1413 4 1411 4 1406 7 1371 24 1267 24 1234 13 1233 13 1231 13 1230 13 1199 27 1145 27 1111 9 1106 7 1105 7 1103 7 1102 7 1101 7 1097 9 1068 28 1000 28 965 11 960 8 959 8 958 8 901 9 891 11 814 29 773 28 732 13 726 11 725 11 724 11 656 13 655 13 654 13 631 25 611 13 607 12 606 12 571 12 570 12 569 12 564 14 529 33 475 33 428 16 425 14 423 14 422 14 421 14 417 16 378 32 338 32 257 17 248 16 247 16 174 17 176 60"/></Shape>
+	    <String CONTENT="Braunschweig. Phys,- Techn. Bundesanst."
+                    HPOS="174"
+                    VPOS="4"
+                    WIDTH="1285"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1800 86 1915 80" 
+                    HPOS="1797"
+                    VPOS="29"
+                    WIDTH="117"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1799 84 1799 98 1825 108 1826 108 1828 108 1829 108 1851 100 1868 96 1879 102 1884 105 1886 105 1887 105 1888 105 1914 103 1914 78 1909 43 1886 45 1882 44 1842 29 1841 29 1840 29 1839 29 1797 48 1799 84"/></Shape>
+	    <String CONTENT="Fol"
+                    HPOS="1797"
+                    VPOS="29"
+                    WIDTH="117"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2045 53 2218 53" 
+                    HPOS="2044"
+                    VPOS="3"
+                    WIDTH="173"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="2044 52 2044 70 2064 72 2079 86 2079 87 2080 87 2081 87 2083 88 2117 88 2117 87 2118 87 2120 87 2133 77 2143 71 2216 83 2217 52 2217 14 2185 3 2184 3 2182 3 2181 3 2180 3 2166 14 2162 18 2116 18 2111 13 2100 3 2099 3 2097 3 2096 3 2044 11 2044 52"/></Shape>
+	    <String CONTENT="Fysik"
+                    HPOS="2044"
+                    VPOS="3"
+                    WIDTH="173"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2027 117 2214 120" 
+                    HPOS="2025"
+                    VPOS="73"
+                    WIDTH="188"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="2026 115 2025 133 2048 141 2049 141 2051 141 2084 137 2097 136 2102 139 2121 149 2122 149 2123 149 2212 146 2213 119 2213 83 2175 76 2174 76 2173 76 2171 76 2160 83 2142 94 2096 94 2086 83 2078 75 2078 73 2077 73 2075 73 2074 73 2026 82 2026 115"/></Shape>
+	    <String CONTENT="Inst."
+                    HPOS="2025"
+                    VPOS="73"
+                    WIDTH="188"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="141 208 364 204" 
+                    HPOS="139"
+                    VPOS="168"
+                    WIDTH="224"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="140 206 140 226 362 225 363 203 360 169 139 168 140 206"/></Shape>
+	    <String CONTENT="BERICHT"
+                    HPOS="139"
+                    VPOS="168"
+                    WIDTH="224"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="133 313 2064 313" 
+                    HPOS="131"
+                    VPOS="269"
+                    WIDTH="1932"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="131 312 131 333 583 339 585 339 586 339 597 336 604 333 614 336 630 339 631 339 633 339 761 336 861 333 912 337 963 339 964 339 984 337 1006 333 1109 337 1182 339 1183 339 1212 337 1260 333 1303 338 1324 339 1325 339 1326 339 1331 338 1345 333 1465 333 1628 338 1665 339 1666 339 1668 339 1670 338 1688 333 1978 333 2062 339 2063 312 2063 280 1879 269 1878 269 1877 269 1842 280 1746 280 1709 269 1708 269 1707 269 1419 275 1319 269 1318 269 1270 277 1093 269 1092 269 987 279 926 270 925 270 889 278 800 272 799 272 758 279 721 269 720 269 601 269 599 269 538 280 131 280 131 312"/></Shape>
+	    <String CONTENT="über die Tätigkeit der Physikalisch-technischen Bundesanstalt..."
+                    HPOS="131"
+                    VPOS="269"
+                    WIDTH="1932"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="152 404 449 401" 
+                    HPOS="150"
+                    VPOS="362"
+                    WIDTH="298"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="151 403 151 432 206 440 208 440 209 440 210 440 220 432 221 431 225 432 242 436 243 436 245 436 246 436 255 431 273 421 362 429 363 429 364 429 365 429 386 422 395 429 401 436 402 436 404 436 405 436 448 428 448 400 445 375 389 362 388 362 342 365 341 365 340 365 327 374 322 378 268 378 261 373 243 364 242 364 241 364 240 364 216 373 210 375 208 373 199 365 199 364 198 364 197 364 195 364 150 371 151 403"/></Shape>
+	    <String CONTENT="1950-1953."
+                    HPOS="150"
+                    VPOS="362"
+                    WIDTH="298"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="152 519 2213 497" 
+                    HPOS="150"
+                    VPOS="455"
+                    WIDTH="2062"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="151 518 151 561 492 560 513 556 623 532 808 537 867 549 901 555 902 556 951 556 951 555 1052 545 1082 541 1084 541 1117 530 1202 530 1203 530 1204 530 1223 523 1547 520 1638 534 1660 537 1661 537 1684 533 1729 524 1754 532 1783 540 1785 540 1786 540 1833 534 1860 541 1861 541 1862 541 1925 528 1972 518 2048 525 2064 527 2065 527 2074 525 2113 516 2212 522 2212 496 2210 465 2165 455 2164 455 2163 455 2131 465 2129 465 2125 465 1983 455 1982 455 1879 466 1831 456 1756 456 1755 456 1695 468 1664 463 1663 463 1661 463 1644 469 1632 475 1468 475 1448 471 1405 461 1299 461 1298 461 1188 469 1107 464 1106 464 1061 474 1060 474 1058 474 890 468 889 468 848 476 827 480 808 476 798 475 797 475 784 476 755 481 714 477 635 469 634 469 633 469 597 477 570 486 375 486 344 480 306 472 305 472 246 481 232 482 150 482 151 518"/></Shape>
+	    <String CONTENT="1948/ng |ingå i : Wissenschaförliche Abhandlungen der Physikalisch-"
+                    HPOS="150"
+                    VPOS="455"
+                    WIDTH="2062"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="384 465 575 462" 
+                    HPOS="381"
+                    VPOS="426"
+                    WIDTH="193"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="383 464 383 485 442 485 444 485 473 503 474 503 475 503 476 504 540 504 540 503 542 503 574 487 574 461 572 436 554 426 553 426 551 426 482 434 458 427 457 427 455 427 454 427 453 427 441 436 397 427 396 427 395 427 394 427 381 434 383 464"/></Shape>
+	    <String CONTENT="1954 ff."
+                    HPOS="381"
+                    VPOS="426"
+                    WIDTH="193"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1263 404 2125 409" 
+                    HPOS="1261"
+                    VPOS="369"
+                    WIDTH="862"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="1262 403 1261 422 1323 437 1324 437 1401 424 1448 434 1449 434 1451 434 1472 428 1493 438 1494 438 1495 438 1671 427 1757 439 1759 439 1760 439 1786 427 1820 439 1822 439 1910 440 1911 440 1913 440 1914 440 1930 428 1985 436 1987 436 2042 428 2063 440 2064 440 2065 440 2067 440 2104 439 2105 439 2106 439 2122 427 2123 408 2123 371 2001 370 2000 370 1999 370 1992 373 1957 385 1923 374 1908 369 1907 369 1878 369 1877 369 1876 369 1874 369 1868 374 1863 378 1847 374 1822 369 1820 369 1819 369 1818 369 1810 375 1798 384 1733 383 1722 376 1709 370 1708 370 1707 370 1706 370 1692 376 1680 383 1671 376 1663 370 1661 370 1660 370 1659 370 1658 370 1635 378 1629 379 1628 378 1618 369 1617 369 1616 369 1615 369 1613 369 1612 369 1599 378 1589 383 1456 383 1448 380 1422 371 1421 371 1387 371 1385 371 1384 371 1383 371 1383 373 1373 380 1372 381 1363 381 1291 374 1289 374 1288 374 1262 381 1262 403"/></Shape>
+	    <String CONTENT="4:o Braunschweig 1951-1954."
+                    HPOS="1261"
+                    VPOS="369"
+                    WIDTH="862"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="615 583 1607 590 2079 606" 
+                    HPOS="613"
+                    VPOS="539"
+                    WIDTH="1465"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="614 582 613 628 662 638 664 638 665 638 687 629 713 618 766 618 803 629 819 634 820 634 962 644 963 644 1052 630 1087 625 1117 631 1159 639 1302 646 1303 646 1304 646 1352 631 1377 625 1576 626 1597 634 1637 645 1638 645 1639 645 1692 635 1777 655 1878 656 1879 657 1971 657 1971 656 1972 656 2020 636 2077 636 2078 605 2077 556 1958 564 1926 554 1925 554 1924 554 1923 554 1903 554 1865 555 1863 555 1838 564 1777 553 1770 551 1769 551 1764 553 1716 564 1658 551 1653 550 1651 550 1647 550 1583 566 1537 549 1534 549 1533 549 1532 549 1531 549 1528 549 1480 565 1431 565 1394 548 1393 548 1392 548 1334 546 1332 546 1331 546 1329 546 1281 562 1182 562 1164 554 1162 554 1161 554 1123 560 1085 544 1081 543 1080 543 1018 543 1017 543 1016 543 1013 543 955 557 914 550 912 550 911 550 890 556 683 556 614 539 614 582"/></Shape>
+	    <String CONTENT="Technischen Bundesanstalt Bd 1(1949)- 2(1950)"
+                    HPOS="613"
+                    VPOS="539"
+                    WIDTH="1465"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

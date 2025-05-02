@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01966-00071.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2308"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="28"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2308"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2306"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2307 1477 2307 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="126 48 1065 37" 
+                    HPOS="124"
+                    VPOS="4"
+                    WIDTH="940"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="125 46 125 61 167 78 168 78 170 78 171 78 213 64 251 75 252 75 253 75 255 75 280 65 321 70 322 70 324 70 340 64 361 55 428 64 430 64 431 64 432 64 447 54 510 54 591 66 603 67 605 67 606 67 609 66 628 59 642 66 658 75 659 75 660 76 712 76 712 75 798 67 812 66 813 66 834 57 903 68 904 68 905 68 906 68 950 49 959 57 961 57 962 57 963 57 998 52 1030 70 1032 71 1033 71 1035 71 1064 70 1064 36 1062 19 975 19 953 4 952 4 951 4 950 4 948 4 919 14 800 4 799 4 798 4 797 4 771 20 770 20 745 4 744 4 743 4 718 4 717 4 715 4 714 4 693 20 691 23 580 23 569 20 517 8 516 8 515 8 513 8 497 22 494 24 447 24 437 22 400 8 399 8 359 8 358 8 301 9 300 9 277 22 269 27 221 27 213 23 194 11 193 11 192 11 151 11 150 11 149 11 124 20 125 46"/></Shape>
+	    <String CONTENT="Ann Arbor . Univ. of Michigan]"
+                    HPOS="124"
+                    VPOS="4"
+                    WIDTH="940"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="73 172 1137 163" 
+                    HPOS="71"
+                    VPOS="130"
+                    WIDTH="1065"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="72 171 72 216 162 225 163 225 272 218 305 215 311 218 329 225 330 225 331 225 332 225 354 218 365 214 402 218 433 220 434 220 436 220 444 218 463 210 592 210 617 218 658 230 659 230 660 230 661 230 687 218 699 211 712 218 736 230 738 230 739 230 971 229 972 229 994 218 1017 206 1068 206 1099 218 1111 222 1112 222 1113 222 1136 218 1136 162 1133 130 374 130 373 130 71 137 72 171"/></Shape>
+	    <String CONTENT="UNIVERSITY OF MICHIGAN PUBLICATIONS"
+                    HPOS="71"
+                    VPOS="130"
+                    WIDTH="1065"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="73 275 542 280" 
+                    HPOS="71"
+                    VPOS="242"
+                    WIDTH="469"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="72 274 71 301 110 319 112 319 113 320 150 320 150 319 151 319 152 319 174 305 179 302 188 306 207 314 208 314 209 314 210 314 211 314 220 307 226 304 268 310 288 312 289 312 290 312 293 311 306 304 349 314 362 316 363 316 364 316 369 315 393 307 404 316 404 317 405 317 406 317 407 317 409 317 412 317 439 310 449 319 451 319 452 319 538 322 540 279 540 257 411 243 410 243 409 243 390 251 375 243 374 243 373 243 309 247 308 247 306 247 300 253 277 242 276 242 248 242 247 242 246 242 245 242 245 243 234 253 177 253 119 253 118 252 103 245 102 245 101 245 72 251 72 274"/></Shape>
+	    <String CONTENT="in mathematics."
+                    HPOS="71"
+                    VPOS="242"
+                    WIDTH="469"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="73 377 299 380" 
+                    HPOS="71"
+                    VPOS="343"
+                    WIDTH="227"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="72 376 71 415 133 424 134 424 135 424 136 424 144 417 154 410 234 410 255 421 267 426 268 426 269 426 296 421 298 379 298 357 268 357 267 355 252 344 251 344 250 344 248 344 211 351 198 344 197 344 195 344 194 344 193 344 193 346 183 354 183 355 157 355 157 354 144 343 142 343 141 343 99 343 98 343 97 343 96 343 96 344 85 354 83 354 72 354 72 376"/></Shape>
+	    <String CONTENT="No.1-2."
+                    HPOS="71"
+                    VPOS="343"
+                    WIDTH="227"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1356 369 1994 372" 
+                    HPOS="1354"
+                    VPOS="310"
+                    WIDTH="639"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="1355 368 1354 399 1422 400 1423 401 1454 415 1455 415 1456 415 1457 415 1482 402 1486 401 1547 401 1557 405 1572 411 1573 411 1574 411 1599 406 1617 402 1622 407 1633 416 1633 417 1635 417 1636 417 1637 417 1754 411 1780 418 1781 418 1783 419 1923 419 1923 418 1924 418 1933 416 1967 403 1988 417 1993 371 1992 325 1948 326 1943 323 1930 317 1929 317 1928 317 1927 317 1926 317 1917 323 1911 327 1882 327 1877 322 1869 315 1868 315 1866 315 1780 310 1779 310 1721 311 1720 311 1718 311 1706 320 1705 320 1695 320 1579 311 1578 311 1577 311 1576 311 1568 317 1567 320 1515 323 1355 315 1355 368"/></Shape>
+	    <String CONTENT="8:o Ann Arbor 1944-54."
+                    HPOS="1354"
+                    VPOS="310"
+                    WIDTH="639"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="2040 46 2245 49" 
+                    HPOS="2038"
+                    VPOS="1"
+                    WIDTH="205"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="2210 1 2198 1 2186 1 2173 1 2161 1 2149 1 2145 1 2125 14 2124 16 2103 16 2102 14 2076 1 2075 1 2073 1 2072 1 2071 1 2055 14 2054 14 2039 14 2039 45 2038 75 2073 71 2078 76 2080 76 2080 77 2081 77 2082 77 2157 78 2158 78 2192 72 2195 72 2198 72 2220 78 2221 78 2222 78 2224 78 2242 71 2243 48 2243 16 2215 1 2210 1"/></Shape>
+	    <String CONTENT="Matem"
+                    HPOS="2038"
+                    VPOS="1"
+                    WIDTH="205"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="2048 112 2221 109" 
+                    HPOS="2045"
+                    VPOS="62"
+                    WIDTH="175"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="2047 110 2047 184 2124 189 2125 189 2126 189 2128 189 2128 188 2140 177 2142 174 2146 177 2172 188 2173 188 2174 188 2176 188 2177 188 2177 187 2192 172 2193 171 2220 169 2220 108 2216 76 2200 76 2198 75 2182 62 2181 62 2179 62 2178 62 2177 62 2146 72 2129 77 2105 71 2081 64 2080 64 2078 64 2045 67 2047 110"/></Shape>
+	    <String CONTENT="Inst."
+                    HPOS="2045"
+                    VPOS="62"
+                    WIDTH="175"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

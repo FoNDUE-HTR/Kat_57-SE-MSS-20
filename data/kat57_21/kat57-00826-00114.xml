@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00826-00114.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1478"
+          PHYSICAL_IMG_NR="44"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1478">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1476"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1477 2319 1477 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="182 256 715 256" 
+                    HPOS="181"
+                    VPOS="211"
+                    WIDTH="533"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="181 254 181 285 190 293 192 293 193 293 194 294 457 294 457 293 458 293 491 280 497 278 523 279 596 285 597 285 598 285 600 285 611 279 613 278 714 278 714 254 713 222 667 224 662 221 646 211 645 211 644 211 643 211 602 213 601 213 600 213 588 221 584 224 563 220 542 218 540 218 510 220 468 224 462 220 453 211 452 211 450 211 449 211 448 211 431 218 418 211 417 211 416 211 415 211 413 211 413 213 406 219 405 220 396 219 362 214 360 214 359 214 349 219 343 221 325 219 285 211 284 211 181 216 181 254"/></Shape>
+	    <String CONTENT="JABŁOŃSKI, Witold"
+                    HPOS="181"
+                    VPOS="211"
+                    WIDTH="533"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1831 43 1972 43" 
+                    HPOS="1830"
+                    VPOS="4"
+                    WIDTH="141"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1830 41 1830 64 1871 67 1894 86 1896 86 1897 86 1898 87 1936 87 1936 86 1938 86 1939 86 1971 65 1971 41 1971 19 1940 19 1939 17 1926 6 1926 4 1925 4 1924 4 1923 4 1922 4 1887 16 1881 17 1876 14 1855 4 1854 4 1853 4 1851 4 1830 12 1830 41"/></Shape>
+	    <String CONTENT="(Br.)"
+                    HPOS="1830"
+                    VPOS="4"
+                    WIDTH="141"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2014 43 2265 38" 
+                    HPOS="2011"
+                    VPOS="4"
+                    WIDTH="253"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="2013 41 2013 59 2071 61 2093 72 2094 72 2095 72 2096 72 2127 60 2129 60 2130 60 2149 65 2151 65 2152 65 2173 60 2182 59 2184 60 2199 70 2200 70 2201 70 2202 71 2252 71 2252 70 2253 70 2254 70 2264 62 2264 36 2259 7 2241 12 2226 8 2214 4 2212 4 2211 4 2210 4 2195 9 2185 13 2178 11 2164 4 2163 4 2162 4 2121 12 2044 7 2042 7 2041 7 2011 17 2013 41"/></Shape>
+	    <String CONTENT="Bibliogr"
+                    HPOS="2011"
+                    VPOS="4"
+                    WIDTH="253"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2041 99 2092 99" 
+                    HPOS="2040"
+                    VPOS="56"
+                    WIDTH="50"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="2040 98 2040 120 2090 120 2090 98 2090 60 2040 56 2040 98"/></Shape>
+	    <String CONTENT="Vet"
+                    HPOS="2040"
+                    VPOS="56"
+                    WIDTH="50"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2028 139 2271 134" 
+                    HPOS="2026"
+                    VPOS="97"
+                    WIDTH="244"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="2027 137 2027 162 2146 172 2147 172 2148 172 2186 161 2206 171 2207 171 2209 171 2270 157 2270 133 2265 97 2251 104 2212 100 2210 100 2209 100 2207 100 2189 109 2164 103 2146 99 2145 99 2111 100 2110 100 2109 100 2101 108 2096 110 2082 109 2055 105 2053 105 2026 112 2027 137"/></Shape>
+	    <String CONTENT="Bibliogr."
+                    HPOS="2026"
+                    VPOS="97"
+                    WIDTH="244"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="181 353 2261 356" 
+                    HPOS="178"
+                    VPOS="317"
+                    WIDTH="2082"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="179 352 178 374 209 383 210 383 211 384 548 384 548 383 549 383 576 376 682 383 683 383 685 383 710 376 755 383 756 383 1186 378 1341 384 1342 384 1344 384 1363 378 1505 378 1568 385 1569 385 2259 378 2260 355 2259 331 1957 321 1956 321 1904 330 1901 330 1894 330 1816 323 1814 323 1748 330 1739 330 1737 330 1706 320 1705 320 1652 320 1650 320 1577 330 1569 330 1562 330 1500 319 1499 319 1204 325 1177 320 1176 320 1096 328 1089 328 1080 328 990 321 989 321 895 328 882 328 874 328 803 317 802 317 587 323 452 317 450 317 409 327 406 328 255 328 250 327 213 320 211 320 179 326 179 352"/></Shape>
+	    <String CONTENT="Geneza chińskiej bibliografii a rodzaje literackie. - Les origines de"
+                    HPOS="178"
+                    VPOS="317"
+                    WIDTH="2082"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="182 455 1750 460" 
+                    HPOS="179"
+                    VPOS="422"
+                    WIDTH="1570"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="181 454 179 477 442 477 450 481 457 484 458 484 602 485 603 485 665 482 733 479 754 482 767 485 768 485 836 482 964 479 1094 485 1142 486 1143 486 1195 485 1354 480 1471 486 1495 487 1496 487 1516 486 1615 481 1747 487 1749 459 1748 434 1670 426 1395 426 1394 426 1393 426 1381 432 1376 433 1126 433 1118 429 1103 424 1102 424 1101 424 1018 429 967 432 940 428 896 423 895 423 786 428 708 431 669 427 629 423 628 423 582 427 537 431 444 431 434 426 427 422 426 422 333 422 332 422 331 422 324 424 311 429 299 424 294 423 293 423 292 423 283 424 259 429 181 424 181 454"/></Shape>
+	    <String CONTENT="la bibliographie chinoise et les genres littéraires."
+                    HPOS="179"
+                    VPOS="422"
+                    WIDTH="1570"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1465 558 2018 563" 
+                    HPOS="1463"
+                    VPOS="522"
+                    WIDTH="553"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="1464 557 1463 572 1530 587 1531 587 1589 576 1599 575 1601 577 1612 587 1612 588 1614 588 1615 588 1616 588 1655 582 1706 588 1707 588 1708 588 1710 588 1719 582 1808 589 1809 589 1811 589 1825 583 1840 577 1865 577 1875 585 1881 591 1882 591 1883 591 1885 591 1930 586 1976 582 2014 588 2016 562 2016 538 1982 525 1981 525 1979 525 1896 533 1876 525 1875 525 1873 525 1872 525 1835 535 1834 535 1716 524 1715 524 1713 524 1712 524 1712 525 1703 533 1684 525 1683 525 1681 525 1680 525 1654 534 1653 534 1652 534 1604 522 1602 522 1601 522 1600 522 1565 533 1564 534 1520 534 1519 533 1503 523 1501 523 1500 523 1499 523 1498 523 1496 523 1483 533 1482 533 1464 533 1464 557"/></Shape>
+	    <String CONTENT="8:o Warszawa 1950."
+                    HPOS="1463"
+                    VPOS="522"
+                    WIDTH="553"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="184 665 2314 660" 
+                    HPOS="182"
+                    VPOS="621"
+                    WIDTH="2131"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="183 663 183 697 204 700 205 700 206 700 216 697 248 687 357 687 400 697 401 697 462 686 717 686 921 686 963 697 974 700 975 700 977 700 1105 697 1230 694 1309 697 1362 699 1363 699 1437 697 1439 697 1469 687 1558 697 1578 699 1579 699 1610 697 1750 687 2313 697 2313 658 2311 631 2201 631 2199 630 2137 621 2136 621 2034 630 2026 630 2014 630 1886 624 1885 624 1839 630 1832 630 1827 630 1797 623 1796 623 1764 629 1753 633 1395 633 1365 629 1307 623 1306 623 1190 628 1094 633 1047 628 1020 625 1018 625 986 628 941 631 922 628 905 624 904 624 883 628 867 630 857 628 846 624 845 624 843 624 685 625 675 626 645 634 182 626 183 663"/></Shape>
+	    <String CONTENT="/Towarzystwo nauk.warszawskie. Wydz.1 językoznawstwa i historii litera-"
+                    HPOS="182"
+                    VPOS="621"
+                    WIDTH="2131"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="195 740 374 737" 
+                    HPOS="193"
+                    VPOS="705"
+                    WIDTH="180"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="194 739 194 771 373 769 373 736 367 705 357 711 314 708 287 705 285 705 284 705 283 705 283 706 280 709 277 713 193 713 194 739"/></Shape>
+	    <String CONTENT="tury./"
+                    HPOS="193"
+                    VPOS="705"
+                    WIDTH="180"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="2073 1426 2292 1426" 
+                    HPOS="2072"
+                    VPOS="1380"
+                    WIDTH="219"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="2072 1425 2072 1444 2105 1458 2106 1458 2108 1458 2109 1458 2130 1447 2133 1445 2152 1445 2156 1448 2189 1463 2190 1463 2191 1464 2234 1464 2234 1463 2236 1463 2260 1452 2270 1448 2289 1453 2291 1425 2290 1390 2194 1390 2180 1388 2156 1380 2154 1380 2153 1380 2152 1380 2141 1386 2138 1388 2136 1386 2129 1380 2127 1380 2126 1380 2125 1380 2072 1384 2072 1425"/></Shape>
+	    <String CONTENT="7.10.1950"
+                    HPOS="2072"
+                    VPOS="1380"
+                    WIDTH="219"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

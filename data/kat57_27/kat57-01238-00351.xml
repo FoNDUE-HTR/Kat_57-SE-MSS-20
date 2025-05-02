@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00351.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1476"
+          PHYSICAL_IMG_NR="17"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1476">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1474"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1475 2323 1475 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="161 210 602 213" 
+                    HPOS="158"
+                    VPOS="159"
+                    WIDTH="443"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="159 209 158 253 220 254 221 254 243 249 263 246 284 248 356 255 358 255 359 255 360 255 375 243 389 232 437 232 450 239 455 243 456 243 457 243 458 243 483 238 506 233 525 236 546 239 547 239 600 232 601 212 599 172 547 175 526 169 521 168 520 168 519 168 517 168 516 168 516 169 504 180 473 180 442 167 435 164 434 164 433 164 431 164 430 164 428 167 410 179 366 179 350 167 349 167 348 167 337 164 308 161 307 161 306 161 295 163 282 167 279 163 275 161 275 159 274 159 273 159 231 159 230 159 228 159 221 162 199 168 190 161 189 159 188 159 187 159 185 159 159 159 159 209"/></Shape>
+	    <String CONTENT="MORTET, Victor"
+                    HPOS="158"
+                    VPOS="159"
+                    WIDTH="443"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="161 311 2253 314" 
+                    HPOS="158"
+                    VPOS="268"
+                    WIDTH="2094"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="159 309 158 334 225 343 226 344 572 344 572 343 573 343 601 335 613 333 627 335 644 339 645 339 754 335 850 333 863 335 890 343 891 343 893 343 948 337 949 337 990 344 991 344 992 344 1023 337 1033 334 1076 337 1185 343 1187 343 1214 337 1221 335 1230 337 1269 344 1270 344 1337 337 1365 334 1657 334 1692 338 1786 344 1787 344 1857 338 1863 338 1874 338 1989 343 1990 343 1991 343 2005 338 2013 335 2061 335 2073 338 2098 345 2100 345 2101 345 2251 338 2252 313 2251 276 2053 271 2052 271 2050 271 2037 275 2020 279 1951 274 1916 273 1915 273 1886 274 1814 279 1642 273 1574 271 1573 271 1525 273 1390 277 1360 273 1348 270 1215 270 1214 270 1203 271 1162 279 863 279 807 270 797 269 795 269 794 269 791 270 767 277 668 277 602 269 597 269 596 269 575 269 322 274 159 268 159 309"/></Shape>
+	    <String CONTENT="Se: Recueil de textes relatifs à l´histoire de l´architecture et à la"
+                    HPOS="158"
+                    VPOS="268"
+                    WIDTH="2094"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="279 410 2178 416" 
+                    HPOS="276"
+                    VPOS="371"
+                    WIDTH="1901"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="278 409 276 431 671 440 672 440 899 436 1037 434 1086 437 1141 441 1142 441 1263 439 1398 435 1472 440 1519 442 1520 442 1562 440 1635 436 1754 441 1810 444 1812 444 1822 442 1844 437 2112 437 2175 444 2177 415 2177 387 2139 376 2138 376 1860 376 1858 376 1828 382 1797 376 1796 376 1794 376 1769 386 1766 386 1762 386 1723 377 1722 377 1659 384 1647 386 1280 386 1277 383 1247 373 1246 373 1245 373 768 382 660 383 650 382 624 376 623 376 547 381 527 382 522 381 497 372 495 372 439 371 437 371 365 381 358 381 278 381 278 409"/></Shape>
+	    <String CONTENT="condition des architectes en France au moyen age. 1-2. 1911-29."
+                    HPOS="276"
+                    VPOS="371"
+                    WIDTH="1901"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="281 511 2244 515" 
+                    HPOS="279"
+                    VPOS="474"
+                    WIDTH="1963"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="280 510 279 551 704 553 706 553 711 552 749 543 931 543 1019 551 1021 551 1323 544 1603 554 1644 555 1646 555 1653 554 1699 546 1887 546 1921 554 1922 554 1924 554 1989 548 2010 555 2011 555 2012 557 2241 557 2242 514 2240 478 1748 482 1723 477 1715 476 1713 476 1701 477 1643 484 1603 477 1588 474 1436 474 1435 474 1434 474 1428 477 1409 484 1342 484 1323 477 1317 474 1316 474 1261 474 1259 474 1258 474 1252 476 1230 483 280 476 280 510"/></Shape>
+	    <String CONTENT="i: Collection de textes pour servir à l´étude et à l´enseignement"
+                    HPOS="279"
+                    VPOS="474"
+                    WIDTH="1963"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="370 614 1019 611" 
+                    HPOS="367"
+                    VPOS="576"
+                    WIDTH="651"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="369 613 369 639 477 639 481 639 506 649 508 649 509 649 510 649 511 649 525 640 527 639 532 640 592 656 594 656 595 656 596 656 638 642 649 638 663 642 675 645 676 645 677 646 677 645 679 645 690 642 704 638 711 643 713 644 714 644 716 644 717 644 734 643 744 642 746 643 766 656 767 656 768 656 770 656 875 655 877 655 878 655 878 654 884 649 935 655 936 655 937 655 971 645 975 644 979 645 995 653 996 653 997 653 998 653 1018 645 1018 610 1016 587 964 576 963 576 911 583 858 576 857 576 856 576 855 576 855 578 845 587 766 587 732 580 730 580 729 580 711 587 703 580 703 579 702 579 701 579 669 578 668 578 666 578 665 578 650 587 638 578 637 578 636 578 634 578 633 578 632 578 632 579 622 589 597 589 584 579 583 579 581 579 580 579 579 579 564 586 556 579 554 579 553 579 552 579 504 585 477 579 476 579 474 579 473 579 472 579 472 580 462 590 445 590 398 579 397 579 396 579 367 589 369 613"/></Shape>
+	    <String CONTENT="de l´histoire. 44, 51."
+                    HPOS="367"
+                    VPOS="576"
+                    WIDTH="651"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1051 606 1211 603" 
+                    HPOS="1049"
+                    VPOS="564"
+                    WIDTH="161"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1050 605 1050 634 1075 634 1075 633 1076 633 1077 633 1082 628 1096 618 1130 621 1155 622 1156 622 1157 622 1210 607 1210 602 1209 579 1176 567 1174 567 1173 567 1172 567 1139 578 1136 579 1135 578 1117 564 1115 564 1114 564 1087 564 1086 564 1085 564 1083 564 1069 578 1065 580 1049 578 1050 605"/></Shape>
+	    <String CONTENT="Hist."
+                    HPOS="1049"
+                    VPOS="564"
+                    WIDTH="161"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1101 642 1120 640" 
+                    HPOS="1097"
+                    VPOS="607"
+                    WIDTH="22"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="1099 640 1099 658 1118 659 1119 639 1115 607 1097 608 1099 640"/></Shape>
+	    <String CONTENT="Fr"
+                    HPOS="1097"
+                    VPOS="607"
+                    WIDTH="22"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1064 701 1193 704" 
+                    HPOS="1061"
+                    VPOS="660"
+                    WIDTH="131"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1062 699 1061 729 1103 730 1104 730 1106 730 1107 730 1117 724 1128 718 1139 722 1160 729 1161 729 1162 729 1163 729 1190 717 1192 703 1190 665 1130 672 1118 667 1099 660 1098 660 1097 660 1096 660 1094 660 1083 670 1081 671 1062 671 1062 699"/></Shape>
+	    <String CONTENT="Saml"
+                    HPOS="1061"
+                    VPOS="660"
+                    WIDTH="131"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

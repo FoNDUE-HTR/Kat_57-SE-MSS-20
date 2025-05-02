@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01622-00044.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="49"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2323 1471 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="300 201 766 198" 
+                    HPOS="298"
+                    VPOS="158"
+                    WIDTH="467"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="299 199 299 229 498 235 499 235 500 235 516 229 532 222 561 228 573 230 574 230 575 230 584 228 609 222 763 226 765 197 763 174 651 174 649 172 619 158 618 158 574 158 573 158 571 158 537 171 528 175 506 175 500 170 488 161 487 161 485 161 484 161 455 168 441 159 440 159 439 159 438 159 298 168 299 199"/></Shape>
+	    <String CONTENT="SAVAGE, Spencer"
+                    HPOS="298"
+                    VPOS="158"
+                    WIDTH="467"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="299 303 2206 300" 
+                    HPOS="296"
+                    VPOS="258"
+                    WIDTH="1908"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="298 302 298 323 364 323 387 332 388 332 390 333 839 333 839 332 872 323 877 322 970 322 979 325 1001 331 1002 331 1003 331 1050 325 1067 322 1266 322 1288 325 1333 331 1335 331 1431 325 1482 322 1506 325 1549 331 1550 331 1581 326 1607 321 1642 326 1676 329 1677 329 1759 326 1855 321 2203 326 2204 299 2202 272 1869 272 1868 271 1814 262 1813 262 1624 271 1618 271 1617 271 1584 258 1582 258 1581 258 1368 271 1360 271 1359 271 1327 258 1326 258 1325 258 1251 262 1250 262 1228 271 1223 273 1166 273 1159 271 1109 258 1027 258 1025 258 1024 258 991 269 934 264 933 264 932 264 916 271 908 274 833 274 820 271 780 260 779 260 633 260 631 260 585 268 543 261 542 261 541 261 511 271 504 272 482 271 381 261 380 261 296 269 298 302"/></Shape>
+	    <String CONTENT="Se:Linné,C. [v. ],Caroli Linnaei Determinationes in Hortum siccum"
+                    HPOS="296"
+                    VPOS="258"
+                    WIDTH="1908"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="383 400 1118 405" 
+                    HPOS="381"
+                    VPOS="368"
+                    WIDTH="736"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="382 399 381 417 406 425 407 425 408 425 467 420 568 426 569 426 703 420 754 428 755 428 889 423 957 429 958 429 959 429 960 429 970 423 1020 429 1022 429 1023 429 1024 429 1030 423 1050 429 1051 429 1052 429 1054 429 1055 429 1055 428 1061 423 1116 423 1117 404 1116 383 1103 383 1103 382 1090 371 1090 370 1089 370 1088 370 1007 370 1006 370 1004 370 1003 370 997 376 977 370 976 370 975 370 974 370 973 370 973 371 960 382 959 383 934 383 884 382 884 381 872 370 872 369 871 369 869 369 868 369 867 369 850 377 828 377 813 369 812 369 811 369 809 369 771 377 746 368 744 368 674 368 673 368 672 368 671 368 671 369 658 380 658 381 642 381 641 380 630 370 629 370 628 370 627 370 581 379 568 368 566 368 565 368 564 368 563 368 561 368 561 369 553 377 531 368 530 368 528 368 527 368 498 379 482 371 480 371 479 371 442 379 440 379 424 370 423 370 422 370 382 377 382 399"/></Shape>
+	    <String CONTENT="Joachimi Burseri...1937."
+                    HPOS="381"
+                    VPOS="368"
+                    WIDTH="736"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="335 503 2254 499" 
+                    HPOS="333"
+                    VPOS="466"
+                    WIDTH="1919"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="334 502 334 542 418 542 418 540 419 540 420 540 449 533 473 539 476 540 477 540 478 542 690 542 690 540 692 540 700 538 731 527 814 527 1006 527 1028 534 1042 539 1044 539 1045 540 1105 540 1105 539 1187 533 1294 526 1462 531 1683 538 1684 538 1776 528 1803 526 1997 526 2004 526 2067 534 2068 534 2251 523 2252 498 2250 475 2196 467 2195 467 2136 474 2108 466 2106 466 2105 466 2047 474 2045 474 2040 474 1889 466 1888 466 1764 474 1735 477 1573 477 1558 473 1515 467 1514 467 1471 473 1455 475 1442 473 1413 467 1412 467 1374 473 1358 475 1294 473 1176 468 1175 468 1135 473 1099 478 854 478 840 472 829 468 828 468 827 468 747 471 746 471 742 472 725 479 588 479 570 472 564 469 563 469 561 469 333 471 334 502"/></Shape>
+	    <String CONTENT="i:Catalogue of the manuscripts in the library of the Linnean so-"
+                    HPOS="333"
+                    VPOS="466"
+                    WIDTH="1919"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="390 601 980 609 1248 621" 
+                    HPOS="387"
+                    VPOS="564"
+                    WIDTH="860"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="388 599 387 630 603 642 604 642 606 642 620 635 640 625 671 631 672 631 673 631 687 625 694 631 695 631 696 631 698 631 753 629 784 639 814 647 815 647 817 647 865 640 866 640 867 640 900 647 901 647 903 647 919 641 926 637 938 641 948 644 949 644 950 644 952 644 959 641 991 631 1061 631 1094 642 1095 642 1096 642 1098 642 1117 634 1146 635 1180 640 1185 646 1192 652 1192 653 1193 653 1195 653 1196 653 1197 653 1212 646 1214 645 1245 646 1247 620 1247 594 1214 583 1213 583 1212 583 1211 583 1209 583 1200 591 1165 566 1164 566 1163 566 1063 564 1049 564 1047 564 1046 564 1045 564 1017 586 960 570 959 570 958 570 957 570 931 583 904 565 903 565 901 565 900 565 899 565 850 583 786 572 785 572 717 580 692 566 690 566 689 566 688 566 658 577 625 572 624 572 623 572 586 582 525 580 505 570 504 570 503 570 501 570 472 578 446 570 445 570 444 570 442 570 441 570 430 580 388 580 388 599"/></Shape>
+	    <String CONTENT="ciety of London.P.2.( &gt;Bibliogr"
+                    HPOS="387"
+                    VPOS="564"
+                    WIDTH="860"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1041 713 1228 710" 
+                    HPOS="1039"
+                    VPOS="648"
+                    WIDTH="188"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="1040 712 1040 729 1225 737 1227 709 1220 664 1204 678 1165 678 1158 670 1135 650 1135 648 1133 648 1132 648 1100 648 1099 648 1098 648 1039 678 1040 712"/></Shape>
+	    <String CONTENT="Bibliot"
+                    HPOS="1039"
+                    VPOS="648"
+                    WIDTH="188"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1065 795 1204 795" 
+                    HPOS="1063"
+                    VPOS="733"
+                    WIDTH="140"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1063 794 1063 809 1082 816 1083 816 1084 816 1085 816 1105 810 1108 810 1110 810 1123 816 1125 816 1126 816 1203 813 1203 794 1203 764 1184 764 1139 733 1138 733 1137 733 1111 733 1110 733 1109 733 1108 733 1063 761 1063 794"/></Shape>
+	    <String CONTENT="Eng."
+                    HPOS="1063"
+                    VPOS="733"
+                    WIDTH="140"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1030 890 1488 887" 
+                    HPOS="1028"
+                    VPOS="828"
+                    WIDTH="459"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="1029 889 1030 907 1036 905 1040 907 1050 917 1050 918 1051 918 1052 918 1054 920 1054 918 1055 918 1056 918 1056 917 1061 913 1065 917 1065 918 1066 918 1067 918 1068 920 1185 920 1185 918 1186 918 1187 918 1187 917 1195 911 1201 904 1261 904 1295 912 1299 913 1300 913 1301 913 1303 913 1304 913 1315 906 1333 913 1337 915 1338 915 1339 915 1341 915 1344 913 1380 904 1396 915 1398 917 1400 917 1401 917 1402 917 1487 916 1487 886 1483 856 1458 856 1456 854 1425 836 1424 836 1423 836 1422 836 1420 836 1391 851 1371 851 1336 828 1335 828 1333 828 1288 828 1287 828 1285 828 1284 828 1251 852 1244 858 1196 858 1188 852 1170 837 1169 837 1168 837 1166 837 1165 837 1164 837 1150 848 1138 847 1121 830 1121 829 1120 829 1119 829 1082 829 1081 829 1079 829 1078 829 1046 851 1044 852 1028 851 1029 889"/></Shape>
+	    <String CONTENT="London Linnean"
+                    HPOS="1028"
+                    VPOS="828"
+                    WIDTH="459"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1274 970 1355 973" 
+                    HPOS="1272"
+                    VPOS="922"
+                    WIDTH="83"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1273 969 1272 991 1352 992 1354 972 1355 924 1328 922 1327 922 1326 922 1325 922 1325 923 1317 929 1308 938 1273 937 1273 969"/></Shape>
+	    <String CONTENT="soc"
+                    HPOS="1272"
+                    VPOS="922"
+                    WIDTH="83"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

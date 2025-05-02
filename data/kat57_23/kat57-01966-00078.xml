@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01966-00078.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="32"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2323 1471 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="109 59 950 59" 
+                    HPOS="107"
+                    VPOS="4"
+                    WIDTH="842"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="107 58 107 100 128 100 128 99 130 99 131 99 153 82 346 82 361 89 363 89 364 89 365 89 366 89 376 82 413 82 430 93 430 94 431 94 433 94 434 94 435 94 439 93 456 87 469 93 484 99 485 99 487 99 488 99 517 92 547 84 555 90 566 99 568 99 569 99 570 99 636 98 638 98 639 98 650 89 652 87 661 89 700 99 701 99 703 99 704 99 737 88 743 85 748 87 759 92 760 92 761 92 763 92 764 92 770 87 784 99 785 99 786 99 787 99 788 99 824 88 860 99 861 99 862 100 912 100 912 99 914 99 949 83 949 58 948 13 926 18 920 13 910 4 909 4 908 4 893 4 892 4 890 4 889 4 877 13 852 30 840 30 819 14 808 6 807 6 806 6 771 4 770 4 769 4 746 14 715 29 694 15 679 4 678 4 677 4 649 4 647 4 646 4 624 15 598 30 480 30 457 18 445 12 444 12 442 12 441 12 440 12 431 18 412 30 375 30 355 19 334 7 333 7 201 4 200 4 198 4 179 12 150 4 149 4 148 4 147 4 107 20 107 58"/></Shape>
+	    <String CONTENT="(Lincoln, Univ. of Nebraska)"
+                    HPOS="107"
+                    VPOS="4"
+                    WIDTH="842"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2075 70 2222 67" 
+                    HPOS="2073"
+                    VPOS="11"
+                    WIDTH="147"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="2074 69 2074 85 2090 93 2092 93 2093 93 2094 93 2095 93 2104 87 2220 87 2220 66 2218 15 2209 11 2208 11 2207 11 2206 11 2169 18 2150 12 2149 12 2148 12 2147 12 2146 12 2119 33 2110 40 2073 40 2074 69"/></Shape>
+	    <String CONTENT="Acta"
+                    HPOS="2073"
+                    VPOS="11"
+                    WIDTH="147"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="222 182 1132 185" 
+                    HPOS="219"
+                    VPOS="136"
+                    WIDTH="912"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="220 181 219 198 229 204 230 204 231 204 233 204 1130 202 1131 184 1128 148 1000 148 987 145 970 142 969 142 968 142 957 145 948 148 942 145 932 141 931 141 930 141 908 144 890 148 871 144 834 137 739 137 738 137 711 142 684 148 677 142 676 141 674 141 673 141 672 141 661 142 624 147 608 141 600 138 598 138 597 138 575 141 526 147 515 139 509 136 507 136 506 136 505 136 504 136 489 139 463 147 454 139 452 138 451 138 450 138 449 138 447 138 444 139 423 145 411 138 404 136 403 136 334 136 333 136 332 136 325 138 293 147 220 137 220 181"/></Shape>
+	    <String CONTENT="UNIVERSITY OF NEBRASKA STUDIES"
+                    HPOS="219"
+                    VPOS="136"
+                    WIDTH="912"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2045 152 2283 155" 
+                    HPOS="2043"
+                    VPOS="106"
+                    WIDTH="239"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="2044 150 2043 212 2085 213 2087 213 2088 213 2089 213 2095 208 2119 191 2168 198 2169 198 2170 198 2181 192 2190 199 2200 208 2201 208 2202 208 2203 208 2238 202 2250 207 2251 207 2252 207 2254 207 2281 192 2282 154 2281 116 2244 121 2223 116 2185 107 2184 107 2182 107 2153 117 2147 120 2144 117 2133 107 2132 107 2131 107 2099 106 2098 106 2096 106 2095 106 2074 118 2073 120 2044 120 2044 150"/></Shape>
+	    <String CONTENT="N. Amer"
+                    HPOS="2043"
+                    VPOS="106"
+                    WIDTH="239"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="211 284 2179 287" 
+                    HPOS="208"
+                    VPOS="246"
+                    WIDTH="1969"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="209 283 208 312 397 314 397 315 447 328 449 328 450 328 571 318 640 318 668 328 669 328 671 329 844 329 844 328 893 318 910 315 939 318 1017 328 1293 329 1294 329 1362 321 1409 316 1552 323 1618 326 1619 326 1741 325 1742 325 1743 325 1770 316 2012 316 2060 327 2074 329 2076 329 2093 327 2133 320 2175 327 2177 285 2176 249 2035 247 2034 247 2028 249 1989 257 1884 257 1840 249 1833 247 1780 247 1779 247 1777 247 1774 249 1752 256 1698 250 1696 250 1606 256 1585 249 1581 247 1580 247 1579 247 1549 249 1419 255 1325 249 1300 247 1299 247 1292 249 1260 256 1195 249 1170 246 1049 246 1047 246 1025 249 979 255 952 249 939 246 938 246 882 249 788 253 750 249 727 246 726 246 725 246 715 249 693 255 209 250 209 283"/></Shape>
+	    <String CONTENT="Studies in science and technology. Published by the University at"
+                    HPOS="208"
+                    VPOS="246"
+                    WIDTH="1969"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="209 386 980 389" 
+                    HPOS="208"
+                    VPOS="344"
+                    WIDTH="771"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="208 385 208 439 280 434 282 434 283 434 309 415 404 415 431 439 435 441 436 441 438 441 439 441 440 441 450 437 474 430 504 437 522 442 523 442 525 444 602 444 602 442 603 442 614 437 630 430 660 435 661 435 662 435 683 426 698 436 698 437 699 437 700 437 701 437 703 437 705 436 758 418 835 425 849 436 857 444 858 444 860 444 861 444 862 444 885 436 916 425 934 435 934 436 936 436 937 436 938 436 939 436 942 435 965 426 974 435 979 388 977 348 941 347 939 347 938 347 934 348 916 355 905 348 904 347 903 347 901 347 795 347 793 347 792 347 791 347 791 348 788 349 776 361 737 361 693 355 689 352 683 347 683 345 682 345 681 345 679 345 678 345 666 352 650 359 619 352 611 350 609 350 608 350 601 352 577 359 568 353 561 348 560 348 559 348 558 348 557 348 543 353 538 354 533 353 500 345 499 345 498 345 496 345 496 347 488 354 482 360 467 360 408 359 404 354 395 345 395 344 393 344 392 344 391 344 390 344 355 355 346 358 328 355 296 352 295 352 294 352 285 356 282 358 277 356 241 344 240 344 239 344 238 344 236 344 222 356 220 358 208 358 208 385"/></Shape>
+	    <String CONTENT="Lincoln, Nebraska. [Ill.]"
+                    HPOS="208"
+                    VPOS="344"
+                    WIDTH="771"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="213 487 431 487" 
+                    HPOS="212"
+                    VPOS="453"
+                    WIDTH="218"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="212 486 213 534 229 528 267 531 321 534 322 534 323 534 342 526 348 522 352 525 358 529 359 529 360 529 361 529 363 529 364 529 370 523 381 515 429 518 430 486 430 469 388 469 387 468 370 453 369 453 368 453 353 453 352 453 350 453 349 453 349 455 336 467 334 469 293 469 289 467 269 453 268 453 267 453 266 453 223 455 222 455 220 455 212 461 212 486"/></Shape>
+	    <String CONTENT="No. 1-"
+                    HPOS="212"
+                    VPOS="453"
+                    WIDTH="218"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1282 487 1838 487" 
+                    HPOS="1281"
+                    VPOS="450"
+                    WIDTH="555"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1281 486 1281 538 1327 538 1327 537 1328 537 1330 537 1331 536 1354 522 1401 533 1403 533 1404 533 1406 533 1407 533 1407 532 1423 518 1463 518 1488 531 1503 537 1504 537 1505 537 1552 534 1553 534 1554 534 1562 527 1573 518 1613 526 1644 531 1645 531 1673 526 1699 534 1700 534 1701 534 1703 534 1704 534 1714 527 1721 533 1722 533 1723 533 1725 533 1726 533 1739 526 1749 534 1749 536 1750 536 1752 536 1753 536 1754 536 1785 520 1789 518 1836 518 1836 486 1835 455 1792 461 1784 455 1779 450 1777 450 1776 450 1679 450 1678 450 1677 450 1665 456 1655 462 1629 462 1624 456 1619 453 1619 452 1618 452 1617 452 1616 452 1614 452 1613 452 1607 457 1602 460 1595 457 1575 450 1574 450 1573 450 1571 450 1570 450 1559 457 1552 462 1482 462 1478 458 1469 451 1469 450 1468 450 1467 450 1430 450 1429 450 1428 450 1427 450 1414 458 1411 462 1349 462 1348 460 1338 451 1338 450 1337 450 1336 450 1317 450 1316 450 1315 450 1281 460 1281 486"/></Shape>
+	    <String CONTENT="8:o Lincoln 1941 -"
+                    HPOS="1281"
+                    VPOS="450"
+                    WIDTH="555"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

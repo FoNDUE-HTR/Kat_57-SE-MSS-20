@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01198-00319.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="16"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2319 1479 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="167 224 423 224" 
+                    HPOS="166"
+                    VPOS="161"
+                    WIDTH="255"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="166 223 166 244 420 245 421 223 420 170 400 172 395 170 383 161 382 161 381 161 379 161 326 171 315 172 310 171 286 161 284 161 283 161 282 161 265 170 220 161 219 161 218 161 217 161 203 172 202 173 166 173 166 223"/></Shape>
+	    <String CONTENT="MEYNIANA"
+                    HPOS="166"
+                    VPOS="161"
+                    WIDTH="255"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2063 61 2250 64" 
+                    HPOS="2060"
+                    VPOS="7"
+                    WIDTH="189"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="2062 60 2060 94 2079 106 2080 106 2081 106 2083 107 2111 107 2111 106 2112 106 2114 106 2114 104 2123 96 2137 85 2154 85 2247 103 2249 62 2247 12 2190 32 2147 32 2131 16 2122 8 2122 7 2121 7 2120 7 2081 7 2080 7 2079 7 2062 16 2062 60"/></Shape>
+	    <String CONTENT="Geol."
+                    HPOS="2060"
+                    VPOS="7"
+                    WIDTH="189"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2002 148 2263 152" 
+                    HPOS="2000"
+                    VPOS="87"
+                    WIDTH="262"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="2001 148 2000 168 2260 168 2262 151 2262 115 2228 114 2225 111 2208 99 2207 99 2206 99 2205 99 2204 99 2202 99 2190 107 2179 113 2157 113 2144 102 2132 91 2131 91 2130 91 2128 91 2127 91 2126 91 2115 99 2099 112 2077 94 2067 87 2065 87 2064 87 2001 87 2001 148"/></Shape>
+	    <String CONTENT="Tidskr"
+                    HPOS="2000"
+                    VPOS="87"
+                    WIDTH="262"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="164 330 2269 325" 
+                    HPOS="161"
+                    VPOS="281"
+                    WIDTH="2107"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="162 329 162 346 2264 349 2268 324 2265 292 2213 281 2212 281 2097 291 2031 282 2030 282 2028 282 2001 289 1970 284 1969 284 1906 291 1690 282 1689 282 1633 292 1571 282 1424 282 1423 282 1212 293 690 283 689 283 615 294 546 287 545 287 510 294 315 288 314 288 313 288 293 296 161 296 162 329"/></Shape>
+	    <String CONTENT="Veröffentlichungen aus dem Geologischen Institut der Universität Kiel."
+                    HPOS="161"
+                    VPOS="281"
+                    WIDTH="2107"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="156 432 1666 428" 
+                    HPOS="154"
+                    VPOS="392"
+                    WIDTH="1511"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="155 431 155 460 208 460 217 461 314 483 315 483 316 483 335 477 365 483 366 483 367 483 390 472 410 474 411 474 453 464 474 458 757 458 783 469 809 479 810 479 911 483 912 483 1017 478 1018 478 1033 472 1070 458 1102 463 1103 463 1163 457 1191 471 1192 471 1193 471 1229 469 1230 469 1256 458 1362 477 1393 482 1394 483 1556 483 1556 482 1570 479 1612 472 1663 481 1665 427 1662 400 1531 392 1530 392 1466 400 1456 402 1450 400 1413 392 1412 392 1410 392 1392 400 1390 403 1361 403 1356 402 1313 392 1312 392 1311 392 1276 402 1274 402 1272 402 1234 392 1233 392 1161 392 1160 392 1159 392 1140 399 1117 394 1116 394 1006 403 996 403 987 403 880 393 879 393 878 393 844 403 821 393 820 393 818 393 817 393 786 402 719 393 717 393 716 393 685 403 629 397 627 397 626 397 601 404 600 405 500 405 500 404 468 397 467 397 466 397 464 397 448 405 345 405 294 394 193 394 192 394 191 394 154 405 155 431"/></Shape>
+	    <String CONTENT="Herausgegeben von Karl Gripp und Ekke W. Guenther."
+                    HPOS="154"
+                    VPOS="392"
+                    WIDTH="1511"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="160 535 426 532" 
+                    HPOS="157"
+                    VPOS="499"
+                    WIDTH="268"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="159 534 159 552 189 562 191 562 192 563 260 563 260 562 305 557 366 551 376 558 376 559 377 559 378 559 423 561 425 531 424 513 399 499 398 499 397 499 395 499 347 513 300 513 273 500 272 500 271 500 270 500 268 500 268 501 256 514 244 514 230 501 230 500 229 500 228 500 178 500 177 500 176 500 175 500 157 511 159 534"/></Shape>
+	    <String CONTENT="Bd 1 - 5."
+                    HPOS="157"
+                    VPOS="499"
+                    WIDTH="268"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="156 732 596 732" 
+                    HPOS="155"
+                    VPOS="694"
+                    WIDTH="440"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="155 731 155 758 168 756 175 759 187 767 188 767 189 767 191 767 192 767 212 759 228 770 229 770 230 770 231 770 233 770 257 760 263 757 316 756 365 756 376 762 389 769 390 769 392 769 393 769 416 763 446 756 478 757 485 764 492 769 492 770 493 770 494 770 495 770 595 765 595 731 595 701 501 694 500 694 456 703 437 706 431 704 413 694 411 694 410 694 409 694 382 701 355 694 353 694 352 694 351 694 350 694 350 695 340 705 337 707 309 707 302 705 259 695 257 695 256 695 255 695 242 706 241 707 208 707 207 706 186 694 185 694 183 694 182 694 181 694 155 706 155 731"/></Shape>
+	    <String CONTENT="Forts. Kat. 1958-"
+                    HPOS="155"
+                    VPOS="694"
+                    WIDTH="440"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1471 528 2245 525" 
+                    HPOS="1468"
+                    VPOS="484"
+                    WIDTH="776"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="1470 527 1470 556 1536 557 1551 572 1551 573 1552 573 1554 573 1555 573 1573 572 1605 587 1607 587 1608 587 1636 580 1676 592 1677 592 1678 592 1679 592 1681 592 1707 575 1735 590 1736 590 1737 592 1861 592 1861 590 1862 590 1863 590 1887 574 1929 582 1930 582 1931 582 1949 577 1964 587 1966 587 1967 587 1968 587 1969 587 1970 587 1991 572 2001 580 2003 580 2004 580 2005 580 2006 580 2007 580 2007 579 2036 555 2191 555 2205 561 2206 561 2207 561 2244 552 2244 524 2242 485 2173 484 2171 484 2170 484 2164 487 2146 494 2131 487 2127 485 2126 485 2028 484 2027 484 2026 484 2007 489 2000 492 1988 490 1953 485 1952 485 1951 485 1938 492 1925 498 1879 493 1868 492 1867 492 1866 492 1861 493 1843 498 1837 493 1836 492 1835 492 1834 492 1832 492 1831 492 1824 494 1806 498 1789 494 1746 485 1745 485 1744 485 1742 485 1729 495 1723 499 1647 498 1645 498 1625 488 1624 488 1623 488 1621 488 1620 488 1604 498 1602 500 1557 500 1556 499 1514 488 1513 488 1512 488 1510 488 1468 500 1470 527"/></Shape>
+	    <String CONTENT="8:o Neumünster 1952 - 1956."
+                    HPOS="1468"
+                    VPOS="484"
+                    WIDTH="776"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00088.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2304"
+          HEIGHT="1476"
+          PHYSICAL_IMG_NR="24"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2304"
+                  HEIGHT="1476">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2302"
+                   HEIGHT="1474"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1475 2303 1475 2303 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="265 162 1295 170" 
+                    HPOS="264"
+                    VPOS="103"
+                    WIDTH="1030"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="264 161 264 185 405 179 417 188 418 188 419 188 420 188 425 188 453 180 464 188 466 189 467 189 468 189 469 189 471 189 474 188 488 180 498 188 499 189 500 189 501 189 503 189 527 188 644 182 656 189 659 191 660 191 661 191 663 191 681 189 722 184 746 190 757 193 758 193 760 193 853 191 947 189 971 191 1000 195 1001 195 1002 195 1003 195 1007 193 1018 185 1115 185 1129 193 1131 195 1132 195 1134 195 1135 195 1292 194 1294 169 1294 137 1203 110 1201 110 1146 109 1145 109 1067 111 1066 111 1005 132 981 140 813 140 792 127 752 107 751 107 706 105 704 105 703 105 702 105 670 125 649 137 466 137 436 120 403 103 402 103 325 103 324 103 323 103 322 103 301 116 264 116 264 161"/></Shape>
+	    <String CONTENT="Morriss Margaret Shove"
+                    HPOS="264"
+                    VPOS="103"
+                    WIDTH="1030"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="252 266 1789 271" 
+                    HPOS="249"
+                    VPOS="209"
+                    WIDTH="1539"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="250 265 249 292 275 296 276 296 278 296 289 293 317 285 441 293 504 297 505 297 532 293 589 285 633 293 658 298 659 298 660 298 677 293 690 291 719 293 809 303 810 303 830 300 864 312 865 312 867 312 1038 305 1077 313 1078 314 1242 314 1242 313 1318 295 1327 293 1344 295 1372 298 1374 298 1375 298 1385 295 1407 289 1465 289 1488 296 1541 312 1542 312 1543 312 1545 312 1592 296 1615 289 1766 289 1784 296 1788 270 1787 223 1749 220 1747 220 1746 220 1740 222 1716 233 1691 222 1688 221 1687 221 1686 221 1685 221 1681 222 1622 241 1589 241 1557 226 1556 226 1554 226 1520 231 1489 225 1488 225 1410 239 1386 232 1385 232 1383 232 1305 234 1270 217 1263 215 1262 215 1260 215 1247 217 1203 228 1178 221 1177 221 1175 221 1174 221 1158 225 1140 216 1130 212 1129 212 1054 212 1052 212 1051 212 1043 216 1001 233 953 238 793 238 729 212 724 211 723 211 685 211 683 211 682 211 679 212 624 234 580 225 579 225 578 225 553 237 482 237 419 210 418 210 250 209 250 265"/></Shape>
+	    <String CONTENT="Colonial trade of Maryland 1689-1715."
+                    HPOS="249"
+                    VPOS="209"
+                    WIDTH="1539"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="268 437 671 442" 
+                    HPOS="265"
+                    VPOS="381"
+                    WIDTH="405"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="266 436 265 451 291 460 292 460 293 460 295 460 296 460 305 453 323 463 324 463 325 463 327 463 328 463 338 455 339 453 344 455 362 461 364 461 365 461 388 457 401 455 413 458 467 474 468 474 469 474 578 464 600 463 606 466 615 471 616 471 617 471 618 471 619 471 624 467 631 462 667 468 670 441 669 415 627 419 617 414 583 396 581 396 558 391 557 391 556 391 536 398 520 383 520 382 519 382 517 382 468 381 445 381 444 381 442 381 441 381 393 412 386 416 361 412 345 409 344 409 343 409 337 412 330 415 327 412 314 400 314 399 313 399 312 399 311 399 309 399 308 399 308 400 296 412 291 415 266 412 266 436"/></Shape>
+	    <String CONTENT="Se: Studies"
+                    HPOS="265"
+                    VPOS="381"
+                    WIDTH="405"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2080 70 2281 65" 
+                    HPOS="2077"
+                    VPOS="7"
+                    WIDTH="203"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="2078 94 2180 86 2279 92 2280 63 2276 27 2259 27 2257 25 2246 17 2244 17 2243 17 2242 17 2241 17 2217 25 2210 28 2208 25 2189 8 2189 7 2188 7 2187 7 2185 7 2110 15 2109 15 2108 15 2098 24 2092 30 2077 24 2078 68 2078 94"/></Shape>
+	    <String CONTENT="Handel"
+                    HPOS="2077"
+                    VPOS="7"
+                    WIDTH="203"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="2080 140 2252 135" 
+                    HPOS="2076"
+                    VPOS="82"
+                    WIDTH="175"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="2078 138 2078 161 2091 168 2092 168 2093 168 2094 168 2096 168 2097 168 2108 158 2118 163 2119 163 2120 163 2121 163 2133 157 2134 157 2160 173 2161 173 2162 173 2163 173 2251 156 2251 134 2247 83 2190 94 2183 88 2177 83 2177 82 2176 82 2174 82 2173 82 2120 83 2119 83 2118 83 2104 94 2102 98 2076 98 2078 138"/></Shape>
+	    <String CONTENT="Hist."
+                    HPOS="2076"
+                    VPOS="82"
+                    WIDTH="175"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1455 348 2141 357" 
+                    HPOS="1452"
+                    VPOS="296"
+                    WIDTH="688"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1453 346 1452 362 1487 371 1488 371 1489 371 1490 371 1501 364 1508 360 1573 360 1575 364 1585 372 1585 373 1586 373 1588 373 1589 373 1638 364 1644 364 1722 364 1724 365 1738 375 1739 375 1740 375 1741 375 1781 367 1882 378 1883 378 1884 378 1912 367 1938 376 1939 376 1941 376 1942 376 1969 367 1996 380 1997 380 1998 381 2039 381 2039 380 2040 380 2041 380 2051 371 2088 381 2089 381 2091 381 2092 381 2139 367 2140 356 2140 316 2103 308 2102 308 2101 308 2085 314 2060 325 2024 325 2016 317 2016 316 2014 316 2013 316 2012 316 2011 316 1979 324 1842 323 1825 313 1795 298 1794 298 1728 298 1727 298 1725 298 1709 307 1695 297 1693 297 1692 297 1691 297 1690 297 1674 303 1627 296 1600 296 1599 296 1597 296 1596 296 1574 311 1521 300 1520 300 1453 311 1453 346"/></Shape>
+	    <String CONTENT="8ᵒ Baltimore 1914"
+                    HPOS="1452"
+                    VPOS="296"
+                    WIDTH="688"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="380 528 2300 535" 
+                    HPOS="377"
+                    VPOS="473"
+                    WIDTH="1922"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="377 559 437 560 439 560 444 560 493 548 576 560 584 560 585 560 610 560 895 548 959 557 960 557 1220 551 1263 560 1276 563 1278 563 1303 560 1403 549 1503 560 1540 564 1541 565 1592 565 1592 564 1594 564 1606 560 1637 552 1707 557 1708 557 1743 551 1779 560 1792 564 1793 564 1794 564 1841 560 1952 552 2246 552 2296 560 2299 533 2299 507 2230 507 2230 506 2152 492 2151 492 2072 503 1978 478 1976 478 1975 478 1899 479 1815 499 1789 506 1615 506 1570 494 1493 476 1339 476 1338 476 1259 488 1205 479 1204 479 1203 479 1174 488 1120 504 827 504 758 480 757 480 756 480 719 489 685 478 669 473 667 473 666 473 665 473 649 478 606 490 546 493 494 474 493 474 492 474 380 473 378 527 377 559"/></Shape>
+	    <String CONTENT="Johns Hopkins university, in historical and political science"
+                    HPOS="377"
+                    VPOS="473"
+                    WIDTH="1922"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="381 603 819 608" 
+                    HPOS="378"
+                    VPOS="558"
+                    WIDTH="440"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="380 602 378 617 489 633 490 633 492 633 493 633 511 622 514 621 516 622 525 627 526 627 527 627 560 623 592 621 597 624 600 627 600 628 601 628 602 628 603 628 605 628 615 626 629 622 643 627 650 629 651 629 653 629 654 629 659 627 670 622 682 628 688 630 690 630 691 630 692 630 693 630 696 628 704 622 718 629 730 635 731 635 733 635 816 632 818 607 818 576 798 568 797 568 795 568 794 568 778 576 756 562 755 562 754 562 730 562 729 562 728 562 726 562 702 578 691 585 648 585 640 578 623 562 623 560 622 560 621 560 573 559 572 559 570 559 569 559 544 578 537 584 492 584 484 578 458 558 457 558 456 558 430 558 429 558 428 558 426 558 426 559 408 578 380 578 380 602"/></Shape>
+	    <String CONTENT="Ser. 32. Nᵒ 3"
+                    HPOS="378"
+                    VPOS="558"
+                    WIDTH="440"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1187 614 1426 618" 
+                    HPOS="1184"
+                    VPOS="559"
+                    WIDTH="241"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1185 613 1184 638 1236 639 1237 639 1238 639 1239 638 1252 632 1260 638 1263 640 1264 640 1265 640 1267 640 1268 640 1269 640 1271 638 1284 632 1423 638 1425 617 1425 583 1409 583 1408 581 1382 564 1381 564 1380 564 1378 564 1377 564 1350 573 1334 563 1333 563 1332 563 1330 563 1329 563 1303 569 1267 559 1265 559 1249 559 1248 559 1247 559 1246 559 1246 560 1228 578 1185 578 1185 613"/></Shape>
+	    <String CONTENT="Statsv"
+                    HPOS="1184"
+                    VPOS="559"
+                    WIDTH="241"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    
+                    BASELINE="1220 674 1398 670" 
+                    HPOS="1216"
+                    VPOS="629"
+                    WIDTH="181"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="1219 672 1219 688 1257 696 1258 696 1289 691 1303 688 1396 692 1397 669 1396 637 1382 629 1381 629 1380 629 1344 637 1333 638 1216 635 1219 672"/></Shape>
+	    <String CONTENT="Inst."
+                    HPOS="1216"
+                    VPOS="629"
+                    WIDTH="181"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="1166 717 1477 722" 
+                    HPOS="1163"
+                    VPOS="676"
+                    WIDTH="313"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1164 715 1163 750 1199 751 1200 751 1201 751 1203 751 1205 749 1210 744 1216 749 1217 749 1219 749 1220 749 1221 749 1223 749 1258 736 1294 745 1295 745 1296 745 1297 745 1317 739 1327 744 1344 753 1345 753 1346 753 1348 753 1349 753 1367 742 1374 739 1383 741 1409 750 1410 750 1412 750 1474 738 1476 720 1474 694 1414 694 1408 691 1397 683 1396 683 1394 683 1393 683 1366 688 1346 692 1333 687 1313 678 1312 678 1311 678 1283 683 1248 691 1236 682 1228 676 1227 676 1226 676 1225 676 1164 677 1164 715"/></Shape>
+	    <String CONTENT="[Baltimore]"
+                    HPOS="1163"
+                    VPOS="676"
+                    WIDTH="313"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

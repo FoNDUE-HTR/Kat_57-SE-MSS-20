@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00125.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2320"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="46"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2320"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2318"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2319 1471 2319 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="217 263 605 268" 
+                    HPOS="214"
+                    VPOS="213"
+                    WIDTH="390"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="215 262 214 290 231 300 233 300 234 300 235 301 393 301 393 300 395 300 396 300 403 294 439 294 446 301 446 302 447 302 449 302 450 302 510 299 511 299 512 299 527 289 603 289 604 267 604 226 591 223 590 223 588 223 587 223 579 228 561 237 521 237 500 229 480 222 479 222 478 222 477 222 451 229 441 231 433 229 403 223 402 223 401 223 390 226 377 215 377 214 376 214 375 214 296 213 295 213 294 213 293 213 278 225 215 231 215 262"/></Shape>
+	    <String CONTENT="MORSCICHINA, A"
+                    HPOS="214"
+                    VPOS="213"
+                    WIDTH="390"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="849 266 899 266" 
+                    HPOS="848"
+                    VPOS="223"
+                    WIDTH="50"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="848 264 848 271 895 285 898 264 898 230 848 223 848 264"/></Shape>
+	    <String CONTENT="S"
+                    HPOS="848"
+                    VPOS="223"
+                    WIDTH="50"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="217 364 2153 373" 
+                    HPOS="214"
+                    VPOS="318"
+                    WIDTH="1937"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="215 363 214 403 276 412 651 413 652 413 705 404 734 401 755 406 796 414 797 414 798 414 825 406 826 406 833 406 877 407 878 407 879 407 884 406 921 394 1007 403 1008 403 1009 403 1031 396 1072 404 1073 404 1134 394 1564 396 1593 407 1610 413 1612 413 1667 419 1668 419 1669 419 1715 408 1720 407 1734 408 1868 419 1869 419 1870 419 1902 408 1906 407 1911 408 1932 415 1933 415 2026 420 2028 420 2078 408 2093 406 2149 408 2151 372 2150 334 2129 339 2108 333 2093 329 2091 329 2090 329 2054 333 1994 341 1970 333 1947 326 1945 326 1794 325 1793 325 1792 325 1769 332 1744 341 1668 341 1621 331 1575 323 1533 323 1532 323 1531 323 1510 331 1499 334 1474 331 1423 322 1307 322 1306 322 1305 322 1275 329 1274 329 1273 329 1253 322 1252 322 1187 322 1186 322 1152 329 1128 333 1052 328 1042 328 1041 328 1040 328 1039 328 1015 336 936 329 934 329 700 334 593 327 592 327 474 333 455 326 450 323 449 323 447 323 433 326 397 331 376 325 353 318 352 318 350 318 303 325 274 328 255 325 233 320 231 320 230 320 215 323 215 363"/></Shape>
+	    <String CONTENT="Se: Bibliografija proizvedenij A.S.Puškina i literarury o nem. 1952/53. 1955."
+                    HPOS="214"
+                    VPOS="318"
+                    WIDTH="1937"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1408 498 1762 495" 
+                    HPOS="1405"
+                    VPOS="460"
+                    WIDTH="356"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1407 496 1407 522 1448 525 1489 544 1490 544 1491 545 1572 545 1572 544 1574 544 1575 544 1607 523 1658 538 1659 538 1661 538 1662 538 1663 538 1673 529 1761 518 1761 494 1759 477 1726 477 1706 462 1705 462 1704 462 1663 462 1662 462 1661 462 1641 471 1628 460 1626 460 1625 460 1624 460 1623 460 1621 460 1621 461 1605 477 1560 477 1538 469 1537 469 1536 469 1534 469 1533 469 1524 475 1507 461 1506 461 1505 461 1468 461 1467 461 1466 461 1447 468 1435 463 1434 463 1432 463 1431 463 1405 477 1407 496"/></Shape>
+	    <String CONTENT="i Kat. 1958-"
+                    HPOS="1405"
+                    VPOS="460"
+                    WIDTH="356"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

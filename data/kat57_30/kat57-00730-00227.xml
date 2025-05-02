@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00730-00227.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="27"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2311 1479 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="253 194 447 191" 
+                    HPOS="251"
+                    VPOS="146"
+                    WIDTH="195"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="252 193 252 220 314 228 315 228 446 224 446 189 444 156 379 146 378 146 377 146 336 159 251 160 252 193"/></Shape>
+	    <String CONTENT="HERMAEA"
+                    HPOS="251"
+                    VPOS="146"
+                    WIDTH="195"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1400 39 1999 42" 
+                    HPOS="1397"
+                    VPOS="3"
+                    WIDTH="601"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1399 38 1397 77 1997 77 1998 41 1998 18 1980 6 1978 6 1977 6 1976 6 1975 6 1944 16 1929 6 1928 6 1927 6 1892 6 1891 6 1890 6 1866 17 1849 12 1848 12 1846 12 1802 18 1798 18 1795 18 1760 14 1751 6 1751 4 1750 4 1749 4 1748 4 1687 16 1672 4 1671 4 1670 4 1669 4 1667 4 1666 4 1651 17 1651 18 1623 18 1622 17 1601 3 1600 3 1598 3 1575 3 1574 3 1572 3 1571 3 1571 4 1559 17 1538 17 1517 17 1517 16 1505 4 1505 3 1503 3 1502 3 1501 3 1500 3 1476 16 1440 3 1439 3 1438 3 1437 3 1399 14 1399 38"/></Shape>
+	    <String CONTENT="Inst. för tyska språket"
+                    HPOS="1397"
+                    VPOS="3"
+                    WIDTH="601"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="252 295 2220 298" 
+                    HPOS="250"
+                    VPOS="259"
+                    WIDTH="1969"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="251 294 250 314 309 323 310 323 342 318 402 329 403 329 555 316 567 316 588 318 752 326 753 328 862 328 862 326 916 320 945 316 1070 320 1167 324 1168 324 1225 321 1331 318 1375 323 1412 328 1413 328 1453 324 1508 318 1529 324 1533 325 1534 325 1535 325 1543 324 1566 320 1580 325 1595 330 1596 330 1597 330 1708 325 1896 318 1971 328 1993 330 1994 330 2218 329 2219 297 2219 270 2193 261 2192 261 2110 261 2109 261 2108 261 2087 268 2086 268 2084 268 2044 261 2043 261 1999 268 1993 270 1864 270 1846 267 1785 261 1783 261 1782 261 1765 267 1758 270 1640 270 1626 266 1601 261 1600 261 1598 261 1586 266 1577 270 1490 270 1480 265 1471 262 1470 262 1469 262 1443 265 1420 267 1383 265 1336 261 1334 261 1333 261 1325 265 1312 270 1237 270 1162 263 1110 260 1109 260 1093 262 1073 267 1054 262 1048 261 1047 261 1046 261 1035 262 1005 267 990 262 986 261 985 261 984 261 946 262 808 267 762 261 758 261 757 261 756 261 735 268 592 268 555 260 552 260 452 260 384 260 383 260 305 267 251 259 251 294"/></Shape>
+	    <String CONTENT="Germanistische Forschungen. N.F. Hrsg. von Helmut de Boor und Hermann Kunisch."
+                    HPOS="250"
+                    VPOS="259"
+                    WIDTH="1969"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="268 399 365 399" 
+                    HPOS="267"
+                    VPOS="360"
+                    WIDTH="96"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="267 398 267 421 310 414 362 421 363 398 363 365 342 360 341 360 340 360 339 360 338 360 338 361 333 365 324 374 302 374 287 363 282 360 281 360 280 360 278 360 277 360 267 362 267 398"/></Shape>
+	    <String CONTENT="1-2"
+                    HPOS="267"
+                    VPOS="360"
+                    WIDTH="96"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="256 500 1168 500" 
+                    HPOS="255"
+                    VPOS="463"
+                    WIDTH="912"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="255 499 255 516 302 525 303 525 304 525 324 518 339 530 340 530 341 530 342 531 456 531 456 530 457 530 458 530 474 518 524 519 541 530 542 530 544 530 545 530 546 530 574 518 610 527 611 527 613 527 715 519 801 529 803 529 804 529 846 518 920 520 930 529 931 529 932 529 933 529 935 529 951 521 984 525 985 525 986 525 988 525 995 519 1003 525 1004 525 1005 525 1006 525 1007 525 1031 518 1043 529 1044 529 1046 529 1047 529 1167 516 1167 499 1167 476 1151 476 1151 474 1137 463 1136 463 1135 463 1133 463 1020 464 1019 464 1017 464 1007 473 1005 476 975 476 973 473 962 463 961 463 959 463 958 463 957 463 925 472 920 473 917 472 900 463 899 463 898 463 857 469 842 463 841 463 840 463 838 463 837 463 826 471 825 472 825 471 815 464 814 464 813 464 811 464 810 464 790 471 783 473 688 473 646 468 583 463 582 463 581 463 579 463 573 468 563 476 529 476 519 467 515 463 514 463 513 463 511 463 510 463 500 467 481 474 379 466 350 463 349 463 347 463 346 463 345 464 331 476 299 476 287 464 286 463 284 463 283 463 282 463 255 463 255 499"/></Shape>
+	    <String CONTENT="1. Kuhn, H., Minnesangs Wende. 1952."
+                    HPOS="255"
+                    VPOS="463"
+                    WIDTH="912"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1474 397 2028 397" 
+                    HPOS="1473"
+                    VPOS="365"
+                    WIDTH="554"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1473 395 1473 413 1501 424 1502 424 1503 424 1591 414 1630 426 1632 426 1633 427 1792 427 1792 426 1793 426 1795 426 1795 425 1806 415 1817 423 1818 423 1819 423 1888 426 1890 426 1891 426 1933 414 2027 414 2027 395 2027 365 1978 365 1977 365 1976 365 1975 365 1975 366 1964 376 1857 368 1825 366 1824 366 1823 366 1822 366 1818 368 1808 377 1748 377 1690 372 1596 365 1595 365 1593 365 1592 365 1592 366 1584 374 1581 377 1539 377 1537 376 1510 365 1508 365 1507 365 1506 365 1473 376 1473 395"/></Shape>
+	    <String CONTENT="8:o Tübingen 1952-53"
+                    HPOS="1473"
+                    VPOS="365"
+                    WIDTH="554"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="253 597 2226 604" 
+                    HPOS="251"
+                    VPOS="563"
+                    WIDTH="1974"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="251 617 339 629 340 630 581 630 581 629 582 629 604 621 648 630 650 631 778 631 778 630 847 621 945 629 946 629 1215 622 1228 622 1230 622 1253 630 1254 630 1255 630 1299 622 1302 622 1433 622 1439 624 1479 632 1480 633 1697 633 1697 632 1732 625 1737 624 1748 625 1832 633 1833 633 1870 625 1872 625 1876 625 1936 633 1938 633 2034 626 2050 625 2183 625 2186 626 2202 632 2203 632 2204 632 2205 632 2224 626 2225 603 2225 577 2006 568 2004 568 1920 575 1914 575 1906 575 1812 567 1811 567 1738 574 1732 574 1716 574 1559 568 1558 568 1556 568 1537 573 1532 574 1527 573 1511 567 1510 567 1411 566 1410 566 1380 572 1373 573 1338 572 1210 566 1209 566 1207 566 1189 571 1179 573 1151 571 1109 567 1107 567 1084 571 1064 573 1021 569 953 564 952 564 908 569 880 572 815 568 734 564 732 564 731 564 718 568 703 572 560 572 546 567 534 563 532 563 531 563 361 564 360 564 355 566 338 571 254 566 252 596 251 617"/></Shape>
+	    <String CONTENT="2. Schröbler, I., Notker III von St. Gallen als Übersetzer und Kommentator von"
+                    HPOS="251"
+                    VPOS="563"
+                    WIDTH="1974"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="325 648 1468 655" 
+                    HPOS="323"
+                    VPOS="617"
+                    WIDTH="1143"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="324 647 323 669 351 680 352 680 354 680 433 675 520 682 521 682 523 682 545 672 547 672 599 678 600 678 652 673 669 672 687 673 758 683 759 683 879 677 882 677 883 677 893 684 894 684 895 684 896 684 898 684 914 678 998 684 999 684 1000 684 1015 678 1023 675 1061 679 1114 684 1115 684 1138 680 1152 678 1159 680 1174 685 1175 685 1176 685 1205 680 1239 675 1271 675 1284 682 1292 686 1294 686 1295 686 1296 686 1307 683 1322 677 1464 684 1466 654 1466 633 1438 622 1437 622 1342 622 1341 622 1339 622 1338 622 1323 632 1322 633 1290 633 1286 632 1233 621 1232 621 1121 631 1114 631 1112 631 1086 620 1085 620 1016 620 1015 620 1014 620 989 630 988 630 925 630 899 630 884 619 883 619 882 619 880 619 820 625 799 619 798 619 796 619 795 619 794 619 779 629 778 629 637 629 636 627 608 617 606 617 605 617 604 617 582 627 581 627 565 619 563 619 562 619 561 619 541 627 539 627 530 627 451 619 450 619 324 625 324 647"/></Shape>
+	    <String CONTENT="Boethius&#x27; De consolatione philosophiae. 1953."
+                    HPOS="323"
+                    VPOS="617"
+                    WIDTH="1143"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="824 797 1348 802" 
+                    HPOS="821"
+                    VPOS="765"
+                    WIDTH="526"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="822 796 821 811 868 823 869 823 871 823 903 812 903 811 916 811 917 812 926 820 926 821 927 821 928 821 930 821 931 821 946 814 967 825 968 825 969 825 1043 812 1046 812 1047 812 1063 826 1064 826 1065 826 1084 827 1085 827 1123 818 1136 827 1137 827 1138 827 1139 827 1174 826 1175 826 1176 826 1194 814 1213 814 1215 814 1258 828 1259 828 1260 830 1306 830 1306 828 1307 828 1345 814 1347 801 1347 783 1326 769 1325 769 1323 769 1292 769 1291 769 1290 769 1289 769 1270 780 1259 770 1259 769 1258 769 1257 769 1255 769 1236 770 1234 770 1233 770 1222 780 1218 783 1170 783 1168 779 1162 774 1162 773 1160 773 1159 773 1158 773 1128 778 1110 781 1104 778 1088 767 1086 767 1085 767 1053 767 1052 767 1051 767 1049 767 1038 775 1032 781 993 781 989 775 988 775 988 774 986 774 985 774 984 774 979 774 937 779 928 773 920 765 919 765 917 765 916 765 915 765 896 772 884 777 871 772 868 770 867 770 866 770 864 770 863 772 856 775 852 770 847 767 847 765 846 765 845 765 843 765 822 769 822 796"/></Shape>
+	    <String CONTENT="Forts se Kat. 1958"
+                    HPOS="821"
+                    VPOS="765"
+                    WIDTH="526"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

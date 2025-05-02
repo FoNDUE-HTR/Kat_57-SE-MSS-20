@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01966-00248.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1476"
+          PHYSICAL_IMG_NR="18"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1476">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1474"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1475 2323 1475 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="255 169 840 165" 
+                    HPOS="253"
+                    VPOS="120"
+                    WIDTH="586"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="254 168 254 202 284 202 284 201 285 201 286 201 316 184 468 184 479 190 481 190 482 190 483 190 530 184 543 193 558 201 559 201 561 201 562 202 602 202 602 201 604 201 605 201 605 200 611 195 658 200 659 200 660 200 671 194 680 200 681 200 682 200 684 201 778 201 778 200 779 200 781 200 807 183 809 183 839 183 839 164 836 130 781 130 757 120 756 120 755 120 754 120 752 120 752 121 744 129 546 121 545 121 543 121 542 121 530 130 529 130 519 130 343 124 342 124 340 124 339 124 332 129 308 123 307 123 260 123 259 123 258 123 257 123 257 124 253 126 254 168"/></Shape>
+	    <String CONTENT="UNIVERSITÄTSZEITUNG"
+                    HPOS="253"
+                    VPOS="120"
+                    WIDTH="586"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1863 97 2057 92" 
+                    HPOS="1861"
+                    VPOS="36"
+                    WIDTH="194"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="1862 95 1862 116 1879 126 1881 126 1882 126 1883 126 1884 126 1884 125 1895 115 1940 119 1941 119 1942 119 1943 119 1952 111 1973 127 1974 127 1975 127 1977 129 2007 129 2007 127 2009 127 2010 127 2036 107 2055 105 2055 91 2053 62 2031 62 2015 47 2013 47 2012 47 2011 47 2010 47 2009 47 2009 49 1999 57 1984 55 1959 36 1958 36 1957 36 1956 36 1906 39 1905 39 1904 39 1872 66 1861 66 1862 95"/></Shape>
+	    <String CONTENT="IFol.)"
+                    HPOS="1861"
+                    VPOS="36"
+                    WIDTH="194"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="2092 87 2277 82" 
+                    HPOS="2089"
+                    VPOS="25"
+                    WIDTH="187"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="2091 86 2091 97 2133 97 2140 99 2171 111 2172 111 2173 111 2175 111 2205 104 2220 100 2274 108 2276 81 2273 50 2231 50 2228 47 2197 36 2196 36 2194 36 2193 36 2180 44 2152 25 2151 25 2150 25 2149 25 2117 27 2116 27 2089 40 2091 86"/></Shape>
+	    <String CONTENT="Underv"
+                    HPOS="2089"
+                    VPOS="25"
+                    WIDTH="187"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1825 173 2287 164" 
+                    HPOS="1823"
+                    VPOS="119"
+                    WIDTH="462"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="1824 172 1826 212 1849 193 1861 198 1862 198 1863 198 1865 198 1889 188 1902 194 1903 194 1904 194 1905 194 1906 194 1915 188 1934 200 1935 200 1936 200 1937 200 1938 200 1979 185 1997 199 2011 209 2012 209 2013 209 2015 209 2082 207 2084 207 2085 207 2085 206 2102 190 2114 179 2168 180 2176 184 2194 194 2196 194 2197 194 2198 194 2199 194 2218 182 2223 185 2223 186 2224 186 2225 186 2226 186 2284 175 2285 163 2282 140 2266 140 2264 138 2245 120 2245 119 2244 119 2242 119 2241 119 2240 119 2239 119 2239 120 2225 132 2191 119 2189 119 2188 119 2136 120 2135 120 2134 120 2134 121 2118 136 2111 143 2080 143 1989 142 1970 134 1969 134 1968 134 1967 134 1965 134 1951 146 1926 138 1925 138 1924 138 1922 138 1906 146 1890 131 1890 130 1889 130 1888 130 1823 130 1824 172"/></Shape>
+	    <String CONTENT="(6:1-5 8:o) Tidskr."
+                    HPOS="1823"
+                    VPOS="119"
+                    WIDTH="462"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="239 266 2303 258" 
+                    HPOS="237"
+                    VPOS="223"
+                    WIDTH="2064"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="238 265 238 297 435 303 436 303 497 297 565 291 633 297 682 302 684 302 685 302 703 297 729 291 786 291 805 297 816 301 818 301 819 302 987 302 987 301 1014 297 1069 290 1103 297 1120 301 1122 301 1144 297 1194 287 1440 287 1541 297 1561 298 1562 298 1588 297 1733 286 1847 297 1857 297 1858 297 1888 297 2119 290 2143 296 2144 296 2145 297 2300 297 2301 257 2299 233 2251 223 2250 223 2013 232 1981 234 1777 234 1772 232 1746 225 1745 225 1744 225 1668 232 1643 234 1628 232 1591 226 1590 226 1548 232 1531 234 1480 232 1375 227 1374 227 1372 227 1354 232 1339 237 1081 238 944 238 904 232 875 228 874 228 873 228 861 232 851 234 782 232 724 230 723 230 696 232 628 238 586 232 570 230 569 230 551 232 493 239 417 232 404 231 403 231 237 231 238 265"/></Shape>
+	    <String CONTENT="Greifswalder,. Nachrichtenblatt der freien Studentenschaft der Uni-"
+                    HPOS="237"
+                    VPOS="223"
+                    WIDTH="2064"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="246 365 869 368" 
+                    HPOS="243"
+                    VPOS="333"
+                    WIDTH="625"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="244 364 243 382 314 384 322 392 323 392 324 392 326 392 408 384 419 383 424 384 456 393 457 393 458 393 460 393 476 384 477 384 531 384 533 384 545 393 546 393 547 393 548 393 617 386 621 386 627 386 735 393 736 393 805 388 819 394 820 394 821 394 867 387 868 367 868 343 842 335 841 335 840 335 660 340 652 334 650 334 649 334 648 334 617 340 616 341 568 341 568 340 562 335 562 334 561 334 559 334 558 334 557 334 533 340 531 340 527 340 488 334 487 334 403 339 401 339 388 333 387 333 386 333 385 333 362 339 361 339 244 339 244 364"/></Shape>
+	    <String CONTENT="versität Greifswald."
+                    HPOS="243"
+                    VPOS="333"
+                    WIDTH="625"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="242 467 2157 471" 
+                    HPOS="239"
+                    VPOS="425"
+                    WIDTH="1917"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="241 466 239 505 375 512 376 512 429 505 467 500 498 505 529 510 530 510 557 505 564 504 581 505 621 507 622 507 623 507 632 505 648 499 670 505 700 512 701 512 915 514 916 514 917 514 944 504 952 501 959 504 987 514 989 514 990 515 1118 515 1118 514 1119 514 1146 504 1162 498 1236 503 1267 505 1268 505 1288 503 1339 496 1386 503 1455 512 1456 512 1503 503 1526 498 1552 503 1589 509 1590 510 1737 510 1737 509 1766 501 1785 498 2154 500 2156 469 2155 431 1603 429 1601 429 1598 429 1537 440 1070 440 1018 432 1017 432 915 439 808 437 766 426 764 426 762 426 751 426 575 432 482 426 481 426 479 426 440 439 310 439 241 425 241 466"/></Shape>
+	    <String CONTENT="Jahrg.1(1926)-2(1927):1-3; 6:1-5. 7:6-8;8-104:o Greifswald 1926-35"
+                    HPOS="239"
+                    VPOS="425"
+                    WIDTH="1917"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="268 722 1707 739" 
+                    HPOS="265"
+                    VPOS="671"
+                    WIDTH="1441"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="266 720 265 736 317 745 318 745 346 739 369 734 439 740 500 746 501 746 524 742 549 738 599 744 611 745 612 745 623 744 664 740 688 746 707 750 708 750 709 750 719 746 734 741 772 747 783 749 784 749 786 749 788 747 802 740 861 740 885 750 905 757 906 757 1012 758 1013 758 1087 753 1151 750 1165 755 1166 755 1167 755 1168 755 1189 747 1208 756 1209 756 1210 756 1211 756 1283 747 1325 755 1326 755 1413 750 1445 757 1446 757 1448 757 1541 756 1542 756 1556 750 1596 765 1601 766 1603 766 1604 767 1705 767 1706 738 1706 697 1665 686 1664 686 1604 686 1603 686 1601 686 1569 694 1547 701 1524 694 1486 683 1484 683 1397 682 1396 682 1338 692 1334 692 1331 692 1290 681 1289 681 1288 681 1233 691 1194 697 989 696 964 687 935 677 933 677 883 676 882 676 840 686 815 691 787 685 751 677 691 677 690 677 688 677 669 683 647 690 535 682 533 682 484 688 460 681 430 671 429 671 428 671 385 680 371 682 364 680 346 672 345 672 344 672 343 672 319 678 316 680 311 678 291 672 290 672 289 672 287 672 266 677 266 720"/></Shape>
+	    <String CONTENT="1-2, 8:3-6 med titel : Greifswalder Universitätszeilung"
+                    HPOS="265"
+                    VPOS="671"
+                    WIDTH="1441"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="225 832 1750 838" 
+                    HPOS="222"
+                    VPOS="787"
+                    WIDTH="1527"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="223 831 222 847 298 868 300 868 301 868 302 868 354 851 356 849 431 848 456 853 471 857 472 857 473 857 483 854 499 851 519 856 530 858 531 858 532 858 533 858 540 856 553 851 585 857 592 858 594 858 613 858 690 856 704 861 719 865 720 865 722 865 748 862 804 852 867 864 901 872 903 872 951 870 952 870 960 867 982 859 1007 868 1045 883 1046 883 1048 883 1049 883 1091 870 1126 861 1189 870 1190 870 1293 852 1349 852 1468 880 1499 888 1500 889 1748 889 1749 837 1746 804 1695 808 1679 803 1652 793 1651 793 1615 793 1614 793 1612 793 1583 801 1573 805 1481 805 1451 800 1419 794 1290 792 1289 792 1236 798 1161 806 1101 797 1066 790 982 790 981 790 980 790 970 794 948 804 920 794 919 794 917 794 916 794 895 803 563 804 482 792 481 792 334 803 285 788 284 788 223 787 223 831"/></Shape>
+	    <String CONTENT="6:1-5; 7:6-8; 8:1 med titel: Greifswalder Hockschulzeitung."
+                    HPOS="222"
+                    VPOS="787"
+                    WIDTH="1527"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

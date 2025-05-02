@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00130.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2308"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="34"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2308"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2306"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2307 1471 2307 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="27 338 118 335" 
+                    HPOS="25"
+                    VPOS="302"
+                    WIDTH="92"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="26 337 28 394 51 394 51 393 52 393 53 393 53 392 66 381 85 361 116 363 117 334 115 310 35 302 34 302 33 302 31 302 31 304 25 309 26 337"/></Shape>
+	    <String CONTENT="Jur."
+                    HPOS="25"
+                    VPOS="302"
+                    WIDTH="92"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="197 196 463 203" 
+                    HPOS="195"
+                    VPOS="153"
+                    WIDTH="267"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="196 195 195 222 207 233 208 233 209 233 211 233 241 231 242 231 244 231 257 222 285 235 287 235 288 235 289 235 317 222 357 236 358 236 359 236 360 236 361 236 373 228 381 234 382 234 384 234 385 234 461 224 462 202 462 161 366 153 365 153 364 153 339 160 338 160 196 160 196 195"/></Shape>
+	    <String CONTENT="BERICHTE"
+                    HPOS="195"
+                    VPOS="153"
+                    WIDTH="267"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="189 302 1375 305" 
+                    HPOS="187"
+                    VPOS="258"
+                    WIDTH="1187"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="188 301 187 316 218 326 219 326 220 326 480 320 511 326 512 326 514 326 530 320 533 318 546 320 603 326 604 326 606 326 627 320 634 318 645 320 674 326 676 327 758 327 758 326 759 326 760 326 768 321 770 320 798 322 867 327 868 327 869 327 888 322 899 320 923 322 959 327 960 327 1040 323 1128 320 1147 325 1157 327 1158 327 1159 327 1373 326 1374 304 1373 269 1213 260 1212 260 1211 260 1193 267 1190 268 1185 267 1164 262 1163 262 1161 262 1110 267 1072 269 1063 266 1052 261 1051 261 1050 261 1002 266 959 269 888 264 822 260 820 260 791 263 754 268 746 263 741 260 739 260 738 260 737 260 736 260 728 263 721 266 685 262 644 258 642 258 641 258 630 262 617 266 598 262 582 258 581 258 580 258 574 261 560 269 359 269 333 261 332 261 331 261 252 268 234 258 233 258 188 258 188 301"/></Shape>
+	    <String CONTENT="Bonner, aus Mittel- und Ostdeutschland."
+                    HPOS="187"
+                    VPOS="258"
+                    WIDTH="1187"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="204 405 564 404 2280 404" 
+                    HPOS="202"
+                    VPOS="364"
+                    WIDTH="2077"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="203 404 203 433 466 431 467 431 493 423 573 431 579 431 580 431 591 431 706 423 780 430 796 431 797 431 949 429 950 429 970 423 1023 429 1049 431 1050 431 1068 429 1104 423 1125 429 1127 429 1128 429 1130 429 1146 428 1219 423 1315 428 1402 431 1403 431 1424 426 1441 423 1498 426 1558 430 1559 430 1755 425 1849 423 1856 424 1882 431 1883 431 1884 431 1936 424 1939 424 1948 424 2083 431 2084 431 2278 421 2279 403 2278 370 2200 366 2198 366 2197 366 2185 369 2171 372 2160 369 2148 365 2147 365 2146 365 2085 369 2029 372 2018 369 2003 364 2002 364 2001 364 1953 369 1936 370 1925 369 1898 364 1896 364 1895 364 1882 369 1869 374 1534 374 1515 368 1501 364 1500 364 1337 364 1336 364 1334 364 1325 368 1311 371 1276 368 1247 364 1246 364 1245 364 1235 366 1218 374 1025 374 1000 366 987 364 748 364 747 364 731 366 693 371 665 365 655 364 653 364 644 365 608 372 520 366 519 366 461 372 424 365 415 364 414 364 392 365 280 372 257 365 255 364 253 364 252 364 202 364 203 404"/></Shape>
+	    <String CONTENT="Blomeyer, A., Die Entwicklung des Zivilrechts in der sowjetischen Be-"
+                    HPOS="202"
+                    VPOS="364"
+                    WIDTH="2077"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="45 482 779 477" 
+                    HPOS="42"
+                    VPOS="434"
+                    WIDTH="735"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="44 480 45 511 71 504 77 509 77 510 78 510 79 510 80 511 114 511 171 511 171 510 173 510 174 510 198 493 272 493 330 493 352 504 353 504 354 504 355 504 375 498 385 506 386 507 386 509 387 509 388 509 390 509 391 509 401 506 452 491 522 502 523 502 525 502 542 494 588 498 590 498 591 498 592 498 592 496 593 496 598 490 617 490 630 502 633 504 633 505 634 505 635 505 636 505 638 505 644 502 663 495 693 501 698 502 699 502 700 502 701 502 701 501 715 493 726 501 727 501 728 501 730 501 731 501 732 501 748 495 775 500 777 475 775 448 712 434 711 434 666 440 634 434 633 434 631 434 630 434 613 448 613 450 590 450 582 450 527 441 526 441 487 445 474 435 473 435 472 435 471 435 469 435 444 445 415 441 414 441 413 441 388 448 369 436 368 436 366 436 317 435 316 435 315 435 314 435 305 441 283 435 282 435 280 435 279 435 258 446 224 445 223 445 222 445 220 445 212 452 211 452 186 440 185 440 109 436 107 436 106 436 105 436 84 452 84 453 42 453 44 480"/></Shape>
+	    <String CONTENT="Ty(Br)] satzungszone. 1955."
+                    HPOS="42"
+                    VPOS="434"
+                    WIDTH="735"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="7 554 2276 547" 
+                    HPOS="4"
+                    VPOS="513"
+                    WIDTH="2270"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="6 553 6 577 379 586 380 586 489 577 514 585 515 585 516 585 577 578 640 583 641 583 749 576 787 574 801 576 829 581 830 581 874 576 883 575 888 576 907 581 909 581 910 581 946 575 952 575 986 575 1117 578 1119 578 1120 578 1132 575 1141 572 1238 575 1439 580 1440 580 1500 574 1530 571 1546 574 1582 581 1584 582 1765 582 1765 581 1814 574 1822 572 1835 572 1896 577 1898 577 2007 572 2071 570 2079 572 2103 580 2104 580 2105 580 2272 571 2274 545 2272 520 2019 513 2018 513 1917 520 1885 521 1823 520 1649 515 1647 515 1339 520 1137 523 1126 521 1116 517 1115 517 1114 517 1093 521 1072 523 1006 521 933 517 932 517 907 521 887 523 782 521 692 518 690 518 677 521 656 525 618 521 592 518 591 518 515 521 381 526 321 521 298 520 296 520 4 521 6 553"/></Shape>
+	    <String CONTENT="Bild.k. | Ullrich,H., Das Schicksal der Bau- und Kunstdenkmäler in den Ostgebie-"
+                    HPOS="4"
+                    VPOS="513"
+                    WIDTH="2270"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="19 603 1922 606" 
+                    HPOS="17"
+                    VPOS="570"
+                    WIDTH="1904"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="18 602 17 648 255 650 256 650 278 646 370 629 515 644 522 644 523 644 525 644 527 644 552 634 627 632 665 641 674 644 676 644 677 644 685 641 719 632 747 641 749 641 750 641 752 641 753 641 755 641 784 631 934 636 936 636 982 626 1009 632 1011 632 1012 632 1214 626 1241 635 1261 641 1262 641 1263 641 1588 639 1640 646 1641 646 1791 629 1793 628 1920 626 1921 605 1920 572 1768 571 1766 571 1765 571 1761 572 1738 580 1689 572 1679 571 1678 571 1661 572 1602 577 1511 572 1477 571 1476 571 1462 572 1403 581 1379 572 1373 571 1371 571 1370 571 1360 572 1338 577 1301 572 1273 570 1217 570 1215 570 1214 570 1204 574 1186 580 1107 574 1077 571 1076 571 1065 574 1031 582 911 582 889 574 884 572 883 572 882 572 880 572 876 574 853 581 784 574 763 572 761 572 760 572 755 574 733 582 674 582 657 574 650 571 649 571 647 571 646 571 635 575 615 580 579 575 563 572 561 572 560 572 552 575 530 580 493 575 474 572 473 572 472 572 462 575 441 580 18 576 18 602"/></Shape>
+	    <String CONTENT="Ty. (Br-)} ten des Deutschen Reiches und im Gebiet von Danzig. 1956."
+                    HPOS="17"
+                    VPOS="570"
+                    WIDTH="1904"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="382 716 1001 710" 
+                    HPOS="380"
+                    VPOS="664"
+                    WIDTH="620"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="381 715 381 766 472 766 472 765 473 765 484 759 530 734 574 753 579 755 580 755 651 762 652 762 653 762 683 747 722 724 749 739 750 739 752 739 787 736 788 736 790 736 790 734 801 723 846 723 858 733 858 734 860 734 861 734 862 734 863 734 865 734 865 733 876 724 883 729 884 729 885 729 887 729 888 729 889 729 898 722 930 722 959 728 981 733 982 733 984 733 1000 726 1000 709 997 668 878 664 877 664 876 664 874 664 865 672 836 693 785 685 784 685 782 685 781 685 774 693 758 686 757 686 755 686 754 686 725 694 706 680 705 680 704 680 703 680 701 680 667 694 652 688 651 688 650 688 649 688 623 695 523 689 522 689 521 689 503 695 483 685 455 669 453 669 401 669 400 669 398 669 397 669 397 670 380 684 381 715"/></Shape>
+	    <String CONTENT="Påföres ej i forts."
+                    HPOS="380"
+                    VPOS="664"
+                    WIDTH="620"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

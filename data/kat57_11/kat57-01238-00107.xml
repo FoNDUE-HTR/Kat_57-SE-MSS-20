@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01238-00107.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="35"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2323 1479 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="164 237 749 237" 
+                    HPOS="162"
+                    VPOS="196"
+                    WIDTH="586"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="162 236 162 260 172 270 172 271 173 271 175 271 176 272 358 272 358 271 360 271 361 271 383 255 387 252 420 254 421 255 440 266 441 266 442 266 444 266 445 266 467 254 471 252 474 254 509 268 510 268 511 268 513 268 514 268 532 254 534 252 535 254 552 265 553 265 555 265 587 267 588 267 656 265 657 265 658 265 672 252 673 252 748 252 748 236 748 205 735 198 733 198 732 198 731 198 730 198 708 208 694 196 693 196 692 196 690 196 646 205 632 199 631 199 630 199 563 208 546 199 545 199 543 199 542 199 541 199 530 208 510 196 509 196 508 196 435 196 434 196 432 196 431 196 413 209 363 209 341 198 340 198 339 198 337 198 319 208 212 208 185 197 183 197 182 197 181 197 180 197 162 207 162 236"/></Shape>
+	    <String CONTENT="MORROW, U/lysses/ G"
+                    HPOS="162"
+                    VPOS="196"
+                    WIDTH="586"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="162 341 1433 332" 
+                    HPOS="160"
+                    VPOS="293"
+                    WIDTH="1272"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="161 340 161 361 280 365 293 373 294 373 296 373 297 373 456 372 457 372 458 372 474 362 477 361 483 362 508 370 509 370 510 370 511 370 524 362 529 360 564 360 588 362 626 368 627 368 669 363 705 358 748 358 759 363 770 368 772 368 773 368 774 368 784 363 794 358 857 358 867 363 883 370 884 370 885 370 1068 368 1069 368 1084 365 1104 358 1138 363 1139 363 1141 363 1159 357 1195 365 1205 366 1206 366 1207 366 1208 366 1210 365 1223 356 1308 356 1340 365 1342 365 1343 365 1344 365 1364 355 1392 355 1429 365 1432 331 1429 294 1322 293 1321 293 1319 293 1313 296 1286 308 1205 308 1185 298 1179 294 1178 294 1139 294 1138 294 1137 294 1121 299 1089 308 1047 300 1046 300 1044 300 1043 300 1023 310 976 310 955 302 943 297 942 297 941 297 872 303 830 307 825 304 814 297 812 297 811 297 782 297 780 297 779 297 763 305 752 310 715 305 673 300 672 300 671 300 669 300 659 307 650 313 618 313 608 308 594 302 593 302 592 302 548 308 519 314 384 314 378 312 344 299 342 299 341 299 267 303 266 303 265 303 247 313 246 314 239 314 186 307 185 307 183 307 160 314 161 340"/></Shape>
+	    <String CONTENT="Se: /Teed,Cyrus Reed/ &amp; Morrow,U/lysses/ G"
+                    HPOS="160"
+                    VPOS="293"
+                    WIDTH="1272"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="282 442 2323 431" 
+                    HPOS="280"
+                    VPOS="400"
+                    WIDTH="2042"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="281 441 281 467 366 474 367 474 451 468 453 468 455 468 504 481 505 481 506 481 712 468 743 467 749 468 775 477 777 477 778 477 817 469 847 478 848 478 849 478 886 472 923 478 925 478 926 478 958 468 978 463 997 469 1000 469 1001 469 1002 469 1004 469 1006 469 1033 462 1165 462 1211 469 1229 472 1409 476 1411 476 1554 474 1555 474 1569 469 1602 460 1870 461 1895 468 1897 468 1898 468 1899 468 1931 457 2087 462 2088 462 2182 456 2238 471 2240 471 2241 472 2320 472 2322 430 2320 402 2188 400 2187 400 2185 400 2180 402 2159 410 2093 410 1957 404 1909 402 1908 402 1656 404 1645 405 1612 413 1501 407 1439 404 1438 404 1409 408 1360 414 1307 408 1276 405 1275 405 1242 409 1186 415 827 411 514 409 513 409 479 414 451 420 350 420 339 415 324 410 323 410 321 410 280 415 281 441"/></Shape>
+	    <String CONTENT="The cellular cosmogony... or ...the earth a concave sphere. ...1905."
+                    HPOS="280"
+                    VPOS="400"
+                    WIDTH="2042"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="1801 516 2006 512" 
+                    HPOS="1799"
+                    VPOS="478"
+                    WIDTH="206"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1800 515 1800 530 1823 530 1824 531 1831 537 1833 537 1834 537 1835 537 1862 531 1870 530 2004 532 2005 511 2002 490 1926 490 1881 478 1879 478 1878 478 1877 478 1876 478 1866 485 1834 479 1833 479 1831 479 1830 479 1830 481 1817 493 1817 494 1799 494 1800 515"/></Shape>
+	    <String CONTENT="Astron."
+                    HPOS="1799"
+                    VPOS="478"
+                    WIDTH="206"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1788 564 1972 567" 
+                    HPOS="1786"
+                    VPOS="530"
+                    WIDTH="185"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="1787 563 1786 580 1858 594 1860 594 1884 589 1893 596 1893 598 1894 598 1895 598 1897 598 1898 598 1899 598 1908 592 1923 601 1924 601 1925 601 1926 601 1969 595 1971 566 1969 547 1902 545 1881 530 1879 530 1878 530 1829 530 1828 530 1826 530 1825 530 1825 531 1812 545 1810 545 1787 545 1787 563"/></Shape>
+	    <String CONTENT="Allm."
+                    HPOS="1786"
+                    VPOS="530"
+                    WIDTH="185"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

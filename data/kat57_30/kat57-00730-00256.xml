@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00730-00256.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2324"
+          HEIGHT="1472"
+          PHYSICAL_IMG_NR="43"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2324"
+                  HEIGHT="1472">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2322"
+                   HEIGHT="1470"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1471 2323 1471 2323 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="229 190 604 190" 
+                    HPOS="228"
+                    VPOS="150"
+                    WIDTH="375"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="228 188 228 204 238 212 239 212 240 212 402 213 403 213 404 213 414 208 425 203 472 203 483 210 488 214 489 214 490 214 492 215 528 215 528 214 530 214 531 214 533 212 542 206 549 212 552 213 552 214 553 214 554 214 555 214 557 214 560 213 570 208 602 213 603 188 603 158 500 150 499 150 498 150 483 158 478 161 425 161 424 159 419 155 419 154 418 154 417 154 415 154 319 159 295 150 294 150 293 150 228 160 228 188"/></Shape>
+	    <String CONTENT="HERMAN, Otto"
+                    HPOS="228"
+                    VPOS="150"
+                    WIDTH="375"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="1892 65 2297 57" 
+                    HPOS="1889"
+                    VPOS="8"
+                    WIDTH="406"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1890 63 1890 87 1991 87 1992 87 1993 87 1993 85 1998 82 2009 71 2025 71 2082 71 2090 77 2095 80 2096 80 2098 80 2099 80 2100 80 2101 80 2108 76 2114 71 2119 74 2128 83 2130 83 2131 83 2157 84 2158 84 2159 84 2160 84 2180 72 2182 69 2184 71 2192 78 2193 78 2195 78 2266 82 2267 82 2268 82 2270 82 2295 66 2295 56 2294 20 2278 12 2277 12 2276 12 2274 12 2257 17 2168 8 2166 8 2165 8 2164 8 2139 25 2125 36 2011 38 1996 30 1963 12 1962 12 1960 12 1917 13 1916 13 1915 13 1889 30 1890 63"/></Shape>
+	    <String CONTENT="Br. Arkeol."
+                    HPOS="1889"
+                    VPOS="8"
+                    WIDTH="406"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="1877 148 1972 142" 
+                    HPOS="1872"
+                    VPOS="79"
+                    WIDTH="99"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="1876 147 1877 174 1925 171 1926 171 1927 171 1927 170 1941 159 1948 152 1971 150 1971 141 1965 79 1941 82 1939 82 1938 82 1931 88 1919 98 1909 94 1904 93 1903 93 1901 93 1900 93 1872 103 1876 147"/></Shape>
+	    <String CONTENT="Fol"
+                    HPOS="1872"
+                    VPOS="79"
+                    WIDTH="99"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="2067 139 2281 132" 
+                    HPOS="2063"
+                    VPOS="84"
+                    WIDTH="216"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="2066 138 2066 148 2123 158 2125 158 2126 158 2127 158 2138 150 2141 149 2185 149 2192 152 2202 157 2203 157 2204 157 2206 157 2214 153 2219 150 2278 154 2279 131 2273 92 2260 101 2250 94 2238 84 2236 84 2235 84 2234 84 2185 88 2184 88 2182 88 2182 89 2174 96 2136 87 2135 87 2133 87 2132 87 2131 87 2131 88 2114 105 2111 109 2063 109 2066 138"/></Shape>
+	    <String CONTENT="Osteur."
+                    HPOS="2063"
+                    VPOS="84"
+                    WIDTH="216"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="222 289 2302 305" 
+                    HPOS="220"
+                    VPOS="250"
+                    WIDTH="2081"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="220 288 220 314 617 311 650 317 651 317 652 317 654 317 690 311 835 318 860 320 861 320 895 320 1087 315 1301 322 1341 323 1342 323 1385 323 1641 318 1663 325 1665 325 1666 325 1819 320 2299 329 2301 304 2301 262 2066 261 2065 261 2051 262 1984 272 1935 263 1910 262 1851 261 1850 261 1841 262 1800 269 1765 262 1754 260 1753 260 1732 262 1695 266 1660 262 1623 257 1622 257 1593 261 1552 268 1483 261 1452 258 1451 258 1428 261 1382 267 1112 266 1100 261 1093 258 1092 258 1090 258 1023 261 936 263 915 261 860 251 858 251 777 260 754 262 696 260 554 253 553 253 415 258 366 250 365 250 364 250 334 257 301 252 300 252 220 260 220 288"/></Shape>
+	    <String CONTENT="Das Artefakt von Oloňec und was dazu gehört. (Mit Nachträgen.) [Ill.]"
+                    HPOS="220"
+                    VPOS="250"
+                    WIDTH="2081"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1507 394 2063 399" 
+                    HPOS="1505"
+                    VPOS="359"
+                    WIDTH="557"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1506 393 1505 410 1539 421 1541 421 1542 421 1543 421 1544 421 1554 415 1593 421 1595 421 1596 421 1618 413 1619 413 1620 413 1652 423 1654 423 1655 423 1750 417 1804 424 1806 424 1807 424 1808 424 1808 423 1816 417 1817 417 1828 424 1829 424 1830 424 1831 424 1833 424 1847 417 1852 415 1857 418 1871 423 1872 423 1873 423 1874 423 1876 423 1881 418 1884 415 1905 415 1909 418 1920 425 1921 425 1922 425 1923 425 2061 420 2062 398 2061 374 2045 374 2044 372 2031 363 2030 363 2029 363 1928 363 1927 363 1926 363 1896 372 1894 372 1893 372 1871 361 1869 361 1868 361 1867 361 1838 371 1834 372 1750 372 1749 371 1725 360 1723 360 1722 360 1576 370 1566 370 1565 370 1546 359 1544 359 1543 359 1542 359 1541 359 1526 370 1523 370 1506 370 1506 393"/></Shape>
+	    <String CONTENT="4:o Budapest 1910."
+                    HPOS="1505"
+                    VPOS="359"
+                    WIDTH="557"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="233 496 2323 499" 
+                    HPOS="232"
+                    VPOS="451"
+                    WIDTH="2091"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="232 533 455 531 485 536 511 539 513 539 514 539 527 536 565 525 626 525 658 536 663 538 664 538 749 539 750 539 781 536 872 525 1031 525 1079 536 1087 538 1089 538 1105 536 1199 526 1512 526 1608 538 1616 538 1617 538 1625 538 1699 528 1822 536 1823 536 1874 526 1908 538 1917 541 1919 541 1921 541 2321 538 2323 499 2323 466 2104 458 2102 458 1790 463 1651 464 1617 461 1541 453 1539 453 1490 461 1461 464 1438 459 1405 453 1403 453 1373 459 1347 464 1284 459 1234 455 1233 455 1172 458 1087 463 1067 456 1047 451 1046 451 1044 451 885 456 634 463 533 453 513 451 511 451 503 453 458 463 235 451 233 496 232 533"/></Shape>
+	    <String CONTENT="[Delvis särtryck ur Mitteilungen der Antropologischen Gesellschaft i"
+                    HPOS="232"
+                    VPOS="451"
+                    WIDTH="2091"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="227 587 1138 593" 
+                    HPOS="224"
+                    VPOS="550"
+                    WIDTH="913"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="225 586 224 615 262 617 284 629 285 629 519 630 520 630 521 630 541 620 544 619 596 619 598 621 608 629 609 629 611 629 612 629 641 623 651 620 726 620 739 624 785 632 786 634 830 634 830 632 831 632 857 625 872 621 969 621 979 628 991 634 992 634 993 634 1136 629 1137 592 1136 554 996 554 995 554 993 554 992 554 992 555 976 567 927 555 923 555 922 555 921 555 920 555 889 567 855 567 830 556 824 554 823 554 822 554 820 554 814 556 793 566 726 566 709 558 703 555 701 555 700 555 699 555 690 558 667 565 656 558 646 552 645 552 644 552 642 552 606 559 591 561 584 559 564 552 563 552 561 552 560 552 544 558 507 553 506 553 505 553 489 560 485 561 482 560 473 555 472 555 471 555 449 560 447 560 446 560 428 550 427 550 425 550 424 550 423 550 409 560 406 564 323 564 314 561 256 552 255 552 253 552 225 561 225 586"/></Shape>
+	    <String CONTENT="Wien. Bd 40 (Folge 3: Bd 10).]"
+                    HPOS="224"
+                    VPOS="550"
+                    WIDTH="913"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="2024 1454 2256 1454" 
+                    HPOS="2023"
+                    VPOS="1414"
+                    WIDTH="232"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="2023 1453 2023 1462 2044 1470 2047 1470 2060 1470 2072 1470 2084 1470 2096 1470 2109 1470 2121 1470 2133 1470 2146 1470 2157 1470 2166 1464 2170 1463 2218 1463 2220 1465 2227 1470 2231 1470 2235 1470 2255 1465 2255 1453 2254 1415 2162 1426 2130 1421 2085 1414 2084 1414 2083 1414 2055 1425 2051 1427 2023 1427 2023 1453"/></Shape>
+	    <String CONTENT="29.11. 38"
+                    HPOS="2023"
+                    VPOS="1414"
+                    WIDTH="232"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

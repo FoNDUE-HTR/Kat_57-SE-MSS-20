@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-01012-00327.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2328"
+          HEIGHT="1480"
+          PHYSICAL_IMG_NR="15"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2328"
+                  HEIGHT="1480">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2326"
+                   HEIGHT="1478"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1479 2327 1479 2327 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="224 240 1223 234" 
+                    HPOS="223"
+                    VPOS="193"
+                    WIDTH="999"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="223 259 602 265 603 265 737 256 743 256 747 256 819 263 820 263 869 256 970 262 972 262 973 262 974 262 984 255 984 254 1221 252 1222 233 1218 204 1105 204 1095 203 1053 194 1052 194 1051 194 1026 202 1014 205 1000 202 964 193 963 193 962 193 961 193 959 193 947 202 941 205 910 202 883 198 882 198 880 198 879 198 875 202 869 207 840 207 830 201 826 198 825 198 824 198 822 198 777 201 750 202 736 201 695 194 694 194 693 194 682 199 667 208 558 208 540 199 534 196 532 196 531 196 530 196 529 196 525 199 511 207 481 198 470 196 468 196 467 196 466 196 458 198 435 207 387 198 379 197 378 197 377 197 375 198 357 203 260 197 251 197 250 197 249 197 247 197 239 203 223 197 223 239 223 259"/></Shape>
+	    <String CONTENT="LEFFLER,M/agnus/ G/ustaf/ MITTAG-"
+                    HPOS="223"
+                    VPOS="193"
+                    WIDTH="999"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="220 341 2052 336" 
+                    HPOS="218"
+                    VPOS="299"
+                    WIDTH="1833"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="219 340 219 357 297 365 298 365 331 358 2051 358 2051 335 2049 305 1906 299 1904 299 1739 307 1692 308 1686 307 1660 299 1659 299 1595 299 1593 299 1592 299 1563 307 1555 309 1547 307 1532 303 1531 303 1529 303 1466 308 1442 309 1429 308 1380 300 1379 300 1216 308 1152 300 1151 300 1149 300 1130 309 1126 310 1107 309 1026 303 1025 303 961 310 953 310 947 310 883 302 882 302 794 309 724 302 722 302 624 310 560 303 397 303 396 303 347 312 257 304 256 304 218 313 219 340"/></Shape>
+	    <String CONTENT="Se: INSTITUT mathématique des époux Mittag-Leffler...1916"
+                    HPOS="218"
+                    VPOS="299"
+                    WIDTH="1833"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="367 468 1698 468" 
+                    HPOS="366"
+                    VPOS="427"
+                    WIDTH="1331"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="366 467 366 501 695 501 695 500 697 500 711 497 742 488 790 488 809 495 810 495 811 495 813 495 836 485 870 485 898 494 911 499 912 499 914 499 952 494 1011 485 1075 493 1096 494 1097 494 1099 494 1107 492 1133 485 1164 492 1205 499 1206 499 1207 499 1230 490 1244 485 1324 485 1337 489 1359 497 1360 497 1362 497 1405 488 1422 485 1560 485 1564 487 1579 492 1580 492 1581 492 1582 492 1595 485 1597 485 1697 485 1697 467 1697 437 1659 427 1554 427 1553 427 1552 427 1533 436 1533 437 1400 437 1397 436 1345 427 1262 427 1260 427 1259 427 1232 436 1230 437 1173 437 1172 436 1149 427 1148 427 1059 427 1058 427 1057 427 1028 436 1025 437 914 437 910 435 896 430 895 430 894 430 893 430 891 430 883 435 880 437 816 437 810 435 784 429 783 429 782 429 780 429 759 435 756 436 752 435 737 429 736 429 735 429 734 429 711 435 705 436 699 435 679 430 678 430 677 430 630 435 614 436 597 435 530 427 529 427 528 427 499 435 495 435 486 435 416 429 415 429 366 434 366 467"/></Shape>
+	    <String CONTENT="INSTITUT mathématique Mittag-Leffler...1920."
+                    HPOS="366"
+                    VPOS="427"
+                    WIDTH="1331"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="1908 468 2143 471" 
+                    HPOS="1906"
+                    VPOS="419"
+                    WIDTH="236"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="1907 467 1906 479 1943 481 1944 482 1954 492 1954 493 1955 493 1956 493 1957 493 2004 487 2010 485 2012 487 2017 490 2017 492 2018 492 2019 492 2020 492 2022 492 2029 488 2031 487 2043 488 2075 494 2076 494 2077 494 2088 492 2108 487 2139 494 2142 469 2142 447 2102 447 2100 446 2082 432 2081 432 2080 432 2078 432 2034 434 2020 420 2020 419 2019 419 2018 419 1967 419 1966 419 1965 419 1964 419 1923 445 1922 445 1907 445 1907 467"/></Shape>
+	    <String CONTENT="Matem."
+                    HPOS="1906"
+                    VPOS="419"
+                    WIDTH="236"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="1818 504 1892 508" 
+                    HPOS="1816"
+                    VPOS="446"
+                    WIDTH="75"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="1817 503 1816 518 1840 526 1841 526 1843 526 1890 522 1891 506 1891 469 1875 469 1867 461 1855 451 1855 450 1854 450 1853 450 1819 446 1817 503"/></Shape>
+	    <String CONTENT="Br."
+                    HPOS="1816"
+                    VPOS="446"
+                    WIDTH="75"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    
+                    BASELINE="1984 540 2104 544" 
+                    HPOS="1982"
+                    VPOS="494"
+                    WIDTH="121"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="1983 538 1982 552 2043 566 2044 566 2045 566 2060 561 2072 557 2099 564 2103 543 2103 519 2057 516 2056 515 2036 497 2036 495 2035 495 2034 495 2002 494 2001 494 1999 494 1998 494 1983 504 1983 538"/></Shape>
+	    <String CONTENT="Inst."
+                    HPOS="1982"
+                    VPOS="494"
+                    WIDTH="121"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="1816 621 2287 624" 
+                    HPOS="1813"
+                    VPOS="575"
+                    WIDTH="473"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1814 620 1813 652 1933 651 1934 651 1955 640 2023 651 2024 651 2025 651 2026 651 2026 649 2039 637 2117 636 2136 647 2138 647 2139 647 2140 647 2226 641 2282 654 2286 622 2286 600 2208 600 2202 595 2186 584 2184 584 2183 584 2182 584 2181 584 2154 592 2135 578 2134 578 2133 578 2131 578 2109 579 2108 579 2107 579 2093 589 2082 598 2010 590 2009 590 2008 590 1982 598 1966 584 1966 583 1965 583 1964 583 1962 583 1961 583 1960 583 1948 590 1907 579 1894 577 1893 577 1814 575 1814 620"/></Shape>
+	    <String CONTENT="[Djursholm Makarna"
+                    HPOS="1813"
+                    VPOS="575"
+                    WIDTH="473"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="1786 692 2312 696" 
+                    HPOS="1783"
+                    VPOS="657"
+                    WIDTH="528"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="1785 691 1783 717 1820 725 1822 725 1853 722 1876 720 1881 723 1906 746 1907 746 1908 746 1909 746 1967 736 1989 747 1991 747 1992 747 1993 747 2026 732 2054 720 2119 720 2182 741 2202 748 2203 748 2204 749 2310 749 2311 695 2310 659 2257 666 2240 659 2237 659 2236 659 2235 659 2234 659 2233 659 2233 661 2212 672 2189 661 2186 659 2184 659 2165 659 2163 659 2162 659 2161 659 2161 661 2160 661 2147 672 2089 672 2066 663 2060 661 2059 661 2057 661 2056 661 2050 663 2030 670 1972 670 1965 664 1957 657 1956 657 1955 657 1954 657 1952 657 1951 657 1943 664 1936 669 1903 666 1876 662 1875 662 1873 662 1872 662 1866 666 1862 668 1856 666 1832 657 1830 657 1801 657 1799 657 1798 657 1797 657 1785 664 1785 691"/></Shape>
+	    <String CONTENT="Mittag-Lefflers mat. stift.]"
+                    HPOS="1783"
+                    VPOS="657"
+                    WIDTH="528"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

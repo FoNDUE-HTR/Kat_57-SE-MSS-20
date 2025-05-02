@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kat57-00145-00244.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2312"
+          HEIGHT="1468"
+          PHYSICAL_IMG_NR="42"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2312"
+                  HEIGHT="1468">
+        
+        <TextBlock HPOS="1"
+                   VPOS="1"
+                   WIDTH="2310"
+                   HEIGHT="1466"
+                   ID="textblock_1"
+                   >
+          <Shape><Polygon POINTS="1 1 1 1467 2311 1467 2311 1"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="313 172 1473 169" 
+                    HPOS="310"
+                    VPOS="116"
+                    WIDTH="1162"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="312 171 312 187 625 185 711 192 735 193 736 193 738 193 741 192 763 185 804 193 815 194 816 194 849 193 939 189 957 194 975 200 976 200 977 201 1119 201 1119 200 1121 200 1134 196 1160 188 1188 196 1200 200 1201 200 1203 201 1244 201 1244 200 1245 200 1247 200 1250 198 1258 193 1319 198 1349 200 1351 200 1352 200 1357 199 1375 189 1391 198 1392 198 1469 199 1472 168 1469 145 1431 138 1430 138 1429 138 1428 138 1419 144 1417 144 1369 143 1368 143 1320 119 1319 119 1318 119 1233 139 1210 145 1163 145 1150 137 1121 118 1119 118 1118 118 1117 118 1116 118 1097 124 1062 119 1061 119 1059 119 1058 119 1034 134 1015 144 905 143 883 130 859 117 857 117 856 117 811 123 810 123 799 128 775 139 755 127 745 121 744 121 742 121 685 116 684 116 682 116 664 126 626 146 490 146 443 119 435 116 434 116 433 116 310 116 312 171"/></Shape>
+	    <String CONTENT="Bering-Lüsberg, H[enrik] C[arl]"
+                    HPOS="310"
+                    VPOS="116"
+                    WIDTH="1162"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="256 248 369 252" 
+                    HPOS="254"
+                    VPOS="205"
+                    WIDTH="114"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="255 247 254 264 330 274 331 274 367 267 368 250 368 217 319 205 318 205 316 205 315 205 283 222 280 225 255 225 255 247"/></Shape>
+	    <String CONTENT="Se:"
+                    HPOS="254"
+                    VPOS="205"
+                    WIDTH="114"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    
+                    BASELINE="291 340 1561 332" 
+                    HPOS="288"
+                    VPOS="291"
+                    WIDTH="1272"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="290 338 290 380 392 385 438 403 439 403 440 403 441 403 487 392 537 402 538 403 671 403 671 402 673 402 712 384 714 384 760 384 761 384 762 384 795 370 930 370 981 386 984 387 985 387 986 387 987 387 990 386 1015 379 1032 386 1034 386 1035 386 1107 369 1187 369 1209 376 1210 376 1211 376 1212 376 1242 369 1269 379 1270 379 1271 379 1272 379 1305 370 1362 385 1363 385 1364 385 1414 385 1429 391 1445 397 1446 397 1447 397 1560 391 1560 331 1556 310 1384 310 1379 309 1318 291 1316 291 1287 291 1286 291 1285 291 1249 305 1197 309 1134 313 1123 309 1083 292 1081 292 1080 292 1079 292 1040 307 975 302 974 302 973 302 971 302 962 308 952 314 921 315 834 315 821 308 794 293 793 293 757 293 756 293 755 293 717 308 701 313 656 307 609 302 608 302 607 302 589 307 587 308 585 307 555 294 554 294 506 294 505 294 504 294 465 307 456 309 451 307 432 296 430 296 329 296 328 296 326 296 288 305 290 338"/></Shape>
+	    <String CONTENT="Lüsberg, H[enrik] C[arl] Bering-"
+                    HPOS="288"
+                    VPOS="291"
+                    WIDTH="1272"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
